@@ -1,0 +1,6166 @@
+*Yokogawa WT500,,,Element 2: DC Current
+&Setup
+False
+True
+^Fluke 5500
+0
+
+0
+
+*RST
+0
+^Yokogawa WT500
+0
+
+0
+
+*RST
+0
+^Wait
+0
+
+0
+
+
+3
+&500 mA Range: 450 mA
+False
+True
+^Message
+-100.00000000
+
+20.00000000
+
+Connect to Aux output.
+0
+^Yokogawa WT500
+0.4500000000
+A
+0
+
+, Elem2
+0
+^Fluke 5500
+0.45
+A
+0
+Hz
+
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14
+V
+60
+Hz
+Yokogawa WT500*0;
+2
+&500 mA Range: -450 mA
+False
+True
+^Yokogawa WT500
+0.4500000000
+A
+0
+
+, Elem2
+0
+^Fluke 5500
+-0.45000000
+A
+0
+Hz
+
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14
+V
+60
+Hz
+Yokogawa WT500*0;
+2
+&1 A Range: 0.9 A
+False
+True
+^Yokogawa WT500
+0.9
+A
+0
+
+, Elem2
+0
+^Fluke 5500
+0.9
+A
+0
+Hz
+
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14
+V
+60
+Hz
+Yokogawa WT500*0;
+2
+&1 A Range: -0.9 A
+False
+True
+^Yokogawa WT500
+0.9
+A
+0
+
+, Elem2
+0
+^Fluke 5500
+-0.90000000
+A
+0
+Hz
+
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14
+V
+60
+Hz
+Yokogawa WT500*0;
+2
+&2 A Range: 1.8 A
+False
+True
+^Yokogawa WT500
+1.8
+A
+0
+
+, Elem2
+0
+^Fluke 5500
+1.8
+A
+0
+Hz
+
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14
+V
+60
+Hz
+Yokogawa WT500*0;
+2
+&2 A Range: -1.8 A
+False
+True
+^Yokogawa WT500
+1.8
+A
+0
+
+, Elem2
+0
+^Fluke 5500
+-1.80000000
+A
+0
+Hz
+
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14
+V
+60
+Hz
+Yokogawa WT500*0;
+2
+&5 A Range: 5 A
+False
+True
+^Fluke 5500
+-1.00000000
+V
+5
+A
+; STBY
+0
+^Message
+5
+A
+0
+Hz
+Connect to the 20A output
+0
+^Yokogawa WT500
+5
+A
+0
+
+, Elem2
+0
+^Fluke 5500
+5
+A
+0
+Hz
+
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14
+V
+60
+Hz
+Yokogawa WT500*0;
+2
+&5 A Range: -5 A
+False
+True
+^Yokogawa WT500
+5
+A
+0
+
+, Elem2
+0
+^Fluke 5500
+-5.00000000
+A
+0
+Hz
+
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14
+V
+60
+Hz
+Yokogawa WT500*0;
+2
+&5 A Range: 2.5 A
+False
+True
+^Fluke 5500
+-1.00000000
+V
+5
+A
+; STBY
+0
+^Message
+-5.00000000
+A
+0
+Hz
+Connect to the Aux output
+0
+^Yokogawa WT500
+5
+A
+0
+
+, Elem2
+0
+^Fluke 5500
+2.5
+A
+0
+Hz
+
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14
+V
+60
+Hz
+Yokogawa WT500*0;
+2
+&5 A Range: -2.5 A
+False
+True
+^Yokogawa WT500
+5
+A
+0
+
+, Elem2
+0
+^Fluke 5500
+-2.50000000
+A
+0
+Hz
+
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14
+V
+60
+Hz
+Yokogawa WT500*0;
+2
+&5 A Range: 0.5 A
+False
+True
+^Yokogawa WT500
+5
+A
+0
+
+, Elem2
+0
+^Fluke 5500
+0.5
+A
+0
+Hz
+
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14
+V
+60
+Hz
+Yokogawa WT500*0;
+2
+&5 A Range: -0.5 A
+False
+True
+^Yokogawa WT500
+5
+A
+0
+
+, Elem2
+0
+^Fluke 5500
+-0.50000000
+A
+0
+Hz
+
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14
+V
+60
+Hz
+Yokogawa WT500*0;
+2
+&10 A Range: 9 A
+False
+True
+^Fluke 5500
+-1.00000000
+V
+5
+A
+; STBY
+0
+^Message
+9
+A
+0
+
+Connect to the 20A output
+0
+^Yokogawa WT500
+9
+A
+0
+
+, Elem2
+0
+^Fluke 5500
+9
+A
+0
+Hz
+
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14
+V
+60
+Hz
+Yokogawa WT500*0;
+2
+&10 A Range: -9 A
+False
+True
+^Yokogawa WT500
+9
+A
+0
+
+, Elem2
+0
+^Fluke 5500
+-9.00000000
+A
+0
+Hz
+
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14
+V
+60
+Hz
+Yokogawa WT500*0;
+2
+&20 A Range: 18 A
+False
+True
+^Yokogawa WT500
+18
+A
+0
+
+, Elem2
+0
+^Fluke 5500
+18
+A
+0
+Hz
+
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14
+V
+60
+Hz
+Yokogawa WT500*0;
+2
+&20 A Range: -18 A
+False
+True
+^Yokogawa WT500
+18
+A
+0
+
+, Elem2
+0
+^Fluke 5500
+-18.00000000
+A
+0
+Hz
+
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14
+V
+60
+Hz
+Yokogawa WT500*0;
+2
+&40 A Range: 18 A
+False
+True
+^Yokogawa WT500
+40.00000000
+A
+0
+
+, Elem2
+0
+^Fluke 5500
+18.00000000
+A
+0
+Hz
+
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14
+V
+60
+Hz
+Yokogawa WT500*0;
+2
+&40 A Range: -18 A
+False
+True
+^Yokogawa WT500
+40.00000000
+A
+0
+
+, Elem2
+0
+^Fluke 5500
+-18.00000000
+A
+0
+Hz
+
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14
+V
+60
+Hz
+Yokogawa WT500*0;
+2
+^Fluke 5500
+-18.00000000
+A
+0
+
+; STBY
+0
+*Yokogawa WT500,,,Element 2: AC Current
+&Setup
+False
+True
+^Fluke 5500
+0
+
+0
+
+*RST
+0
+^Yokogawa WT500
+0
+
+0
+
+*RST
+0
+^Wait
+0
+
+0
+
+
+3
+&500 mA Range: 450 mA @ 60 Hz
+False
+True
+^Message
+0.50000000
+A
+60
+Hz
+Connect to the Aux output
+0
+^Yokogawa WT500
+0.45
+A
+60.00000000
+Hz
+, Elem2
+0
+^Fluke 5500
+0.45
+A
+60.00000000
+Hz
+
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14
+V
+60
+Hz
+Yokogawa WT500*0;
+2
+&500 mA Range: 450 mA @ 1 kHz
+False
+True
+^Yokogawa WT500
+0.45
+A
+60.00000000
+Hz
+, Elem2
+0
+^Fluke 5500
+0.45
+A
+1
+kHz
+
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14
+V
+60
+Hz
+Yokogawa WT500*0;
+2
+&500 mA Range: 450 mA @ 10 kHz
+False
+True
+^Yokogawa WT500
+0.45
+A
+60.00000000
+Hz
+, Elem2
+0
+^Fluke 5500
+0.45
+A
+10.00000000
+kHz
+
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14
+V
+60
+Hz
+Yokogawa WT500*0;
+2
+&1 A Range: 0.9 A @ 60 Hz
+False
+True
+^Yokogawa WT500
+0.9
+A
+60.00000000
+Hz
+, Elem2
+0
+^Fluke 5500
+0.9
+A
+60
+Hz
+
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14
+V
+60
+Hz
+Yokogawa WT500*0;
+2
+&1 A Range: 0.9 A @ 1 kHz
+False
+True
+^Yokogawa WT500
+0.9
+A
+60.00000000
+Hz
+, Elem2
+0
+^Fluke 5500
+0.9
+A
+1
+kHz
+
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14
+V
+60
+Hz
+Yokogawa WT500*0;
+2
+&1 A Range: 0.9 A @ 10 kHz
+False
+True
+^Yokogawa WT500
+0.9
+A
+60.00000000
+Hz
+, Elem2
+0
+^Fluke 5500
+0.9
+A
+10.00000000
+kHz
+
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14
+V
+60
+Hz
+Yokogawa WT500*0;
+2
+&2 A Range: 1.8 A @ 60 Hz
+False
+True
+^Yokogawa WT500
+1.8
+A
+60.00000000
+Hz
+, Elem2
+0
+^Fluke 5500
+1.8
+A
+60
+Hz
+
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14
+V
+60
+Hz
+Yokogawa WT500*0;
+2
+&2 A Range: 1.8 A @ 1 kHz
+False
+True
+^Yokogawa WT500
+1.8
+A
+60.00000000
+Hz
+, Elem2
+0
+^Fluke 5500
+1.8
+A
+1
+kHz
+
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14
+V
+60
+Hz
+Yokogawa WT500*0;
+2
+&2 A Range: 1 A @ 10 kHz
+False
+True
+^Yokogawa WT500
+1.8
+A
+60.00000000
+Hz
+, Elem2
+0
+^Fluke 5500
+1
+A
+10.00000000
+kHz
+
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14
+V
+60
+Hz
+Yokogawa WT500*0;
+2
+&5 A Range: 2 A @ 10 Hz
+False
+True
+^Yokogawa WT500
+5
+A
+60.00000000
+Hz
+, Elem2
+0
+^Fluke 5500
+2
+A
+10.00000000
+Hz
+
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14
+V
+60
+Hz
+Yokogawa WT500*0;
+2
+&5 A Range: 5 A @ 60 Hz
+False
+True
+^Fluke 5500
+-1.00000000
+V
+5
+A
+; STBY
+0
+^Message
+0.50000000
+A
+60
+Hz
+Connect to the 20A output
+0
+^Yokogawa WT500
+5
+A
+60.00000000
+Hz
+, Elem2
+0
+^Fluke 5500
+5.00000000
+A
+60
+Hz
+
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14
+V
+60
+Hz
+Yokogawa WT500*0;
+2
+&5 A Range: 2.5 A @ 60 Hz
+False
+True
+^Fluke 5500
+-1.00000000
+V
+5
+A
+; STBY
+0
+^Message
+0.50000000
+A
+60
+Hz
+Connect to the Aux output
+0
+^Yokogawa WT500
+5
+A
+60.00000000
+Hz
+, Elem2
+0
+^Fluke 5500
+2.500000000
+A
+60
+Hz
+
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14
+V
+60
+Hz
+Yokogawa WT500*0;
+2
+&5 A Range: 0.5 A @ 60 Hz
+False
+True
+^Yokogawa WT500
+5
+A
+60.00000000
+Hz
+, Elem2
+0
+^Fluke 5500
+0.50000000
+A
+60
+Hz
+
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14
+V
+60
+Hz
+Yokogawa WT500*0;
+2
+&5 A Range: 0.05 A @ 60 Hz
+False
+True
+^Yokogawa WT500
+5
+A
+60.00000000
+Hz
+, Elem2
+0
+^Fluke 5500
+0.050000000
+A
+60
+Hz
+
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14
+V
+60
+Hz
+Yokogawa WT500*0;
+2
+&5 A Range: 4.5 A @ 1 kHz
+False
+True
+^Message
+4.5
+A
+1
+kHz
+Connect to the 20A output
+0
+^Yokogawa WT500
+5
+A
+60.00000000
+Hz
+, Elem2
+0
+^Fluke 5500
+4.5
+A
+1
+kHz
+
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14
+V
+60
+Hz
+Yokogawa WT500*0;
+2
+&5 A Range: 2 A @ 10 kHz
+False
+True
+^Fluke 5500
+-1.00000000
+V
+5
+A
+; STBY
+0
+^Message
+4.5
+A
+1
+kHz
+Connect to the Aux output
+0
+^Yokogawa WT500
+5
+A
+60.00000000
+Hz
+, Elem2
+0
+^Fluke 5500
+2
+A
+10.00000000
+kHz
+
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14
+V
+60
+Hz
+Yokogawa WT500*0;
+2
+&5 A Range: 0.3 A @ 30 kHz
+False
+True
+^Yokogawa WT500
+5
+A
+60.00000000
+Hz
+, Elem2
+0
+^Fluke 5500
+0.3
+A
+30.00000000
+kHz
+
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14
+V
+60
+Hz
+Yokogawa WT500*0;
+2
+&10 A Range: 2 A @ 10 Hz
+False
+True
+^Yokogawa WT500
+9
+A
+60.00000000
+Hz
+, Elem2
+0
+^Fluke 5500
+2
+A
+10
+Hz
+
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14
+V
+60
+Hz
+Yokogawa WT500*0;
+2
+&10 A Range: 9 A @ 60 Hz
+False
+True
+^Fluke 5500
+-1.00000000
+V
+5
+A
+; STBY
+0
+^Message
+9
+A
+60.00000000
+Hz
+Connect to the 20A output
+0
+^Yokogawa WT500
+9
+A
+60.00000000
+Hz
+, Elem2
+0
+^Fluke 5500
+9
+A
+60.00000000
+Hz
+
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14
+V
+60
+Hz
+Yokogawa WT500*0;
+2
+&10 A Range: 9 A @ 1 kHz
+False
+True
+^Yokogawa WT500
+9
+A
+60.00000000
+Hz
+, Elem2
+0
+^Fluke 5500
+9
+A
+1
+kHz
+
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14
+V
+60
+Hz
+Yokogawa WT500*0;
+2
+&10 A Range: 2 A @ 10 kHz
+False
+True
+^Fluke 5500
+-1.00000000
+V
+5
+A
+; STBY
+0
+^Message
+9
+A
+60.00000000
+Hz
+Connect to the Aux output
+0
+^Yokogawa WT500
+9
+A
+60.00000000
+Hz
+, Elem2
+0
+^Fluke 5500
+2
+A
+10.00000000
+kHz
+
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14
+V
+60
+Hz
+Yokogawa WT500*0;
+2
+&10 A Range: 0.3 A @ 30 kHz
+False
+True
+^Yokogawa WT500
+9
+A
+60.00000000
+Hz
+, Elem2
+0
+^Fluke 5500
+0.3
+A
+30.00000000
+kHz
+
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14
+V
+60
+Hz
+Yokogawa WT500*0;
+2
+&20 A Range: 18 A @ 60 Hz
+False
+True
+^Fluke 5500
+-1.00000000
+V
+5
+A
+; STBY
+0
+^Message
+18
+A
+60
+Hz
+Connect to the 20A output
+0
+^Yokogawa WT500
+18
+A
+60.00000000
+Hz
+, Elem2
+0
+^Fluke 5500
+18
+A
+60
+Hz
+
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14
+V
+60
+Hz
+Yokogawa WT500*0;
+2
+&20 A Range: 18 A @ 1 kHz
+False
+True
+^Yokogawa WT500
+18
+A
+60.00000000
+Hz
+, Elem2
+0
+^Fluke 5500
+18
+A
+1
+kHz
+
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14
+V
+60
+Hz
+Yokogawa WT500*0;
+2
+&20 A Range: 2 A @ 10 kHz
+False
+True
+^Fluke 5500
+-1.00000000
+V
+5
+A
+; STBY
+0
+^Message
+2
+A
+10.00000000
+kHz
+Connect to the Aux output
+0
+^Yokogawa WT500
+18
+A
+60.00000000
+Hz
+, Elem2
+0
+^Fluke 5500
+2
+A
+10.00000000
+kHz
+
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14
+V
+60
+Hz
+Yokogawa WT500*0;
+2
+&20 A Range: 0.3 A @ 30 kHz
+False
+True
+^Yokogawa WT500
+18
+A
+60.00000000
+Hz
+, Elem2
+0
+^Fluke 5500
+0.3
+A
+30.00000000
+kHz
+
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14
+V
+60
+Hz
+Yokogawa WT500*0;
+2
+&40 A Range: 20 A @ 60 Hz
+False
+True
+^Fluke 5500
+-1.00000000
+V
+5
+A
+; STBY
+0
+^Message
+20
+A
+60
+Hz
+Connect to the 20A output
+0
+^Yokogawa WT500
+40
+A
+60.00000000
+Hz
+, Elem2
+0
+^Fluke 5500
+20
+A
+60
+Hz
+
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14
+V
+60
+Hz
+Yokogawa WT500*0;
+2
+&40 A Range: 20 A @ 1 kHz
+False
+True
+^Yokogawa WT500
+40
+A
+60.00000000
+Hz
+, Elem2
+0
+^Fluke 5500
+20
+A
+1
+kHz
+
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14
+V
+60
+Hz
+Yokogawa WT500*0;
+2
+^Fluke 5500
+20
+A
+1
+kHz
+; STBY
+0
+*Yokogawa WT500,,,Element 2: Ext. Sensor Current
+&Setup
+False
+True
+^Yokogawa WT500
+0
+
+0
+
+*RST
+3
+^Fluke 5500
+0
+
+0
+
+*RST
+0
+^Message
+0
+
+0
+
+Connect the external sensor's BNC input to the calibrator's main output.
+0
+&50 mV Range: 4.5 A @ 60 Hz
+False
+True
+^Yokogawa WT500
+50
+mV
+50
+
+, Elem2, 60 Hz, Ext. Sensor
+0
+^Fluke 5500
+45
+mV
+0
+
+, 60 Hz
+0
+^Fluke 5500
+1
+
+45
+
+; OPER
+0
+^Wait
+10
+
+50
+
+
+3
+^Monitor
+10.00000000
+
+50
+
+Yokogawa WT500*0;
+2
+&50 mV Range: 4.5 A @ 1 kHz
+False
+True
+^Yokogawa WT500
+50
+mV
+50
+
+, Elem2, 60 Hz, Ext. Sensor
+0
+^Fluke 5500
+45
+mV
+0
+
+, 1 kHz
+0
+^Fluke 5500
+1
+
+45
+
+; OPER
+0
+^Wait
+10
+
+50
+
+
+3
+^Monitor
+10.00000000
+
+50
+
+Yokogawa WT500*0;
+2
+&50 mV Range: 4.5 A @ 100 kHz
+False
+True
+^Yokogawa WT500
+50
+mV
+50
+
+, Elem2, 60 Hz, Ext. Sensor
+0
+^Fluke 5500
+45
+mV
+0
+
+, 100 kHz
+0
+^Fluke 5500
+1
+
+45
+
+; OPER
+0
+^Wait
+10
+
+50
+
+
+3
+^Monitor
+10.00000000
+
+50
+
+Yokogawa WT500*0;
+2
+&100 mV Range: 9 A @ 60 Hz
+False
+True
+^Yokogawa WT500
+100
+mV
+100.00000000
+
+, Elem2, 60 Hz, Ext. Sensor
+0
+^Fluke 5500
+90
+mV
+0
+
+, 60 Hz
+0
+^Fluke 5500
+1
+
+45
+
+; OPER
+0
+^Wait
+10
+
+50
+
+
+3
+^Monitor
+10.00000000
+
+50
+
+Yokogawa WT500*0;
+2
+&100 mV Range: 9 A @ 1 kHz
+False
+True
+^Yokogawa WT500
+100
+mV
+100.00000000
+
+, Elem2, 60 Hz, Ext. Sensor
+0
+^Fluke 5500
+90
+mV
+0
+
+, 1 kHz
+0
+^Fluke 5500
+1
+
+45
+
+; OPER
+0
+^Wait
+10
+
+50
+
+
+3
+^Monitor
+10.00000000
+
+50
+
+Yokogawa WT500*0;
+2
+&200 mV Range: 18 A @ 60 Hz
+False
+True
+^Yokogawa WT500
+200
+mV
+200.00000000
+
+, Elem2, 60 Hz, Ext. Sensor
+0
+^Fluke 5500
+180
+mV
+0
+
+, 60 Hz
+0
+^Fluke 5500
+1
+
+45
+
+; OPER
+0
+^Wait
+10
+
+50
+
+
+3
+^Monitor
+10.00000000
+
+50
+
+Yokogawa WT500*0;
+2
+&200 mV Range: 18 A @ 1 kHz
+False
+True
+^Yokogawa WT500
+200
+mV
+200.00000000
+
+, Elem2, 60 Hz, Ext. Sensor
+0
+^Fluke 5500
+180
+mV
+0
+
+, 1 kHz
+0
+^Fluke 5500
+1
+
+45
+
+; OPER
+0
+^Wait
+10
+
+50
+
+
+3
+^Monitor
+10.00000000
+
+50
+
+Yokogawa WT500*0;
+2
+&200 mV Range: 18 A @ 100 kHz
+False
+True
+^Yokogawa WT500
+200
+mV
+200.00000000
+
+, Elem2, 60 Hz, Ext. Sensor
+0
+^Fluke 5500
+180
+mV
+0
+
+, 100 kHz
+0
+^Fluke 5500
+1
+
+45
+
+; OPER
+0
+^Wait
+10
+
+50
+
+
+3
+^Monitor
+10.00000000
+
+50
+
+Yokogawa WT500*0;
+2
+&1 V Range: 90 A
+False
+True
+^Yokogawa WT500
+1
+V
+1.00000000
+
+, Elem2, Ext. Sensor
+0
+^Fluke 5500
+0.9
+V
+0
+
+, 0 Hz
+0
+^Fluke 5500
+1
+
+45
+
+; OPER
+0
+^Wait
+10
+
+50
+
+
+3
+^Monitor
+10.00000000
+
+50
+
+Yokogawa WT500*0;
+2
+&1 V Range: -90 A
+False
+True
+^Yokogawa WT500
+1
+V
+1.00000000
+
+, Elem2, Ext. Sensor
+0
+^Fluke 5500
+-0.90000000
+V
+0
+
+
+0
+^Fluke 5500
+1
+
+45
+
+; OPER
+0
+^Wait
+10
+
+50
+
+
+3
+^Monitor
+10.00000000
+
+50
+
+Yokogawa WT500*0;
+2
+&1 V Range: 90 A @ 10 Hz
+False
+True
+^Yokogawa WT500
+1
+V
+1.00000000
+
+, Elem2, Ext. Sensor, 60 Hz
+0
+^Fluke 5500
+0.9
+V
+10
+Hz
+
+0
+^Fluke 5500
+1
+
+45
+
+; OPER
+0
+^Wait
+10
+
+50
+
+
+3
+^Monitor
+10.00000000
+
+50
+
+Yokogawa WT500*0;
+2
+&1 V Range: 90 A @ 60 Hz
+False
+True
+^Yokogawa WT500
+1
+V
+1.00000000
+
+, Elem2, Ext. Sensor, 60 Hz
+0
+^Fluke 5500
+0.9
+V
+60.00000000
+Hz
+
+0
+^Fluke 5500
+1
+
+45
+
+; OPER
+0
+^Wait
+10
+
+50
+
+
+3
+^Monitor
+10.00000000
+
+50
+
+Yokogawa WT500*0;
+2
+&1 V Range: 90 A @ 1 kHz
+False
+True
+^Yokogawa WT500
+1
+V
+1.00000000
+
+, Elem2, Ext. Sensor, 60 Hz
+0
+^Fluke 5500
+0.9
+V
+1.00000000
+kHz
+
+0
+^Fluke 5500
+1
+
+45
+
+; OPER
+0
+^Wait
+10
+
+50
+
+
+3
+^Monitor
+10.00000000
+
+50
+
+Yokogawa WT500*0;
+2
+&1 V Range: 90 A @ 10 kHz
+False
+True
+^Yokogawa WT500
+1
+V
+1.00000000
+
+, Elem2, Ext. Sensor, 60 Hz
+0
+^Fluke 5500
+0.9
+V
+10.00000000
+kHz
+
+0
+^Fluke 5500
+1
+
+45
+
+; OPER
+0
+^Wait
+10
+
+50
+
+
+3
+^Monitor
+10.00000000
+
+50
+
+Yokogawa WT500*0;
+2
+&1 V Range: 90 A @ 20 kHz
+False
+True
+^Yokogawa WT500
+1
+V
+1.00000000
+
+, Elem2, Ext. Sensor, 60 Hz
+0
+^Fluke 5500
+0.9
+V
+20.00000000
+kHz
+
+0
+^Fluke 5500
+1
+
+45
+
+; OPER
+0
+^Wait
+10
+
+50
+
+
+3
+^Monitor
+10.00000000
+
+50
+
+Yokogawa WT500*0;
+2
+&1 V Range: 90 A @ 100 kHz
+False
+True
+^Yokogawa WT500
+1
+V
+1.00000000
+
+, Elem2, Ext. Sensor, 60 Hz
+0
+^Fluke 5500
+0.9
+V
+100.00000000
+kHz
+
+0
+^Fluke 5500
+1
+
+45
+
+; OPER
+0
+^Wait
+10
+
+50
+
+
+3
+^Monitor
+10.00000000
+
+50
+
+Yokogawa WT500*0;
+2
+&5 V Range: 300 A @ 100 kHz
+False
+True
+^Yokogawa WT500
+5
+V
+5.00000000
+
+, Elem2, Ext. Sensor, 60 Hz
+0
+^Fluke 5500
+3.0000000
+V
+100.00000000
+kHz
+
+0
+^Fluke 5500
+1
+
+45
+
+; OPER
+0
+^Wait
+10
+
+50
+
+
+3
+^Monitor
+10.00000000
+
+50
+
+Yokogawa WT500*0;
+2
+&10 V Range: 0.9 kA @ 60 Hz
+False
+True
+^Yokogawa WT500
+10.00000000
+V
+10.00000000
+
+, Elem2, Ext. Sensor, 60 Hz
+0
+^Fluke 5500
+9.00000000
+V
+60.00000000
+Hz
+
+0
+^Fluke 5500
+1
+
+45
+
+; OPER
+0
+^Wait
+10
+
+50
+
+
+3
+^Monitor
+10.00000000
+
+50
+
+Yokogawa WT500*0;
+2
+^Fluke 5500
+0
+
+0
+
+; STBY
+0
+*Yokogawa WT500,,,Element 2: Power DC
+&Setup
+False
+True
+^Fluke 5500
+0
+
+0
+
+*RST
+0
+^Yokogawa WT500
+0
+
+0
+
+*RST
+0
+^Wait
+0
+
+0
+
+
+3
+&15 V / 5 A Range: 75 W
+False
+True
+^Message
+5
+A
+0
+
+Connect voltage input to the normal port and current to the 20A port.
+0
+^Yokogawa WT500
+15
+V
+5
+A
+, Elem2
+0
+^Fluke 5500
+15.00000000
+V
+5
+A
+
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT500*0;
+2
+&15 V / 5 A Range: -75 W
+False
+True
+^Yokogawa WT500
+15
+V
+5
+A
+, Elem2
+0
+^Fluke 5500
+-15.00000000
+V
+5
+A
+
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT500*0;
+2
+&30 V / 5 A Range: 150 W
+False
+True
+^Yokogawa WT500
+30
+V
+5
+A
+, Elem2
+0
+^Fluke 5500
+30
+V
+5
+A
+
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT500*0;
+2
+&30 V / 5 A Range: -150 W
+False
+True
+^Yokogawa WT500
+30
+V
+5
+A
+, Elem2
+0
+^Fluke 5500
+-30.00000000
+V
+5
+A
+
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT500*0;
+2
+&60 V / 5 A Range: 300 W
+False
+True
+^Yokogawa WT500
+60.00000000
+V
+5
+A
+, Elem1
+0
+^Fluke 5500
+60.00000000
+V
+5
+A
+
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT500*0;
+2
+&60 V / 5 A Range: -300 W
+False
+True
+^Yokogawa WT500
+60.00000000
+V
+5
+A
+, Elem1
+0
+^Fluke 5500
+-60.00000000
+V
+5
+A
+
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT500*0;
+2
+&100 V / 5 A Range: 500 W
+False
+True
+^Yokogawa WT500
+100
+V
+5
+A
+, Elem2
+0
+^Fluke 5500
+100
+V
+5
+A
+
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT500*0;
+2
+&100 V / 5 A Range: -500 W
+False
+True
+^Yokogawa WT500
+100
+V
+5
+A
+, Elem2
+0
+^Fluke 5500
+-100.00000000
+V
+5
+A
+
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT500*0;
+2
+&100 V / 5 A Range: 250 W
+False
+True
+^Yokogawa WT500
+100
+V
+5
+A
+, Elem2
+0
+^Fluke 5500
+50.00000000
+V
+5
+A
+
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT500*0;
+2
+&100 V / 5 A Range: -250 W
+False
+True
+^Yokogawa WT500
+100
+V
+5
+A
+, Elem2
+0
+^Fluke 5500
+-50.00000000
+V
+5
+A
+
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT500*0;
+2
+&10 V / 5 A Range: 50 W
+False
+True
+^Fluke 5500
+10.00000000
+V
+5
+A
+, Elem2
+0
+^Fluke 5500
+10.00000000
+V
+5
+A
+
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT500*0;
+2
+&10 V / 5 A Range: -50 W
+False
+True
+^Fluke 5500
+10.00000000
+V
+5
+A
+, Elem2
+0
+^Fluke 5500
+-10.00000000
+V
+5
+A
+
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT500*0;
+2
+&100 V / 5 A Range: 5 W
+False
+True
+^Yokogawa WT500
+100
+V
+5
+A
+, Elem2
+0
+^Fluke 5500
+1
+V
+5
+A
+
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT500*0;
+2
+&100 V / 5 A Range: -5 W
+False
+True
+^Yokogawa WT500
+100
+V
+5
+A
+, Elem2
+0
+^Fluke 5500
+-1.00000000
+V
+5
+A
+
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT500*0;
+2
+&150 V / 5 A Range: 750 W
+False
+True
+^Yokogawa WT500
+150.00000000
+V
+5
+A
+, Elem2
+0
+^Fluke 5500
+150
+V
+5
+A
+
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT500*0;
+2
+&150 V / 5 A Range: -750 W
+False
+True
+^Yokogawa WT500
+150.00000000
+V
+5
+A
+, Elem2
+0
+^Fluke 5500
+-150.00000000
+V
+5
+A
+
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT500*0;
+2
+&300 V / 5 A Range: 1.5 kW
+False
+True
+^Yokogawa WT500
+300
+V
+5
+A
+, Elem2
+0
+^Fluke 5500
+300
+V
+5
+A
+
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT500*0;
+2
+&300 V / 5 A Range: -1.5 kW
+False
+True
+^Yokogawa WT500
+300
+V
+5
+A
+, Elem2
+0
+^Fluke 5500
+-300.00000000
+V
+5
+A
+
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT500*0;
+2
+&600 V / 5 A Range: 3 kW
+False
+True
+^Yokogawa WT500
+600.00000000
+V
+5
+A
+, Elem2
+0
+^Fluke 5500
+600.00000000
+V
+5
+A
+
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT500*0;
+2
+&600 V / 5 A Range: -3 kW
+False
+True
+^Yokogawa WT500
+600.00000000
+V
+5
+A
+, Elem2
+0
+^Fluke 5500
+-600.00000000
+V
+5
+A
+
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT500*0;
+2
+&1 kV / 5 A Range: 5 kW
+False
+True
+^Yokogawa WT500
+1000.00000000
+V
+5
+A
+, Elem2
+0
+^Fluke 5500
+1000.00000000
+V
+5
+A
+
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT500*0;
+2
+&1 kV / 5 A Range: -5 kW
+False
+True
+^Yokogawa WT500
+1000.00000000
+V
+5
+A
+, Elem2
+0
+^Fluke 5500
+-1000.00000000
+V
+5
+A
+
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT500*0;
+2
+^Fluke 5500
+-100.00000000
+
+20.00000000
+
+; STBY
+0
+*Yokogawa WT500,,,Element 2: Power AC
+&Setup
+False
+True
+^Fluke 5500
+0
+
+0
+
+*RST
+0
+^Yokogawa WT500
+0
+
+0
+
+*RST
+0
+^Wait
+0
+
+0
+
+
+3
+&15 V / 5 A Range: 0 W @ 60 Hz
+False
+True
+^Yokogawa WT500
+15.00000000
+V
+5
+A
+, Elem2, 60 Hz
+0
+^Fluke 5500
+15.00000000
+V
+5.00000000
+A
+, 60 Hz; PHASE 90
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT500*0;
+2
+&15 V / 5 A Range: 75 W @ 60 Hz
+False
+True
+^Yokogawa WT500
+15.00000000
+V
+5
+A
+, Elem2, 60 Hz
+0
+^Fluke 5500
+15.00000000
+V
+5.00000000
+A
+, 60 Hz; PHASE 0
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT500*0;
+2
+&15 V / 5 A Range: 75 W @ 1 kHz
+False
+True
+^Yokogawa WT500
+15.00000000
+V
+5
+A
+, Elem2, 60 Hz
+0
+^Fluke 5500
+15.00000000
+V
+5.00000000
+A
+, 1 kHz
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT500*0;
+2
+&15 V / 5 A Range: 30 W @ 5 kHz
+False
+True
+^Fluke 5500
+15.00000000
+V
+5.00000000
+A
+; STBY
+0
+^Message
+-100.00000000
+
+20.00000000
+
+Connect to Aux output
+0
+^Yokogawa WT500
+15.00000000
+V
+5
+A
+, Elem2, 60 Hz
+0
+^Fluke 5500
+15.00000000
+V
+2.00000000
+A
+, 5 kHz
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT500*0;
+2
+&30 V / 5 A Range: 150 W @ 60 Hz
+False
+True
+^Fluke 5500
+15.00000000
+V
+5.00000000
+A
+; STBY
+0
+^Message
+-100.00000000
+
+20.00000000
+
+Connect to 20A output
+0
+^Yokogawa WT500
+30.00000000
+V
+5
+A
+, Elem2, 60 Hz
+0
+^Fluke 5500
+30.00000000
+V
+5.00000000
+A
+, 60 Hz
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT500*0;
+2
+&30 V / 5 A Range: 150 W @ 1 kHz
+False
+True
+^Yokogawa WT500
+30.00000000
+V
+5
+A
+, Elem2, 60 Hz
+0
+^Fluke 5500
+30.00000000
+V
+5.00000000
+A
+, 1 kHz
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT500*0;
+2
+&60 V / 5 A Range: 300 W @ 60 Hz
+False
+True
+^Yokogawa WT500
+60.00000000
+V
+5
+A
+, Elem2, 60 Hz
+0
+^Fluke 5500
+60.00000000
+V
+5.00000000
+A
+, 60 Hz
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT500*0;
+2
+&60 V / 5 A Range: 300 W @ 1 kHz
+False
+True
+^Yokogawa WT500
+60.00000000
+V
+5
+A
+, Elem2, 60 Hz
+0
+^Fluke 5500
+60.00000000
+V
+5.00000000
+A
+, 1 kHz
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT500*0;
+2
+&100 V / 5 A Range: 500 W @ 45 Hz
+False
+True
+^Yokogawa WT500
+100.00000000
+V
+5
+A
+, Elem2, 60 Hz
+0
+^Fluke 5500
+100.00000000
+V
+5.00000000
+A
+, 45 Hz
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT500*0;
+2
+&100 V / 5 A Range: 500 W @ 60 Hz
+False
+True
+^Yokogawa WT500
+100.00000000
+V
+5
+A
+, Elem2, 60 Hz
+0
+^Fluke 5500
+100.00000000
+V
+5.00000000
+A
+, 60 Hz
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT500*0;
+2
+&100 V / 5 A Range: 250 W @ 60 Hz
+False
+True
+^Yokogawa WT500
+100.00000000
+V
+5
+A
+, Elem2, 60 Hz
+0
+^Fluke 5500
+50.00000000
+V
+5.00000000
+A
+, 60 Hz
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT500*0;
+2
+&100 V / 5 A Range: 50 W @ 60 Hz
+False
+True
+^Yokogawa WT500
+100.00000000
+V
+5
+A
+, Elem2, 60 Hz
+0
+^Fluke 5500
+10.00000000
+V
+5.00000000
+A
+, 60 Hz
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT500*0;
+2
+&100 V / 5 A Range: 5 W @ 60 Hz
+False
+True
+^Yokogawa WT500
+100.00000000
+V
+5
+A
+, Elem2, 60 Hz
+0
+^Fluke 5500
+1.00000000
+V
+5.00000000
+A
+, 60 Hz
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT500*0;
+2
+&100 V / 5 A Range: 0 W @ 60 Hz
+False
+True
+^Yokogawa WT500
+100.00000000
+V
+5
+A
+, Elem2, 60 Hz
+0
+^Fluke 5500
+100.00000000
+V
+5.00000000
+A
+, 60 Hz; PHASE 90
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT500*0;
+2
+&100 V / 5 A Range: 500 W @ 1 kHz
+False
+True
+^Yokogawa WT500
+100.00000000
+V
+5
+A
+, Elem2, 60 Hz
+0
+^Fluke 5500
+100.00000000
+V
+5.00000000
+A
+, 1 kHz; PHASE 0
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT500*0;
+2
+&100 V / 5 A Range: 200 W @ 5 kHz
+False
+True
+^Fluke 5500
+100.00000000
+V
+2.00000000
+A
+; STBY
+0
+^Message
+100.00000000
+V
+2.00000000
+A
+Connect to the Aux output
+0
+^Yokogawa WT500
+100.00000000
+V
+5
+A
+, Elem2, 60 Hz
+0
+^Fluke 5500
+100.00000000
+V
+2.00000000
+A
+, 5 kHz
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT500*0;
+2
+&150 V / 5 A Range: 0.75 kW @ 45 Hz
+False
+True
+^Fluke 5500
+150.00000000
+
+5.00000000
+
+; STBY
+0
+^Message
+100.00000000
+V
+2.00000000
+A
+Connect to the 20A output
+0
+^Yokogawa WT500
+150.00000000
+V
+5
+A
+, Elem2, 60 Hz
+0
+^Fluke 5500
+150.00000000
+V
+5.00000000
+A
+, 45 Hz
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT500*0;
+2
+&150 V / 5 A Range: 0.75 kW @ 60 Hz
+False
+True
+^Yokogawa WT500
+150.00000000
+V
+5
+A
+, Elem2, 60 Hz
+0
+^Fluke 5500
+150.00000000
+V
+5.00000000
+A
+, 60 Hz
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT500*0;
+2
+&150 V / 5 A Range: 0.75 kW @ 1 kHz
+False
+True
+^Yokogawa WT500
+150.00000000
+V
+5
+A
+, Elem2, 60 Hz
+0
+^Fluke 5500
+150.00000000
+V
+5.00000000
+A
+, 1 kHz
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT500*0;
+2
+&150 V / 5 A Range: 0.3 kW @ 5 kHz
+False
+True
+^Fluke 5500
+150.00000000
+V
+2.00000000
+A
+; STBY
+0
+^Message
+150.00000000
+V
+2.00000000
+A
+Connect to the Aux output
+0
+^Yokogawa WT500
+150.00000000
+V
+5
+A
+, Elem2, 60 Hz
+0
+^Fluke 5500
+150.00000000
+V
+2.00000000
+A
+, 5 kHz
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT500*0;
+2
+&150 V / 5 A Range: 0 kW @ 60 Hz
+False
+True
+^Fluke 5500
+150.00000000
+V
+2.00000000
+A
+; STBY
+0
+^Message
+150.00000000
+V
+2.00000000
+A
+Connect to the 20A port.
+0
+^Yokogawa WT500
+150.00000000
+V
+5
+A
+, Elem2, 60 Hz
+0
+^Fluke 5500
+150.00000000
+V
+5.00000000
+A
+, 60 Hz; PHASE 90
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT500*0;
+2
+&300 V / 5 A Range: 1.5 kW @ 60 Hz
+False
+True
+^Yokogawa WT500
+300.00000000
+V
+5
+A
+, Elem2, 60 Hz
+0
+^Fluke 5500
+300.00000000
+V
+5.00000000
+A
+, 60 Hz; PHASE 0
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT500*0;
+2
+&300 V / 5 A Range: 1.5 kW @ 1 kHz
+False
+True
+^Yokogawa WT500
+300.00000000
+V
+5
+A
+, Elem2, 60 Hz
+0
+^Fluke 5500
+300.00000000
+V
+5.00000000
+A
+, 1 kHz
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT500*0;
+2
+&600 V / 5 A Range: 3 kW @ 60 Hz
+False
+True
+^Yokogawa WT500
+600.00000000
+V
+5
+A
+, Elem2, 60 Hz
+0
+^Fluke 5500
+600.00000000
+V
+5.00000000
+A
+, 60 Hz
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT500*0;
+2
+&600 V / 5 A Range: 3 kW @ 1 kHz
+False
+True
+^Yokogawa WT500
+600.00000000
+V
+5
+A
+, Elem2, 60 Hz
+0
+^Fluke 5500
+600.00000000
+V
+5.00000000
+A
+, 1 kHz
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT500*0;
+2
+&1000 V / 5 A Range: 5 kW @ 60 Hz
+False
+True
+^Yokogawa WT500
+1000.00000000
+V
+5
+A
+, Elem2, 60 Hz
+0
+^Fluke 5500
+1000.00000000
+V
+5.00000000
+A
+, 60 Hz
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT500*0;
+2
+&1000 V / 5 A Range: 5 kW @ 1 kHz
+False
+True
+^Yokogawa WT500
+1000.00000000
+V
+5
+A
+, Elem2, 60 Hz
+0
+^Fluke 5500
+1000.00000000
+V
+5.00000000
+A
+, 1 kHz
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT500*0;
+2
+&100 V / 500 mA Range: 50 W @ 60 Hz
+False
+True
+^Fluke 5500
+100.00000000
+V
+2.00000000
+A
+; STBY
+0
+^Message
+-100.00000000
+
+20.00000000
+
+Connect to Aux output
+0
+^Yokogawa WT500
+100.00000000
+V
+500.00000000
+mA
+, Elem2, 60 Hz
+0
+^Fluke 5500
+100.00000000
+V
+0.500000000
+A
+, 60 Hz
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT500*0;
+2
+&100 V / 500 mA Range: 50 W @ 1 kHz
+False
+True
+^Yokogawa WT500
+100.00000000
+V
+500.00000000
+mA
+, Elem2, 60 Hz
+0
+^Fluke 5500
+100.00000000
+V
+0.500000000
+A
+, 1 kHz
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT500*0;
+2
+&100 V / 500 mA Range: 50 W @ 5 kHz
+False
+True
+^Yokogawa WT500
+100.00000000
+V
+500.00000000
+mA
+, Elem2, 60 Hz
+0
+^Fluke 5500
+100.00000000
+V
+0.500000000
+A
+, 5 kHz
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT500*0;
+2
+&100 V / 1 A Range: 100 W @ 60 Hz
+False
+True
+^Yokogawa WT500
+100.00000000
+V
+1.00000000
+A
+, Elem2, 60 Hz
+0
+^Fluke 5500
+100.00000000
+V
+1.0000000
+A
+, 60 Hz
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT500*0;
+2
+&100 V / 1 A Range: 100 W @ 1 kHz
+False
+True
+^Yokogawa WT500
+100.00000000
+V
+1.00000000
+A
+, Elem2, 60 Hz
+0
+^Fluke 5500
+100.00000000
+V
+1.00000000
+A
+, 1 kHz
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT500*0;
+2
+&100 V / 1 A Range: 100 W @ 5 kHz
+False
+True
+^Yokogawa WT500
+100.00000000
+V
+1.00000000
+A
+, Elem2, 60 Hz
+0
+^Fluke 5500
+100.00000000
+V
+1.00000000
+A
+, 5 kHz
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT500*0;
+2
+&100 V / 2 A Range: 200 W @ 60 Hz
+False
+True
+^Yokogawa WT500
+100.00000000
+V
+2.00000000
+A
+, Elem2, 60 Hz
+0
+^Fluke 5500
+100.00000000
+V
+2.00000000
+A
+, 60 Hz
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT500*0;
+2
+&100 V / 2 A Range: 200 W @ 1 kHz
+False
+True
+^Yokogawa WT500
+100.00000000
+V
+2.00000000
+A
+, Elem2, 60 Hz
+0
+^Fluke 5500
+100.00000000
+V
+2.00000000
+A
+, 1 kHz
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT500*0;
+2
+&100 V / 2 A Range: 200 W @ 5 kHz
+False
+True
+^Yokogawa WT500
+100.00000000
+V
+2.00000000
+A
+, Elem2, 60 Hz
+0
+^Fluke 5500
+100.00000000
+V
+2.00000000
+A
+, 5 kHz
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT500*0;
+2
+&100 V / 5 A Range: 500 W @ 60 Hz
+False
+True
+^Fluke 5500
+100.00000000
+V
+2.00000000
+A
+; STBY
+0
+^Message
+100.00000000
+V
+2.00000000
+A
+Connect to the 20A output
+0
+^Yokogawa WT500
+100.00000000
+V
+5.00000000
+A
+, Elem2, 60 Hz
+0
+^Fluke 5500
+100.00000000
+V
+5.00000000
+A
+, 60 Hz
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT500*0;
+2
+&100 V / 5 A Range: 500 W @ 1 kHz
+False
+True
+^Yokogawa WT500
+100.00000000
+V
+5.00000000
+A
+, Elem2, 60 Hz
+0
+^Fluke 5500
+100.00000000
+V
+5.00000000
+A
+, 1000 Hz
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT500*0;
+2
+&100 V / 10 A Range: 1 kW @ 60 Hz
+False
+True
+^Yokogawa WT500
+100.00000000
+V
+10.00000000
+A
+, Elem2, 60 Hz
+0
+^Fluke 5500
+100.00000000
+V
+10.00000000
+A
+, 60 Hz
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT500*0;
+2
+&100 V / 10 A Range: 1 kW @ 1 kHz
+False
+True
+^Yokogawa WT500
+100.00000000
+V
+10.00000000
+A
+, Elem2, 60 Hz
+0
+^Fluke 5500
+100.00000000
+V
+10.00000000
+A
+, 1 kHz
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT500*0;
+2
+&100 V / 10 A Range: 0.2 kW @ 5 kHz
+False
+True
+^Fluke 5500
+100.00000000
+V
+2.00000000
+A
+; STBY
+0
+^Message
+-100.00000000
+
+20.00000000
+
+Connect to Aux output
+0
+^Yokogawa WT500
+100.00000000
+V
+10.00000000
+A
+, Elem2, 60 Hz
+0
+^Fluke 5500
+100.00000000
+V
+2.00000000
+A
+, 5 kHz
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT500*0;
+2
+&100 V / 20 A Range: 2 kW @ 60 Hz
+False
+True
+^Fluke 5500
+-100.00000000
+
+20.00000000
+
+; STBY
+0
+^Message
+-100.00000000
+
+20.00000000
+
+Connect to 20A port.
+0
+^Yokogawa WT500
+100.00000000
+V
+20.00000000
+A
+, Elem2, 60 Hz
+0
+^Fluke 5500
+100.00000000
+V
+20.00000000
+A
+, 60 Hz
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT500*0;
+2
+&100 V / 20 A Range: 2 kW @ 1 kHz
+False
+True
+^Yokogawa WT500
+100.00000000
+V
+20.00000000
+A
+, Elem2, 60 Hz
+0
+^Fluke 5500
+100.00000000
+V
+20.00000000
+A
+, 1 kHz
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT500*0;
+2
+&100 V / 20 A Range: 0.2 kW @ 5 kHz
+False
+True
+^Fluke 5500
+100.00000000
+V
+2.00000000
+A
+; STBY
+0
+^Message
+-100.00000000
+
+20.00000000
+
+Connect to Aux output
+0
+^Yokogawa WT500
+100.00000000
+V
+20.00000000
+A
+, Elem2, 60 Hz
+0
+^Fluke 5500
+100.00000000
+V
+2.00000000
+A
+, 5 kHz
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT500*0;
+2
+&100 V / 40 A Range: 2 kW @ 60 Hz
+False
+True
+^Fluke 5500
+100.00000000
+V
+2.00000000
+A
+; STBY
+0
+^Message
+-100.00000000
+
+20.00000000
+
+Connect to 20A output
+0
+^Yokogawa WT500
+100.00000000
+V
+40.00000000
+A
+, Elem2, 60 Hz
+0
+^Fluke 5500
+100.00000000
+V
+20.00000000
+A
+, 60 Hz
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT500*0;
+2
+&100 V / 40 A Range: 2 kW @ 1 kHz
+False
+True
+^Yokogawa WT500
+100.00000000
+V
+40.00000000
+A
+, Elem2, 60 Hz
+0
+^Fluke 5500
+100.00000000
+V
+20.00000000
+A
+, 1 kHz
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT500*0;
+2
+^Fluke 5500
+0
+
+0
+
+; STBY
+0
+*Yokogawa WT500,,,Element 2: Ext. Sensor Power
+&Setup
+False
+True
+^Yokogawa WT500
+0
+
+0
+
+*RST
+3
+^Fluke 5500
+0
+
+0
+
+*RST
+3
+^Message
+0
+
+0
+
+Connect the voltage input to the normal output and the Ext. Sensor's BNC input to the calibrator's auxillary output.
+0
+&100 V / 1 V Range: 10 kW
+False
+True
+^Yokogawa WT500
+100.00000000
+V
+1.00000000
+V
+, Elem2, Ext. Sensor
+0
+^Fluke 5500
+100
+V
+1
+V
+, 0 Hz
+0
+^Fluke 5500
+1
+
+45
+
+; OPER
+0
+^Wait
+10
+
+50
+
+
+3
+^Monitor
+10
+
+50
+
+Yokogawa WT500*0;
+2
+&100 V / 1 V Range: -10 kW
+False
+True
+^Yokogawa WT500
+100.00000000
+V
+1.00000000
+V
+, Elem2, Ext. Sensor
+0
+^Fluke 5500
+-100.00000000
+V
+1
+V
+, 0 Hz
+0
+^Fluke 5500
+1
+
+45
+
+; OPER
+0
+^Wait
+10
+
+50
+
+
+3
+^Monitor
+10
+
+50
+
+Yokogawa WT500*0;
+2
+&100 V / 50 mV Range: 500 W @ 60 Hz
+False
+True
+^Yokogawa WT500
+100.00000000
+V
+50.00000000
+mV
+, Elem2, Ext. Sensor, 60 Hz
+0
+^Fluke 5500
+100.00000000
+V
+50.00000000
+mV
+, 60 Hz
+0
+^Fluke 5500
+1
+
+45
+
+; OPER
+0
+^Wait
+10
+
+50
+
+
+3
+^Monitor
+10
+
+50
+
+Yokogawa WT500*0;
+2
+&100 V / 100 mV Range: 1 kW @ 60 Hz
+False
+True
+^Yokogawa WT500
+100.00000000
+V
+100.00000000
+mV
+, Elem2, Ext. Sensor, 60 Hz
+0
+^Fluke 5500
+100.00000000
+V
+100.00000000
+mV
+, 60 Hz
+0
+^Fluke 5500
+1
+
+45
+
+; OPER
+0
+^Wait
+10
+
+50
+
+
+3
+^Monitor
+10
+
+50
+
+Yokogawa WT500*0;
+2
+&100 V / 100 mV Range: 1 kW @ 1 kHz
+False
+True
+^Yokogawa WT500
+100.00000000
+V
+100.00000000
+mV
+, Elem2, Ext. Sensor, 60 Hz
+0
+^Fluke 5500
+100.00000000
+V
+100.00000000
+mV
+, 1 kHz
+0
+^Fluke 5500
+1
+
+45
+
+; OPER
+0
+^Wait
+10
+
+50
+
+
+3
+^Monitor
+10
+
+50
+
+Yokogawa WT500*0;
+2
+&100 V / 200 mV Range: 0 kW @ 60 Hz
+False
+True
+^Yokogawa WT500
+100.00000000
+V
+200.00000000
+mV
+, Elem2, Ext. Sensor, 60 Hz
+0
+^Fluke 5500
+100.00000000
+V
+200.00000000
+mV
+, 60 Hz; PHASE 90
+0
+^Fluke 5500
+1
+
+45
+
+; OPER
+0
+^Wait
+10
+
+50
+
+
+3
+^Monitor
+10
+
+50
+
+Yokogawa WT500*0;
+2
+&100 V / 200 mV Range: 2 kW @ 60 Hz
+False
+True
+^Yokogawa WT500
+100.00000000
+V
+200.00000000
+mV
+, Elem2, Ext. Sensor, 60 Hz
+0
+^Fluke 5500
+100.00000000
+V
+200.00000000
+mV
+, 60 Hz; PHASE 0
+0
+^Fluke 5500
+1
+
+45
+
+; OPER
+0
+^Wait
+10
+
+50
+
+
+3
+^Monitor
+10
+
+50
+
+Yokogawa WT500*0;
+2
+&100 V / 200 mV Range: 2 kW @ 1 kHz
+False
+True
+^Yokogawa WT500
+100.00000000
+V
+200.00000000
+mV
+, Elem2, Ext. Sensor, 60 Hz
+0
+^Fluke 5500
+100.00000000
+V
+200.00000000
+mV
+, 1 kHz; PHASE 0
+0
+^Fluke 5500
+1
+
+45
+
+; OPER
+0
+^Wait
+10
+
+50
+
+
+3
+^Monitor
+10
+
+50
+
+Yokogawa WT500*0;
+2
+&100 V / 200 mV Range: 1 kW @ 5 kHz
+False
+True
+^Yokogawa WT500
+100.00000000
+V
+200.00000000
+mV
+, Elem2, Ext. Sensor, 60 Hz
+0
+^Fluke 5500
+50.00000000
+V
+200.00000000
+mV
+, 5 kHz; PHASE 0
+0
+^Fluke 5500
+1
+
+45
+
+; OPER
+0
+^Wait
+10
+
+50
+
+
+3
+^Monitor
+10
+
+50
+
+Yokogawa WT500*0;
+2
+&100 V / 1 V Range: 3 kW @ 10 Hz
+False
+True
+^Yokogawa WT500
+100.00000000
+V
+1.00000000
+V
+, Elem2, Ext. Sensor, 60 Hz
+0
+^Fluke 5500
+30.00000000
+V
+1.00000000
+V
+, 10 Hz
+0
+^Fluke 5500
+1
+
+45
+
+; OPER
+0
+^Wait
+10
+
+50
+
+
+3
+^Monitor
+10
+
+50
+
+Yokogawa WT500*0;
+2
+&100 V / 1 V Range: 10 kW @ 60 Hz
+False
+True
+^Yokogawa WT500
+100.00000000
+V
+1.00000000
+V
+, Elem2, Ext. Sensor, 60 Hz
+0
+^Fluke 5500
+100.00000000
+V
+1.00000000
+V
+, 60 Hz
+0
+^Fluke 5500
+1
+
+45
+
+; OPER
+0
+^Wait
+10
+
+50
+
+
+3
+^Monitor
+10
+
+50
+
+Yokogawa WT500*0;
+2
+&100 V / 1 V Range: 10 kW @ 1 kHz
+False
+True
+^Yokogawa WT500
+100.00000000
+V
+1.00000000
+V
+, Elem2, Ext. Sensor, 60 Hz
+0
+^Fluke 5500
+100.00000000
+V
+1.00000000
+V
+, 1 kHz
+0
+^Fluke 5500
+1
+
+45
+
+; OPER
+0
+^Wait
+10
+
+50
+
+
+3
+^Monitor
+10
+
+50
+
+Yokogawa WT500*0;
+2
+&100 V / 1 V Range: 10 kW @ 10 kHz
+False
+True
+^Yokogawa WT500
+100.00000000
+V
+1.00000000
+V
+, Elem2, Ext. Sensor, 60 Hz
+0
+^Fluke 5500
+100.00000000
+V
+1.00000000
+V
+, 10 kHz
+0
+^Fluke 5500
+1
+
+45
+
+; OPER
+0
+^Wait
+10
+
+50
+
+
+3
+^Monitor
+10
+
+50
+
+Yokogawa WT500*0;
+2
+&100 V / 2 V Range: 20 kW @ 10 kHz
+False
+True
+^Yokogawa WT500
+100.00000000
+V
+2.00000000
+V
+, Elem2, Ext. Sensor, 60 Hz
+0
+^Fluke 5500
+100.00000000
+V
+2.00000000
+V
+, 10 kHz
+0
+^Fluke 5500
+1
+
+45
+
+; OPER
+0
+^Wait
+10
+
+50
+
+
+3
+^Monitor
+10
+
+50
+
+Yokogawa WT500*0;
+2
+&100 V / 5 V Range: 50 kW @ 60 Hz
+False
+True
+^Yokogawa WT500
+100.00000000
+V
+5.00000000
+V
+, Elem2, Ext. Sensor, 60 Hz
+0
+^Fluke 5500
+100.00000000
+V
+5.00000000
+V
+, 60 Hz
+0
+^Fluke 5500
+1
+
+45
+
+; OPER
+0
+^Wait
+10
+
+50
+
+
+3
+^Monitor
+10
+
+50
+
+Yokogawa WT500*0;
+2
+&100 V / 5 V Range: 50 kW @ 10 kHz
+False
+True
+^Yokogawa WT500
+100.00000000
+V
+5.00000000
+V
+, Elem2, Ext. Sensor, 60 Hz
+0
+^Fluke 5500
+100.00000000
+V
+5.00000000
+V
+, 10 kHz
+0
+^Fluke 5500
+1
+
+45
+
+; OPER
+0
+^Wait
+10
+
+50
+
+
+3
+^Monitor
+10
+
+50
+
+Yokogawa WT500*0;
+2
+^Fluke 5500
+10
+
+50
+
+; STBY
+2

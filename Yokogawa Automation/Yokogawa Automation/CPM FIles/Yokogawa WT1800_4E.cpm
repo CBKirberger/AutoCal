@@ -1,0 +1,25800 @@
+*Yokogawa WT1800,,,Element 1: DC Volts
+&Setup
+False
+True
+^Fluke 5500
+0
+
+0
+
+*RST
+0
+^Yokogawa WT3000E
+0
+
+0
+
+*RST
+0
+^Message
+0
+
+0
+
+Set up wiring for Element 1
+0
+^Wait
+0
+
+0
+
+
+3
+&1.5 V Range: 1.35 V
+False
+True
+^Yokogawa WT3000E
+1.35
+V
+0
+
+, Elem1
+3
+^Fluke 5500
+1.3500000000
+V
+0
+Hz
+
+0
+^Fluke 5500
+0.00000000
+
+0
+
+OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&1.5 V Range: -1.35 V
+False
+True
+^Yokogawa WT3000E
+1.35
+V
+0
+
+, Elem1
+3
+^Fluke 5500
+-1.35000000
+V
+0
+Hz
+
+0
+^Fluke 5500
+0.00000000
+
+0
+
+OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&3 V Range: 2.7 V
+False
+True
+^Yokogawa WT3000E
+2.7
+V
+0
+
+, Elem1
+3
+^Fluke 5500
+2.7
+V
+0
+Hz
+
+0
+^Fluke 5500
+0.00000000
+
+0
+
+OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&3 V Range: -2.7 V
+False
+True
+^Yokogawa WT3000E
+2.7
+V
+0
+
+, Elem1
+3
+^Fluke 5500
+-2.70000000
+V
+0
+Hz
+
+0
+^Fluke 5500
+0.00000000
+
+0
+
+OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&6 V Range: 5.4 V
+False
+True
+^Yokogawa WT3000E
+5.4
+V
+0
+
+, Elem1
+3
+^Fluke 5500
+5.4
+V
+0
+Hz
+
+0
+^Fluke 5500
+0.00000000
+
+0
+
+OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&6 V Range: -5.4 V
+False
+True
+^Yokogawa WT3000E
+5.4
+V
+0
+
+, Elem1
+3
+^Fluke 5500
+-5.40000000
+V
+0
+Hz
+
+0
+^Fluke 5500
+0.00000000
+
+0
+
+OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&10 V Range: 9 V
+False
+True
+^Yokogawa WT3000E
+9
+V
+0
+
+, Elem1
+3
+^Fluke 5500
+9
+V
+0
+Hz
+
+0
+^Fluke 5500
+0.00000000
+
+0
+
+OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&10 V Range: -9 V
+False
+True
+^Yokogawa WT3000E
+9
+V
+0
+
+, Elem1
+3
+^Fluke 5500
+-9.00000000
+V
+0
+Hz
+
+0
+^Fluke 5500
+0.00000000
+
+0
+
+OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&15 V Range: 14 V
+False
+True
+^Yokogawa WT3000E
+14
+V
+0
+
+, Elem1
+3
+^Fluke 5500
+14
+V
+0
+Hz
+
+0
+^Fluke 5500
+0.00000000
+
+0
+
+OPER
+0
+^Wait
+14
+V
+0
+
+
+3
+^Monitor
+14
+V
+0
+
+Yokogawa WT3000E*0;
+2
+&15 V Range: -14 V
+False
+True
+^Yokogawa WT3000E
+14.00000000
+V
+0
+
+, Elem1
+3
+^Fluke 5500
+-14.00000000
+V
+0
+
+
+0
+^Fluke 5500
+0.00000000
+
+0
+
+OPER
+0
+^Wait
+14
+V
+0
+
+
+3
+^Monitor
+14
+V
+0
+
+Yokogawa WT3000E*0;
+2
+&30 V Range: 27 V
+False
+True
+^Yokogawa WT3000E
+27
+V
+0
+
+, Elem1
+3
+^Fluke 5500
+27
+V
+0
+Hz
+
+0
+^Fluke 5500
+0.00000000
+
+0
+
+OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&30 V Range: -27 V
+False
+True
+^Yokogawa WT3000E
+27
+V
+0
+
+, Elem1
+3
+^Fluke 5500
+-27.00000000
+V
+0
+Hz
+
+0
+^Fluke 5500
+0.00000000
+
+0
+
+OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&60 V Range: 54 V
+False
+True
+^Yokogawa WT3000E
+54
+V
+0
+
+, Elem1
+3
+^Fluke 5500
+54
+V
+0
+Hz
+
+0
+^Fluke 5500
+0.00000000
+
+0
+
+OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&60 V Range: -54 V
+False
+True
+^Yokogawa WT3000E
+54
+V
+0
+
+, Elem1
+3
+^Fluke 5500
+-54.00000000
+V
+0
+Hz
+
+0
+^Fluke 5500
+0.00000000
+
+0
+
+OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&100 V Range: 90 V
+False
+True
+^Yokogawa WT3000E
+90
+V
+0
+
+, Elem1
+3
+^Fluke 5500
+90
+V
+0
+Hz
+
+0
+^Fluke 5500
+0.00000000
+
+0
+
+OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&100 V Range: -90 V
+False
+True
+^Yokogawa WT3000E
+90
+V
+0
+
+, Elem1
+3
+^Fluke 5500
+-90.00000000
+V
+0
+Hz
+
+0
+^Fluke 5500
+0.00000000
+
+0
+
+OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&150 V Range: 145 V
+False
+True
+^Yokogawa WT3000E
+145
+V
+0
+
+, Elem1
+3
+^Fluke 5500
+145
+V
+0
+Hz
+
+0
+^Fluke 5500
+0.00000000
+
+0
+
+OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&150 V Range: -145 V
+False
+True
+^Yokogawa WT3000E
+145
+V
+0
+
+, Elem1
+3
+^Fluke 5500
+-145.00000000
+V
+0
+Hz
+
+0
+^Fluke 5500
+0.00000000
+
+0
+
+OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&300 V Range: 270 V
+False
+True
+^Yokogawa WT3000E
+270
+V
+0
+
+, Elem1
+3
+^Fluke 5500
+270
+V
+0
+Hz
+
+0
+^Fluke 5500
+0.00000000
+
+0
+
+OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&300 V Range: -270 V
+False
+True
+^Yokogawa WT3000E
+270
+V
+0
+
+, Elem1
+3
+^Fluke 5500
+-270.00000000
+V
+0
+Hz
+
+0
+^Fluke 5500
+0.00000000
+
+0
+
+OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&600 V Range: 540 V
+False
+True
+^Yokogawa WT3000E
+540
+V
+0
+
+, Elem1
+3
+^Fluke 5500
+540
+V
+0
+Hz
+
+0
+^Fluke 5500
+0.00000000
+
+0
+
+OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&600 V Range: -540 V
+False
+True
+^Yokogawa WT3000E
+540
+V
+0
+
+, Elem1
+3
+^Fluke 5500
+-540.00000000
+V
+0
+Hz
+
+0
+^Fluke 5500
+0.00000000
+
+0
+
+OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&1000 V Range: 0.9 kV
+False
+True
+^Yokogawa WT3000E
+1000.00000000
+V
+0
+
+, Elem1
+3
+^Fluke 5500
+0.900000000
+kV
+0
+
+
+0
+^Fluke 5500
+0.00000000
+
+0
+
+OPER
+0
+^Wait
+14
+V
+0
+
+
+3
+^Monitor
+14
+V
+0
+
+Yokogawa WT3000E*0;
+2
+&1000 V Range: -0.9 kV
+False
+True
+^Yokogawa WT3000E
+1000.00000000
+V
+0
+
+, Elem1
+3
+^Fluke 5500
+-0.90000000
+kV
+0
+
+
+0
+^Fluke 5500
+0.00000000
+
+0
+
+OPER
+0
+^Wait
+14
+V
+0
+
+
+3
+^Monitor
+14
+V
+0
+
+Yokogawa WT3000E*0;
+2
+^Fluke 5500
+0
+
+0
+
+; STBY
+0
+*Yokogawa WT1800,,,Element 1: DC Current
+&Setup
+False
+True
+^Fluke 5500
+0
+
+0
+
+*RST
+0
+^Yokogawa WT3000E
+0
+
+0
+
+*RST
+0
+^Wait
+0
+
+0
+
+
+3
+&1 A Range: 0.9 A
+False
+True
+^Yokogawa WT3000E
+0.9
+A
+0
+
+, Elem1
+0
+^Fluke 5520
+0.9
+A
+0
+Hz
+; CUR_POST A20
+0
+^Fluke 5500
+0
+
+0
+
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&1 A Range: -0.9 A
+False
+True
+^Yokogawa WT3000E
+0.9
+A
+0
+
+, Elem1
+0
+^Fluke 5500
+-0.90000000
+A
+0
+Hz
+
+0
+^Fluke 5500
+0
+
+0
+
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&2 A Range: 1.8 A
+False
+True
+^Yokogawa WT3000E
+1.8
+A
+0
+
+, Elem1
+0
+^Fluke 5500
+1.8
+A
+0
+Hz
+
+0
+^Fluke 5500
+0
+
+0
+
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&2 A Range: -1.8 A
+False
+True
+^Yokogawa WT3000E
+1.8
+A
+0
+
+, Elem1
+0
+^Fluke 5500
+-1.80000000
+A
+0
+Hz
+
+0
+^Fluke 5500
+0
+
+0
+
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&5 A Range: 4.5 A
+False
+True
+^Yokogawa WT3000E
+4.5
+A
+0
+
+, Elem1
+0
+^Fluke 5500
+4.5
+A
+0
+Hz
+
+0
+^Fluke 5500
+0
+
+0
+
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&5 A Range: -4.5 A
+False
+True
+^Yokogawa WT3000E
+4.5
+A
+0
+
+, Elem1
+0
+^Fluke 5500
+-4.50000000
+A
+0
+Hz
+
+0
+^Fluke 5500
+0
+
+0
+
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&10 A Range: 9 A
+False
+True
+^Yokogawa WT3000E
+9
+A
+0
+
+, Elem1
+0
+^Fluke 5500
+9
+A
+0
+Hz
+
+0
+^Fluke 5500
+0
+
+0
+
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&10 A Range: -9 A
+False
+True
+^Yokogawa WT3000E
+9
+A
+0
+
+, Elem1
+0
+^Fluke 5500
+-9.00000000
+A
+0
+Hz
+
+0
+^Fluke 5500
+0
+
+0
+
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&20 A Range: 18 A
+False
+True
+^Yokogawa WT3000E
+20.00000000
+A
+0
+
+, Elem1
+0
+^Fluke 5500
+18.0000000
+A
+0
+
+
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14.00000000
+V
+60
+Hz
+Yokogawa WT3000E*0;
+2
+&20 A Range: -18 A
+False
+True
+^Yokogawa WT3000E
+20.00000000
+A
+0
+
+, Elem1
+0
+^Fluke 5500
+-18.00000000
+A
+0
+
+
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14.00000000
+V
+60
+Hz
+Yokogawa WT3000E*0;
+2
+^Fluke 5500
+-18.00000000
+A
+0
+
+; STBY
+0
+&50 A Range: 18 A
+False
+True
+^Yokogawa WT3000E
+45
+A
+0
+
+, Elem1
+0
+^Fluke 5500
+18
+A
+0
+Hz
+
+0
+^Fluke 5500
+0
+
+0
+
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&50 A Range: -18 A
+False
+True
+^Yokogawa WT3000E
+45
+A
+0
+
+, Elem1
+0
+^Fluke 5500
+-18.00000000
+A
+0
+Hz
+
+0
+^Fluke 5500
+0
+
+0
+
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+^Fluke 5500
+0
+
+0
+
+; STBY
+0
+*Yokogawa WT1800,,,Element 1: AC Volts
+&Setup
+False
+True
+^Fluke 5500
+0
+
+0
+
+*RST
+0
+^Yokogawa WT3000E
+0
+
+0
+
+*RST
+0
+^Wait
+0
+
+0
+
+
+3
+&1.5 V Range: 1.35 V @ 10 Hz
+False
+True
+^Yokogawa WT3000E
+1.500000000
+V
+10.00000000
+Hz
+, Elem1
+0
+^Fluke 5500
+1.35
+V
+10
+Hz
+
+0
+^Fluke 5500
+0
+
+0
+
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&1.5 V Range: 1.35 V @ 60 Hz
+False
+True
+^Yokogawa WT3000E
+1.500000000
+V
+10.00000000
+Hz
+, Elem1
+0
+^Fluke 5500
+1.35
+V
+60.00000000
+Hz
+
+0
+^Fluke 5500
+0
+
+0
+
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&1.5 V Range: 1.35 V @ 1 kHz
+False
+True
+^Yokogawa WT3000E
+1.500000000
+V
+10.00000000
+Hz
+, Elem1
+0
+^Fluke 5500
+1.35
+V
+1
+kHz
+
+0
+^Fluke 5500
+0
+
+0
+
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&1.5 V Range: 1.35 V @ 50 kHz
+False
+True
+^Yokogawa WT3000E
+1.500000000
+V
+10.00000000
+Hz
+, Elem1
+0
+^Fluke 5500
+1.35
+V
+1
+kHz
+
+0
+^Fluke 5500
+0
+
+0
+
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&1.5 V Range: 1.35 V @ 100 kHz
+False
+True
+^Yokogawa WT3000E
+1.500000000
+V
+10.00000000
+Hz
+, Elem1
+0
+^Fluke 5500
+1.35
+V
+100
+kHz
+
+0
+^Fluke 5500
+0
+
+0
+
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&1.5 V Range: 1.35 V @ 500 kHz
+False
+True
+^Yokogawa WT3000E
+1.500000000
+V
+10.00000000
+Hz
+, Elem1
+0
+^Fluke 5500
+1.35
+V
+500.00000000
+kHz
+
+0
+^Fluke 5500
+0
+
+0
+
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&3 V Range: 2.7 V @ 10 Hz
+False
+True
+^Yokogawa WT3000E
+2.7
+V
+10.00000000
+Hz
+, Elem1
+0
+^Fluke 5500
+2.7
+V
+10
+Hz
+
+0
+^Fluke 5500
+0
+
+0
+
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&3 V Range: 2.7 V @ 60 Hz
+False
+True
+^Yokogawa WT3000E
+2.7
+V
+10.00000000
+Hz
+, Elem1
+0
+^Fluke 5500
+2.7
+V
+60
+Hz
+
+0
+^Fluke 5500
+0
+
+0
+
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&3 V Range: 2.7 V @ 1 kHz
+False
+True
+^Yokogawa WT3000E
+2.7
+V
+10.00000000
+Hz
+, Elem1
+0
+^Fluke 5500
+2.7
+V
+1
+kHz
+
+0
+^Fluke 5500
+0
+
+0
+
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&3 V Range: 2.7 V @ 50 kHz
+False
+True
+^Yokogawa WT3000E
+2.7
+V
+10.00000000
+Hz
+, Elem1
+0
+^Fluke 5500
+2.7
+V
+50
+kHz
+
+0
+^Fluke 5500
+0
+
+0
+
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&3 V Range: 2.7 V @ 100 kHz
+False
+True
+^Yokogawa WT3000E
+2.7
+V
+10.00000000
+Hz
+, Elem1
+0
+^Fluke 5500
+2.7
+V
+100
+kHz
+
+0
+^Fluke 5500
+0
+
+0
+
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&3 V Range: 2.7 V @ 500 kHz
+False
+True
+^Yokogawa WT3000E
+2.7
+V
+10.00000000
+Hz
+, Elem1
+0
+^Fluke 5500
+2.7
+V
+500.00000000
+kHz
+
+0
+^Fluke 5500
+0
+
+0
+
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&6 V Range: 5.4 V @ 10 Hz
+False
+True
+^Yokogawa WT3000E
+5.4
+V
+10.00000000
+Hz
+, Elem1
+0
+^Fluke 5500
+5.4
+V
+10
+Hz
+
+0
+^Fluke 5500
+0
+
+0
+
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&6 V Range: 5.4 V @ 60 Hz
+False
+True
+^Yokogawa WT3000E
+5.4
+V
+10.00000000
+Hz
+, Elem1
+0
+^Fluke 5500
+5.4
+V
+60
+Hz
+
+0
+^Fluke 5500
+0
+
+0
+
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&6 V Range: 5.4 V @ 1 kHz
+False
+True
+^Yokogawa WT3000E
+5.4
+V
+10.00000000
+Hz
+, Elem1
+0
+^Fluke 5500
+5.4
+V
+1
+kHz
+
+0
+^Fluke 5500
+0
+
+0
+
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&6 V Range: 5.4 V @ 50 kHz
+False
+True
+^Yokogawa WT3000E
+5.4
+V
+10.00000000
+Hz
+, Elem1
+0
+^Fluke 5500
+5.4
+V
+50
+kHz
+
+0
+^Fluke 5500
+0
+
+0
+
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&6 V Range: 5.4 V @ 100 kHz
+False
+True
+^Yokogawa WT3000E
+5.4
+V
+10.00000000
+Hz
+, Elem1
+0
+^Fluke 5500
+5.4
+V
+100
+kHz
+
+0
+^Fluke 5500
+0
+
+0
+
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&6 V Range: 5.4 V @ 500 kHz
+False
+True
+^Yokogawa WT3000E
+5.4
+V
+10.00000000
+Hz
+, Elem1
+0
+^Fluke 5500
+5.4
+V
+500.00000000
+kHz
+
+0
+^Fluke 5500
+0
+
+0
+
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&10 V Range: 9 V @ 10 Hz
+False
+True
+^Yokogawa WT3000E
+9
+V
+10.00000000
+Hz
+, Elem1
+0
+^Fluke 5500
+9
+V
+10
+Hz
+
+0
+^Fluke 5500
+0
+
+0
+
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&10 V Range: 9 V @ 60 Hz
+False
+True
+^Yokogawa WT3000E
+9
+V
+10.00000000
+Hz
+, Elem1
+0
+^Fluke 5500
+9
+V
+60
+Hz
+
+0
+^Fluke 5500
+0
+
+0
+
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&10 V Range: 9 V @ 1 kHz
+False
+True
+^Yokogawa WT3000E
+9
+V
+10.00000000
+Hz
+, Elem1
+0
+^Fluke 5500
+9
+V
+1
+kHz
+
+0
+^Fluke 5500
+0
+
+0
+
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&10 V Range: 9 V @ 50 kHz
+False
+True
+^Yokogawa WT3000E
+9
+V
+10.00000000
+Hz
+, Elem1
+0
+^Fluke 5500
+9
+V
+50
+kHz
+
+0
+^Fluke 5500
+0
+
+0
+
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&10 V Range: 9 V @ 100 kHz
+False
+True
+^Yokogawa WT3000E
+9
+V
+10.00000000
+Hz
+, Elem1
+0
+^Fluke 5500
+9
+V
+100
+kHz
+
+0
+^Fluke 5500
+0
+
+0
+
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&10 V Range: 3 V @ 500 kHz
+False
+True
+^Yokogawa WT3000E
+9
+V
+10.00000000
+Hz
+, Elem1
+0
+^Fluke 5500
+3
+V
+500.00000000
+kHz
+
+0
+^Fluke 5500
+0
+
+0
+
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&15 V Range: 14 V @ 10 Hz
+False
+True
+^Yokogawa WT3000E
+14
+V
+10.00000000
+Hz
+, Elem1
+0
+^Fluke 5500
+14
+V
+10
+Hz
+
+0
+^Fluke 5500
+0
+
+0
+
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&15 V Range: 14 V @ 60 Hz
+False
+True
+^Yokogawa WT3000E
+14
+V
+10.00000000
+Hz
+, Elem1
+0
+^Fluke 5500
+14
+V
+60
+Hz
+
+0
+^Fluke 5500
+0
+
+0
+
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&15 V Range: 14 V @ 1 kHz
+False
+True
+^Yokogawa WT3000E
+14
+V
+10.00000000
+Hz
+, Elem1
+0
+^Fluke 5500
+14
+V
+1
+kHz
+
+0
+^Fluke 5500
+0
+
+0
+
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&15 V Range: 14 V @ 50 kHz
+False
+True
+^Yokogawa WT3000E
+14
+V
+10.00000000
+Hz
+, Elem1
+0
+^Fluke 5500
+14
+V
+50
+kHz
+
+0
+^Fluke 5500
+0
+
+0
+
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&15 V Range: 14 V @ 100 kHz
+False
+True
+^Yokogawa WT3000E
+14
+V
+10.00000000
+Hz
+, Elem1
+0
+^Fluke 5500
+14
+V
+100
+kHz
+
+0
+^Fluke 5500
+0
+
+0
+
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&15 V Range: 3 V @ 500 kHz
+False
+True
+^Yokogawa WT3000E
+14
+V
+10.00000000
+Hz
+, Elem1
+0
+^Fluke 5500
+3
+V
+500.00000000
+kHz
+
+0
+^Fluke 5500
+0
+
+0
+
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&30 V Range: 27 V @ 10 Hz
+False
+True
+^Yokogawa WT3000E
+27
+V
+10.00000000
+Hz
+, Elem1
+0
+^Fluke 5500
+27
+V
+10
+Hz
+
+0
+^Fluke 5500
+0
+
+0
+
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&30 V Range: 27 V @ 60 Hz
+False
+True
+^Yokogawa WT3000E
+27
+V
+10.00000000
+Hz
+, Elem1
+0
+^Fluke 5500
+27
+V
+60.00000000
+Hz
+
+0
+^Fluke 5500
+0
+
+0
+
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&30 V Range: 27 V @ 1 kHz
+False
+True
+^Yokogawa WT3000E
+27
+V
+10.00000000
+Hz
+, Elem1
+0
+^Fluke 5500
+27
+V
+1
+kHz
+
+0
+^Fluke 5500
+0
+
+0
+
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&30 V Range: 27 V @ 50 kHz
+False
+True
+^Yokogawa WT3000E
+27
+V
+10.00000000
+Hz
+, Elem1
+0
+^Fluke 5500
+27
+V
+50
+kHz
+
+0
+^Fluke 5500
+0
+
+0
+
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&30 V Range: 27 V @ 100 kHz
+False
+True
+^Yokogawa WT3000E
+27
+V
+10.00000000
+Hz
+, Elem1
+0
+^Fluke 5500
+27
+V
+100
+kHz
+
+0
+^Fluke 5500
+0
+
+0
+
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&30 V Range: 3 V @ 500 kHz
+False
+True
+^Yokogawa WT3000E
+27
+V
+10.00000000
+Hz
+, Elem1
+0
+^Fluke 5500
+3
+V
+500.00000000
+kHz
+
+0
+^Fluke 5500
+0
+
+0
+
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&60 V Range: 54 V @ 60 Hz
+False
+True
+^Yokogawa WT3000E
+54.00000000
+V
+60
+Hz
+, Elem1
+0
+^Fluke 5500
+54.00000000
+V
+60
+Hz
+
+0
+^Fluke 5500
+54.00000000
+V
+60
+Hz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14.00000000
+V
+60
+Hz
+Yokogawa WT3000E*0;
+2
+&60 V Range: 54 V @ 1 kHz
+False
+True
+^Yokogawa WT3000E
+54
+V
+60
+Hz
+, Elem1
+0
+^Fluke 5500
+54.00000000
+V
+1
+kHz
+
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14.00000000
+V
+60
+Hz
+Yokogawa WT3000E*0;
+2
+&60 V Range: 54 V @ 50 kHz
+False
+True
+^Yokogawa WT3000E
+54
+V
+60
+Hz
+, Elem1
+0
+^Fluke 5500
+54.00000000
+V
+50
+kHz
+
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14.00000000
+V
+60
+Hz
+Yokogawa WT3000E*0;
+2
+&60 V Range: 54 V @ 100 kHz
+False
+True
+^Yokogawa WT3000E
+54
+V
+60
+Hz
+, Elem1
+0
+^Fluke 5500
+54.00000000
+V
+100
+kHz
+
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14.00000000
+V
+60
+Hz
+Yokogawa WT3000E*0;
+2
+&100 V Range: 90 V @ 60 Hz
+False
+True
+^Yokogawa WT3000E
+90
+V
+60
+Hz
+, Elem1
+0
+^Fluke 5500
+90.00000000
+V
+60
+Hz
+
+0
+^Fluke 5500
+90.00000000
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14.00000000
+V
+60
+Hz
+Yokogawa WT3000E*0;
+2
+&100 V Range: 90 V @ 1 kHz
+False
+True
+^Yokogawa WT3000E
+90
+V
+60
+Hz
+, Elem1
+0
+^Fluke 5500
+90.00000000
+V
+1.00000000
+kHz
+
+0
+^Fluke 5500
+90.00000000
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14.00000000
+V
+60
+Hz
+Yokogawa WT3000E*0;
+2
+&100 V Range: 90 V @ 50 kHz
+False
+True
+^Yokogawa WT3000E
+90
+V
+60
+Hz
+, Elem1
+0
+^Fluke 5500
+90.00000000
+V
+50.00000000
+kHz
+
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14.00000000
+V
+60
+Hz
+Yokogawa WT3000E*0;
+2
+&100 V Range: 90 V @ 100 kHz
+False
+True
+^Yokogawa WT3000E
+90
+V
+60
+Hz
+, Elem1
+0
+^Fluke 5500
+90.00000000
+V
+100.00000000
+kHz
+
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14.00000000
+V
+60
+Hz
+Yokogawa WT3000E*0;
+2
+&150 V Range: 30 V @ 10 Hz
+False
+True
+^Yokogawa WT3000E
+150.00000000
+V
+60.00000000
+Hz
+, Elem1
+0
+^Fluke 5500
+30.00000000
+V
+10.00000000
+Hz
+
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14.00000000
+V
+60
+Hz
+Yokogawa WT3000E*0;
+2
+&150 V Range: 135 V @ 60 Hz
+False
+True
+^Yokogawa WT3000E
+135
+V
+60.00000000
+Hz
+, Elem1
+0
+^Fluke 5500
+135.00000000
+V
+60.00000000
+Hz
+
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14.00000000
+V
+60
+Hz
+Yokogawa WT3000E*0;
+2
+&150 V Range: 135 V @ 1 kHz
+False
+True
+^Yokogawa WT3000E
+135
+V
+60.00000000
+Hz
+, Elem1
+0
+^Fluke 5500
+135.00000000
+V
+1.00000000
+kHz
+
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14.00000000
+V
+60
+Hz
+Yokogawa WT3000E*0;
+2
+&150 V Range: 135 V @ 50 kHz
+False
+True
+^Yokogawa WT3000E
+135
+V
+60.00000000
+Hz
+, Elem1
+0
+^Fluke 5500
+135.00000000
+V
+50.00000000
+kHz
+
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14.00000000
+V
+60
+Hz
+Yokogawa WT3000E*0;
+2
+&150 V Range: 135 V @ 100 kHz
+False
+True
+^Yokogawa WT3000E
+135
+V
+60.00000000
+Hz
+, Elem1
+0
+^Fluke 5500
+135.00000000
+V
+100.00000000
+kHz
+
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14.00000000
+V
+60
+Hz
+Yokogawa WT3000E*0;
+2
+&300 V Range: 270 V @ 60 Hz
+False
+True
+^Yokogawa WT3000E
+270
+V
+60.00000000
+Hz
+, Elem1
+0
+^Fluke 5500
+270.00000000
+V
+60.00000000
+Hz
+
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14.00000000
+V
+60
+Hz
+Yokogawa WT3000E*0;
+2
+&300 V Range: 270 V @ 1 kHz
+False
+True
+^Yokogawa WT3000E
+270
+V
+60.00000000
+Hz
+, Elem1
+0
+^Fluke 5500
+270.00000000
+V
+1.00000000
+kHz
+
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14.00000000
+V
+60
+Hz
+Yokogawa WT3000E*0;
+2
+&300 V Range: 270 V @ 50 kHz
+False
+True
+^Yokogawa WT3000E
+270
+V
+60.00000000
+Hz
+, Elem1
+0
+^Fluke 5500
+270
+V
+50
+kHz
+
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14.00000000
+V
+60
+Hz
+Yokogawa WT3000E*0;
+2
+&300 V Range: 270 V @ 100 kHz
+False
+True
+^Yokogawa WT3000E
+270
+V
+60.00000000
+Hz
+, Elem1
+0
+^Fluke 5500
+270
+V
+100
+kHz
+
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14.00000000
+V
+60
+Hz
+Yokogawa WT3000E*0;
+2
+&600 V Range: 540 V @ 60 Hz
+False
+True
+^Yokogawa WT3000E
+540
+V
+60.00000000
+Hz
+, Elem1
+0
+^Fluke 5500
+540.00000000
+V
+60.00000000
+Hz
+
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14.00000000
+V
+60
+Hz
+Yokogawa WT3000E*0;
+2
+&600 V Range: 540 V @ 1 kHz
+False
+True
+^Yokogawa WT3000E
+540
+V
+60.00000000
+Hz
+, Elem1
+0
+^Fluke 5500
+540.00000000
+V
+1.00000000
+kHz
+
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14.00000000
+V
+60
+Hz
+Yokogawa WT3000E*0;
+2
+&600 V Range: 300 V @ 50 kHz
+False
+True
+^Yokogawa WT3000E
+540
+V
+60.00000000
+Hz
+, Elem1
+0
+^Fluke 5500
+300
+V
+50
+kHz
+
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14.00000000
+V
+60
+Hz
+Yokogawa WT3000E*0;
+2
+&600 V Range: 300 V @ 100 kHz
+False
+True
+^Yokogawa WT3000E
+540
+V
+60.00000000
+Hz
+, Elem1
+0
+^Fluke 5500
+300
+V
+100
+kHz
+
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14.00000000
+V
+60
+Hz
+Yokogawa WT3000E*0;
+2
+&1000 V Range: 0.9 kV @ 60 Hz
+False
+True
+^Yokogawa WT3000E
+900
+V
+60.00000000
+Hz
+, Elem1
+0
+^Fluke 5500
+0.900000000
+kV
+60.00000000
+Hz
+
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14.00000000
+V
+60
+Hz
+Yokogawa WT3000E*0;
+2
+&1000 V Range: 0.9 kV @ 1 kHz
+False
+True
+^Yokogawa WT3000E
+900
+V
+60.00000000
+Hz
+, Elem1
+0
+^Fluke 5500
+0.900000000
+kV
+1.00000000
+kHz
+
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14.00000000
+V
+60
+Hz
+Yokogawa WT3000E*0;
+2
+&1000 V Range: 0.9 kV @ 10 kHz
+False
+True
+^Yokogawa WT3000E
+900
+V
+60.00000000
+Hz
+, Elem1
+0
+^Fluke 5500
+0.900000000
+kV
+10
+kHz
+
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14.00000000
+V
+60
+Hz
+Yokogawa WT3000E*0;
+2
+&1000 V Range: 0.3 kV @ 100 kHz
+False
+True
+^Yokogawa WT3000E
+900
+V
+60.00000000
+Hz
+, Elem1
+0
+^Fluke 5500
+0.30000000
+kV
+100.00000000
+kHz
+
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14.00000000
+V
+60
+Hz
+Yokogawa WT3000E*0;
+2
+^Fluke 5500
+0
+
+0
+
+; STBY
+0
+*Yokogawa WT1800,,,Element 1: AC Current
+&Setup
+False
+True
+^Fluke 5500
+0
+
+0
+
+*RST
+0
+^Yokogawa WT3000E
+0
+
+0
+
+*RST
+0
+^Wait
+0
+
+0
+
+
+3
+&1 A Range: 0.9 A @ 10 Hz
+False
+True
+^Message
+0
+
+0
+
+Switch to Aux output
+0
+^Yokogawa WT3000E
+0.9
+A
+60.00000000
+Hz
+, Elem1
+0
+^Fluke 5520
+0.9
+A
+10
+Hz
+; CUR_POST A20
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14.00000000
+V
+60
+Hz
+Yokogawa WT3000E*0;
+2
+&1 A Range: 0.9 A @ 60 Hz
+False
+True
+^Yokogawa WT3000E
+0.9
+A
+60.00000000
+Hz
+, Elem1
+0
+^Fluke 5500
+0.900000000
+A
+60.00000000
+Hz
+
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14.00000000
+V
+60
+Hz
+Yokogawa WT3000E*0;
+2
+&1 A Range: 0.9 A @ 1 kHz
+False
+True
+^Yokogawa WT3000E
+0.9
+A
+60.00000000
+Hz
+, Elem1
+0
+^Fluke 5500
+0.900000000
+A
+1.00000000
+kHz
+
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14.00000000
+V
+60
+Hz
+Yokogawa WT3000E*0;
+2
+&1 A Range: 0.3 A @ 30 kHz
+False
+True
+^Yokogawa WT3000E
+0.9
+A
+60.00000000
+Hz
+, Elem1
+0
+^Fluke 5500
+0.3
+A
+30.00000000
+kHz
+
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14.00000000
+V
+60
+Hz
+Yokogawa WT3000E*0;
+2
+&2 A Range: 1.8 A @ 10 Hz
+False
+True
+^Yokogawa WT3000E
+1.8
+A
+60.00000000
+Hz
+, Elem1
+0
+^Fluke 5500
+1.8
+A
+10
+Hz
+
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14.00000000
+V
+60
+Hz
+Yokogawa WT3000E*0;
+2
+&2 A Range: 1.8 A @ 60 Hz
+False
+True
+^Yokogawa WT3000E
+1.8
+A
+60.00000000
+Hz
+, Elem1
+0
+^Fluke 5500
+1.80000000
+A
+60.00000000
+Hz
+
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14.00000000
+V
+60
+Hz
+Yokogawa WT3000E*0;
+2
+&2 A Range: 1.8 A @ 1 kHz
+False
+True
+^Yokogawa WT3000E
+1.8
+A
+60.00000000
+Hz
+, Elem1
+0
+^Fluke 5500
+1.80000000
+A
+1.00000000
+kHz
+
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14.00000000
+V
+60
+Hz
+Yokogawa WT3000E*0;
+2
+&2 A Range: 0.3 A @ 30 kHz
+False
+True
+^Yokogawa WT3000E
+0.9
+A
+60.00000000
+Hz
+, Elem1
+0
+^Fluke 5500
+0.3
+A
+30.00000000
+kHz
+
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14.00000000
+V
+60
+Hz
+Yokogawa WT3000E*0;
+2
+&5 A Range: 4.5 A @ 10 Hz
+False
+True
+^Fluke 5500
+0
+
+0
+
+; STBY
+0
+^Message
+0
+
+0
+
+Switch to 20A output
+0
+^Yokogawa WT3000E
+4.5
+A
+10.00000000
+Hz
+, Elem1
+0
+^Fluke 5500
+4.5000000
+A
+1.00000000
+kHz
+
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14.00000000
+V
+60
+Hz
+Yokogawa WT3000E*0;
+2
+&5 A Range: 4.5 A @ 60 Hz
+False
+True
+^Yokogawa WT3000E
+4.5
+A
+10.00000000
+Hz
+, Elem1
+0
+^Fluke 5500
+4.5
+A
+60
+Hz
+
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14.00000000
+V
+60
+Hz
+Yokogawa WT3000E*0;
+2
+&5 A Range: 4.5 A @ 1 kHz
+False
+True
+^Yokogawa WT3000E
+4.5
+A
+10.00000000
+Hz
+, Elem1
+0
+^Fluke 5500
+4.5
+A
+1
+kHz
+
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14.00000000
+V
+60
+Hz
+Yokogawa WT3000E*0;
+2
+&5 A Range: 0.3 A @ 30 kHz
+False
+True
+^Fluke 5500
+0
+
+0
+
+; STBY
+0
+^Message
+0
+
+0
+
+Switch to Aux output
+0
+^Yokogawa WT3000E
+4.5
+A
+10.00000000
+Hz
+, Elem1
+0
+^Fluke 5500
+0.3
+A
+30.00000000
+kHz
+
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14.00000000
+V
+60
+Hz
+Yokogawa WT3000E*0;
+2
+&10 A Range: 9 A @ 60 Hz
+False
+True
+^Fluke 5500
+0
+
+0
+
+; STBY
+0
+^Message
+0
+
+0
+
+Switch to 20A output
+0
+^Yokogawa WT3000E
+9
+A
+60.00000000
+Hz
+, Elem1
+0
+^Fluke 5500
+9.00000000
+A
+60.00000000
+Hz
+
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14.00000000
+V
+60
+Hz
+Yokogawa WT3000E*0;
+2
+&10 A Range: 9 A @ 1 kHz
+False
+True
+^Yokogawa WT3000E
+9
+A
+60.00000000
+Hz
+, Elem1
+0
+^Fluke 5500
+9.00000000
+A
+1.00000000
+kHz
+
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14.00000000
+V
+60
+Hz
+Yokogawa WT3000E*0;
+2
+&10 A Range: 0.3 A @ 30 kHz
+False
+True
+^Fluke 5500
+0
+
+0
+
+; STBY
+0
+^Message
+0
+
+0
+
+Switch to Aux output
+0
+^Yokogawa WT3000E
+9
+A
+60.00000000
+Hz
+, Elem1
+0
+^Fluke 5500
+0.300000000
+A
+30.00000000
+kHz
+
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14.00000000
+V
+60
+Hz
+Yokogawa WT3000E*0;
+2
+&20 A Range: 18 A @ 60 Hz
+False
+True
+^Fluke 5500
+0
+
+0
+
+; STBY
+0
+^Message
+0
+
+0
+
+Switch to 20A output
+0
+^Yokogawa WT3000E
+18
+A
+60.00000000
+Hz
+, Elem1
+0
+^Fluke 5500
+18.0000000
+A
+60.00000000
+Hz
+
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14.00000000
+V
+60
+Hz
+Yokogawa WT3000E*0;
+2
+&20 A Range: 18 A @ 1 kHz
+False
+True
+^Yokogawa WT3000E
+18
+A
+60.00000000
+Hz
+, Elem1
+0
+^Fluke 5500
+18.0000000
+A
+1.00000000
+kHz
+
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14.00000000
+V
+60
+Hz
+Yokogawa WT3000E*0;
+2
+&20 A Range: 0.3 A @ 30 kHz
+False
+True
+^Fluke 5500
+0
+
+0
+
+; STBY
+0
+^Message
+0
+
+0
+
+Switch to Aux output
+0
+^Yokogawa WT3000E
+18
+A
+60.00000000
+Hz
+, Elem1
+0
+^Fluke 5500
+0.300000000
+A
+30.00000000
+kHz
+
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14.00000000
+V
+60
+Hz
+Yokogawa WT3000E*0;
+2
+&50 A Range: 18 A @ 60 Hz
+False
+True
+^Fluke 5500
+0
+
+0
+
+; STBY
+0
+^Message
+0
+
+0
+
+Switch to 20A output
+0
+^Yokogawa WT3000E
+45
+A
+60.00000000
+Hz
+, Elem1
+0
+^Fluke 5500
+18.0000000
+A
+60.00000000
+Hz
+
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14.00000000
+V
+60
+Hz
+Yokogawa WT3000E*0;
+2
+&50 A Range: 18 A @ 1 kHz
+False
+True
+^Yokogawa WT3000E
+45
+A
+60.00000000
+Hz
+, Elem1
+0
+^Fluke 5500
+18.0000000
+A
+1
+kHz
+
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14.00000000
+V
+60
+Hz
+Yokogawa WT3000E*0;
+2
+*Yokogawa WT1800,,,Element 1: Power DC
+&Setup
+False
+True
+^Fluke 5500
+0
+
+0
+
+*RST
+0
+^Yokogawa WT3000E
+0
+
+0
+
+*RST
+0
+^Wait
+0
+
+0
+
+
+3
+&1.5 V / 2 A Range: 3 W
+False
+True
+^Message
+0
+
+0
+
+Switch to Aux output
+0
+^Yokogawa WT3000E
+1.500000000
+V
+2.00000000
+A
+, Elem1
+0
+^Fluke 5520
+1.500000000
+V
+2.00000000
+A
+; CUR_POST A20
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&3 V / 2 A Range: 6 W
+False
+True
+^Yokogawa WT3000E
+3.0000000
+V
+2.00000000
+A
+, Elem1
+0
+^Fluke 5500
+3
+V
+2.00000000
+A
+
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&6 V / 2 A Range: 12 W
+False
+True
+^Yokogawa WT3000E
+6
+V
+2.00000000
+A
+, Elem1
+0
+^Fluke 5500
+6
+V
+2.00000000
+A
+
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&10 V / 2 A Range: 20 W
+False
+True
+^Yokogawa WT3000E
+10
+V
+2.00000000
+A
+, Elem1
+0
+^Fluke 5500
+10
+V
+2.00000000
+A
+
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&10 V / 2 A Range: 15 W
+False
+True
+^Yokogawa WT3000E
+7.5
+V
+2
+A
+, Elem1
+0
+^Fluke 5500
+7.5
+V
+2
+A
+
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&10 V / 2 A Range: 10 W
+False
+True
+^Yokogawa WT3000E
+7.5
+V
+2
+A
+, Elem1
+0
+^Fluke 5500
+5
+V
+2
+A
+
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&10 V / 2 A Range: 5 W
+False
+True
+^Yokogawa WT3000E
+7.5
+V
+2
+A
+, Elem1
+0
+^Fluke 5500
+2.5
+V
+2
+A
+
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&10 V / 2 A Range: 2 W
+False
+True
+^Yokogawa WT3000E
+7.5
+V
+2
+A
+, Elem1
+0
+^Fluke 5500
+1
+V
+2
+A
+
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&20 V / 2 A Range: 30 W
+False
+True
+^Yokogawa WT3000E
+15
+V
+2
+A
+, Elem1
+0
+^Fluke 5500
+15
+V
+2
+A
+
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&60 V / 2 A Range: 120 W
+False
+True
+^Yokogawa WT3000E
+60
+V
+2
+A
+, Elem1
+0
+^Fluke 5500
+60
+V
+2
+A
+
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&100 V / 2 A Range: 200 W
+False
+True
+^Yokogawa WT3000E
+100
+V
+2
+A
+, Elem1
+0
+^Fluke 5500
+100
+V
+2
+A
+
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&150 V / 2 A Range: 300 W
+False
+True
+^Yokogawa WT3000E
+150.00000000
+V
+2
+A
+, Elem1
+0
+^Fluke 5500
+150.00000000
+V
+2
+A
+
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&300 V / 2 A Range: 600 W
+False
+True
+^Yokogawa WT3000E
+300
+V
+2
+A
+, Elem1
+0
+^Fluke 5500
+300
+V
+2
+A
+
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&600 V / 2 A Range: 1.2 kW
+False
+True
+^Yokogawa WT3000E
+600
+V
+2
+A
+, Elem1
+0
+^Fluke 5500
+600
+V
+2
+A
+
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&1 kV / 2 A Range: 2 kW
+False
+True
+^Yokogawa WT3000E
+1000
+V
+2
+A
+, Elem1
+0
+^Fluke 5500
+1
+kV
+2
+A
+
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&1 kV / 1 A Range: 1 kW
+False
+True
+^Yokogawa WT3000E
+1000
+V
+1
+A
+, Elem1
+0
+^Fluke 5500
+1
+kV
+1
+A
+
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&1 kV / 5 A Range: 5 kW
+False
+True
+^Fluke 5500
+0
+
+0
+
+; STBY
+0
+^Message
+0
+
+0
+
+Switch to 20A output
+0
+^Yokogawa WT3000E
+1000
+V
+5
+A
+, Elem1
+0
+^Fluke 5500
+1
+kV
+5
+A
+
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&1 kV / 10 A Range: 10 kW
+False
+True
+^Yokogawa WT3000E
+1000
+V
+10
+A
+, Elem1
+0
+^Fluke 5500
+1
+kV
+10
+A
+
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&1 kV / 20 A Range: 18 kW
+False
+True
+^Yokogawa WT3000E
+1000
+V
+18
+A
+, Elem1
+0
+^Fluke 5500
+1
+kV
+18
+A
+
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&1 kV / 50 A Range: 18 kW
+False
+True
+^Yokogawa WT3000E
+1000
+V
+45
+A
+, Elem1
+0
+^Fluke 5500
+1
+kV
+18
+A
+
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+^Fluke 5500
+0
+
+0
+
+; STBY
+0
+*Yokogawa WT1800,,,Element 1: Power AC
+&Setup
+False
+True
+^Fluke 5500
+0
+
+0
+
+*RST
+0
+^Yokogawa WT3000E
+0
+
+0
+
+*RST
+0
+^Wait
+0
+
+0
+
+
+3
+&1.5 V / 2 A Range: 3 W @ 60 Hz
+False
+True
+^Message
+0
+
+0
+
+Switch to Aux output
+0
+^Yokogawa WT3000E
+1.5
+V
+2
+A
+, Elem1, 60 Hz
+0
+^Fluke 5520
+1.500000000
+V
+2.00000000
+A
+, 60 Hz; CUR_POST A20
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&1.5 V / 2 A Range: 3 W @ 1 kHz
+False
+True
+^Yokogawa WT3000E
+1.5
+V
+2
+A
+, Elem1, 60 Hz
+0
+^Fluke 5500
+1.5
+V
+2
+A
+, 1 kHz
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&3 V / 2 A Range: 6 W @ 60 Hz
+False
+True
+^Yokogawa WT3000E
+3
+V
+2
+A
+, Elem1, 60 Hz
+0
+^Fluke 5500
+3
+V
+2
+A
+, 60 Hz
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&3 V / 2 A Range: 6 W @ 1 kHz
+False
+True
+^Yokogawa WT3000E
+3
+V
+2
+A
+, Elem1, 60 Hz
+0
+^Fluke 5500
+3
+V
+2
+A
+, 1 kHz
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&6 V / 2 A Range: 12 W @ 60 Hz
+False
+True
+^Yokogawa WT3000E
+6
+V
+2
+A
+, Elem1, 60 Hz
+0
+^Fluke 5500
+6
+V
+2
+A
+, 60 Hz
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&6 V / 2 A Range: 12 W @ 1 kHz
+False
+True
+^Yokogawa WT3000E
+6
+V
+2
+A
+, Elem1, 60 Hz
+0
+^Fluke 5500
+6
+V
+2
+A
+, 1 kHz
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&10 V / 2 A Range: 20 W @ 60 Hz
+False
+True
+^Yokogawa WT3000E
+10
+V
+2
+A
+, Elem1, 60 Hz
+0
+^Fluke 5500
+10
+V
+2
+A
+, 60 Hz
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&10 V / 2 A Range: 20 W @ 1 kHz
+False
+True
+^Yokogawa WT3000E
+10
+V
+2
+A
+, Elem1, 60 Hz
+0
+^Fluke 5500
+10
+V
+2
+A
+, 1 kHz
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&15 V / 2 A Range: 30 W @ 60 Hz
+False
+True
+^Yokogawa WT3000E
+15
+V
+2
+A
+, Elem1, 60 Hz
+0
+^Fluke 5500
+15
+V
+2
+A
+, 60 Hz
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&15 V / 2 A Range: 30 W @ 1 kHz
+False
+True
+^Yokogawa WT3000E
+15
+V
+2
+A
+, Elem1, 60 Hz
+0
+^Fluke 5500
+15
+V
+2
+A
+, 1 kHz
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&30 V / 2 A Range: 60 W @ 60 Hz
+False
+True
+^Yokogawa WT3000E
+30
+V
+2
+A
+, Elem1, 60 Hz
+0
+^Fluke 5500
+30
+V
+2
+A
+, 60 Hz
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&30 V / 2 A Range: 60 W @ 1 kHz
+False
+True
+^Yokogawa WT3000E
+30
+V
+2
+A
+, Elem1, 60 Hz
+0
+^Fluke 5500
+30
+V
+2
+A
+, 1 kHz
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&60 V / 2 A Range: 120 W @ 60 Hz
+False
+True
+^Yokogawa WT3000E
+60
+V
+2
+A
+, Elem1, 60 Hz
+0
+^Fluke 5500
+60
+V
+2
+A
+, 60 Hz
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&60 V / 2 A Range: 120 W @ 1 kHz
+False
+True
+^Yokogawa WT3000E
+60
+V
+2
+A
+, Elem1, 60 Hz
+0
+^Fluke 5500
+60
+V
+2
+A
+, 1 kHz
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&100 V / 2 A Range: 200 W @ 60 Hz
+False
+True
+^Yokogawa WT3000E
+100
+V
+2
+A
+, Elem1, 60 Hz
+0
+^Fluke 5500
+100
+V
+2
+A
+, 60 Hz
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&100 V / 2 A Range: 200 W @ 1 kHz
+False
+True
+^Yokogawa WT3000E
+100
+V
+2
+A
+, Elem1, 60 Hz
+0
+^Fluke 5500
+100
+V
+2
+A
+, 1 kHz
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&150 V / 2 A Range: 300 W @ 60 Hz
+False
+True
+^Yokogawa WT3000E
+150
+V
+2
+A
+, Elem1, 60 Hz
+0
+^Fluke 5500
+150
+V
+2
+A
+, 60 Hz
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&150 V / 2 A Range: 300 W @ 1 kHz
+False
+True
+^Yokogawa WT3000E
+150
+V
+2
+A
+, Elem1, 60 Hz
+0
+^Fluke 5500
+150
+V
+2
+A
+, 1 kHz
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&300 V / 2 A Range: 600 W @ 60 Hz
+False
+True
+^Yokogawa WT3000E
+300
+V
+2
+A
+, Elem1, 60 Hz
+0
+^Fluke 5500
+300
+V
+2
+A
+, 60 Hz
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&300 V / 2 A Range: 600 W @ 1 kHz
+False
+True
+^Yokogawa WT3000E
+300
+V
+2
+A
+, Elem1, 60 Hz
+0
+^Fluke 5500
+300
+V
+2
+A
+, 1 kHz
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&600 V / 2 A Range: 1.2 kW @ 60 Hz
+False
+True
+^Yokogawa WT3000E
+600
+V
+2
+A
+, Elem1, 60 Hz
+0
+^Fluke 5500
+600
+V
+2
+A
+, 60 Hz
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&600 V / 2 A Range: 1.2 kW @ 1 kHz
+False
+True
+^Yokogawa WT3000E
+600
+V
+2
+A
+, Elem1, 60 Hz
+0
+^Fluke 5500
+600
+V
+2
+A
+, 1 kHz
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&1 kV / 2 A Range: 2 kW @ 60 Hz
+False
+True
+^Yokogawa WT3000E
+1000
+V
+2
+A
+, Elem1, 60 Hz
+0
+^Fluke 5500
+1
+kV
+2
+A
+, 60 Hz
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&1 kV / 2 A Range: 2 kW @ 1 kHz
+False
+True
+^Yokogawa WT3000E
+1000
+V
+2
+A
+, Elem1, 60 Hz
+0
+^Fluke 5500
+1
+kV
+2
+A
+, 1 kHz
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+^Fluke 5500
+0
+
+0
+
+; STBY
+0
+*Yokogawa WT1800,,,Element 2: DC Volts
+&Setup
+False
+True
+^Fluke 5500
+0
+
+0
+
+*RST
+0
+^Yokogawa WT3000E
+0
+
+0
+
+*RST
+0
+^Message
+0
+
+0
+
+Set up wiring for Element 2
+0
+^Wait
+0
+
+0
+
+
+3
+&1.5 V Range: 1.35 V
+False
+True
+^Yokogawa WT3000E
+1.35
+V
+0
+
+, Elem2
+3
+^Fluke 5500
+1.3500000000
+V
+0
+Hz
+
+0
+^Fluke 5500
+0.00000000
+
+0
+
+OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&1.5 V Range: -1.35 V
+False
+True
+^Yokogawa WT3000E
+1.35
+V
+0
+
+, Elem2
+3
+^Fluke 5500
+-1.35000000
+V
+0
+Hz
+
+0
+^Fluke 5500
+0.00000000
+
+0
+
+OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&3 V Range: 2.7 V
+False
+True
+^Yokogawa WT3000E
+2.7
+V
+0
+
+, Elem2
+3
+^Fluke 5500
+2.7
+V
+0
+Hz
+
+0
+^Fluke 5500
+0.00000000
+
+0
+
+OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&3 V Range: -2.7 V
+False
+True
+^Yokogawa WT3000E
+2.7
+V
+0
+
+, Elem2
+3
+^Fluke 5500
+-2.70000000
+V
+0
+Hz
+
+0
+^Fluke 5500
+0.00000000
+
+0
+
+OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&6 V Range: 5.4 V
+False
+True
+^Yokogawa WT3000E
+5.4
+V
+0
+
+, Elem2
+3
+^Fluke 5500
+5.4
+V
+0
+Hz
+
+0
+^Fluke 5500
+0.00000000
+
+0
+
+OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&6 V Range: -5.4 V
+False
+True
+^Yokogawa WT3000E
+5.4
+V
+0
+
+, Elem2
+3
+^Fluke 5500
+-5.40000000
+V
+0
+Hz
+
+0
+^Fluke 5500
+0.00000000
+
+0
+
+OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&10 V Range: 9 V
+False
+True
+^Yokogawa WT3000E
+9
+V
+0
+
+, Elem2
+3
+^Fluke 5500
+9
+V
+0
+Hz
+
+0
+^Fluke 5500
+0.00000000
+
+0
+
+OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&10 V Range: -9 V
+False
+True
+^Yokogawa WT3000E
+9
+V
+0
+
+, Elem2
+3
+^Fluke 5500
+-9.00000000
+V
+0
+Hz
+
+0
+^Fluke 5500
+0.00000000
+
+0
+
+OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&15 V Range: 14 V
+False
+True
+^Yokogawa WT3000E
+14
+V
+0
+
+, Elem2
+3
+^Fluke 5500
+14
+V
+0
+Hz
+
+0
+^Fluke 5500
+0.00000000
+
+0
+
+OPER
+0
+^Wait
+14
+V
+0
+
+
+3
+^Monitor
+14
+V
+0
+
+Yokogawa WT3000E*0;
+2
+&15 V Range: -14 V
+False
+True
+^Yokogawa WT3000E
+14.00000000
+V
+0
+
+, Elem2
+3
+^Fluke 5500
+-14.00000000
+V
+0
+
+
+0
+^Fluke 5500
+0.00000000
+
+0
+
+OPER
+0
+^Wait
+14
+V
+0
+
+
+3
+^Monitor
+14
+V
+0
+
+Yokogawa WT3000E*0;
+2
+&30 V Range: 27 V
+False
+True
+^Yokogawa WT3000E
+27
+V
+0
+
+, Elem2
+3
+^Fluke 5500
+27
+V
+0
+Hz
+
+0
+^Fluke 5500
+0.00000000
+
+0
+
+OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&30 V Range: -27 V
+False
+True
+^Yokogawa WT3000E
+27
+V
+0
+
+, Elem2
+3
+^Fluke 5500
+-27.00000000
+V
+0
+Hz
+
+0
+^Fluke 5500
+0.00000000
+
+0
+
+OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&60 V Range: 54 V
+False
+True
+^Yokogawa WT3000E
+54
+V
+0
+
+, Elem2
+3
+^Fluke 5500
+54
+V
+0
+Hz
+
+0
+^Fluke 5500
+0.00000000
+
+0
+
+OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&60 V Range: -54 V
+False
+True
+^Yokogawa WT3000E
+54
+V
+0
+
+, Elem2
+3
+^Fluke 5500
+-54.00000000
+V
+0
+Hz
+
+0
+^Fluke 5500
+0.00000000
+
+0
+
+OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&100 V Range: 90 V
+False
+True
+^Yokogawa WT3000E
+90
+V
+0
+
+, Elem2
+3
+^Fluke 5500
+90
+V
+0
+Hz
+
+0
+^Fluke 5500
+0.00000000
+
+0
+
+OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&100 V Range: -90 V
+False
+True
+^Yokogawa WT3000E
+90
+V
+0
+
+, Elem2
+3
+^Fluke 5500
+-90.00000000
+V
+0
+Hz
+
+0
+^Fluke 5500
+0.00000000
+
+0
+
+OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&150 V Range: 145 V
+False
+True
+^Yokogawa WT3000E
+145
+V
+0
+
+, Elem2
+3
+^Fluke 5500
+145
+V
+0
+Hz
+
+0
+^Fluke 5500
+0.00000000
+
+0
+
+OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&150 V Range: -145 V
+False
+True
+^Yokogawa WT3000E
+145
+V
+0
+
+, Elem2
+3
+^Fluke 5500
+-145.00000000
+V
+0
+Hz
+
+0
+^Fluke 5500
+0.00000000
+
+0
+
+OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&300 V Range: 270 V
+False
+True
+^Yokogawa WT3000E
+270
+V
+0
+
+, Elem2
+3
+^Fluke 5500
+270
+V
+0
+Hz
+
+0
+^Fluke 5500
+0.00000000
+
+0
+
+OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&300 V Range: -270 V
+False
+True
+^Yokogawa WT3000E
+270
+V
+0
+
+, Elem2
+3
+^Fluke 5500
+-270.00000000
+V
+0
+Hz
+
+0
+^Fluke 5500
+0.00000000
+
+0
+
+OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&600 V Range: 540 V
+False
+True
+^Yokogawa WT3000E
+540
+V
+0
+
+, Elem2
+3
+^Fluke 5500
+540
+V
+0
+Hz
+
+0
+^Fluke 5500
+0.00000000
+
+0
+
+OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&600 V Range: -540 V
+False
+True
+^Yokogawa WT3000E
+540
+V
+0
+
+, Elem2
+3
+^Fluke 5500
+-540.00000000
+V
+0
+Hz
+
+0
+^Fluke 5500
+0.00000000
+
+0
+
+OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&1000 V Range: 0.9 kV
+False
+True
+^Yokogawa WT3000E
+1000.00000000
+V
+0
+
+, Elem2
+3
+^Fluke 5500
+0.900000000
+kV
+0
+
+
+0
+^Fluke 5500
+0.00000000
+
+0
+
+OPER
+0
+^Wait
+14
+V
+0
+
+
+3
+^Monitor
+14
+V
+0
+
+Yokogawa WT3000E*0;
+2
+&1000 V Range: -0.9 kV
+False
+True
+^Yokogawa WT3000E
+1000.00000000
+V
+0
+
+, Elem2
+3
+^Fluke 5500
+-0.90000000
+kV
+0
+
+
+0
+^Fluke 5500
+0.00000000
+
+0
+
+OPER
+0
+^Wait
+14
+V
+0
+
+
+3
+^Monitor
+14
+V
+0
+
+Yokogawa WT3000E*0;
+2
+^Fluke 5500
+0
+
+0
+
+; STBY
+0
+*Yokogawa WT1800,,,Element 2: DC Current
+&Setup
+False
+True
+^Fluke 5500
+0
+
+0
+
+*RST
+0
+^Yokogawa WT3000E
+0
+
+0
+
+*RST
+0
+^Wait
+0
+
+0
+
+
+3
+&1 A Range: 0.9 A
+False
+True
+^Yokogawa WT3000E
+0.9
+A
+0
+
+, Elem2
+0
+^Fluke 5520
+0.9
+A
+0
+Hz
+; CUR_POST A20
+0
+^Fluke 5500
+0
+
+0
+
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&1 A Range: -0.9 A
+False
+True
+^Yokogawa WT3000E
+0.9
+A
+0
+
+, Elem2
+0
+^Fluke 5500
+-0.90000000
+A
+0
+Hz
+
+0
+^Fluke 5500
+0
+
+0
+
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&2 A Range: 1.8 A
+False
+True
+^Yokogawa WT3000E
+1.8
+A
+0
+
+, Elem2
+0
+^Fluke 5500
+1.8
+A
+0
+Hz
+
+0
+^Fluke 5500
+0
+
+0
+
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&2 A Range: -1.8 A
+False
+True
+^Yokogawa WT3000E
+1.8
+A
+0
+
+, Elem2
+0
+^Fluke 5500
+-1.80000000
+A
+0
+Hz
+
+0
+^Fluke 5500
+0
+
+0
+
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&5 A Range: 4.5 A
+False
+True
+^Yokogawa WT3000E
+4.5
+A
+0
+
+, Elem2
+0
+^Fluke 5500
+4.5
+A
+0
+Hz
+
+0
+^Fluke 5500
+0
+
+0
+
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&5 A Range: -4.5 A
+False
+True
+^Yokogawa WT3000E
+4.5
+A
+0
+
+, Elem2
+0
+^Fluke 5500
+-4.50000000
+A
+0
+Hz
+
+0
+^Fluke 5500
+0
+
+0
+
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&10 A Range: 9 A
+False
+True
+^Yokogawa WT3000E
+9
+A
+0
+
+, Elem2
+0
+^Fluke 5500
+9
+A
+0
+Hz
+
+0
+^Fluke 5500
+0
+
+0
+
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&10 A Range: -9 A
+False
+True
+^Yokogawa WT3000E
+9
+A
+0
+
+, Elem2
+0
+^Fluke 5500
+-9.00000000
+A
+0
+Hz
+
+0
+^Fluke 5500
+0
+
+0
+
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&20 A Range: 18 A
+False
+True
+^Yokogawa WT3000E
+20.00000000
+A
+0
+
+, Elem2
+0
+^Fluke 5500
+18.0000000
+A
+0
+
+
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14.00000000
+V
+60
+Hz
+Yokogawa WT3000E*0;
+2
+&20 A Range: -18 A
+False
+True
+^Yokogawa WT3000E
+20.00000000
+A
+0
+
+, Elem2
+0
+^Fluke 5500
+-18.00000000
+A
+0
+
+
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14.00000000
+V
+60
+Hz
+Yokogawa WT3000E*0;
+2
+^Fluke 5500
+-18.00000000
+A
+0
+
+; STBY
+0
+&50 A Range: 18 A
+False
+True
+^Yokogawa WT3000E
+45
+A
+0
+
+, Elem2
+0
+^Fluke 5500
+18
+A
+0
+Hz
+
+0
+^Fluke 5500
+0
+
+0
+
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&50 A Range: -18 A
+False
+True
+^Yokogawa WT3000E
+45
+A
+0
+
+, Elem2
+0
+^Fluke 5500
+-18.00000000
+A
+0
+Hz
+
+0
+^Fluke 5500
+0
+
+0
+
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+^Fluke 5500
+0
+
+0
+
+; STBY
+0
+*Yokogawa WT1800,,,Element 2: AC Volts
+&Setup
+False
+True
+^Fluke 5500
+0
+
+0
+
+*RST
+0
+^Yokogawa WT3000E
+0
+
+0
+
+*RST
+0
+^Wait
+0
+
+0
+
+
+3
+&1.5 V Range: 1.35 V @ 10 Hz
+False
+True
+^Yokogawa WT3000E
+1.500000000
+V
+10.00000000
+Hz
+, Elem2
+0
+^Fluke 5500
+1.35
+V
+10
+Hz
+
+0
+^Fluke 5500
+0
+
+0
+
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&1.5 V Range: 1.35 V @ 60 Hz
+False
+True
+^Yokogawa WT3000E
+1.500000000
+V
+10.00000000
+Hz
+, Elem2
+0
+^Fluke 5500
+1.35
+V
+60.00000000
+Hz
+
+0
+^Fluke 5500
+0
+
+0
+
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&1.5 V Range: 1.35 V @ 1 kHz
+False
+True
+^Yokogawa WT3000E
+1.500000000
+V
+10.00000000
+Hz
+, Elem2
+0
+^Fluke 5500
+1.35
+V
+1
+kHz
+
+0
+^Fluke 5500
+0
+
+0
+
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&1.5 V Range: 1.35 V @ 50 kHz
+False
+True
+^Yokogawa WT3000E
+1.500000000
+V
+10.00000000
+Hz
+, Elem2
+0
+^Fluke 5500
+1.35
+V
+1
+kHz
+
+0
+^Fluke 5500
+0
+
+0
+
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&1.5 V Range: 1.35 V @ 100 kHz
+False
+True
+^Yokogawa WT3000E
+1.500000000
+V
+10.00000000
+Hz
+, Elem2
+0
+^Fluke 5500
+1.35
+V
+100
+kHz
+
+0
+^Fluke 5500
+0
+
+0
+
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&1.5 V Range: 1.35 V @ 500 kHz
+False
+True
+^Yokogawa WT3000E
+1.500000000
+V
+10.00000000
+Hz
+, Elem2
+0
+^Fluke 5500
+1.35
+V
+500.00000000
+kHz
+
+0
+^Fluke 5500
+0
+
+0
+
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&3 V Range: 2.7 V @ 10 Hz
+False
+True
+^Yokogawa WT3000E
+2.7
+V
+10.00000000
+Hz
+, Elem2
+0
+^Fluke 5500
+2.7
+V
+10
+Hz
+
+0
+^Fluke 5500
+0
+
+0
+
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&3 V Range: 2.7 V @ 60 Hz
+False
+True
+^Yokogawa WT3000E
+2.7
+V
+10.00000000
+Hz
+, Elem2
+0
+^Fluke 5500
+2.7
+V
+60
+Hz
+
+0
+^Fluke 5500
+0
+
+0
+
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&3 V Range: 2.7 V @ 1 kHz
+False
+True
+^Yokogawa WT3000E
+2.7
+V
+10.00000000
+Hz
+, Elem2
+0
+^Fluke 5500
+2.7
+V
+1
+kHz
+
+0
+^Fluke 5500
+0
+
+0
+
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&3 V Range: 2.7 V @ 50 kHz
+False
+True
+^Yokogawa WT3000E
+2.7
+V
+10.00000000
+Hz
+, Elem2
+0
+^Fluke 5500
+2.7
+V
+50
+kHz
+
+0
+^Fluke 5500
+0
+
+0
+
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&3 V Range: 2.7 V @ 100 kHz
+False
+True
+^Yokogawa WT3000E
+2.7
+V
+10.00000000
+Hz
+, Elem2
+0
+^Fluke 5500
+2.7
+V
+100
+kHz
+
+0
+^Fluke 5500
+0
+
+0
+
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&3 V Range: 2.7 V @ 500 kHz
+False
+True
+^Yokogawa WT3000E
+2.7
+V
+10.00000000
+Hz
+, Elem2
+0
+^Fluke 5500
+2.7
+V
+500.00000000
+kHz
+
+0
+^Fluke 5500
+0
+
+0
+
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&6 V Range: 5.4 V @ 10 Hz
+False
+True
+^Yokogawa WT3000E
+5.4
+V
+10.00000000
+Hz
+, Elem2
+0
+^Fluke 5500
+5.4
+V
+10
+Hz
+
+0
+^Fluke 5500
+0
+
+0
+
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&6 V Range: 5.4 V @ 60 Hz
+False
+True
+^Yokogawa WT3000E
+5.4
+V
+10.00000000
+Hz
+, Elem2
+0
+^Fluke 5500
+5.4
+V
+60
+Hz
+
+0
+^Fluke 5500
+0
+
+0
+
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&6 V Range: 5.4 V @ 1 kHz
+False
+True
+^Yokogawa WT3000E
+5.4
+V
+10.00000000
+Hz
+, Elem2
+0
+^Fluke 5500
+5.4
+V
+1
+kHz
+
+0
+^Fluke 5500
+0
+
+0
+
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&6 V Range: 5.4 V @ 50 kHz
+False
+True
+^Yokogawa WT3000E
+5.4
+V
+10.00000000
+Hz
+, Elem2
+0
+^Fluke 5500
+5.4
+V
+50
+kHz
+
+0
+^Fluke 5500
+0
+
+0
+
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&6 V Range: 5.4 V @ 100 kHz
+False
+True
+^Yokogawa WT3000E
+5.4
+V
+10.00000000
+Hz
+, Elem2
+0
+^Fluke 5500
+5.4
+V
+100
+kHz
+
+0
+^Fluke 5500
+0
+
+0
+
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&6 V Range: 5.4 V @ 500 kHz
+False
+True
+^Yokogawa WT3000E
+5.4
+V
+10.00000000
+Hz
+, Elem2
+0
+^Fluke 5500
+5.4
+V
+500.00000000
+kHz
+
+0
+^Fluke 5500
+0
+
+0
+
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&10 V Range: 9 V @ 10 Hz
+False
+True
+^Yokogawa WT3000E
+9
+V
+10.00000000
+Hz
+, Elem2
+0
+^Fluke 5500
+9
+V
+10
+Hz
+
+0
+^Fluke 5500
+0
+
+0
+
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&10 V Range: 9 V @ 60 Hz
+False
+True
+^Yokogawa WT3000E
+9
+V
+10.00000000
+Hz
+, Elem2
+0
+^Fluke 5500
+9
+V
+60
+Hz
+
+0
+^Fluke 5500
+0
+
+0
+
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&10 V Range: 9 V @ 1 kHz
+False
+True
+^Yokogawa WT3000E
+9
+V
+10.00000000
+Hz
+, Elem2
+0
+^Fluke 5500
+9
+V
+1
+kHz
+
+0
+^Fluke 5500
+0
+
+0
+
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&10 V Range: 9 V @ 50 kHz
+False
+True
+^Yokogawa WT3000E
+9
+V
+10.00000000
+Hz
+, Elem2
+0
+^Fluke 5500
+9
+V
+50
+kHz
+
+0
+^Fluke 5500
+0
+
+0
+
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&10 V Range: 9 V @ 100 kHz
+False
+True
+^Yokogawa WT3000E
+9
+V
+10.00000000
+Hz
+, Elem2
+0
+^Fluke 5500
+9
+V
+100
+kHz
+
+0
+^Fluke 5500
+0
+
+0
+
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&10 V Range: 3 V @ 500 kHz
+False
+True
+^Yokogawa WT3000E
+9
+V
+10.00000000
+Hz
+, Elem2
+0
+^Fluke 5500
+3
+V
+500.00000000
+kHz
+
+0
+^Fluke 5500
+0
+
+0
+
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&15 V Range: 14 V @ 10 Hz
+False
+True
+^Yokogawa WT3000E
+14
+V
+10.00000000
+Hz
+, Elem2
+0
+^Fluke 5500
+14
+V
+10
+Hz
+
+0
+^Fluke 5500
+0
+
+0
+
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&15 V Range: 14 V @ 60 Hz
+False
+True
+^Yokogawa WT3000E
+14
+V
+10.00000000
+Hz
+, Elem2
+0
+^Fluke 5500
+14
+V
+60
+Hz
+
+0
+^Fluke 5500
+0
+
+0
+
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&15 V Range: 14 V @ 1 kHz
+False
+True
+^Yokogawa WT3000E
+14
+V
+10.00000000
+Hz
+, Elem2
+0
+^Fluke 5500
+14
+V
+1
+kHz
+
+0
+^Fluke 5500
+0
+
+0
+
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&15 V Range: 14 V @ 50 kHz
+False
+True
+^Yokogawa WT3000E
+14
+V
+10.00000000
+Hz
+, Elem2
+0
+^Fluke 5500
+14
+V
+50
+kHz
+
+0
+^Fluke 5500
+0
+
+0
+
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&15 V Range: 14 V @ 100 kHz
+False
+True
+^Yokogawa WT3000E
+14
+V
+10.00000000
+Hz
+, Elem2
+0
+^Fluke 5500
+14
+V
+100
+kHz
+
+0
+^Fluke 5500
+0
+
+0
+
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&15 V Range: 3 V @ 500 kHz
+False
+True
+^Yokogawa WT3000E
+14
+V
+10.00000000
+Hz
+, Elem2
+0
+^Fluke 5500
+3
+V
+500.00000000
+kHz
+
+0
+^Fluke 5500
+0
+
+0
+
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&30 V Range: 27 V @ 10 Hz
+False
+True
+^Yokogawa WT3000E
+27
+V
+10.00000000
+Hz
+, Elem2
+0
+^Fluke 5500
+27
+V
+10
+Hz
+
+0
+^Fluke 5500
+0
+
+0
+
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&30 V Range: 27 V @ 60 Hz
+False
+True
+^Yokogawa WT3000E
+27
+V
+10.00000000
+Hz
+, Elem2
+0
+^Fluke 5500
+27
+V
+60.00000000
+Hz
+
+0
+^Fluke 5500
+0
+
+0
+
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&30 V Range: 27 V @ 1 kHz
+False
+True
+^Yokogawa WT3000E
+27
+V
+10.00000000
+Hz
+, Elem2
+0
+^Fluke 5500
+27
+V
+1
+kHz
+
+0
+^Fluke 5500
+0
+
+0
+
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&30 V Range: 27 V @ 50 kHz
+False
+True
+^Yokogawa WT3000E
+27
+V
+10.00000000
+Hz
+, Elem2
+0
+^Fluke 5500
+27
+V
+50
+kHz
+
+0
+^Fluke 5500
+0
+
+0
+
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&30 V Range: 27 V @ 100 kHz
+False
+True
+^Yokogawa WT3000E
+27
+V
+10.00000000
+Hz
+, Elem2
+0
+^Fluke 5500
+27
+V
+100
+kHz
+
+0
+^Fluke 5500
+0
+
+0
+
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&30 V Range: 3 V @ 500 kHz
+False
+True
+^Yokogawa WT3000E
+27
+V
+10.00000000
+Hz
+, Elem2
+0
+^Fluke 5500
+3
+V
+500.00000000
+kHz
+
+0
+^Fluke 5500
+0
+
+0
+
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&60 V Range: 54 V @ 60 Hz
+False
+True
+^Yokogawa WT3000E
+54.00000000
+V
+60
+Hz
+, Elem2
+0
+^Fluke 5500
+54.00000000
+V
+60
+Hz
+
+0
+^Fluke 5500
+54.00000000
+V
+60
+Hz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14.00000000
+V
+60
+Hz
+Yokogawa WT3000E*0;
+2
+&60 V Range: 54 V @ 1 kHz
+False
+True
+^Yokogawa WT3000E
+54
+V
+60
+Hz
+, Elem2
+0
+^Fluke 5500
+54.00000000
+V
+1
+kHz
+
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14.00000000
+V
+60
+Hz
+Yokogawa WT3000E*0;
+2
+&60 V Range: 54 V @ 50 kHz
+False
+True
+^Yokogawa WT3000E
+54
+V
+60
+Hz
+, Elem2
+0
+^Fluke 5500
+54.00000000
+V
+50
+kHz
+
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14.00000000
+V
+60
+Hz
+Yokogawa WT3000E*0;
+2
+&60 V Range: 54 V @ 100 kHz
+False
+True
+^Yokogawa WT3000E
+54
+V
+60
+Hz
+, Elem2
+0
+^Fluke 5500
+54.00000000
+V
+100
+kHz
+
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14.00000000
+V
+60
+Hz
+Yokogawa WT3000E*0;
+2
+&100 V Range: 90 V @ 60 Hz
+False
+True
+^Yokogawa WT3000E
+90
+V
+60
+Hz
+, Elem2
+0
+^Fluke 5500
+90.00000000
+V
+60
+Hz
+
+0
+^Fluke 5500
+90.00000000
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14.00000000
+V
+60
+Hz
+Yokogawa WT3000E*0;
+2
+&100 V Range: 90 V @ 1 kHz
+False
+True
+^Yokogawa WT3000E
+90
+V
+60
+Hz
+, Elem2
+0
+^Fluke 5500
+90.00000000
+V
+1.00000000
+kHz
+
+0
+^Fluke 5500
+90.00000000
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14.00000000
+V
+60
+Hz
+Yokogawa WT3000E*0;
+2
+&100 V Range: 90 V @ 50 kHz
+False
+True
+^Yokogawa WT3000E
+90
+V
+60
+Hz
+, Elem2
+0
+^Fluke 5500
+90.00000000
+V
+50.00000000
+kHz
+
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14.00000000
+V
+60
+Hz
+Yokogawa WT3000E*0;
+2
+&100 V Range: 90 V @ 100 kHz
+False
+True
+^Yokogawa WT3000E
+90
+V
+60
+Hz
+, Elem2
+0
+^Fluke 5500
+90.00000000
+V
+100.00000000
+kHz
+
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14.00000000
+V
+60
+Hz
+Yokogawa WT3000E*0;
+2
+&150 V Range: 30 V @ 10 Hz
+False
+True
+^Yokogawa WT3000E
+150.00000000
+V
+60.00000000
+Hz
+, Elem2
+0
+^Fluke 5500
+30.00000000
+V
+10.00000000
+Hz
+
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14.00000000
+V
+60
+Hz
+Yokogawa WT3000E*0;
+2
+&150 V Range: 135 V @ 60 Hz
+False
+True
+^Yokogawa WT3000E
+135
+V
+60.00000000
+Hz
+, Elem2
+0
+^Fluke 5500
+135.00000000
+V
+60.00000000
+Hz
+
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14.00000000
+V
+60
+Hz
+Yokogawa WT3000E*0;
+2
+&150 V Range: 135 V @ 1 kHz
+False
+True
+^Yokogawa WT3000E
+135
+V
+60.00000000
+Hz
+, Elem2
+0
+^Fluke 5500
+135.00000000
+V
+1.00000000
+kHz
+
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14.00000000
+V
+60
+Hz
+Yokogawa WT3000E*0;
+2
+&150 V Range: 135 V @ 50 kHz
+False
+True
+^Yokogawa WT3000E
+135
+V
+60.00000000
+Hz
+, Elem2
+0
+^Fluke 5500
+135.00000000
+V
+50.00000000
+kHz
+
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14.00000000
+V
+60
+Hz
+Yokogawa WT3000E*0;
+2
+&150 V Range: 135 V @ 100 kHz
+False
+True
+^Yokogawa WT3000E
+135
+V
+60.00000000
+Hz
+, Elem2
+0
+^Fluke 5500
+135.00000000
+V
+100.00000000
+kHz
+
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14.00000000
+V
+60
+Hz
+Yokogawa WT3000E*0;
+2
+&300 V Range: 270 V @ 60 Hz
+False
+True
+^Yokogawa WT3000E
+270
+V
+60.00000000
+Hz
+, Elem2
+0
+^Fluke 5500
+270.00000000
+V
+60.00000000
+Hz
+
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14.00000000
+V
+60
+Hz
+Yokogawa WT3000E*0;
+2
+&300 V Range: 270 V @ 1 kHz
+False
+True
+^Yokogawa WT3000E
+270
+V
+60.00000000
+Hz
+, Elem2
+0
+^Fluke 5500
+270.00000000
+V
+1.00000000
+kHz
+
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14.00000000
+V
+60
+Hz
+Yokogawa WT3000E*0;
+2
+&300 V Range: 270 V @ 50 kHz
+False
+True
+^Yokogawa WT3000E
+270
+V
+60.00000000
+Hz
+, Elem2
+0
+^Fluke 5500
+270
+V
+50
+kHz
+
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14.00000000
+V
+60
+Hz
+Yokogawa WT3000E*0;
+2
+&300 V Range: 270 V @ 100 kHz
+False
+True
+^Yokogawa WT3000E
+270
+V
+60.00000000
+Hz
+, Elem2
+0
+^Fluke 5500
+270
+V
+100
+kHz
+
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14.00000000
+V
+60
+Hz
+Yokogawa WT3000E*0;
+2
+&600 V Range: 540 V @ 60 Hz
+False
+True
+^Yokogawa WT3000E
+540
+V
+60.00000000
+Hz
+, Elem2
+0
+^Fluke 5500
+540.00000000
+V
+60.00000000
+Hz
+
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14.00000000
+V
+60
+Hz
+Yokogawa WT3000E*0;
+2
+&600 V Range: 540 V @ 1 kHz
+False
+True
+^Yokogawa WT3000E
+540
+V
+60.00000000
+Hz
+, Elem2
+0
+^Fluke 5500
+540.00000000
+V
+1.00000000
+kHz
+
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14.00000000
+V
+60
+Hz
+Yokogawa WT3000E*0;
+2
+&600 V Range: 300 V @ 50 kHz
+False
+True
+^Yokogawa WT3000E
+540
+V
+60.00000000
+Hz
+, Elem2
+0
+^Fluke 5500
+300
+V
+50
+kHz
+
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14.00000000
+V
+60
+Hz
+Yokogawa WT3000E*0;
+2
+&600 V Range: 300 V @ 100 kHz
+False
+True
+^Yokogawa WT3000E
+540
+V
+60.00000000
+Hz
+, Elem2
+0
+^Fluke 5500
+300
+V
+100
+kHz
+
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14.00000000
+V
+60
+Hz
+Yokogawa WT3000E*0;
+2
+&1000 V Range: 0.9 kV @ 60 Hz
+False
+True
+^Yokogawa WT3000E
+900
+V
+60.00000000
+Hz
+, Elem2
+0
+^Fluke 5500
+0.900000000
+kV
+60.00000000
+Hz
+
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14.00000000
+V
+60
+Hz
+Yokogawa WT3000E*0;
+2
+&1000 V Range: 0.9 kV @ 1 kHz
+False
+True
+^Yokogawa WT3000E
+900
+V
+60.00000000
+Hz
+, Elem2
+0
+^Fluke 5500
+0.900000000
+kV
+1.00000000
+kHz
+
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14.00000000
+V
+60
+Hz
+Yokogawa WT3000E*0;
+2
+&1000 V Range: 0.9 kV @ 10 kHz
+False
+True
+^Yokogawa WT3000E
+900
+V
+60.00000000
+Hz
+, Elem2
+0
+^Fluke 5500
+0.900000000
+kV
+10
+kHz
+
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14.00000000
+V
+60
+Hz
+Yokogawa WT3000E*0;
+2
+&1000 V Range: 0.3 kV @ 100 kHz
+False
+True
+^Yokogawa WT3000E
+900
+V
+60.00000000
+Hz
+, Elem2
+0
+^Fluke 5500
+0.30000000
+kV
+100.00000000
+kHz
+
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14.00000000
+V
+60
+Hz
+Yokogawa WT3000E*0;
+2
+^Fluke 5500
+0
+
+0
+
+; STBY
+0
+*Yokogawa WT1800,,,Element 2: AC Current
+&Setup
+False
+True
+^Fluke 5500
+0
+
+0
+
+*RST
+0
+^Yokogawa WT3000E
+0
+
+0
+
+*RST
+0
+^Wait
+0
+
+0
+
+
+3
+&1 A Range: 0.9 A @ 10 Hz
+False
+True
+^Message
+0
+
+0
+
+Switch to Aux output
+0
+^Yokogawa WT3000E
+0.9
+A
+60.00000000
+Hz
+, Elem2
+0
+^Fluke 5520
+0.9
+A
+10
+Hz
+; CUR_POST A20
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14.00000000
+V
+60
+Hz
+Yokogawa WT3000E*0;
+2
+&1 A Range: 0.9 A @ 60 Hz
+False
+True
+^Yokogawa WT3000E
+0.9
+A
+60.00000000
+Hz
+, Elem2
+0
+^Fluke 5500
+0.900000000
+A
+60.00000000
+Hz
+
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14.00000000
+V
+60
+Hz
+Yokogawa WT3000E*0;
+2
+&1 A Range: 0.9 A @ 1 kHz
+False
+True
+^Yokogawa WT3000E
+0.9
+A
+60.00000000
+Hz
+, Elem2
+0
+^Fluke 5500
+0.900000000
+A
+1.00000000
+kHz
+
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14.00000000
+V
+60
+Hz
+Yokogawa WT3000E*0;
+2
+&1 A Range: 0.3 A @ 30 kHz
+False
+True
+^Yokogawa WT3000E
+0.9
+A
+60.00000000
+Hz
+, Elem2
+0
+^Fluke 5500
+0.3
+A
+30.00000000
+kHz
+
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14.00000000
+V
+60
+Hz
+Yokogawa WT3000E*0;
+2
+&2 A Range: 1.8 A @ 10 Hz
+False
+True
+^Yokogawa WT3000E
+1.8
+A
+60.00000000
+Hz
+, Elem2
+0
+^Fluke 5500
+1.8
+A
+10
+Hz
+
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14.00000000
+V
+60
+Hz
+Yokogawa WT3000E*0;
+2
+&2 A Range: 1.8 A @ 60 Hz
+False
+True
+^Yokogawa WT3000E
+1.8
+A
+60.00000000
+Hz
+, Elem2
+0
+^Fluke 5500
+1.80000000
+A
+60.00000000
+Hz
+
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14.00000000
+V
+60
+Hz
+Yokogawa WT3000E*0;
+2
+&2 A Range: 1.8 A @ 1 kHz
+False
+True
+^Yokogawa WT3000E
+1.8
+A
+60.00000000
+Hz
+, Elem2
+0
+^Fluke 5500
+1.80000000
+A
+1.00000000
+kHz
+
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14.00000000
+V
+60
+Hz
+Yokogawa WT3000E*0;
+2
+&2 A Range: 0.3 A @ 30 kHz
+False
+True
+^Yokogawa WT3000E
+0.9
+A
+60.00000000
+Hz
+, Elem2
+0
+^Fluke 5500
+0.3
+A
+30.00000000
+kHz
+
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14.00000000
+V
+60
+Hz
+Yokogawa WT3000E*0;
+2
+&5 A Range: 4.5 A @ 10 Hz
+False
+True
+^Fluke 5500
+0
+
+0
+
+; STBY
+0
+^Message
+0
+
+0
+
+Switch to 20A output
+0
+^Yokogawa WT3000E
+4.5
+A
+10.00000000
+Hz
+, Elem2
+0
+^Fluke 5500
+4.5000000
+A
+1.00000000
+kHz
+
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14.00000000
+V
+60
+Hz
+Yokogawa WT3000E*0;
+2
+&5 A Range: 4.5 A @ 60 Hz
+False
+True
+^Yokogawa WT3000E
+4.5
+A
+10.00000000
+Hz
+, Elem2
+0
+^Fluke 5500
+4.5
+A
+60
+Hz
+
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14.00000000
+V
+60
+Hz
+Yokogawa WT3000E*0;
+2
+&5 A Range: 4.5 A @ 1 kHz
+False
+True
+^Yokogawa WT3000E
+4.5
+A
+10.00000000
+Hz
+, Elem2
+0
+^Fluke 5500
+4.5
+A
+1
+kHz
+
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14.00000000
+V
+60
+Hz
+Yokogawa WT3000E*0;
+2
+&5 A Range: 0.3 A @ 30 kHz
+False
+True
+^Fluke 5500
+0
+
+0
+
+; STBY
+0
+^Message
+0
+
+0
+
+Switch to Aux output
+0
+^Yokogawa WT3000E
+4.5
+A
+10.00000000
+Hz
+, Elem2
+0
+^Fluke 5500
+0.3
+A
+30.00000000
+kHz
+
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14.00000000
+V
+60
+Hz
+Yokogawa WT3000E*0;
+2
+&10 A Range: 9 A @ 60 Hz
+False
+True
+^Fluke 5500
+0
+
+0
+
+; STBY
+0
+^Message
+0
+
+0
+
+Switch to 20A output
+0
+^Yokogawa WT3000E
+9
+A
+60.00000000
+Hz
+, Elem2
+0
+^Fluke 5500
+9.00000000
+A
+60.00000000
+Hz
+
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14.00000000
+V
+60
+Hz
+Yokogawa WT3000E*0;
+2
+&10 A Range: 9 A @ 1 kHz
+False
+True
+^Yokogawa WT3000E
+9
+A
+60.00000000
+Hz
+, Elem2
+0
+^Fluke 5500
+9.00000000
+A
+1.00000000
+kHz
+
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14.00000000
+V
+60
+Hz
+Yokogawa WT3000E*0;
+2
+&10 A Range: 0.3 A @ 30 kHz
+False
+True
+^Fluke 5500
+0
+
+0
+
+; STBY
+0
+^Message
+0
+
+0
+
+Switch to Aux output
+0
+^Yokogawa WT3000E
+9
+A
+60.00000000
+Hz
+, Elem2
+0
+^Fluke 5500
+0.300000000
+A
+30.00000000
+kHz
+
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14.00000000
+V
+60
+Hz
+Yokogawa WT3000E*0;
+2
+&20 A Range: 18 A @ 60 Hz
+False
+True
+^Fluke 5500
+0
+
+0
+
+; STBY
+0
+^Message
+0
+
+0
+
+Switch to 20A output
+0
+^Yokogawa WT3000E
+18
+A
+60.00000000
+Hz
+, Elem2
+0
+^Fluke 5500
+18.0000000
+A
+60.00000000
+Hz
+
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14.00000000
+V
+60
+Hz
+Yokogawa WT3000E*0;
+2
+&20 A Range: 18 A @ 1 kHz
+False
+True
+^Yokogawa WT3000E
+18
+A
+60.00000000
+Hz
+, Elem2
+0
+^Fluke 5500
+18.0000000
+A
+1.00000000
+kHz
+
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14.00000000
+V
+60
+Hz
+Yokogawa WT3000E*0;
+2
+&20 A Range: 0.3 A @ 30 kHz
+False
+True
+^Fluke 5500
+0
+
+0
+
+; STBY
+0
+^Message
+0
+
+0
+
+Switch to Aux output
+0
+^Yokogawa WT3000E
+18
+A
+60.00000000
+Hz
+, Elem2
+0
+^Fluke 5500
+0.300000000
+A
+30.00000000
+kHz
+
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14.00000000
+V
+60
+Hz
+Yokogawa WT3000E*0;
+2
+&50 A Range: 18 A @ 60 Hz
+False
+True
+^Fluke 5500
+0
+
+0
+
+; STBY
+0
+^Message
+0
+
+0
+
+Switch to 20A output
+0
+^Yokogawa WT3000E
+45
+A
+60.00000000
+Hz
+, Elem2
+0
+^Fluke 5500
+18.0000000
+A
+60.00000000
+Hz
+
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14.00000000
+V
+60
+Hz
+Yokogawa WT3000E*0;
+2
+&50 A Range: 18 A @ 1 kHz
+False
+True
+^Yokogawa WT3000E
+45
+A
+60.00000000
+Hz
+, Elem2
+0
+^Fluke 5500
+18.0000000
+A
+1
+kHz
+
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14.00000000
+V
+60
+Hz
+Yokogawa WT3000E*0;
+2
+*Yokogawa WT1800,,,Element 2: Power DC
+&Setup
+False
+True
+^Fluke 5500
+0
+
+0
+
+*RST
+0
+^Yokogawa WT3000E
+0
+
+0
+
+*RST
+0
+^Wait
+0
+
+0
+
+
+3
+&1.5 V / 2 A Range: 3 W
+False
+True
+^Message
+0
+
+0
+
+Switch to Aux output
+0
+^Yokogawa WT3000E
+1.500000000
+V
+2.00000000
+A
+, Elem2
+0
+^Fluke 5520
+1.500000000
+V
+2.00000000
+A
+; CUR_POST A20
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&3 V / 2 A Range: 6 W
+False
+True
+^Yokogawa WT3000E
+3.0000000
+V
+2.00000000
+A
+, Elem2
+0
+^Fluke 5500
+3
+V
+2.00000000
+A
+
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&6 V / 2 A Range: 12 W
+False
+True
+^Yokogawa WT3000E
+6
+V
+2.00000000
+A
+, Elem2
+0
+^Fluke 5500
+6
+V
+2.00000000
+A
+
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&10 V / 2 A Range: 20 W
+False
+True
+^Yokogawa WT3000E
+10
+V
+2.00000000
+A
+, Elem2
+0
+^Fluke 5500
+10
+V
+2.00000000
+A
+
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&10 V / 2 A Range: 15 W
+False
+True
+^Yokogawa WT3000E
+7.5
+V
+2
+A
+, Elem2
+0
+^Fluke 5500
+7.5
+V
+2
+A
+
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&10 V / 2 A Range: 10 W
+False
+True
+^Yokogawa WT3000E
+7.5
+V
+2
+A
+, Elem2
+0
+^Fluke 5500
+5
+V
+2
+A
+
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&10 V / 2 A Range: 5 W
+False
+True
+^Yokogawa WT3000E
+7.5
+V
+2
+A
+, Elem2
+0
+^Fluke 5500
+2.5
+V
+2
+A
+
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&10 V / 2 A Range: 2 W
+False
+True
+^Yokogawa WT3000E
+7.5
+V
+2
+A
+, Elem2
+0
+^Fluke 5500
+1
+V
+2
+A
+
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&20 V / 2 A Range: 30 W
+False
+True
+^Yokogawa WT3000E
+15
+V
+2
+A
+, Elem2
+0
+^Fluke 5500
+15
+V
+2
+A
+
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&60 V / 2 A Range: 120 W
+False
+True
+^Yokogawa WT3000E
+60
+V
+2
+A
+, Elem2
+0
+^Fluke 5500
+60
+V
+2
+A
+
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&100 V / 2 A Range: 200 W
+False
+True
+^Yokogawa WT3000E
+100
+V
+2
+A
+, Elem2
+0
+^Fluke 5500
+100
+V
+2
+A
+
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&150 V / 2 A Range: 300 W
+False
+True
+^Yokogawa WT3000E
+150.00000000
+V
+2
+A
+, Elem2
+0
+^Fluke 5500
+150.00000000
+V
+2
+A
+
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&300 V / 2 A Range: 600 W
+False
+True
+^Yokogawa WT3000E
+300
+V
+2
+A
+, Elem2
+0
+^Fluke 5500
+300
+V
+2
+A
+
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&600 V / 2 A Range: 1.2 kW
+False
+True
+^Yokogawa WT3000E
+600
+V
+2
+A
+, Elem2
+0
+^Fluke 5500
+600
+V
+2
+A
+
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&1 kV / 2 A Range: 2 kW
+False
+True
+^Yokogawa WT3000E
+1000
+V
+2
+A
+, Elem2
+0
+^Fluke 5500
+1
+kV
+2
+A
+
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&1 kV / 1 A Range: 1 kW
+False
+True
+^Yokogawa WT3000E
+1000
+V
+1
+A
+, Elem2
+0
+^Fluke 5500
+1
+kV
+1
+A
+
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&1 kV / 5 A Range: 5 kW
+False
+True
+^Fluke 5500
+0
+
+0
+
+; STBY
+0
+^Message
+0
+
+0
+
+Switch to 20A output
+0
+^Yokogawa WT3000E
+1000
+V
+5
+A
+, Elem2
+0
+^Fluke 5500
+1
+kV
+5
+A
+
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&1 kV / 10 A Range: 10 kW
+False
+True
+^Yokogawa WT3000E
+1000
+V
+10
+A
+, Elem2
+0
+^Fluke 5500
+1
+kV
+10
+A
+
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&1 kV / 20 A Range: 18 kW
+False
+True
+^Yokogawa WT3000E
+1000
+V
+18
+A
+, Elem2
+0
+^Fluke 5500
+1
+kV
+18
+A
+
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&1 kV / 50 A Range: 18 kW
+False
+True
+^Yokogawa WT3000E
+1000
+V
+45
+A
+, Elem2
+0
+^Fluke 5500
+1
+kV
+18
+A
+
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+^Fluke 5500
+0
+
+0
+
+; STBY
+0
+*Yokogawa WT1800,,,Element 2: Power AC
+&Setup
+False
+True
+^Fluke 5500
+0
+
+0
+
+*RST
+0
+^Yokogawa WT3000E
+0
+
+0
+
+*RST
+0
+^Wait
+0
+
+0
+
+
+3
+&1.5 V / 2 A Range: 3 W @ 60 Hz
+False
+True
+^Message
+0
+
+0
+
+Switch to Aux output
+0
+^Yokogawa WT3000E
+1.5
+V
+2
+A
+, Elem2, 60 Hz
+0
+^Fluke 5520
+1.500000000
+V
+2.00000000
+A
+, 60 Hz; CUR_POST A20
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&1.5 V / 2 A Range: 3 W @ 1 kHz
+False
+True
+^Yokogawa WT3000E
+1.5
+V
+2
+A
+, Elem2, 60 Hz
+0
+^Fluke 5500
+1.5
+V
+2
+A
+, 1 kHz
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&3 V / 2 A Range: 6 W @ 60 Hz
+False
+True
+^Yokogawa WT3000E
+3
+V
+2
+A
+, Elem2, 60 Hz
+0
+^Fluke 5500
+3
+V
+2
+A
+, 60 Hz
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&3 V / 2 A Range: 6 W @ 1 kHz
+False
+True
+^Yokogawa WT3000E
+3
+V
+2
+A
+, Elem2, 60 Hz
+0
+^Fluke 5500
+3
+V
+2
+A
+, 1 kHz
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&6 V / 2 A Range: 12 W @ 60 Hz
+False
+True
+^Yokogawa WT3000E
+6
+V
+2
+A
+, Elem2, 60 Hz
+0
+^Fluke 5500
+6
+V
+2
+A
+, 60 Hz
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&6 V / 2 A Range: 12 W @ 1 kHz
+False
+True
+^Yokogawa WT3000E
+6
+V
+2
+A
+, Elem2, 60 Hz
+0
+^Fluke 5500
+6
+V
+2
+A
+, 1 kHz
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&10 V / 2 A Range: 20 W @ 60 Hz
+False
+True
+^Yokogawa WT3000E
+10
+V
+2
+A
+, Elem2, 60 Hz
+0
+^Fluke 5500
+10
+V
+2
+A
+, 60 Hz
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&10 V / 2 A Range: 20 W @ 1 kHz
+False
+True
+^Yokogawa WT3000E
+10
+V
+2
+A
+, Elem2, 60 Hz
+0
+^Fluke 5500
+10
+V
+2
+A
+, 1 kHz
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&15 V / 2 A Range: 30 W @ 60 Hz
+False
+True
+^Yokogawa WT3000E
+15
+V
+2
+A
+, Elem2, 60 Hz
+0
+^Fluke 5500
+15
+V
+2
+A
+, 60 Hz
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&15 V / 2 A Range: 30 W @ 1 kHz
+False
+True
+^Yokogawa WT3000E
+15
+V
+2
+A
+, Elem2, 60 Hz
+0
+^Fluke 5500
+15
+V
+2
+A
+, 1 kHz
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&30 V / 2 A Range: 60 W @ 60 Hz
+False
+True
+^Yokogawa WT3000E
+30
+V
+2
+A
+, Elem2, 60 Hz
+0
+^Fluke 5500
+30
+V
+2
+A
+, 60 Hz
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&30 V / 2 A Range: 60 W @ 1 kHz
+False
+True
+^Yokogawa WT3000E
+30
+V
+2
+A
+, Elem2, 60 Hz
+0
+^Fluke 5500
+30
+V
+2
+A
+, 1 kHz
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&60 V / 2 A Range: 120 W @ 60 Hz
+False
+True
+^Yokogawa WT3000E
+60
+V
+2
+A
+, Elem2, 60 Hz
+0
+^Fluke 5500
+60
+V
+2
+A
+, 60 Hz
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&60 V / 2 A Range: 120 W @ 1 kHz
+False
+True
+^Yokogawa WT3000E
+60
+V
+2
+A
+, Elem2, 60 Hz
+0
+^Fluke 5500
+60
+V
+2
+A
+, 1 kHz
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&100 V / 2 A Range: 200 W @ 60 Hz
+False
+True
+^Yokogawa WT3000E
+100
+V
+2
+A
+, Elem2, 60 Hz
+0
+^Fluke 5500
+100
+V
+2
+A
+, 60 Hz
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&100 V / 2 A Range: 200 W @ 1 kHz
+False
+True
+^Yokogawa WT3000E
+100
+V
+2
+A
+, Elem2, 60 Hz
+0
+^Fluke 5500
+100
+V
+2
+A
+, 1 kHz
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&150 V / 2 A Range: 300 W @ 60 Hz
+False
+True
+^Yokogawa WT3000E
+150
+V
+2
+A
+, Elem2, 60 Hz
+0
+^Fluke 5500
+150
+V
+2
+A
+, 60 Hz
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&150 V / 2 A Range: 300 W @ 1 kHz
+False
+True
+^Yokogawa WT3000E
+150
+V
+2
+A
+, Elem2, 60 Hz
+0
+^Fluke 5500
+150
+V
+2
+A
+, 1 kHz
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&300 V / 2 A Range: 600 W @ 60 Hz
+False
+True
+^Yokogawa WT3000E
+300
+V
+2
+A
+, Elem2, 60 Hz
+0
+^Fluke 5500
+300
+V
+2
+A
+, 60 Hz
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&300 V / 2 A Range: 600 W @ 1 kHz
+False
+True
+^Yokogawa WT3000E
+300
+V
+2
+A
+, Elem2, 60 Hz
+0
+^Fluke 5500
+300
+V
+2
+A
+, 1 kHz
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&600 V / 2 A Range: 1.2 kW @ 60 Hz
+False
+True
+^Yokogawa WT3000E
+600
+V
+2
+A
+, Elem2, 60 Hz
+0
+^Fluke 5500
+600
+V
+2
+A
+, 60 Hz
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&600 V / 2 A Range: 1.2 kW @ 1 kHz
+False
+True
+^Yokogawa WT3000E
+600
+V
+2
+A
+, Elem2, 60 Hz
+0
+^Fluke 5500
+600
+V
+2
+A
+, 1 kHz
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&1 kV / 2 A Range: 2 kW @ 60 Hz
+False
+True
+^Yokogawa WT3000E
+1000
+V
+2
+A
+, Elem2, 60 Hz
+0
+^Fluke 5500
+1
+kV
+2
+A
+, 60 Hz
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&1 kV / 2 A Range: 2 kW @ 1 kHz
+False
+True
+^Yokogawa WT3000E
+1000
+V
+2
+A
+, Elem2, 60 Hz
+0
+^Fluke 5500
+1
+kV
+2
+A
+, 1 kHz
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+^Fluke 5500
+0
+
+0
+
+; STBY
+0
+*Yokogawa WT1800,,,Element 3: DC Volts
+&Setup
+False
+True
+^Fluke 5500
+0
+
+0
+
+*RST
+0
+^Yokogawa WT3000E
+0
+
+0
+
+*RST
+0
+^Message
+0
+
+0
+
+Set up wiring for Element 3
+0
+^Wait
+0
+
+0
+
+
+3
+&1.5 V Range: 1.35 V
+False
+True
+^Yokogawa WT3000E
+1.35
+V
+0
+
+, Elem3
+3
+^Fluke 5500
+1.3500000000
+V
+0
+Hz
+
+0
+^Fluke 5500
+0.00000000
+
+0
+
+OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&1.5 V Range: -1.35 V
+False
+True
+^Yokogawa WT3000E
+1.35
+V
+0
+
+, Elem3
+3
+^Fluke 5500
+-1.35000000
+V
+0
+Hz
+
+0
+^Fluke 5500
+0.00000000
+
+0
+
+OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&3 V Range: 2.7 V
+False
+True
+^Yokogawa WT3000E
+2.7
+V
+0
+
+, Elem3
+3
+^Fluke 5500
+2.7
+V
+0
+Hz
+
+0
+^Fluke 5500
+0.00000000
+
+0
+
+OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&3 V Range: -2.7 V
+False
+True
+^Yokogawa WT3000E
+2.7
+V
+0
+
+, Elem3
+3
+^Fluke 5500
+-2.70000000
+V
+0
+Hz
+
+0
+^Fluke 5500
+0.00000000
+
+0
+
+OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&6 V Range: 5.4 V
+False
+True
+^Yokogawa WT3000E
+5.4
+V
+0
+
+, Elem3
+3
+^Fluke 5500
+5.4
+V
+0
+Hz
+
+0
+^Fluke 5500
+0.00000000
+
+0
+
+OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&6 V Range: -5.4 V
+False
+True
+^Yokogawa WT3000E
+5.4
+V
+0
+
+, Elem3
+3
+^Fluke 5500
+-5.40000000
+V
+0
+Hz
+
+0
+^Fluke 5500
+0.00000000
+
+0
+
+OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&10 V Range: 9 V
+False
+True
+^Yokogawa WT3000E
+9
+V
+0
+
+, Elem3
+3
+^Fluke 5500
+9
+V
+0
+Hz
+
+0
+^Fluke 5500
+0.00000000
+
+0
+
+OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&10 V Range: -9 V
+False
+True
+^Yokogawa WT3000E
+9
+V
+0
+
+, Elem3
+3
+^Fluke 5500
+-9.00000000
+V
+0
+Hz
+
+0
+^Fluke 5500
+0.00000000
+
+0
+
+OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&15 V Range: 14 V
+False
+True
+^Yokogawa WT3000E
+14
+V
+0
+
+, Elem3
+3
+^Fluke 5500
+14
+V
+0
+Hz
+
+0
+^Fluke 5500
+0.00000000
+
+0
+
+OPER
+0
+^Wait
+14
+V
+0
+
+
+3
+^Monitor
+14
+V
+0
+
+Yokogawa WT3000E*0;
+2
+&15 V Range: -14 V
+False
+True
+^Yokogawa WT3000E
+14.00000000
+V
+0
+
+, Elem3
+3
+^Fluke 5500
+-14.00000000
+V
+0
+
+
+0
+^Fluke 5500
+0.00000000
+
+0
+
+OPER
+0
+^Wait
+14
+V
+0
+
+
+3
+^Monitor
+14
+V
+0
+
+Yokogawa WT3000E*0;
+2
+&30 V Range: 27 V
+False
+True
+^Yokogawa WT3000E
+27
+V
+0
+
+, Elem3
+3
+^Fluke 5500
+27
+V
+0
+Hz
+
+0
+^Fluke 5500
+0.00000000
+
+0
+
+OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&30 V Range: -27 V
+False
+True
+^Yokogawa WT3000E
+27
+V
+0
+
+, Elem3
+3
+^Fluke 5500
+-27.00000000
+V
+0
+Hz
+
+0
+^Fluke 5500
+0.00000000
+
+0
+
+OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&60 V Range: 54 V
+False
+True
+^Yokogawa WT3000E
+54
+V
+0
+
+, Elem3
+3
+^Fluke 5500
+54
+V
+0
+Hz
+
+0
+^Fluke 5500
+0.00000000
+
+0
+
+OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&60 V Range: -54 V
+False
+True
+^Yokogawa WT3000E
+54
+V
+0
+
+, Elem3
+3
+^Fluke 5500
+-54.00000000
+V
+0
+Hz
+
+0
+^Fluke 5500
+0.00000000
+
+0
+
+OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&100 V Range: 90 V
+False
+True
+^Yokogawa WT3000E
+90
+V
+0
+
+, Elem3
+3
+^Fluke 5500
+90
+V
+0
+Hz
+
+0
+^Fluke 5500
+0.00000000
+
+0
+
+OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&100 V Range: -90 V
+False
+True
+^Yokogawa WT3000E
+90
+V
+0
+
+, Elem3
+3
+^Fluke 5500
+-90.00000000
+V
+0
+Hz
+
+0
+^Fluke 5500
+0.00000000
+
+0
+
+OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&150 V Range: 145 V
+False
+True
+^Yokogawa WT3000E
+145
+V
+0
+
+, Elem3
+3
+^Fluke 5500
+145
+V
+0
+Hz
+
+0
+^Fluke 5500
+0.00000000
+
+0
+
+OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&150 V Range: -145 V
+False
+True
+^Yokogawa WT3000E
+145
+V
+0
+
+, Elem3
+3
+^Fluke 5500
+-145.00000000
+V
+0
+Hz
+
+0
+^Fluke 5500
+0.00000000
+
+0
+
+OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&300 V Range: 270 V
+False
+True
+^Yokogawa WT3000E
+270
+V
+0
+
+, Elem3
+3
+^Fluke 5500
+270
+V
+0
+Hz
+
+0
+^Fluke 5500
+0.00000000
+
+0
+
+OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&300 V Range: -270 V
+False
+True
+^Yokogawa WT3000E
+270
+V
+0
+
+, Elem3
+3
+^Fluke 5500
+-270.00000000
+V
+0
+Hz
+
+0
+^Fluke 5500
+0.00000000
+
+0
+
+OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&600 V Range: 540 V
+False
+True
+^Yokogawa WT3000E
+540
+V
+0
+
+, Elem3
+3
+^Fluke 5500
+540
+V
+0
+Hz
+
+0
+^Fluke 5500
+0.00000000
+
+0
+
+OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&600 V Range: -540 V
+False
+True
+^Yokogawa WT3000E
+540
+V
+0
+
+, Elem3
+3
+^Fluke 5500
+-540.00000000
+V
+0
+Hz
+
+0
+^Fluke 5500
+0.00000000
+
+0
+
+OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&1000 V Range: 0.9 kV
+False
+True
+^Yokogawa WT3000E
+1000.00000000
+V
+0
+
+, Elem3
+3
+^Fluke 5500
+0.900000000
+kV
+0
+
+
+0
+^Fluke 5500
+0.00000000
+
+0
+
+OPER
+0
+^Wait
+14
+V
+0
+
+
+3
+^Monitor
+14
+V
+0
+
+Yokogawa WT3000E*0;
+2
+&1000 V Range: -0.9 kV
+False
+True
+^Yokogawa WT3000E
+1000.00000000
+V
+0
+
+, Elem3
+3
+^Fluke 5500
+-0.90000000
+kV
+0
+
+
+0
+^Fluke 5500
+0.00000000
+
+0
+
+OPER
+0
+^Wait
+14
+V
+0
+
+
+3
+^Monitor
+14
+V
+0
+
+Yokogawa WT3000E*0;
+2
+^Fluke 5500
+0
+
+0
+
+; STBY
+0
+*Yokogawa WT1800,,,Element 3: DC Current
+&Setup
+False
+True
+^Fluke 5500
+0
+
+0
+
+*RST
+0
+^Yokogawa WT3000E
+0
+
+0
+
+*RST
+0
+^Wait
+0
+
+0
+
+
+3
+&1 A Range: 0.9 A
+False
+True
+^Yokogawa WT3000E
+0.9
+A
+0
+
+, Elem3
+0
+^Fluke 5520
+0.9
+A
+0
+Hz
+; CUR_POST A20
+0
+^Fluke 5500
+0
+
+0
+
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&1 A Range: -0.9 A
+False
+True
+^Yokogawa WT3000E
+0.9
+A
+0
+
+, Elem3
+0
+^Fluke 5500
+-0.90000000
+A
+0
+Hz
+
+0
+^Fluke 5500
+0
+
+0
+
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&2 A Range: 1.8 A
+False
+True
+^Yokogawa WT3000E
+1.8
+A
+0
+
+, Elem3
+0
+^Fluke 5500
+1.8
+A
+0
+Hz
+
+0
+^Fluke 5500
+0
+
+0
+
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&2 A Range: -1.8 A
+False
+True
+^Yokogawa WT3000E
+1.8
+A
+0
+
+, Elem3
+0
+^Fluke 5500
+-1.80000000
+A
+0
+Hz
+
+0
+^Fluke 5500
+0
+
+0
+
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&5 A Range: 4.5 A
+False
+True
+^Yokogawa WT3000E
+4.5
+A
+0
+
+, Elem3
+0
+^Fluke 5500
+4.5
+A
+0
+Hz
+
+0
+^Fluke 5500
+0
+
+0
+
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&5 A Range: -4.5 A
+False
+True
+^Yokogawa WT3000E
+4.5
+A
+0
+
+, Elem3
+0
+^Fluke 5500
+-4.50000000
+A
+0
+Hz
+
+0
+^Fluke 5500
+0
+
+0
+
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&10 A Range: 9 A
+False
+True
+^Yokogawa WT3000E
+9
+A
+0
+
+, Elem3
+0
+^Fluke 5500
+9
+A
+0
+Hz
+
+0
+^Fluke 5500
+0
+
+0
+
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&10 A Range: -9 A
+False
+True
+^Yokogawa WT3000E
+9
+A
+0
+
+, Elem3
+0
+^Fluke 5500
+-9.00000000
+A
+0
+Hz
+
+0
+^Fluke 5500
+0
+
+0
+
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&20 A Range: 18 A
+False
+True
+^Yokogawa WT3000E
+20.00000000
+A
+0
+
+, Elem3
+0
+^Fluke 5500
+18.0000000
+A
+0
+
+
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14.00000000
+V
+60
+Hz
+Yokogawa WT3000E*0;
+2
+&20 A Range: -18 A
+False
+True
+^Yokogawa WT3000E
+20.00000000
+A
+0
+
+, Elem3
+0
+^Fluke 5500
+-18.00000000
+A
+0
+
+
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14.00000000
+V
+60
+Hz
+Yokogawa WT3000E*0;
+2
+^Fluke 5500
+-18.00000000
+A
+0
+
+; STBY
+0
+&50 A Range: 18 A
+False
+True
+^Yokogawa WT3000E
+45
+A
+0
+
+, Elem3
+0
+^Fluke 5500
+18
+A
+0
+Hz
+
+0
+^Fluke 5500
+0
+
+0
+
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&50 A Range: -18 A
+False
+True
+^Yokogawa WT3000E
+45
+A
+0
+
+, Elem3
+0
+^Fluke 5500
+-18.00000000
+A
+0
+Hz
+
+0
+^Fluke 5500
+0
+
+0
+
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+^Fluke 5500
+0
+
+0
+
+; STBY
+0
+*Yokogawa WT1800,,,Element 3: AC Volts
+&Setup
+False
+True
+^Fluke 5500
+0
+
+0
+
+*RST
+0
+^Yokogawa WT3000E
+0
+
+0
+
+*RST
+0
+^Wait
+0
+
+0
+
+
+3
+&1.5 V Range: 1.35 V @ 10 Hz
+False
+True
+^Yokogawa WT3000E
+1.500000000
+V
+10.00000000
+Hz
+, Elem3
+0
+^Fluke 5500
+1.35
+V
+10
+Hz
+
+0
+^Fluke 5500
+0
+
+0
+
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&1.5 V Range: 1.35 V @ 60 Hz
+False
+True
+^Yokogawa WT3000E
+1.500000000
+V
+10.00000000
+Hz
+, Elem3
+0
+^Fluke 5500
+1.35
+V
+60.00000000
+Hz
+
+0
+^Fluke 5500
+0
+
+0
+
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&1.5 V Range: 1.35 V @ 1 kHz
+False
+True
+^Yokogawa WT3000E
+1.500000000
+V
+10.00000000
+Hz
+, Elem3
+0
+^Fluke 5500
+1.35
+V
+1
+kHz
+
+0
+^Fluke 5500
+0
+
+0
+
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&1.5 V Range: 1.35 V @ 50 kHz
+False
+True
+^Yokogawa WT3000E
+1.500000000
+V
+10.00000000
+Hz
+, Elem3
+0
+^Fluke 5500
+1.35
+V
+1
+kHz
+
+0
+^Fluke 5500
+0
+
+0
+
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&1.5 V Range: 1.35 V @ 100 kHz
+False
+True
+^Yokogawa WT3000E
+1.500000000
+V
+10.00000000
+Hz
+, Elem3
+0
+^Fluke 5500
+1.35
+V
+100
+kHz
+
+0
+^Fluke 5500
+0
+
+0
+
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&1.5 V Range: 1.35 V @ 500 kHz
+False
+True
+^Yokogawa WT3000E
+1.500000000
+V
+10.00000000
+Hz
+, Elem3
+0
+^Fluke 5500
+1.35
+V
+500.00000000
+kHz
+
+0
+^Fluke 5500
+0
+
+0
+
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&3 V Range: 2.7 V @ 10 Hz
+False
+True
+^Yokogawa WT3000E
+2.7
+V
+10.00000000
+Hz
+, Elem3
+0
+^Fluke 5500
+2.7
+V
+10
+Hz
+
+0
+^Fluke 5500
+0
+
+0
+
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&3 V Range: 2.7 V @ 60 Hz
+False
+True
+^Yokogawa WT3000E
+2.7
+V
+10.00000000
+Hz
+, Elem3
+0
+^Fluke 5500
+2.7
+V
+60
+Hz
+
+0
+^Fluke 5500
+0
+
+0
+
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&3 V Range: 2.7 V @ 1 kHz
+False
+True
+^Yokogawa WT3000E
+2.7
+V
+10.00000000
+Hz
+, Elem3
+0
+^Fluke 5500
+2.7
+V
+1
+kHz
+
+0
+^Fluke 5500
+0
+
+0
+
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&3 V Range: 2.7 V @ 50 kHz
+False
+True
+^Yokogawa WT3000E
+2.7
+V
+10.00000000
+Hz
+, Elem3
+0
+^Fluke 5500
+2.7
+V
+50
+kHz
+
+0
+^Fluke 5500
+0
+
+0
+
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&3 V Range: 2.7 V @ 100 kHz
+False
+True
+^Yokogawa WT3000E
+2.7
+V
+10.00000000
+Hz
+, Elem3
+0
+^Fluke 5500
+2.7
+V
+100
+kHz
+
+0
+^Fluke 5500
+0
+
+0
+
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&3 V Range: 2.7 V @ 500 kHz
+False
+True
+^Yokogawa WT3000E
+2.7
+V
+10.00000000
+Hz
+, Elem3
+0
+^Fluke 5500
+2.7
+V
+500.00000000
+kHz
+
+0
+^Fluke 5500
+0
+
+0
+
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&6 V Range: 5.4 V @ 10 Hz
+False
+True
+^Yokogawa WT3000E
+5.4
+V
+10.00000000
+Hz
+, Elem3
+0
+^Fluke 5500
+5.4
+V
+10
+Hz
+
+0
+^Fluke 5500
+0
+
+0
+
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&6 V Range: 5.4 V @ 60 Hz
+False
+True
+^Yokogawa WT3000E
+5.4
+V
+10.00000000
+Hz
+, Elem3
+0
+^Fluke 5500
+5.4
+V
+60
+Hz
+
+0
+^Fluke 5500
+0
+
+0
+
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&6 V Range: 5.4 V @ 1 kHz
+False
+True
+^Yokogawa WT3000E
+5.4
+V
+10.00000000
+Hz
+, Elem3
+0
+^Fluke 5500
+5.4
+V
+1
+kHz
+
+0
+^Fluke 5500
+0
+
+0
+
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&6 V Range: 5.4 V @ 50 kHz
+False
+True
+^Yokogawa WT3000E
+5.4
+V
+10.00000000
+Hz
+, Elem3
+0
+^Fluke 5500
+5.4
+V
+50
+kHz
+
+0
+^Fluke 5500
+0
+
+0
+
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&6 V Range: 5.4 V @ 100 kHz
+False
+True
+^Yokogawa WT3000E
+5.4
+V
+10.00000000
+Hz
+, Elem3
+0
+^Fluke 5500
+5.4
+V
+100
+kHz
+
+0
+^Fluke 5500
+0
+
+0
+
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&6 V Range: 5.4 V @ 500 kHz
+False
+True
+^Yokogawa WT3000E
+5.4
+V
+10.00000000
+Hz
+, Elem3
+0
+^Fluke 5500
+5.4
+V
+500.00000000
+kHz
+
+0
+^Fluke 5500
+0
+
+0
+
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&10 V Range: 9 V @ 10 Hz
+False
+True
+^Yokogawa WT3000E
+9
+V
+10.00000000
+Hz
+, Elem3
+0
+^Fluke 5500
+9
+V
+10
+Hz
+
+0
+^Fluke 5500
+0
+
+0
+
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&10 V Range: 9 V @ 60 Hz
+False
+True
+^Yokogawa WT3000E
+9
+V
+10.00000000
+Hz
+, Elem3
+0
+^Fluke 5500
+9
+V
+60
+Hz
+
+0
+^Fluke 5500
+0
+
+0
+
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&10 V Range: 9 V @ 1 kHz
+False
+True
+^Yokogawa WT3000E
+9
+V
+10.00000000
+Hz
+, Elem3
+0
+^Fluke 5500
+9
+V
+1
+kHz
+
+0
+^Fluke 5500
+0
+
+0
+
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&10 V Range: 9 V @ 50 kHz
+False
+True
+^Yokogawa WT3000E
+9
+V
+10.00000000
+Hz
+, Elem3
+0
+^Fluke 5500
+9
+V
+50
+kHz
+
+0
+^Fluke 5500
+0
+
+0
+
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&10 V Range: 9 V @ 100 kHz
+False
+True
+^Yokogawa WT3000E
+9
+V
+10.00000000
+Hz
+, Elem3
+0
+^Fluke 5500
+9
+V
+100
+kHz
+
+0
+^Fluke 5500
+0
+
+0
+
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&10 V Range: 3 V @ 500 kHz
+False
+True
+^Yokogawa WT3000E
+9
+V
+10.00000000
+Hz
+, Elem3
+0
+^Fluke 5500
+3
+V
+500.00000000
+kHz
+
+0
+^Fluke 5500
+0
+
+0
+
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&15 V Range: 14 V @ 10 Hz
+False
+True
+^Yokogawa WT3000E
+14
+V
+10.00000000
+Hz
+, Elem3
+0
+^Fluke 5500
+14
+V
+10
+Hz
+
+0
+^Fluke 5500
+0
+
+0
+
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&15 V Range: 14 V @ 60 Hz
+False
+True
+^Yokogawa WT3000E
+14
+V
+10.00000000
+Hz
+, Elem3
+0
+^Fluke 5500
+14
+V
+60
+Hz
+
+0
+^Fluke 5500
+0
+
+0
+
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&15 V Range: 14 V @ 1 kHz
+False
+True
+^Yokogawa WT3000E
+14
+V
+10.00000000
+Hz
+, Elem3
+0
+^Fluke 5500
+14
+V
+1
+kHz
+
+0
+^Fluke 5500
+0
+
+0
+
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&15 V Range: 14 V @ 50 kHz
+False
+True
+^Yokogawa WT3000E
+14
+V
+10.00000000
+Hz
+, Elem3
+0
+^Fluke 5500
+14
+V
+50
+kHz
+
+0
+^Fluke 5500
+0
+
+0
+
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&15 V Range: 14 V @ 100 kHz
+False
+True
+^Yokogawa WT3000E
+14
+V
+10.00000000
+Hz
+, Elem3
+0
+^Fluke 5500
+14
+V
+100
+kHz
+
+0
+^Fluke 5500
+0
+
+0
+
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&15 V Range: 3 V @ 500 kHz
+False
+True
+^Yokogawa WT3000E
+14
+V
+10.00000000
+Hz
+, Elem3
+0
+^Fluke 5500
+3
+V
+500.00000000
+kHz
+
+0
+^Fluke 5500
+0
+
+0
+
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&30 V Range: 27 V @ 10 Hz
+False
+True
+^Yokogawa WT3000E
+27
+V
+10.00000000
+Hz
+, Elem3
+0
+^Fluke 5500
+27
+V
+10
+Hz
+
+0
+^Fluke 5500
+0
+
+0
+
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&30 V Range: 27 V @ 60 Hz
+False
+True
+^Yokogawa WT3000E
+27
+V
+10.00000000
+Hz
+, Elem3
+0
+^Fluke 5500
+27
+V
+60.00000000
+Hz
+
+0
+^Fluke 5500
+0
+
+0
+
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&30 V Range: 27 V @ 1 kHz
+False
+True
+^Yokogawa WT3000E
+27
+V
+10.00000000
+Hz
+, Elem3
+0
+^Fluke 5500
+27
+V
+1
+kHz
+
+0
+^Fluke 5500
+0
+
+0
+
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&30 V Range: 27 V @ 50 kHz
+False
+True
+^Yokogawa WT3000E
+27
+V
+10.00000000
+Hz
+, Elem3
+0
+^Fluke 5500
+27
+V
+50
+kHz
+
+0
+^Fluke 5500
+0
+
+0
+
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&30 V Range: 27 V @ 100 kHz
+False
+True
+^Yokogawa WT3000E
+27
+V
+10.00000000
+Hz
+, Elem3
+0
+^Fluke 5500
+27
+V
+100
+kHz
+
+0
+^Fluke 5500
+0
+
+0
+
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&30 V Range: 3 V @ 500 kHz
+False
+True
+^Yokogawa WT3000E
+27
+V
+10.00000000
+Hz
+, Elem3
+0
+^Fluke 5500
+3
+V
+500.00000000
+kHz
+
+0
+^Fluke 5500
+0
+
+0
+
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&60 V Range: 54 V @ 60 Hz
+False
+True
+^Yokogawa WT3000E
+54.00000000
+V
+60
+Hz
+, Elem3
+0
+^Fluke 5500
+54.00000000
+V
+60
+Hz
+
+0
+^Fluke 5500
+54.00000000
+V
+60
+Hz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14.00000000
+V
+60
+Hz
+Yokogawa WT3000E*0;
+2
+&60 V Range: 54 V @ 1 kHz
+False
+True
+^Yokogawa WT3000E
+54
+V
+60
+Hz
+, Elem3
+0
+^Fluke 5500
+54.00000000
+V
+1
+kHz
+
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14.00000000
+V
+60
+Hz
+Yokogawa WT3000E*0;
+2
+&60 V Range: 54 V @ 50 kHz
+False
+True
+^Yokogawa WT3000E
+54
+V
+60
+Hz
+, Elem3
+0
+^Fluke 5500
+54.00000000
+V
+50
+kHz
+
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14.00000000
+V
+60
+Hz
+Yokogawa WT3000E*0;
+2
+&60 V Range: 54 V @ 100 kHz
+False
+True
+^Yokogawa WT3000E
+54
+V
+60
+Hz
+, Elem3
+0
+^Fluke 5500
+54.00000000
+V
+100
+kHz
+
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14.00000000
+V
+60
+Hz
+Yokogawa WT3000E*0;
+2
+&100 V Range: 90 V @ 60 Hz
+False
+True
+^Yokogawa WT3000E
+90
+V
+60
+Hz
+, Elem3
+0
+^Fluke 5500
+90.00000000
+V
+60
+Hz
+
+0
+^Fluke 5500
+90.00000000
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14.00000000
+V
+60
+Hz
+Yokogawa WT3000E*0;
+2
+&100 V Range: 90 V @ 1 kHz
+False
+True
+^Yokogawa WT3000E
+90
+V
+60
+Hz
+, Elem3
+0
+^Fluke 5500
+90.00000000
+V
+1.00000000
+kHz
+
+0
+^Fluke 5500
+90.00000000
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14.00000000
+V
+60
+Hz
+Yokogawa WT3000E*0;
+2
+&100 V Range: 90 V @ 50 kHz
+False
+True
+^Yokogawa WT3000E
+90
+V
+60
+Hz
+, Elem3
+0
+^Fluke 5500
+90.00000000
+V
+50.00000000
+kHz
+
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14.00000000
+V
+60
+Hz
+Yokogawa WT3000E*0;
+2
+&100 V Range: 90 V @ 100 kHz
+False
+True
+^Yokogawa WT3000E
+90
+V
+60
+Hz
+, Elem3
+0
+^Fluke 5500
+90.00000000
+V
+100.00000000
+kHz
+
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14.00000000
+V
+60
+Hz
+Yokogawa WT3000E*0;
+2
+&150 V Range: 30 V @ 10 Hz
+False
+True
+^Yokogawa WT3000E
+150.00000000
+V
+60.00000000
+Hz
+, Elem3
+0
+^Fluke 5500
+30.00000000
+V
+10.00000000
+Hz
+
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14.00000000
+V
+60
+Hz
+Yokogawa WT3000E*0;
+2
+&150 V Range: 135 V @ 60 Hz
+False
+True
+^Yokogawa WT3000E
+135
+V
+60.00000000
+Hz
+, Elem3
+0
+^Fluke 5500
+135.00000000
+V
+60.00000000
+Hz
+
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14.00000000
+V
+60
+Hz
+Yokogawa WT3000E*0;
+2
+&150 V Range: 135 V @ 1 kHz
+False
+True
+^Yokogawa WT3000E
+135
+V
+60.00000000
+Hz
+, Elem3
+0
+^Fluke 5500
+135.00000000
+V
+1.00000000
+kHz
+
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14.00000000
+V
+60
+Hz
+Yokogawa WT3000E*0;
+2
+&150 V Range: 135 V @ 50 kHz
+False
+True
+^Yokogawa WT3000E
+135
+V
+60.00000000
+Hz
+, Elem3
+0
+^Fluke 5500
+135.00000000
+V
+50.00000000
+kHz
+
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14.00000000
+V
+60
+Hz
+Yokogawa WT3000E*0;
+2
+&150 V Range: 135 V @ 100 kHz
+False
+True
+^Yokogawa WT3000E
+135
+V
+60.00000000
+Hz
+, Elem3
+0
+^Fluke 5500
+135.00000000
+V
+100.00000000
+kHz
+
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14.00000000
+V
+60
+Hz
+Yokogawa WT3000E*0;
+2
+&300 V Range: 270 V @ 60 Hz
+False
+True
+^Yokogawa WT3000E
+270
+V
+60.00000000
+Hz
+, Elem3
+0
+^Fluke 5500
+270.00000000
+V
+60.00000000
+Hz
+
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14.00000000
+V
+60
+Hz
+Yokogawa WT3000E*0;
+2
+&300 V Range: 270 V @ 1 kHz
+False
+True
+^Yokogawa WT3000E
+270
+V
+60.00000000
+Hz
+, Elem3
+0
+^Fluke 5500
+270.00000000
+V
+1.00000000
+kHz
+
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14.00000000
+V
+60
+Hz
+Yokogawa WT3000E*0;
+2
+&300 V Range: 270 V @ 50 kHz
+False
+True
+^Yokogawa WT3000E
+270
+V
+60.00000000
+Hz
+, Elem3
+0
+^Fluke 5500
+270
+V
+50
+kHz
+
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14.00000000
+V
+60
+Hz
+Yokogawa WT3000E*0;
+2
+&300 V Range: 270 V @ 100 kHz
+False
+True
+^Yokogawa WT3000E
+270
+V
+60.00000000
+Hz
+, Elem3
+0
+^Fluke 5500
+270
+V
+100
+kHz
+
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14.00000000
+V
+60
+Hz
+Yokogawa WT3000E*0;
+2
+&600 V Range: 540 V @ 60 Hz
+False
+True
+^Yokogawa WT3000E
+540
+V
+60.00000000
+Hz
+, Elem3
+0
+^Fluke 5500
+540.00000000
+V
+60.00000000
+Hz
+
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14.00000000
+V
+60
+Hz
+Yokogawa WT3000E*0;
+2
+&600 V Range: 540 V @ 1 kHz
+False
+True
+^Yokogawa WT3000E
+540
+V
+60.00000000
+Hz
+, Elem3
+0
+^Fluke 5500
+540.00000000
+V
+1.00000000
+kHz
+
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14.00000000
+V
+60
+Hz
+Yokogawa WT3000E*0;
+2
+&600 V Range: 300 V @ 50 kHz
+False
+True
+^Yokogawa WT3000E
+540
+V
+60.00000000
+Hz
+, Elem3
+0
+^Fluke 5500
+300
+V
+50
+kHz
+
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14.00000000
+V
+60
+Hz
+Yokogawa WT3000E*0;
+2
+&600 V Range: 300 V @ 100 kHz
+False
+True
+^Yokogawa WT3000E
+540
+V
+60.00000000
+Hz
+, Elem3
+0
+^Fluke 5500
+300
+V
+100
+kHz
+
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14.00000000
+V
+60
+Hz
+Yokogawa WT3000E*0;
+2
+&1000 V Range: 0.9 kV @ 60 Hz
+False
+True
+^Yokogawa WT3000E
+900
+V
+60.00000000
+Hz
+, Elem3
+0
+^Fluke 5500
+0.900000000
+kV
+60.00000000
+Hz
+
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14.00000000
+V
+60
+Hz
+Yokogawa WT3000E*0;
+2
+&1000 V Range: 0.9 kV @ 1 kHz
+False
+True
+^Yokogawa WT3000E
+900
+V
+60.00000000
+Hz
+, Elem3
+0
+^Fluke 5500
+0.900000000
+kV
+1.00000000
+kHz
+
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14.00000000
+V
+60
+Hz
+Yokogawa WT3000E*0;
+2
+&1000 V Range: 0.9 kV @ 10 kHz
+False
+True
+^Yokogawa WT3000E
+900
+V
+60.00000000
+Hz
+, Elem3
+0
+^Fluke 5500
+0.900000000
+kV
+10
+kHz
+
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14.00000000
+V
+60
+Hz
+Yokogawa WT3000E*0;
+2
+&1000 V Range: 0.3 kV @ 100 kHz
+False
+True
+^Yokogawa WT3000E
+900
+V
+60.00000000
+Hz
+, Elem3
+0
+^Fluke 5500
+0.30000000
+kV
+100.00000000
+kHz
+
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14.00000000
+V
+60
+Hz
+Yokogawa WT3000E*0;
+2
+^Fluke 5500
+0
+
+0
+
+; STBY
+0
+*Yokogawa WT1800,,,Element 3: AC Current
+&Setup
+False
+True
+^Fluke 5500
+0
+
+0
+
+*RST
+0
+^Yokogawa WT3000E
+0
+
+0
+
+*RST
+0
+^Wait
+0
+
+0
+
+
+3
+&1 A Range: 0.9 A @ 10 Hz
+False
+True
+^Message
+0
+
+0
+
+Switch to Aux output
+0
+^Yokogawa WT3000E
+0.9
+A
+60.00000000
+Hz
+, Elem3
+0
+^Fluke 5520
+0.9
+A
+10
+Hz
+; CUR_POST A20
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14.00000000
+V
+60
+Hz
+Yokogawa WT3000E*0;
+2
+&1 A Range: 0.9 A @ 60 Hz
+False
+True
+^Yokogawa WT3000E
+0.9
+A
+60.00000000
+Hz
+, Elem3
+0
+^Fluke 5500
+0.900000000
+A
+60.00000000
+Hz
+
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14.00000000
+V
+60
+Hz
+Yokogawa WT3000E*0;
+2
+&1 A Range: 0.9 A @ 1 kHz
+False
+True
+^Yokogawa WT3000E
+0.9
+A
+60.00000000
+Hz
+, Elem3
+0
+^Fluke 5500
+0.900000000
+A
+1.00000000
+kHz
+
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14.00000000
+V
+60
+Hz
+Yokogawa WT3000E*0;
+2
+&1 A Range: 0.3 A @ 30 kHz
+False
+True
+^Yokogawa WT3000E
+0.9
+A
+60.00000000
+Hz
+, Elem3
+0
+^Fluke 5500
+0.3
+A
+30.00000000
+kHz
+
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14.00000000
+V
+60
+Hz
+Yokogawa WT3000E*0;
+2
+&2 A Range: 1.8 A @ 10 Hz
+False
+True
+^Yokogawa WT3000E
+1.8
+A
+60.00000000
+Hz
+, Elem3
+0
+^Fluke 5500
+1.8
+A
+10
+Hz
+
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14.00000000
+V
+60
+Hz
+Yokogawa WT3000E*0;
+2
+&2 A Range: 1.8 A @ 60 Hz
+False
+True
+^Yokogawa WT3000E
+1.8
+A
+60.00000000
+Hz
+, Elem3
+0
+^Fluke 5500
+1.80000000
+A
+60.00000000
+Hz
+
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14.00000000
+V
+60
+Hz
+Yokogawa WT3000E*0;
+2
+&2 A Range: 1.8 A @ 1 kHz
+False
+True
+^Yokogawa WT3000E
+1.8
+A
+60.00000000
+Hz
+, Elem3
+0
+^Fluke 5500
+1.80000000
+A
+1.00000000
+kHz
+
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14.00000000
+V
+60
+Hz
+Yokogawa WT3000E*0;
+2
+&2 A Range: 0.3 A @ 30 kHz
+False
+True
+^Yokogawa WT3000E
+0.9
+A
+60.00000000
+Hz
+, Elem3
+0
+^Fluke 5500
+0.3
+A
+30.00000000
+kHz
+
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14.00000000
+V
+60
+Hz
+Yokogawa WT3000E*0;
+2
+&5 A Range: 4.5 A @ 10 Hz
+False
+True
+^Fluke 5500
+0
+
+0
+
+; STBY
+0
+^Message
+0
+
+0
+
+Switch to 20A output
+0
+^Yokogawa WT3000E
+4.5
+A
+10.00000000
+Hz
+, Elem3
+0
+^Fluke 5500
+4.5000000
+A
+1.00000000
+kHz
+
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14.00000000
+V
+60
+Hz
+Yokogawa WT3000E*0;
+2
+&5 A Range: 4.5 A @ 60 Hz
+False
+True
+^Yokogawa WT3000E
+4.5
+A
+10.00000000
+Hz
+, Elem3
+0
+^Fluke 5500
+4.5
+A
+60
+Hz
+
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14.00000000
+V
+60
+Hz
+Yokogawa WT3000E*0;
+2
+&5 A Range: 4.5 A @ 1 kHz
+False
+True
+^Yokogawa WT3000E
+4.5
+A
+10.00000000
+Hz
+, Elem3
+0
+^Fluke 5500
+4.5
+A
+1
+kHz
+
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14.00000000
+V
+60
+Hz
+Yokogawa WT3000E*0;
+2
+&5 A Range: 0.3 A @ 30 kHz
+False
+True
+^Fluke 5500
+0
+
+0
+
+; STBY
+0
+^Message
+0
+
+0
+
+Switch to Aux output
+0
+^Yokogawa WT3000E
+4.5
+A
+10.00000000
+Hz
+, Elem3
+0
+^Fluke 5500
+0.3
+A
+30.00000000
+kHz
+
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14.00000000
+V
+60
+Hz
+Yokogawa WT3000E*0;
+2
+&10 A Range: 9 A @ 60 Hz
+False
+True
+^Fluke 5500
+0
+
+0
+
+; STBY
+0
+^Message
+0
+
+0
+
+Switch to 20A output
+0
+^Yokogawa WT3000E
+9
+A
+60.00000000
+Hz
+, Elem3
+0
+^Fluke 5500
+9.00000000
+A
+60.00000000
+Hz
+
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14.00000000
+V
+60
+Hz
+Yokogawa WT3000E*0;
+2
+&10 A Range: 9 A @ 1 kHz
+False
+True
+^Yokogawa WT3000E
+9
+A
+60.00000000
+Hz
+, Elem3
+0
+^Fluke 5500
+9.00000000
+A
+1.00000000
+kHz
+
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14.00000000
+V
+60
+Hz
+Yokogawa WT3000E*0;
+2
+&10 A Range: 0.3 A @ 30 kHz
+False
+True
+^Fluke 5500
+0
+
+0
+
+; STBY
+0
+^Message
+0
+
+0
+
+Switch to Aux output
+0
+^Yokogawa WT3000E
+9
+A
+60.00000000
+Hz
+, Elem3
+0
+^Fluke 5500
+0.300000000
+A
+30.00000000
+kHz
+
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14.00000000
+V
+60
+Hz
+Yokogawa WT3000E*0;
+2
+&20 A Range: 18 A @ 60 Hz
+False
+True
+^Fluke 5500
+0
+
+0
+
+; STBY
+0
+^Message
+0
+
+0
+
+Switch to 20A output
+0
+^Yokogawa WT3000E
+18
+A
+60.00000000
+Hz
+, Elem3
+0
+^Fluke 5500
+18.0000000
+A
+60.00000000
+Hz
+
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14.00000000
+V
+60
+Hz
+Yokogawa WT3000E*0;
+2
+&20 A Range: 18 A @ 1 kHz
+False
+True
+^Yokogawa WT3000E
+18
+A
+60.00000000
+Hz
+, Elem3
+0
+^Fluke 5500
+18.0000000
+A
+1.00000000
+kHz
+
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14.00000000
+V
+60
+Hz
+Yokogawa WT3000E*0;
+2
+&20 A Range: 0.3 A @ 30 kHz
+False
+True
+^Fluke 5500
+0
+
+0
+
+; STBY
+0
+^Message
+0
+
+0
+
+Switch to Aux output
+0
+^Yokogawa WT3000E
+18
+A
+60.00000000
+Hz
+, Elem3
+0
+^Fluke 5500
+0.300000000
+A
+30.00000000
+kHz
+
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14.00000000
+V
+60
+Hz
+Yokogawa WT3000E*0;
+2
+&50 A Range: 18 A @ 60 Hz
+False
+True
+^Fluke 5500
+0
+
+0
+
+; STBY
+0
+^Message
+0
+
+0
+
+Switch to 20A output
+0
+^Yokogawa WT3000E
+45
+A
+60.00000000
+Hz
+, Elem3
+0
+^Fluke 5500
+18.0000000
+A
+60.00000000
+Hz
+
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14.00000000
+V
+60
+Hz
+Yokogawa WT3000E*0;
+2
+&50 A Range: 18 A @ 1 kHz
+False
+True
+^Yokogawa WT3000E
+45
+A
+60.00000000
+Hz
+, Elem3
+0
+^Fluke 5500
+18.0000000
+A
+1
+kHz
+
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14.00000000
+V
+60
+Hz
+Yokogawa WT3000E*0;
+2
+*Yokogawa WT1800,,,Element 3: Power DC
+&Setup
+False
+True
+^Fluke 5500
+0
+
+0
+
+*RST
+0
+^Yokogawa WT3000E
+0
+
+0
+
+*RST
+0
+^Wait
+0
+
+0
+
+
+3
+&1.5 V / 2 A Range: 3 W
+False
+True
+^Message
+0
+
+0
+
+Switch to Aux output
+0
+^Yokogawa WT3000E
+1.500000000
+V
+2.00000000
+A
+, Elem3
+0
+^Fluke 5520
+1.500000000
+V
+2.00000000
+A
+; CUR_POST A20
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&3 V / 2 A Range: 6 W
+False
+True
+^Yokogawa WT3000E
+3.0000000
+V
+2.00000000
+A
+, Elem3
+0
+^Fluke 5500
+3
+V
+2.00000000
+A
+
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&6 V / 2 A Range: 12 W
+False
+True
+^Yokogawa WT3000E
+6
+V
+2.00000000
+A
+, Elem3
+0
+^Fluke 5500
+6
+V
+2.00000000
+A
+
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&10 V / 2 A Range: 20 W
+False
+True
+^Yokogawa WT3000E
+10
+V
+2.00000000
+A
+, Elem3
+0
+^Fluke 5500
+10
+V
+2.00000000
+A
+
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&10 V / 2 A Range: 15 W
+False
+True
+^Yokogawa WT3000E
+7.5
+V
+2
+A
+, Elem3
+0
+^Fluke 5500
+7.5
+V
+2
+A
+
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&10 V / 2 A Range: 10 W
+False
+True
+^Yokogawa WT3000E
+7.5
+V
+2
+A
+, Elem3
+0
+^Fluke 5500
+5
+V
+2
+A
+
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&10 V / 2 A Range: 5 W
+False
+True
+^Yokogawa WT3000E
+7.5
+V
+2
+A
+, Elem3
+0
+^Fluke 5500
+2.5
+V
+2
+A
+
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&10 V / 2 A Range: 2 W
+False
+True
+^Yokogawa WT3000E
+7.5
+V
+2
+A
+, Elem3
+0
+^Fluke 5500
+1
+V
+2
+A
+
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&20 V / 2 A Range: 30 W
+False
+True
+^Yokogawa WT3000E
+15
+V
+2
+A
+, Elem3
+0
+^Fluke 5500
+15
+V
+2
+A
+
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&60 V / 2 A Range: 120 W
+False
+True
+^Yokogawa WT3000E
+60
+V
+2
+A
+, Elem3
+0
+^Fluke 5500
+60
+V
+2
+A
+
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&100 V / 2 A Range: 200 W
+False
+True
+^Yokogawa WT3000E
+100
+V
+2
+A
+, Elem3
+0
+^Fluke 5500
+100
+V
+2
+A
+
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&150 V / 2 A Range: 300 W
+False
+True
+^Yokogawa WT3000E
+150.00000000
+V
+2
+A
+, Elem3
+0
+^Fluke 5500
+150.00000000
+V
+2
+A
+
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&300 V / 2 A Range: 600 W
+False
+True
+^Yokogawa WT3000E
+300
+V
+2
+A
+, Elem3
+0
+^Fluke 5500
+300
+V
+2
+A
+
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&600 V / 2 A Range: 1.2 kW
+False
+True
+^Yokogawa WT3000E
+600
+V
+2
+A
+, Elem3
+0
+^Fluke 5500
+600
+V
+2
+A
+
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&1 kV / 2 A Range: 2 kW
+False
+True
+^Yokogawa WT3000E
+1000
+V
+2
+A
+, Elem3
+0
+^Fluke 5500
+1
+kV
+2
+A
+
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&1 kV / 1 A Range: 1 kW
+False
+True
+^Yokogawa WT3000E
+1000
+V
+1
+A
+, Elem3
+0
+^Fluke 5500
+1
+kV
+1
+A
+
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&1 kV / 5 A Range: 5 kW
+False
+True
+^Fluke 5500
+0
+
+0
+
+; STBY
+0
+^Message
+0
+
+0
+
+Switch to 20A output
+0
+^Yokogawa WT3000E
+1000
+V
+5
+A
+, Elem3
+0
+^Fluke 5500
+1
+kV
+5
+A
+
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&1 kV / 10 A Range: 10 kW
+False
+True
+^Yokogawa WT3000E
+1000
+V
+10
+A
+, Elem3
+0
+^Fluke 5500
+1
+kV
+10
+A
+
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&1 kV / 20 A Range: 18 kW
+False
+True
+^Yokogawa WT3000E
+1000
+V
+18
+A
+, Elem3
+0
+^Fluke 5500
+1
+kV
+18
+A
+
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&1 kV / 50 A Range: 18 kW
+False
+True
+^Yokogawa WT3000E
+1000
+V
+45
+A
+, Elem3
+0
+^Fluke 5500
+1
+kV
+18
+A
+
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+^Fluke 5500
+0
+
+0
+
+; STBY
+0
+*Yokogawa WT1800,,,Element 3: Power AC
+&Setup
+False
+True
+^Fluke 5500
+0
+
+0
+
+*RST
+0
+^Yokogawa WT3000E
+0
+
+0
+
+*RST
+0
+^Wait
+0
+
+0
+
+
+3
+&1.5 V / 2 A Range: 3 W @ 60 Hz
+False
+True
+^Message
+0
+
+0
+
+Switch to Aux output
+0
+^Yokogawa WT3000E
+1.5
+V
+2
+A
+, Elem3, 60 Hz
+0
+^Fluke 5520
+1.500000000
+V
+2.00000000
+A
+, 60 Hz; CUR_POST A20
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&1.5 V / 2 A Range: 3 W @ 1 kHz
+False
+True
+^Yokogawa WT3000E
+1.5
+V
+2
+A
+, Elem3, 60 Hz
+0
+^Fluke 5500
+1.5
+V
+2
+A
+, 1 kHz
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&3 V / 2 A Range: 6 W @ 60 Hz
+False
+True
+^Yokogawa WT3000E
+3
+V
+2
+A
+, Elem3, 60 Hz
+0
+^Fluke 5500
+3
+V
+2
+A
+, 60 Hz
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&3 V / 2 A Range: 6 W @ 1 kHz
+False
+True
+^Yokogawa WT3000E
+3
+V
+2
+A
+, Elem3, 60 Hz
+0
+^Fluke 5500
+3
+V
+2
+A
+, 1 kHz
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&6 V / 2 A Range: 12 W @ 60 Hz
+False
+True
+^Yokogawa WT3000E
+6
+V
+2
+A
+, Elem3, 60 Hz
+0
+^Fluke 5500
+6
+V
+2
+A
+, 60 Hz
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&6 V / 2 A Range: 12 W @ 1 kHz
+False
+True
+^Yokogawa WT3000E
+6
+V
+2
+A
+, Elem3, 60 Hz
+0
+^Fluke 5500
+6
+V
+2
+A
+, 1 kHz
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&10 V / 2 A Range: 20 W @ 60 Hz
+False
+True
+^Yokogawa WT3000E
+10
+V
+2
+A
+, Elem3, 60 Hz
+0
+^Fluke 5500
+10
+V
+2
+A
+, 60 Hz
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&10 V / 2 A Range: 20 W @ 1 kHz
+False
+True
+^Yokogawa WT3000E
+10
+V
+2
+A
+, Elem3, 60 Hz
+0
+^Fluke 5500
+10
+V
+2
+A
+, 1 kHz
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&15 V / 2 A Range: 30 W @ 60 Hz
+False
+True
+^Yokogawa WT3000E
+15
+V
+2
+A
+, Elem3, 60 Hz
+0
+^Fluke 5500
+15
+V
+2
+A
+, 60 Hz
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&15 V / 2 A Range: 30 W @ 1 kHz
+False
+True
+^Yokogawa WT3000E
+15
+V
+2
+A
+, Elem3, 60 Hz
+0
+^Fluke 5500
+15
+V
+2
+A
+, 1 kHz
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&30 V / 2 A Range: 60 W @ 60 Hz
+False
+True
+^Yokogawa WT3000E
+30
+V
+2
+A
+, Elem3, 60 Hz
+0
+^Fluke 5500
+30
+V
+2
+A
+, 60 Hz
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&30 V / 2 A Range: 60 W @ 1 kHz
+False
+True
+^Yokogawa WT3000E
+30
+V
+2
+A
+, Elem3, 60 Hz
+0
+^Fluke 5500
+30
+V
+2
+A
+, 1 kHz
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&60 V / 2 A Range: 120 W @ 60 Hz
+False
+True
+^Yokogawa WT3000E
+60
+V
+2
+A
+, Elem3, 60 Hz
+0
+^Fluke 5500
+60
+V
+2
+A
+, 60 Hz
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&60 V / 2 A Range: 120 W @ 1 kHz
+False
+True
+^Yokogawa WT3000E
+60
+V
+2
+A
+, Elem3, 60 Hz
+0
+^Fluke 5500
+60
+V
+2
+A
+, 1 kHz
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&100 V / 2 A Range: 200 W @ 60 Hz
+False
+True
+^Yokogawa WT3000E
+100
+V
+2
+A
+, Elem3, 60 Hz
+0
+^Fluke 5500
+100
+V
+2
+A
+, 60 Hz
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&100 V / 2 A Range: 200 W @ 1 kHz
+False
+True
+^Yokogawa WT3000E
+100
+V
+2
+A
+, Elem3, 60 Hz
+0
+^Fluke 5500
+100
+V
+2
+A
+, 1 kHz
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&150 V / 2 A Range: 300 W @ 60 Hz
+False
+True
+^Yokogawa WT3000E
+150
+V
+2
+A
+, Elem3, 60 Hz
+0
+^Fluke 5500
+150
+V
+2
+A
+, 60 Hz
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&150 V / 2 A Range: 300 W @ 1 kHz
+False
+True
+^Yokogawa WT3000E
+150
+V
+2
+A
+, Elem3, 60 Hz
+0
+^Fluke 5500
+150
+V
+2
+A
+, 1 kHz
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&300 V / 2 A Range: 600 W @ 60 Hz
+False
+True
+^Yokogawa WT3000E
+300
+V
+2
+A
+, Elem3, 60 Hz
+0
+^Fluke 5500
+300
+V
+2
+A
+, 60 Hz
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&300 V / 2 A Range: 600 W @ 1 kHz
+False
+True
+^Yokogawa WT3000E
+300
+V
+2
+A
+, Elem3, 60 Hz
+0
+^Fluke 5500
+300
+V
+2
+A
+, 1 kHz
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&600 V / 2 A Range: 1.2 kW @ 60 Hz
+False
+True
+^Yokogawa WT3000E
+600
+V
+2
+A
+, Elem3, 60 Hz
+0
+^Fluke 5500
+600
+V
+2
+A
+, 60 Hz
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&600 V / 2 A Range: 1.2 kW @ 1 kHz
+False
+True
+^Yokogawa WT3000E
+600
+V
+2
+A
+, Elem3, 60 Hz
+0
+^Fluke 5500
+600
+V
+2
+A
+, 1 kHz
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&1 kV / 2 A Range: 2 kW @ 60 Hz
+False
+True
+^Yokogawa WT3000E
+1000
+V
+2
+A
+, Elem3, 60 Hz
+0
+^Fluke 5500
+1
+kV
+2
+A
+, 60 Hz
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&1 kV / 2 A Range: 2 kW @ 1 kHz
+False
+True
+^Yokogawa WT3000E
+1000
+V
+2
+A
+, Elem3, 60 Hz
+0
+^Fluke 5500
+1
+kV
+2
+A
+, 1 kHz
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+^Fluke 5500
+0
+
+0
+
+; STBY
+0
+*Yokogawa WT1800,,,Element 4: DC Volts
+&Setup
+False
+True
+^Fluke 5500
+0
+
+0
+
+*RST
+0
+^Yokogawa WT3000E
+0
+
+0
+
+*RST
+0
+^Message
+0
+
+0
+
+Set up wiring for Element 4
+0
+^Wait
+0
+
+0
+
+
+3
+&1.5 V Range: 1.35 V
+False
+True
+^Yokogawa WT3000E
+1.35
+V
+0
+
+, Elem4
+3
+^Fluke 5500
+1.3500000000
+V
+0
+Hz
+
+0
+^Fluke 5500
+0.00000000
+
+0
+
+OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&1.5 V Range: -1.35 V
+False
+True
+^Yokogawa WT3000E
+1.35
+V
+0
+
+, Elem4
+3
+^Fluke 5500
+-1.35000000
+V
+0
+Hz
+
+0
+^Fluke 5500
+0.00000000
+
+0
+
+OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&3 V Range: 2.7 V
+False
+True
+^Yokogawa WT3000E
+2.7
+V
+0
+
+, Elem4
+3
+^Fluke 5500
+2.7
+V
+0
+Hz
+
+0
+^Fluke 5500
+0.00000000
+
+0
+
+OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&3 V Range: -2.7 V
+False
+True
+^Yokogawa WT3000E
+2.7
+V
+0
+
+, Elem4
+3
+^Fluke 5500
+-2.70000000
+V
+0
+Hz
+
+0
+^Fluke 5500
+0.00000000
+
+0
+
+OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&6 V Range: 5.4 V
+False
+True
+^Yokogawa WT3000E
+5.4
+V
+0
+
+, Elem4
+3
+^Fluke 5500
+5.4
+V
+0
+Hz
+
+0
+^Fluke 5500
+0.00000000
+
+0
+
+OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&6 V Range: -5.4 V
+False
+True
+^Yokogawa WT3000E
+5.4
+V
+0
+
+, Elem4
+3
+^Fluke 5500
+-5.40000000
+V
+0
+Hz
+
+0
+^Fluke 5500
+0.00000000
+
+0
+
+OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&10 V Range: 9 V
+False
+True
+^Yokogawa WT3000E
+9
+V
+0
+
+, Elem4
+3
+^Fluke 5500
+9
+V
+0
+Hz
+
+0
+^Fluke 5500
+0.00000000
+
+0
+
+OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&10 V Range: -9 V
+False
+True
+^Yokogawa WT3000E
+9
+V
+0
+
+, Elem4
+3
+^Fluke 5500
+-9.00000000
+V
+0
+Hz
+
+0
+^Fluke 5500
+0.00000000
+
+0
+
+OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&15 V Range: 14 V
+False
+True
+^Yokogawa WT3000E
+14
+V
+0
+
+, Elem4
+3
+^Fluke 5500
+14
+V
+0
+Hz
+
+0
+^Fluke 5500
+0.00000000
+
+0
+
+OPER
+0
+^Wait
+14
+V
+0
+
+
+3
+^Monitor
+14
+V
+0
+
+Yokogawa WT3000E*0;
+2
+&15 V Range: -14 V
+False
+True
+^Yokogawa WT3000E
+14.00000000
+V
+0
+
+, Elem4
+3
+^Fluke 5500
+-14.00000000
+V
+0
+
+
+0
+^Fluke 5500
+0.00000000
+
+0
+
+OPER
+0
+^Wait
+14
+V
+0
+
+
+3
+^Monitor
+14
+V
+0
+
+Yokogawa WT3000E*0;
+2
+&30 V Range: 27 V
+False
+True
+^Yokogawa WT3000E
+27
+V
+0
+
+, Elem4
+3
+^Fluke 5500
+27
+V
+0
+Hz
+
+0
+^Fluke 5500
+0.00000000
+
+0
+
+OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&30 V Range: -27 V
+False
+True
+^Yokogawa WT3000E
+27
+V
+0
+
+, Elem4
+3
+^Fluke 5500
+-27.00000000
+V
+0
+Hz
+
+0
+^Fluke 5500
+0.00000000
+
+0
+
+OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&60 V Range: 54 V
+False
+True
+^Yokogawa WT3000E
+54
+V
+0
+
+, Elem4
+3
+^Fluke 5500
+54
+V
+0
+Hz
+
+0
+^Fluke 5500
+0.00000000
+
+0
+
+OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&60 V Range: -54 V
+False
+True
+^Yokogawa WT3000E
+54
+V
+0
+
+, Elem4
+3
+^Fluke 5500
+-54.00000000
+V
+0
+Hz
+
+0
+^Fluke 5500
+0.00000000
+
+0
+
+OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&100 V Range: 90 V
+False
+True
+^Yokogawa WT3000E
+90
+V
+0
+
+, Elem4
+3
+^Fluke 5500
+90
+V
+0
+Hz
+
+0
+^Fluke 5500
+0.00000000
+
+0
+
+OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&100 V Range: -90 V
+False
+True
+^Yokogawa WT3000E
+90
+V
+0
+
+, Elem4
+3
+^Fluke 5500
+-90.00000000
+V
+0
+Hz
+
+0
+^Fluke 5500
+0.00000000
+
+0
+
+OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&150 V Range: 145 V
+False
+True
+^Yokogawa WT3000E
+145
+V
+0
+
+, Elem4
+3
+^Fluke 5500
+145
+V
+0
+Hz
+
+0
+^Fluke 5500
+0.00000000
+
+0
+
+OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&150 V Range: -145 V
+False
+True
+^Yokogawa WT3000E
+145
+V
+0
+
+, Elem4
+3
+^Fluke 5500
+-145.00000000
+V
+0
+Hz
+
+0
+^Fluke 5500
+0.00000000
+
+0
+
+OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&300 V Range: 270 V
+False
+True
+^Yokogawa WT3000E
+270
+V
+0
+
+, Elem4
+3
+^Fluke 5500
+270
+V
+0
+Hz
+
+0
+^Fluke 5500
+0.00000000
+
+0
+
+OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&300 V Range: -270 V
+False
+True
+^Yokogawa WT3000E
+270
+V
+0
+
+, Elem4
+3
+^Fluke 5500
+-270.00000000
+V
+0
+Hz
+
+0
+^Fluke 5500
+0.00000000
+
+0
+
+OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&600 V Range: 540 V
+False
+True
+^Yokogawa WT3000E
+540
+V
+0
+
+, Elem4
+3
+^Fluke 5500
+540
+V
+0
+Hz
+
+0
+^Fluke 5500
+0.00000000
+
+0
+
+OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&600 V Range: -540 V
+False
+True
+^Yokogawa WT3000E
+540
+V
+0
+
+, Elem4
+3
+^Fluke 5500
+-540.00000000
+V
+0
+Hz
+
+0
+^Fluke 5500
+0.00000000
+
+0
+
+OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&1000 V Range: 0.9 kV
+False
+True
+^Yokogawa WT3000E
+1000.00000000
+V
+0
+
+, Elem4
+3
+^Fluke 5500
+0.900000000
+kV
+0
+
+
+0
+^Fluke 5500
+0.00000000
+
+0
+
+OPER
+0
+^Wait
+14
+V
+0
+
+
+3
+^Monitor
+14
+V
+0
+
+Yokogawa WT3000E*0;
+2
+&1000 V Range: -0.9 kV
+False
+True
+^Yokogawa WT3000E
+1000.00000000
+V
+0
+
+, Elem4
+3
+^Fluke 5500
+-0.90000000
+kV
+0
+
+
+0
+^Fluke 5500
+0.00000000
+
+0
+
+OPER
+0
+^Wait
+14
+V
+0
+
+
+3
+^Monitor
+14
+V
+0
+
+Yokogawa WT3000E*0;
+2
+^Fluke 5500
+0
+
+0
+
+; STBY
+0
+*Yokogawa WT1800,,,Element 4: DC Current
+&Setup
+False
+True
+^Fluke 5500
+0
+
+0
+
+*RST
+0
+^Yokogawa WT3000E
+0
+
+0
+
+*RST
+0
+^Wait
+0
+
+0
+
+
+3
+&1 A Range: 0.9 A
+False
+True
+^Yokogawa WT3000E
+0.9
+A
+0
+
+, Elem4
+0
+^Fluke 5520
+0.9
+A
+0
+Hz
+; CUR_POST A20
+0
+^Fluke 5500
+0
+
+0
+
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&1 A Range: -0.9 A
+False
+True
+^Yokogawa WT3000E
+0.9
+A
+0
+
+, Elem4
+0
+^Fluke 5500
+-0.90000000
+A
+0
+Hz
+
+0
+^Fluke 5500
+0
+
+0
+
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&2 A Range: 1.8 A
+False
+True
+^Yokogawa WT3000E
+1.8
+A
+0
+
+, Elem4
+0
+^Fluke 5500
+1.8
+A
+0
+Hz
+
+0
+^Fluke 5500
+0
+
+0
+
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&2 A Range: -1.8 A
+False
+True
+^Yokogawa WT3000E
+1.8
+A
+0
+
+, Elem4
+0
+^Fluke 5500
+-1.80000000
+A
+0
+Hz
+
+0
+^Fluke 5500
+0
+
+0
+
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&5 A Range: 4.5 A
+False
+True
+^Yokogawa WT3000E
+4.5
+A
+0
+
+, Elem4
+0
+^Fluke 5500
+4.5
+A
+0
+Hz
+
+0
+^Fluke 5500
+0
+
+0
+
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&5 A Range: -4.5 A
+False
+True
+^Yokogawa WT3000E
+4.5
+A
+0
+
+, Elem4
+0
+^Fluke 5500
+-4.50000000
+A
+0
+Hz
+
+0
+^Fluke 5500
+0
+
+0
+
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&10 A Range: 9 A
+False
+True
+^Yokogawa WT3000E
+9
+A
+0
+
+, Elem4
+0
+^Fluke 5500
+9
+A
+0
+Hz
+
+0
+^Fluke 5500
+0
+
+0
+
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&10 A Range: -9 A
+False
+True
+^Yokogawa WT3000E
+9
+A
+0
+
+, Elem4
+0
+^Fluke 5500
+-9.00000000
+A
+0
+Hz
+
+0
+^Fluke 5500
+0
+
+0
+
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&20 A Range: 18 A
+False
+True
+^Yokogawa WT3000E
+20.00000000
+A
+0
+
+, Elem4
+0
+^Fluke 5500
+18.0000000
+A
+0
+
+
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14.00000000
+V
+60
+Hz
+Yokogawa WT3000E*0;
+2
+&20 A Range: -18 A
+False
+True
+^Yokogawa WT3000E
+20.00000000
+A
+0
+
+, Elem4
+0
+^Fluke 5500
+-18.00000000
+A
+0
+
+
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14.00000000
+V
+60
+Hz
+Yokogawa WT3000E*0;
+2
+^Fluke 5500
+-18.00000000
+A
+0
+
+; STBY
+0
+&50 A Range: 18 A
+False
+True
+^Yokogawa WT3000E
+45
+A
+0
+
+, Elem4
+0
+^Fluke 5500
+18
+A
+0
+Hz
+
+0
+^Fluke 5500
+0
+
+0
+
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&50 A Range: -18 A
+False
+True
+^Yokogawa WT3000E
+45
+A
+0
+
+, Elem4
+0
+^Fluke 5500
+-18.00000000
+A
+0
+Hz
+
+0
+^Fluke 5500
+0
+
+0
+
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+^Fluke 5500
+0
+
+0
+
+; STBY
+0
+*Yokogawa WT1800,,,Element 4: AC Volts
+&Setup
+False
+True
+^Fluke 5500
+0
+
+0
+
+*RST
+0
+^Yokogawa WT3000E
+0
+
+0
+
+*RST
+0
+^Wait
+0
+
+0
+
+
+3
+&1.5 V Range: 1.35 V @ 10 Hz
+False
+True
+^Yokogawa WT3000E
+1.500000000
+V
+10.00000000
+Hz
+, Elem4
+0
+^Fluke 5500
+1.35
+V
+10
+Hz
+
+0
+^Fluke 5500
+0
+
+0
+
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&1.5 V Range: 1.35 V @ 60 Hz
+False
+True
+^Yokogawa WT3000E
+1.500000000
+V
+10.00000000
+Hz
+, Elem4
+0
+^Fluke 5500
+1.35
+V
+60.00000000
+Hz
+
+0
+^Fluke 5500
+0
+
+0
+
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&1.5 V Range: 1.35 V @ 1 kHz
+False
+True
+^Yokogawa WT3000E
+1.500000000
+V
+10.00000000
+Hz
+, Elem4
+0
+^Fluke 5500
+1.35
+V
+1
+kHz
+
+0
+^Fluke 5500
+0
+
+0
+
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&1.5 V Range: 1.35 V @ 50 kHz
+False
+True
+^Yokogawa WT3000E
+1.500000000
+V
+10.00000000
+Hz
+, Elem4
+0
+^Fluke 5500
+1.35
+V
+1
+kHz
+
+0
+^Fluke 5500
+0
+
+0
+
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&1.5 V Range: 1.35 V @ 100 kHz
+False
+True
+^Yokogawa WT3000E
+1.500000000
+V
+10.00000000
+Hz
+, Elem4
+0
+^Fluke 5500
+1.35
+V
+100
+kHz
+
+0
+^Fluke 5500
+0
+
+0
+
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&1.5 V Range: 1.35 V @ 500 kHz
+False
+True
+^Yokogawa WT3000E
+1.500000000
+V
+10.00000000
+Hz
+, Elem4
+0
+^Fluke 5500
+1.35
+V
+500.00000000
+kHz
+
+0
+^Fluke 5500
+0
+
+0
+
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&3 V Range: 2.7 V @ 10 Hz
+False
+True
+^Yokogawa WT3000E
+2.7
+V
+10.00000000
+Hz
+, Elem4
+0
+^Fluke 5500
+2.7
+V
+10
+Hz
+
+0
+^Fluke 5500
+0
+
+0
+
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&3 V Range: 2.7 V @ 60 Hz
+False
+True
+^Yokogawa WT3000E
+2.7
+V
+10.00000000
+Hz
+, Elem4
+0
+^Fluke 5500
+2.7
+V
+60
+Hz
+
+0
+^Fluke 5500
+0
+
+0
+
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&3 V Range: 2.7 V @ 1 kHz
+False
+True
+^Yokogawa WT3000E
+2.7
+V
+10.00000000
+Hz
+, Elem4
+0
+^Fluke 5500
+2.7
+V
+1
+kHz
+
+0
+^Fluke 5500
+0
+
+0
+
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&3 V Range: 2.7 V @ 50 kHz
+False
+True
+^Yokogawa WT3000E
+2.7
+V
+10.00000000
+Hz
+, Elem4
+0
+^Fluke 5500
+2.7
+V
+50
+kHz
+
+0
+^Fluke 5500
+0
+
+0
+
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&3 V Range: 2.7 V @ 100 kHz
+False
+True
+^Yokogawa WT3000E
+2.7
+V
+10.00000000
+Hz
+, Elem4
+0
+^Fluke 5500
+2.7
+V
+100
+kHz
+
+0
+^Fluke 5500
+0
+
+0
+
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&3 V Range: 2.7 V @ 500 kHz
+False
+True
+^Yokogawa WT3000E
+2.7
+V
+10.00000000
+Hz
+, Elem4
+0
+^Fluke 5500
+2.7
+V
+500.00000000
+kHz
+
+0
+^Fluke 5500
+0
+
+0
+
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&6 V Range: 5.4 V @ 10 Hz
+False
+True
+^Yokogawa WT3000E
+5.4
+V
+10.00000000
+Hz
+, Elem4
+0
+^Fluke 5500
+5.4
+V
+10
+Hz
+
+0
+^Fluke 5500
+0
+
+0
+
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&6 V Range: 5.4 V @ 60 Hz
+False
+True
+^Yokogawa WT3000E
+5.4
+V
+10.00000000
+Hz
+, Elem4
+0
+^Fluke 5500
+5.4
+V
+60
+Hz
+
+0
+^Fluke 5500
+0
+
+0
+
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&6 V Range: 5.4 V @ 1 kHz
+False
+True
+^Yokogawa WT3000E
+5.4
+V
+10.00000000
+Hz
+, Elem4
+0
+^Fluke 5500
+5.4
+V
+1
+kHz
+
+0
+^Fluke 5500
+0
+
+0
+
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&6 V Range: 5.4 V @ 50 kHz
+False
+True
+^Yokogawa WT3000E
+5.4
+V
+10.00000000
+Hz
+, Elem4
+0
+^Fluke 5500
+5.4
+V
+50
+kHz
+
+0
+^Fluke 5500
+0
+
+0
+
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&6 V Range: 5.4 V @ 100 kHz
+False
+True
+^Yokogawa WT3000E
+5.4
+V
+10.00000000
+Hz
+, Elem4
+0
+^Fluke 5500
+5.4
+V
+100
+kHz
+
+0
+^Fluke 5500
+0
+
+0
+
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&6 V Range: 5.4 V @ 500 kHz
+False
+True
+^Yokogawa WT3000E
+5.4
+V
+10.00000000
+Hz
+, Elem4
+0
+^Fluke 5500
+5.4
+V
+500.00000000
+kHz
+
+0
+^Fluke 5500
+0
+
+0
+
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&10 V Range: 9 V @ 10 Hz
+False
+True
+^Yokogawa WT3000E
+9
+V
+10.00000000
+Hz
+, Elem4
+0
+^Fluke 5500
+9
+V
+10
+Hz
+
+0
+^Fluke 5500
+0
+
+0
+
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&10 V Range: 9 V @ 60 Hz
+False
+True
+^Yokogawa WT3000E
+9
+V
+10.00000000
+Hz
+, Elem4
+0
+^Fluke 5500
+9
+V
+60
+Hz
+
+0
+^Fluke 5500
+0
+
+0
+
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&10 V Range: 9 V @ 1 kHz
+False
+True
+^Yokogawa WT3000E
+9
+V
+10.00000000
+Hz
+, Elem4
+0
+^Fluke 5500
+9
+V
+1
+kHz
+
+0
+^Fluke 5500
+0
+
+0
+
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&10 V Range: 9 V @ 50 kHz
+False
+True
+^Yokogawa WT3000E
+9
+V
+10.00000000
+Hz
+, Elem4
+0
+^Fluke 5500
+9
+V
+50
+kHz
+
+0
+^Fluke 5500
+0
+
+0
+
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&10 V Range: 9 V @ 100 kHz
+False
+True
+^Yokogawa WT3000E
+9
+V
+10.00000000
+Hz
+, Elem4
+0
+^Fluke 5500
+9
+V
+100
+kHz
+
+0
+^Fluke 5500
+0
+
+0
+
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&10 V Range: 3 V @ 500 kHz
+False
+True
+^Yokogawa WT3000E
+9
+V
+10.00000000
+Hz
+, Elem4
+0
+^Fluke 5500
+3
+V
+500.00000000
+kHz
+
+0
+^Fluke 5500
+0
+
+0
+
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&15 V Range: 14 V @ 10 Hz
+False
+True
+^Yokogawa WT3000E
+14
+V
+10.00000000
+Hz
+, Elem4
+0
+^Fluke 5500
+14
+V
+10
+Hz
+
+0
+^Fluke 5500
+0
+
+0
+
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&15 V Range: 14 V @ 60 Hz
+False
+True
+^Yokogawa WT3000E
+14
+V
+10.00000000
+Hz
+, Elem4
+0
+^Fluke 5500
+14
+V
+60
+Hz
+
+0
+^Fluke 5500
+0
+
+0
+
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&15 V Range: 14 V @ 1 kHz
+False
+True
+^Yokogawa WT3000E
+14
+V
+10.00000000
+Hz
+, Elem4
+0
+^Fluke 5500
+14
+V
+1
+kHz
+
+0
+^Fluke 5500
+0
+
+0
+
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&15 V Range: 14 V @ 50 kHz
+False
+True
+^Yokogawa WT3000E
+14
+V
+10.00000000
+Hz
+, Elem4
+0
+^Fluke 5500
+14
+V
+50
+kHz
+
+0
+^Fluke 5500
+0
+
+0
+
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&15 V Range: 14 V @ 100 kHz
+False
+True
+^Yokogawa WT3000E
+14
+V
+10.00000000
+Hz
+, Elem4
+0
+^Fluke 5500
+14
+V
+100
+kHz
+
+0
+^Fluke 5500
+0
+
+0
+
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&15 V Range: 3 V @ 500 kHz
+False
+True
+^Yokogawa WT3000E
+14
+V
+10.00000000
+Hz
+, Elem4
+0
+^Fluke 5500
+3
+V
+500.00000000
+kHz
+
+0
+^Fluke 5500
+0
+
+0
+
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&30 V Range: 27 V @ 10 Hz
+False
+True
+^Yokogawa WT3000E
+27
+V
+10.00000000
+Hz
+, Elem4
+0
+^Fluke 5500
+27
+V
+10
+Hz
+
+0
+^Fluke 5500
+0
+
+0
+
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&30 V Range: 27 V @ 60 Hz
+False
+True
+^Yokogawa WT3000E
+27
+V
+10.00000000
+Hz
+, Elem4
+0
+^Fluke 5500
+27
+V
+60.00000000
+Hz
+
+0
+^Fluke 5500
+0
+
+0
+
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&30 V Range: 27 V @ 1 kHz
+False
+True
+^Yokogawa WT3000E
+27
+V
+10.00000000
+Hz
+, Elem4
+0
+^Fluke 5500
+27
+V
+1
+kHz
+
+0
+^Fluke 5500
+0
+
+0
+
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&30 V Range: 27 V @ 50 kHz
+False
+True
+^Yokogawa WT3000E
+27
+V
+10.00000000
+Hz
+, Elem4
+0
+^Fluke 5500
+27
+V
+50
+kHz
+
+0
+^Fluke 5500
+0
+
+0
+
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&30 V Range: 27 V @ 100 kHz
+False
+True
+^Yokogawa WT3000E
+27
+V
+10.00000000
+Hz
+, Elem4
+0
+^Fluke 5500
+27
+V
+100
+kHz
+
+0
+^Fluke 5500
+0
+
+0
+
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&30 V Range: 3 V @ 500 kHz
+False
+True
+^Yokogawa WT3000E
+27
+V
+10.00000000
+Hz
+, Elem4
+0
+^Fluke 5500
+3
+V
+500.00000000
+kHz
+
+0
+^Fluke 5500
+0
+
+0
+
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&60 V Range: 54 V @ 60 Hz
+False
+True
+^Yokogawa WT3000E
+54.00000000
+V
+60
+Hz
+, Elem4
+0
+^Fluke 5500
+54.00000000
+V
+60
+Hz
+
+0
+^Fluke 5500
+54.00000000
+V
+60
+Hz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14.00000000
+V
+60
+Hz
+Yokogawa WT3000E*0;
+2
+&60 V Range: 54 V @ 1 kHz
+False
+True
+^Yokogawa WT3000E
+54
+V
+60
+Hz
+, Elem4
+0
+^Fluke 5500
+54.00000000
+V
+1
+kHz
+
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14.00000000
+V
+60
+Hz
+Yokogawa WT3000E*0;
+2
+&60 V Range: 54 V @ 50 kHz
+False
+True
+^Yokogawa WT3000E
+54
+V
+60
+Hz
+, Elem4
+0
+^Fluke 5500
+54.00000000
+V
+50
+kHz
+
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14.00000000
+V
+60
+Hz
+Yokogawa WT3000E*0;
+2
+&60 V Range: 54 V @ 100 kHz
+False
+True
+^Yokogawa WT3000E
+54
+V
+60
+Hz
+, Elem4
+0
+^Fluke 5500
+54.00000000
+V
+100
+kHz
+
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14.00000000
+V
+60
+Hz
+Yokogawa WT3000E*0;
+2
+&100 V Range: 90 V @ 60 Hz
+False
+True
+^Yokogawa WT3000E
+90
+V
+60
+Hz
+, Elem4
+0
+^Fluke 5500
+90.00000000
+V
+60
+Hz
+
+0
+^Fluke 5500
+90.00000000
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14.00000000
+V
+60
+Hz
+Yokogawa WT3000E*0;
+2
+&100 V Range: 90 V @ 1 kHz
+False
+True
+^Yokogawa WT3000E
+90
+V
+60
+Hz
+, Elem4
+0
+^Fluke 5500
+90.00000000
+V
+1.00000000
+kHz
+
+0
+^Fluke 5500
+90.00000000
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14.00000000
+V
+60
+Hz
+Yokogawa WT3000E*0;
+2
+&100 V Range: 90 V @ 50 kHz
+False
+True
+^Yokogawa WT3000E
+90
+V
+60
+Hz
+, Elem4
+0
+^Fluke 5500
+90.00000000
+V
+50.00000000
+kHz
+
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14.00000000
+V
+60
+Hz
+Yokogawa WT3000E*0;
+2
+&100 V Range: 90 V @ 100 kHz
+False
+True
+^Yokogawa WT3000E
+90
+V
+60
+Hz
+, Elem4
+0
+^Fluke 5500
+90.00000000
+V
+100.00000000
+kHz
+
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14.00000000
+V
+60
+Hz
+Yokogawa WT3000E*0;
+2
+&150 V Range: 30 V @ 10 Hz
+False
+True
+^Yokogawa WT3000E
+150.00000000
+V
+60.00000000
+Hz
+, Elem4
+0
+^Fluke 5500
+30.00000000
+V
+10.00000000
+Hz
+
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14.00000000
+V
+60
+Hz
+Yokogawa WT3000E*0;
+2
+&150 V Range: 135 V @ 60 Hz
+False
+True
+^Yokogawa WT3000E
+135
+V
+60.00000000
+Hz
+, Elem4
+0
+^Fluke 5500
+135.00000000
+V
+60.00000000
+Hz
+
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14.00000000
+V
+60
+Hz
+Yokogawa WT3000E*0;
+2
+&150 V Range: 135 V @ 1 kHz
+False
+True
+^Yokogawa WT3000E
+135
+V
+60.00000000
+Hz
+, Elem4
+0
+^Fluke 5500
+135.00000000
+V
+1.00000000
+kHz
+
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14.00000000
+V
+60
+Hz
+Yokogawa WT3000E*0;
+2
+&150 V Range: 135 V @ 50 kHz
+False
+True
+^Yokogawa WT3000E
+135
+V
+60.00000000
+Hz
+, Elem4
+0
+^Fluke 5500
+135.00000000
+V
+50.00000000
+kHz
+
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14.00000000
+V
+60
+Hz
+Yokogawa WT3000E*0;
+2
+&150 V Range: 135 V @ 100 kHz
+False
+True
+^Yokogawa WT3000E
+135
+V
+60.00000000
+Hz
+, Elem4
+0
+^Fluke 5500
+135.00000000
+V
+100.00000000
+kHz
+
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14.00000000
+V
+60
+Hz
+Yokogawa WT3000E*0;
+2
+&300 V Range: 270 V @ 60 Hz
+False
+True
+^Yokogawa WT3000E
+270
+V
+60.00000000
+Hz
+, Elem4
+0
+^Fluke 5500
+270.00000000
+V
+60.00000000
+Hz
+
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14.00000000
+V
+60
+Hz
+Yokogawa WT3000E*0;
+2
+&300 V Range: 270 V @ 1 kHz
+False
+True
+^Yokogawa WT3000E
+270
+V
+60.00000000
+Hz
+, Elem4
+0
+^Fluke 5500
+270.00000000
+V
+1.00000000
+kHz
+
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14.00000000
+V
+60
+Hz
+Yokogawa WT3000E*0;
+2
+&300 V Range: 270 V @ 50 kHz
+False
+True
+^Yokogawa WT3000E
+270
+V
+60.00000000
+Hz
+, Elem4
+0
+^Fluke 5500
+270
+V
+50
+kHz
+
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14.00000000
+V
+60
+Hz
+Yokogawa WT3000E*0;
+2
+&300 V Range: 270 V @ 100 kHz
+False
+True
+^Yokogawa WT3000E
+270
+V
+60.00000000
+Hz
+, Elem4
+0
+^Fluke 5500
+270
+V
+100
+kHz
+
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14.00000000
+V
+60
+Hz
+Yokogawa WT3000E*0;
+2
+&600 V Range: 540 V @ 60 Hz
+False
+True
+^Yokogawa WT3000E
+540
+V
+60.00000000
+Hz
+, Elem4
+0
+^Fluke 5500
+540.00000000
+V
+60.00000000
+Hz
+
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14.00000000
+V
+60
+Hz
+Yokogawa WT3000E*0;
+2
+&600 V Range: 540 V @ 1 kHz
+False
+True
+^Yokogawa WT3000E
+540
+V
+60.00000000
+Hz
+, Elem4
+0
+^Fluke 5500
+540.00000000
+V
+1.00000000
+kHz
+
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14.00000000
+V
+60
+Hz
+Yokogawa WT3000E*0;
+2
+&600 V Range: 300 V @ 50 kHz
+False
+True
+^Yokogawa WT3000E
+540
+V
+60.00000000
+Hz
+, Elem4
+0
+^Fluke 5500
+300
+V
+50
+kHz
+
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14.00000000
+V
+60
+Hz
+Yokogawa WT3000E*0;
+2
+&600 V Range: 300 V @ 100 kHz
+False
+True
+^Yokogawa WT3000E
+540
+V
+60.00000000
+Hz
+, Elem4
+0
+^Fluke 5500
+300
+V
+100
+kHz
+
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14.00000000
+V
+60
+Hz
+Yokogawa WT3000E*0;
+2
+&1000 V Range: 0.9 kV @ 60 Hz
+False
+True
+^Yokogawa WT3000E
+900
+V
+60.00000000
+Hz
+, Elem4
+0
+^Fluke 5500
+0.900000000
+kV
+60.00000000
+Hz
+
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14.00000000
+V
+60
+Hz
+Yokogawa WT3000E*0;
+2
+&1000 V Range: 0.9 kV @ 1 kHz
+False
+True
+^Yokogawa WT3000E
+900
+V
+60.00000000
+Hz
+, Elem4
+0
+^Fluke 5500
+0.900000000
+kV
+1.00000000
+kHz
+
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14.00000000
+V
+60
+Hz
+Yokogawa WT3000E*0;
+2
+&1000 V Range: 0.9 kV @ 10 kHz
+False
+True
+^Yokogawa WT3000E
+900
+V
+60.00000000
+Hz
+, Elem4
+0
+^Fluke 5500
+0.900000000
+kV
+10
+kHz
+
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14.00000000
+V
+60
+Hz
+Yokogawa WT3000E*0;
+2
+&1000 V Range: 0.3 kV @ 100 kHz
+False
+True
+^Yokogawa WT3000E
+900
+V
+60.00000000
+Hz
+, Elem4
+0
+^Fluke 5500
+0.30000000
+kV
+100.00000000
+kHz
+
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14.00000000
+V
+60
+Hz
+Yokogawa WT3000E*0;
+2
+^Fluke 5500
+0
+
+0
+
+; STBY
+0
+*Yokogawa WT1800,,,Element 4: AC Current
+&Setup
+False
+True
+^Fluke 5500
+0
+
+0
+
+*RST
+0
+^Yokogawa WT3000E
+0
+
+0
+
+*RST
+0
+^Wait
+0
+
+0
+
+
+3
+&1 A Range: 0.9 A @ 10 Hz
+False
+True
+^Message
+0
+
+0
+
+Switch to Aux output
+0
+^Yokogawa WT3000E
+0.9
+A
+60.00000000
+Hz
+, Elem4
+0
+^Fluke 5520
+0.9
+A
+10
+Hz
+; CUR_POST A20
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14.00000000
+V
+60
+Hz
+Yokogawa WT3000E*0;
+2
+&1 A Range: 0.9 A @ 60 Hz
+False
+True
+^Yokogawa WT3000E
+0.9
+A
+60.00000000
+Hz
+, Elem4
+0
+^Fluke 5500
+0.900000000
+A
+60.00000000
+Hz
+
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14.00000000
+V
+60
+Hz
+Yokogawa WT3000E*0;
+2
+&1 A Range: 0.9 A @ 1 kHz
+False
+True
+^Yokogawa WT3000E
+0.9
+A
+60.00000000
+Hz
+, Elem4
+0
+^Fluke 5500
+0.900000000
+A
+1.00000000
+kHz
+
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14.00000000
+V
+60
+Hz
+Yokogawa WT3000E*0;
+2
+&1 A Range: 0.3 A @ 30 kHz
+False
+True
+^Yokogawa WT3000E
+0.9
+A
+60.00000000
+Hz
+, Elem4
+0
+^Fluke 5500
+0.3
+A
+30.00000000
+kHz
+
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14.00000000
+V
+60
+Hz
+Yokogawa WT3000E*0;
+2
+&2 A Range: 1.8 A @ 10 Hz
+False
+True
+^Yokogawa WT3000E
+1.8
+A
+60.00000000
+Hz
+, Elem4
+0
+^Fluke 5500
+1.8
+A
+10
+Hz
+
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14.00000000
+V
+60
+Hz
+Yokogawa WT3000E*0;
+2
+&2 A Range: 1.8 A @ 60 Hz
+False
+True
+^Yokogawa WT3000E
+1.8
+A
+60.00000000
+Hz
+, Elem4
+0
+^Fluke 5500
+1.80000000
+A
+60.00000000
+Hz
+
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14.00000000
+V
+60
+Hz
+Yokogawa WT3000E*0;
+2
+&2 A Range: 1.8 A @ 1 kHz
+False
+True
+^Yokogawa WT3000E
+1.8
+A
+60.00000000
+Hz
+, Elem4
+0
+^Fluke 5500
+1.80000000
+A
+1.00000000
+kHz
+
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14.00000000
+V
+60
+Hz
+Yokogawa WT3000E*0;
+2
+&2 A Range: 0.3 A @ 30 kHz
+False
+True
+^Yokogawa WT3000E
+0.9
+A
+60.00000000
+Hz
+, Elem4
+0
+^Fluke 5500
+0.3
+A
+30.00000000
+kHz
+
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14.00000000
+V
+60
+Hz
+Yokogawa WT3000E*0;
+2
+&5 A Range: 4.5 A @ 10 Hz
+False
+True
+^Fluke 5500
+0
+
+0
+
+; STBY
+0
+^Message
+0
+
+0
+
+Switch to 20A output
+0
+^Yokogawa WT3000E
+4.5
+A
+10.00000000
+Hz
+, Elem4
+0
+^Fluke 5500
+4.5000000
+A
+1.00000000
+kHz
+
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14.00000000
+V
+60
+Hz
+Yokogawa WT3000E*0;
+2
+&5 A Range: 4.5 A @ 60 Hz
+False
+True
+^Yokogawa WT3000E
+4.5
+A
+10.00000000
+Hz
+, Elem4
+0
+^Fluke 5500
+4.5
+A
+60
+Hz
+
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14.00000000
+V
+60
+Hz
+Yokogawa WT3000E*0;
+2
+&5 A Range: 4.5 A @ 1 kHz
+False
+True
+^Yokogawa WT3000E
+4.5
+A
+10.00000000
+Hz
+, Elem4
+0
+^Fluke 5500
+4.5
+A
+1
+kHz
+
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14.00000000
+V
+60
+Hz
+Yokogawa WT3000E*0;
+2
+&5 A Range: 0.3 A @ 30 kHz
+False
+True
+^Fluke 5500
+0
+
+0
+
+; STBY
+0
+^Message
+0
+
+0
+
+Switch to Aux output
+0
+^Yokogawa WT3000E
+4.5
+A
+10.00000000
+Hz
+, Elem4
+0
+^Fluke 5500
+0.3
+A
+30.00000000
+kHz
+
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14.00000000
+V
+60
+Hz
+Yokogawa WT3000E*0;
+2
+&10 A Range: 9 A @ 60 Hz
+False
+True
+^Fluke 5500
+0
+
+0
+
+; STBY
+0
+^Message
+0
+
+0
+
+Switch to 20A output
+0
+^Yokogawa WT3000E
+9
+A
+60.00000000
+Hz
+, Elem4
+0
+^Fluke 5500
+9.00000000
+A
+60.00000000
+Hz
+
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14.00000000
+V
+60
+Hz
+Yokogawa WT3000E*0;
+2
+&10 A Range: 9 A @ 1 kHz
+False
+True
+^Yokogawa WT3000E
+9
+A
+60.00000000
+Hz
+, Elem4
+0
+^Fluke 5500
+9.00000000
+A
+1.00000000
+kHz
+
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14.00000000
+V
+60
+Hz
+Yokogawa WT3000E*0;
+2
+&10 A Range: 0.3 A @ 30 kHz
+False
+True
+^Fluke 5500
+0
+
+0
+
+; STBY
+0
+^Message
+0
+
+0
+
+Switch to Aux output
+0
+^Yokogawa WT3000E
+9
+A
+60.00000000
+Hz
+, Elem4
+0
+^Fluke 5500
+0.300000000
+A
+30.00000000
+kHz
+
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14.00000000
+V
+60
+Hz
+Yokogawa WT3000E*0;
+2
+&20 A Range: 18 A @ 60 Hz
+False
+True
+^Fluke 5500
+0
+
+0
+
+; STBY
+0
+^Message
+0
+
+0
+
+Switch to 20A output
+0
+^Yokogawa WT3000E
+18
+A
+60.00000000
+Hz
+, Elem4
+0
+^Fluke 5500
+18.0000000
+A
+60.00000000
+Hz
+
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14.00000000
+V
+60
+Hz
+Yokogawa WT3000E*0;
+2
+&20 A Range: 18 A @ 1 kHz
+False
+True
+^Yokogawa WT3000E
+18
+A
+60.00000000
+Hz
+, Elem4
+0
+^Fluke 5500
+18.0000000
+A
+1.00000000
+kHz
+
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14.00000000
+V
+60
+Hz
+Yokogawa WT3000E*0;
+2
+&20 A Range: 0.3 A @ 30 kHz
+False
+True
+^Fluke 5500
+0
+
+0
+
+; STBY
+0
+^Message
+0
+
+0
+
+Switch to Aux output
+0
+^Yokogawa WT3000E
+18
+A
+60.00000000
+Hz
+, Elem4
+0
+^Fluke 5500
+0.300000000
+A
+30.00000000
+kHz
+
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14.00000000
+V
+60
+Hz
+Yokogawa WT3000E*0;
+2
+&50 A Range: 18 A @ 60 Hz
+False
+True
+^Fluke 5500
+0
+
+0
+
+; STBY
+0
+^Message
+0
+
+0
+
+Switch to 20A output
+0
+^Yokogawa WT3000E
+45
+A
+60.00000000
+Hz
+, Elem4
+0
+^Fluke 5500
+18.0000000
+A
+60.00000000
+Hz
+
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14.00000000
+V
+60
+Hz
+Yokogawa WT3000E*0;
+2
+&50 A Range: 18 A @ 1 kHz
+False
+True
+^Yokogawa WT3000E
+45
+A
+60.00000000
+Hz
+, Elem4
+0
+^Fluke 5500
+18.0000000
+A
+1
+kHz
+
+0
+^Fluke 5500
+14
+V
+1.00000000
+kHz
+; OPER
+0
+^Wait
+14
+V
+60
+Hz
+
+3
+^Monitor
+14.00000000
+V
+60
+Hz
+Yokogawa WT3000E*0;
+2
+*Yokogawa WT1800,,,Element 4: Power DC
+&Setup
+False
+True
+^Fluke 5500
+0
+
+0
+
+*RST
+0
+^Yokogawa WT3000E
+0
+
+0
+
+*RST
+0
+^Wait
+0
+
+0
+
+
+3
+&1.5 V / 2 A Range: 3 W
+False
+True
+^Message
+0
+
+0
+
+Switch to Aux output
+0
+^Yokogawa WT3000E
+1.500000000
+V
+2.00000000
+A
+, Elem4
+0
+^Fluke 5520
+1.500000000
+V
+2.00000000
+A
+; CUR_POST A20
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&3 V / 2 A Range: 6 W
+False
+True
+^Yokogawa WT3000E
+3.0000000
+V
+2.00000000
+A
+, Elem4
+0
+^Fluke 5500
+3
+V
+2.00000000
+A
+
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&6 V / 2 A Range: 12 W
+False
+True
+^Yokogawa WT3000E
+6
+V
+2.00000000
+A
+, Elem4
+0
+^Fluke 5500
+6
+V
+2.00000000
+A
+
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&10 V / 2 A Range: 20 W
+False
+True
+^Yokogawa WT3000E
+10
+V
+2.00000000
+A
+, Elem4
+0
+^Fluke 5500
+10
+V
+2.00000000
+A
+
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&10 V / 2 A Range: 15 W
+False
+True
+^Yokogawa WT3000E
+7.5
+V
+2
+A
+, Elem4
+0
+^Fluke 5500
+7.5
+V
+2
+A
+
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&10 V / 2 A Range: 10 W
+False
+True
+^Yokogawa WT3000E
+7.5
+V
+2
+A
+, Elem4
+0
+^Fluke 5500
+5
+V
+2
+A
+
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&10 V / 2 A Range: 5 W
+False
+True
+^Yokogawa WT3000E
+7.5
+V
+2
+A
+, Elem4
+0
+^Fluke 5500
+2.5
+V
+2
+A
+
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&10 V / 2 A Range: 2 W
+False
+True
+^Yokogawa WT3000E
+7.5
+V
+2
+A
+, Elem4
+0
+^Fluke 5500
+1
+V
+2
+A
+
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&20 V / 2 A Range: 30 W
+False
+True
+^Yokogawa WT3000E
+15
+V
+2
+A
+, Elem4
+0
+^Fluke 5500
+15
+V
+2
+A
+
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&60 V / 2 A Range: 120 W
+False
+True
+^Yokogawa WT3000E
+60
+V
+2
+A
+, Elem4
+0
+^Fluke 5500
+60
+V
+2
+A
+
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&100 V / 2 A Range: 200 W
+False
+True
+^Yokogawa WT3000E
+100
+V
+2
+A
+, Elem4
+0
+^Fluke 5500
+100
+V
+2
+A
+
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&150 V / 2 A Range: 300 W
+False
+True
+^Yokogawa WT3000E
+150.00000000
+V
+2
+A
+, Elem4
+0
+^Fluke 5500
+150.00000000
+V
+2
+A
+
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&300 V / 2 A Range: 600 W
+False
+True
+^Yokogawa WT3000E
+300
+V
+2
+A
+, Elem4
+0
+^Fluke 5500
+300
+V
+2
+A
+
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&600 V / 2 A Range: 1.2 kW
+False
+True
+^Yokogawa WT3000E
+600
+V
+2
+A
+, Elem4
+0
+^Fluke 5500
+600
+V
+2
+A
+
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&1 kV / 2 A Range: 2 kW
+False
+True
+^Yokogawa WT3000E
+1000
+V
+2
+A
+, Elem4
+0
+^Fluke 5500
+1
+kV
+2
+A
+
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&1 kV / 1 A Range: 1 kW
+False
+True
+^Yokogawa WT3000E
+1000
+V
+1
+A
+, Elem4
+0
+^Fluke 5500
+1
+kV
+1
+A
+
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&1 kV / 5 A Range: 5 kW
+False
+True
+^Fluke 5500
+0
+
+0
+
+; STBY
+0
+^Message
+0
+
+0
+
+Switch to 20A output
+0
+^Yokogawa WT3000E
+1000
+V
+5
+A
+, Elem4
+0
+^Fluke 5500
+1
+kV
+5
+A
+
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&1 kV / 10 A Range: 10 kW
+False
+True
+^Yokogawa WT3000E
+1000
+V
+10
+A
+, Elem4
+0
+^Fluke 5500
+1
+kV
+10
+A
+
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&1 kV / 20 A Range: 18 kW
+False
+True
+^Yokogawa WT3000E
+1000
+V
+18
+A
+, Elem4
+0
+^Fluke 5500
+1
+kV
+18
+A
+
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&1 kV / 50 A Range: 18 kW
+False
+True
+^Yokogawa WT3000E
+1000
+V
+45
+A
+, Elem4
+0
+^Fluke 5500
+1
+kV
+18
+A
+
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+^Fluke 5500
+0
+
+0
+
+; STBY
+0
+*Yokogawa WT1800,,,Element 4: Power AC
+&Setup
+False
+True
+^Fluke 5500
+0
+
+0
+
+*RST
+0
+^Yokogawa WT3000E
+0
+
+0
+
+*RST
+0
+^Wait
+0
+
+0
+
+
+3
+&1.5 V / 2 A Range: 3 W @ 60 Hz
+False
+True
+^Message
+0
+
+0
+
+Switch to Aux output
+0
+^Yokogawa WT3000E
+1.5
+V
+2
+A
+, Elem4, 60 Hz
+0
+^Fluke 5520
+1.500000000
+V
+2.00000000
+A
+, 60 Hz; CUR_POST A20
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&1.5 V / 2 A Range: 3 W @ 1 kHz
+False
+True
+^Yokogawa WT3000E
+1.5
+V
+2
+A
+, Elem4, 60 Hz
+0
+^Fluke 5500
+1.5
+V
+2
+A
+, 1 kHz
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&3 V / 2 A Range: 6 W @ 60 Hz
+False
+True
+^Yokogawa WT3000E
+3
+V
+2
+A
+, Elem4, 60 Hz
+0
+^Fluke 5500
+3
+V
+2
+A
+, 60 Hz
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&3 V / 2 A Range: 6 W @ 1 kHz
+False
+True
+^Yokogawa WT3000E
+3
+V
+2
+A
+, Elem4, 60 Hz
+0
+^Fluke 5500
+3
+V
+2
+A
+, 1 kHz
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&6 V / 2 A Range: 12 W @ 60 Hz
+False
+True
+^Yokogawa WT3000E
+6
+V
+2
+A
+, Elem4, 60 Hz
+0
+^Fluke 5500
+6
+V
+2
+A
+, 60 Hz
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&6 V / 2 A Range: 12 W @ 1 kHz
+False
+True
+^Yokogawa WT3000E
+6
+V
+2
+A
+, Elem4, 60 Hz
+0
+^Fluke 5500
+6
+V
+2
+A
+, 1 kHz
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&10 V / 2 A Range: 20 W @ 60 Hz
+False
+True
+^Yokogawa WT3000E
+10
+V
+2
+A
+, Elem4, 60 Hz
+0
+^Fluke 5500
+10
+V
+2
+A
+, 60 Hz
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&10 V / 2 A Range: 20 W @ 1 kHz
+False
+True
+^Yokogawa WT3000E
+10
+V
+2
+A
+, Elem4, 60 Hz
+0
+^Fluke 5500
+10
+V
+2
+A
+, 1 kHz
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&15 V / 2 A Range: 30 W @ 60 Hz
+False
+True
+^Yokogawa WT3000E
+15
+V
+2
+A
+, Elem4, 60 Hz
+0
+^Fluke 5500
+15
+V
+2
+A
+, 60 Hz
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&15 V / 2 A Range: 30 W @ 1 kHz
+False
+True
+^Yokogawa WT3000E
+15
+V
+2
+A
+, Elem4, 60 Hz
+0
+^Fluke 5500
+15
+V
+2
+A
+, 1 kHz
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&30 V / 2 A Range: 60 W @ 60 Hz
+False
+True
+^Yokogawa WT3000E
+30
+V
+2
+A
+, Elem4, 60 Hz
+0
+^Fluke 5500
+30
+V
+2
+A
+, 60 Hz
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&30 V / 2 A Range: 60 W @ 1 kHz
+False
+True
+^Yokogawa WT3000E
+30
+V
+2
+A
+, Elem4, 60 Hz
+0
+^Fluke 5500
+30
+V
+2
+A
+, 1 kHz
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&60 V / 2 A Range: 120 W @ 60 Hz
+False
+True
+^Yokogawa WT3000E
+60
+V
+2
+A
+, Elem4, 60 Hz
+0
+^Fluke 5500
+60
+V
+2
+A
+, 60 Hz
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&60 V / 2 A Range: 120 W @ 1 kHz
+False
+True
+^Yokogawa WT3000E
+60
+V
+2
+A
+, Elem4, 60 Hz
+0
+^Fluke 5500
+60
+V
+2
+A
+, 1 kHz
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&100 V / 2 A Range: 200 W @ 60 Hz
+False
+True
+^Yokogawa WT3000E
+100
+V
+2
+A
+, Elem4, 60 Hz
+0
+^Fluke 5500
+100
+V
+2
+A
+, 60 Hz
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&100 V / 2 A Range: 200 W @ 1 kHz
+False
+True
+^Yokogawa WT3000E
+100
+V
+2
+A
+, Elem4, 60 Hz
+0
+^Fluke 5500
+100
+V
+2
+A
+, 1 kHz
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&150 V / 2 A Range: 300 W @ 60 Hz
+False
+True
+^Yokogawa WT3000E
+150
+V
+2
+A
+, Elem4, 60 Hz
+0
+^Fluke 5500
+150
+V
+2
+A
+, 60 Hz
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&150 V / 2 A Range: 300 W @ 1 kHz
+False
+True
+^Yokogawa WT3000E
+150
+V
+2
+A
+, Elem4, 60 Hz
+0
+^Fluke 5500
+150
+V
+2
+A
+, 1 kHz
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&300 V / 2 A Range: 600 W @ 60 Hz
+False
+True
+^Yokogawa WT3000E
+300
+V
+2
+A
+, Elem4, 60 Hz
+0
+^Fluke 5500
+300
+V
+2
+A
+, 60 Hz
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&300 V / 2 A Range: 600 W @ 1 kHz
+False
+True
+^Yokogawa WT3000E
+300
+V
+2
+A
+, Elem4, 60 Hz
+0
+^Fluke 5500
+300
+V
+2
+A
+, 1 kHz
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&600 V / 2 A Range: 1.2 kW @ 60 Hz
+False
+True
+^Yokogawa WT3000E
+600
+V
+2
+A
+, Elem4, 60 Hz
+0
+^Fluke 5500
+600
+V
+2
+A
+, 60 Hz
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&600 V / 2 A Range: 1.2 kW @ 1 kHz
+False
+True
+^Yokogawa WT3000E
+600
+V
+2
+A
+, Elem4, 60 Hz
+0
+^Fluke 5500
+600
+V
+2
+A
+, 1 kHz
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&1 kV / 2 A Range: 2 kW @ 60 Hz
+False
+True
+^Yokogawa WT3000E
+1000
+V
+2
+A
+, Elem4, 60 Hz
+0
+^Fluke 5500
+1
+kV
+2
+A
+, 60 Hz
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+&1 kV / 2 A Range: 2 kW @ 1 kHz
+False
+True
+^Yokogawa WT3000E
+1000
+V
+2
+A
+, Elem4, 60 Hz
+0
+^Fluke 5500
+1
+kV
+2
+A
+, 1 kHz
+0
+^Fluke 5500
+15
+V
+5
+A
+; OPER
+0
+^Wait
+0
+
+0
+
+
+3
+^Monitor
+0
+
+0
+
+Yokogawa WT3000E*0;
+2
+^Fluke 5500
+0
+
+0
+
+; STBY
+0

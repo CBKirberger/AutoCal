@@ -1,0 +1,924 @@
+*,,,Setup
+&Setup
+False
+True
+^Fluke 5520
+0
+
+0
+
+*RST
+0
+^Message
+0
+
+0
+
+Connect the Voltage input of the 87 V to the Normal output of the calibrator.  Set the dial of the 87 V to AC volts and set the range to 600 mV.
+0
+*,,,Direct Voltage (AC)
+&600 mV Range
+False
+True
+^Fluke 5520
+0.33
+V
+0
+
+, 60 Hz
+0
+^Fluke 5520
+30.00000000
+
+0.05
+
+;OPER
+0
+^Message
+0.33
+V
+0
+
+Enter value into CPM
+0
+&6 V Range
+False
+True
+^Message
+3.3000000
+
+0
+
+Set Range of 87 V to 6 V
+0
+^Fluke 5520
+3.3000000
+V
+0
+
+, 60 Hz
+0
+^Message
+0.33
+
+0
+
+Enter value into CPM
+0
+^Fluke 5520
+3.3000000
+V
+0
+
+, 20000 Hz
+0
+^Message
+0.33
+
+0
+
+Enter value into CPM
+0
+&60 V Range
+False
+True
+^Message
+3.3000000
+
+0
+
+Set Range of 87 V to 60 V
+0
+^Fluke 5520
+33.0000000
+V
+0
+
+, 60 Hz
+0
+^Fluke 5520
+30.00000000
+
+0.05
+
+;OPER
+0
+^Message
+0.33
+
+0
+
+Enter value into CPM
+0
+&600 V Range
+False
+True
+^Message
+3.3000000
+
+0
+
+Set Range of 87 V to 600 V
+0
+^Fluke 5520
+330.0000000
+V
+0
+
+, 60 Hz
+0
+^Fluke 5520
+30.00000000
+
+0.05
+
+;OPER
+0
+^Message
+0.33
+
+0
+
+Enter value into CPM
+0
+^Fluke 5520
+330.0000000
+V
+0
+
+, 2500 Hz
+0
+^Message
+0.33
+
+0
+
+Enter value into CPM
+0
+^Fluke 5520
+500.00000000
+V
+0
+
+, 1000 Hz
+0
+^Message
+0.33
+
+0
+
+Enter value into CPM
+0
+^Fluke 5520
+1.500000000
+
+20
+
+*RST
+0
+&1000 V Range
+False
+True
+^Message
+3.3000000
+
+0
+
+Set Range of 87 V to 1000 V
+0
+^Fluke 5520
+1000.0000000
+V
+0
+
+, 1000 Hz
+0
+^Fluke 5520
+30.00000000
+
+0.05
+
+;OPER
+0
+^Message
+0.33
+
+0
+
+Enter value into CPM
+0
+^Fluke 5520
+1.500000000
+
+20
+
+*RST
+0
+*,,,Frequency
+&Frequency
+True
+True
+^Message
+3.3000000
+
+0
+
+Press Hz on 87 V to enter frequency mode. Set range to 600 mV. 
+0
+^Fluke 5520
+0.1500000000
+V
+0
+
+, 99950 Hz
+0
+^Fluke 5520
+30.00000000
+
+0.05
+
+;OPER
+0
+^Message
+0.33
+
+0
+
+Enter value into CPM
+0
+^Fluke 5520
+0.1500000000
+V
+0
+
+, 199950 Hz
+0
+^Message
+0.33
+
+0
+
+Enter value into CPM. Set range of 87 V to 6 V.
+0
+^Fluke 5520
+0.70000000
+V
+0
+
+, 99950 Hz
+0
+^Message
+0.33
+
+0
+
+Enter value into CPM. Set range of 87 V to 60 V.
+0
+^Fluke 5520
+7.0000000
+V
+0
+
+, 99950 Hz
+0
+^Message
+0.33
+
+0
+
+Enter value into CPM
+0
+^Fluke 5520
+3.400000000
+V
+0
+
+;WAVE SQUARE
+0
+^Message
+0.33
+
+0
+
+Enter value into CPM
+0
+^Fluke 5520
+1.500000000
+
+20
+
+*RST
+0
+*,,,Voltage (DC)
+&DC Volts: all ranges
+False
+True
+^Message
+0.33
+
+0
+
+Set dial of 87 V to DC Volts. Set range to 6 V.
+0
+^Fluke 5520
+3.3000000
+V
+0
+
+
+0
+^Fluke 5520
+30.00000000
+
+0.05
+
+;OPER
+0
+^Message
+0.33
+
+0
+
+Enter value into CPM. Set range of 87 V to 60 V.
+0
+^Fluke 5520
+33.0000000
+V
+0
+
+
+0
+^Message
+0.33
+
+0
+
+Enter value into CPM. Set range of 87 V to 600 V.
+0
+^Fluke 5520
+330.00000000
+V
+0
+
+
+0
+^Fluke 5520
+30.00000000
+
+0.05
+
+;OPER
+0
+^Message
+0.33
+
+0
+
+Enter value into CPM. Set range of 87 V to 1000 V.
+0
+^Fluke 5520
+1000.00000000
+V
+0
+
+
+0
+^Message
+0.33
+
+0
+
+Enter value into CPM
+0
+^Fluke 5520
+30.00000000
+
+0.05
+
+;*RST
+0
+*,,,Resistance
+&Resistance: All ranges
+False
+True
+^Message
+0.33
+
+0
+
+Set the dial on the 87 V to Ohms. Set range to 600 Ohms.
+0
+^Fluke 5520
+330.00000
+Ohm
+0
+
+
+0
+^Fluke 5520
+30.00000000
+
+0.05
+
+;OPER
+0
+^Message
+3300.000000
+
+0
+
+Enter value into CPM. Set range to 6 kOhms
+0
+^Fluke 5520
+3300.0000000
+Ohm
+0
+
+
+0
+^Message
+3300.0000000
+
+0
+
+Enter value into CPM. Set range to 60 kOhms
+0
+^Fluke 5520
+33.00000000
+kOhm
+0
+
+
+0
+^Message
+3300.0000000
+
+0
+
+Enter value into CPM. Set range to 600 kOhms
+0
+^Fluke 5520
+330.00000000
+kOhm
+0
+
+
+0
+^Message
+3300.0000000
+
+0
+
+Enter value into CPM. Set range to 6 MOhms
+0
+^Fluke 5520
+3.300000000
+MOhm
+0
+
+
+0
+^Message
+3300.0000000
+
+0
+
+Enter value into CPM. Set range to 60 MOhms
+0
+^Fluke 5520
+30.0000000
+MOhm
+0
+
+
+0
+^Message
+3300.0000000
+
+0
+
+Enter value into CPM. 
+0
+^Fluke 5520
+30.00000000
+
+0.05
+
+;*RST
+0
+*,,,Capacitance
+&Capacitance
+False
+True
+^Message
+330.00000
+
+0
+
+On the 87 V, press the yellow button to enter capacitance mode.  Connect two more test leads to the AUX output of the calibrator. Connect the other ends to the leads already inserted into the 87 V (4 to 2-wire configuration). Set range to 100 nF.
+0
+^Fluke 5520
+100
+nF
+0
+
+
+0
+^Fluke 5520
+30.00000000
+
+0.05
+
+;OPER
+0
+^Message
+330.00000
+
+0
+
+Enter value into CPM. Set range to 100 uF.
+0
+^Fluke 5520
+100
+uF
+0
+
+
+0
+^Message
+330.00000
+
+0
+
+Enter value into CPM.
+0
+^Fluke 5520
+30.00000000
+
+0.05
+
+;*RST
+0
+*,,,Diode Test
+&Diode test
+False
+True
+^Message
+330.00000
+
+0
+
+Connect Normal output of calibrator to voltage input of 87 V.  Set the dial on the 87 V to diode (->+ symbol)
+0
+^Fluke 5520
+3.00000000
+V
+0
+
+
+0
+^Fluke 5520
+30.00000000
+
+0.05
+
+;OPER
+0
+^Message
+330.00000
+
+0
+
+Enter value into CPM. Set range to 100 uF.
+0
+^Fluke 5520
+30.00000000
+
+0.05
+
+;*RST
+0
+*,,,Low Pass Filter
+&Low Pass Filter
+False
+True
+^Message
+0.33
+
+0
+
+Set the dial on the 87 V to AC Volts. Press yellow button to enter Low Pass Filter mode. Set range to 1000 V.
+0
+^Fluke 5520
+0.33
+V
+0
+
+, 60 Hz
+0
+^Fluke 5520
+30.00000000
+
+0.05
+
+;OPER
+0
+^Message
+0.33
+V
+0
+
+Enter value into CPM.
+0
+^Fluke 5520
+30.00000000
+
+0.05
+
+;*RST
+0
+*,,,DC Voltage Peak
+&DC Voltage Peak Max
+False
+True
+^Message
+0.33
+
+0
+
+Set the dial on the 87 V to DC Volts. Press MIN MAX button, followed by PEAK MIN MAX.
+0
+^Fluke 5520
+8.000000
+V
+0
+
+, 2000 Hz;WAVE SQUARE;DC_OFFSET 2V
+0
+^Fluke 5520
+30.00000000
+
+0.05
+
+;OPER
+0
+^Message
+0.33
+
+0
+
+Press PEAK MIN MAX to view max value. Enter value into CPM.
+0
+^Message
+0.33
+
+0
+
+Press PEAK MIN MAX again to view min value. Enter value into CPM.
+0
+^Fluke 5520
+30.00000000
+
+0.05
+
+;*RST
+0
+*,,,Temperature
+&Temperature
+False
+True
+^Message
+0.33
+
+0
+
+Connect the thermocouple output of calibrator to the temperature input of the 87 V with a type K thermocouple. Set the dial of the 87 V to temperature and press the yellow button.
+0
+^Fluke 5520
+0.000
+Cel
+0
+
+
+0
+^Fluke 5520
+30.00000000
+
+0.05
+
+;OPER
+0
+^Message
+0.33
+
+0
+
+When the temperature reading has stabilized, enter value into CPM.
+0
+^Fluke 5520
+100.00000000
+Cel
+0
+
+
+0
+^Message
+0.33
+
+0
+
+Enter value into CPM.
+0
+^Fluke 5520
+30.00000000
+
+0.05
+
+;*RST
+0
+*,,,Current
+&Current (AC and DC)
+False
+True
+^Message
+0.33
+
+0
+
+Connect the AUX output of the calibrator to the low current (400 mA) input of the 87 V. Set the dial of the 87 V to mA. Set range to 60 mA. 
+0
+^Fluke 5520
+33.00000000
+mA
+0
+
+, 60 Hz
+0
+^Fluke 5520
+30.00000000
+
+0.05
+
+;OPER
+0
+^Message
+0.33
+
+0
+
+Enter value into CPM. Set range to 400 mA. 
+0
+^Fluke 5520
+330.00000000
+mA
+0
+
+, 60 Hz
+0
+^Message
+0.33
+
+0
+
+Enter value into CPM. Press yellow button to enter DC mode. Set range to 60 mA.
+0
+^Fluke 5520
+33.00000000
+mA
+0
+
+
+0
+^Message
+0.33
+
+0
+
+Enter value into CPM. Set range to 400 mA.
+0
+^Fluke 5520
+330.00000000
+mA
+0
+
+
+0
+^Message
+0.33
+
+0
+
+Enter value into CPM. Set dial on 87 V to uA. Set range to 600 uA.
+0
+^Fluke 5520
+330.00000000
+uA
+0
+
+, 60 Hz
+0
+^Message
+0.33
+
+0
+
+Enter value into CPM. Set range to 6000 uA.
+0
+^Fluke 5520
+3300.00000000
+uA
+0
+
+, 60 Hz
+0
+^Message
+0.33
+
+0
+
+Enter value into CPM. Press yellow button to enter DC mode. Set range to 600 uA.
+0
+^Fluke 5520
+330.00000000
+uA
+0
+
+
+0
+^Message
+0.33
+
+0
+
+Enter value into CPM. Set range to 6000 uA.
+0
+^Fluke 5520
+3300.00000000
+uA
+0
+
+
+0
+^Message
+0.33
+
+0
+
+Enter value into CPM. Connect AUX output of calibrator to current (10A) input of 87 V. Set the dial on the 87 V to A and set range to 6 A.
+0
+^Fluke 5520
+3.00000000
+A
+0
+
+, 60 Hz
+0
+^Message
+0.33
+
+0
+
+Enter value into CPM. Press the yellow button to enable DC mode. Set range to 6 A.
+0
+^Fluke 5520
+3.00000000
+A
+0
+
+
+0
+^Message
+0.33
+
+0
+
+Enter value into CPM. Connect the current (10A) input to the 20A output of the calibrator. Set range of 87 V to 10 A.
+0
+^Fluke 5520
+10.00000000
+A
+0
+
+
+0
+^Message
+0.33
+
+0
+
+Enter value into CPM.
+0
+^Fluke 5520
+30.00000000
+
+0.05
+
+;*RST
+0
+^Message
+0.33
+
+0
+
+Calibration complete.
+0

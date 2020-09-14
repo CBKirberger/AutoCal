@@ -1,0 +1,20298 @@
+*Yokogawa WT1600_3E_50A,,,Element 1 - Setup
+&Setup
+False
+True
+^Yokogawa WT1600
+0
+
+0
+
+*RST
+0
+^Fluke 5520
+0
+
+0
+
+*RST
+0
+^Message
+0
+
+0
+
+Element 1 - Connect the Voltage input of the Yokogawa to the Normal output of the calibrator. Connect the Current input of the Yokogawa to the Aux output of the calibrator.
+0
+*Yokogawa WT1600_3E_50A,,,DC Volts
+&1.5 V Range
+False
+True
+^Yokogawa WT1600
+1.5
+V
+0
+
+, Elem1
+0
+^Fluke 5520
+1.5
+V
+0
+
+
+0
+^Fluke 5520
+1.5
+V
+0
+
+;OPER
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+&1.5 V Range
+False
+True
+^Fluke 5520
+-1.50000000
+V
+0
+
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+&3 V Range
+False
+True
+^Yokogawa WT1600
+3.0000000
+V
+0
+
+, Elem1
+0
+^Fluke 5520
+3.0000000
+V
+0
+
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+&3 V Range
+False
+True
+^Fluke 5520
+-3.0000000
+V
+0
+
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+&6 V Range
+False
+True
+^Yokogawa WT1600
+6.00000000
+V
+0
+
+, Elem1
+0
+^Fluke 5520
+6.00000000
+V
+0
+
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+&6 V Range
+False
+True
+^Fluke 5520
+-6.00000000
+V
+0
+
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+&10 V Range
+False
+True
+^Yokogawa WT1600
+10.00000000
+V
+0
+
+, Elem1
+0
+^Fluke 5520
+10.00000000
+V
+0
+
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+&10 V Range
+False
+True
+^Fluke 5520
+-10.00000000
+V
+0
+
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+&15 V Range
+False
+True
+^Yokogawa WT1600
+15.00000000
+V
+0
+
+, Elem1
+0
+^Fluke 5520
+15.00000000
+V
+0
+
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+&15 V Range
+False
+True
+^Fluke 5520
+-15.00000000
+V
+0
+
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+&30 V Range
+False
+True
+^Yokogawa WT1600
+30.00000000
+V
+0
+
+, Elem1
+0
+^Fluke 5520
+30.00000000
+V
+0
+
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+&30 V Range
+False
+True
+^Fluke 5520
+-30.00000000
+V
+0
+
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+&60 V Range
+False
+True
+^Yokogawa WT1600
+60.00000000
+V
+0
+
+, Elem1
+0
+^Fluke 5520
+60.00000000
+V
+0
+
+
+0
+^Fluke 5520
+50.00000000
+V
+0
+
+;OPER
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+&60 V Range
+False
+True
+^Fluke 5520
+-60.00000000
+V
+0
+
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+&100 V Range
+False
+True
+^Yokogawa WT1600
+100.00000000
+V
+0
+
+, Elem1
+0
+^Fluke 5520
+100.00000000
+V
+0
+
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+&100 V Range
+False
+True
+^Fluke 5520
+-100.00000000
+V
+0
+
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+&100 V Range: Linearity
+False
+True
+^Fluke 5520
+50.00000000
+V
+0
+
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+&100 V Range: Linearity
+False
+True
+^Fluke 5520
+-50.00000000
+V
+0
+
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+&100 V Range: Linearity
+False
+True
+^Fluke 5520
+10.00000000
+V
+0
+
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+&100 V Range: Linearity
+False
+True
+^Fluke 5520
+-10.00000000
+V
+0
+
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+&100 V Range: Linearity
+False
+True
+^Fluke 5520
+1.00000000
+V
+0
+
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+&100 V Range: Linearity
+False
+True
+^Fluke 5520
+-1.00000000
+V
+0
+
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+&150 V Range
+False
+True
+^Yokogawa WT1600
+150.00000000
+V
+0
+
+, Elem1
+0
+^Fluke 5520
+150.00000000
+V
+0
+
+
+0
+^Fluke 5520
+50.00000000
+V
+0
+
+;OPER
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+&150 V Range
+False
+True
+^Fluke 5520
+-150.00000000
+V
+0
+
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+&300 V Range
+False
+True
+^Yokogawa WT1600
+300.00000000
+V
+0
+
+, Elem1
+0
+^Fluke 5520
+300.00000000
+V
+0
+
+
+0
+^Fluke 5520
+50.00000000
+V
+0
+
+;OPER
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+&300 V Range
+False
+True
+^Fluke 5520
+-300.00000000
+V
+0
+
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+&1000 V Range
+False
+True
+^Yokogawa WT1600
+1000.00000000
+V
+0
+
+, Elem1
+0
+^Fluke 5520
+900.00000000
+V
+0
+
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+&1000 V Range
+False
+True
+^Fluke 5520
+-900.00000000
+V
+0
+
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+1.5
+V
+60
+Hz
+;STBY
+0
+*Yokogawa WT1600_3E_50A,,,AC Volts
+&1.5 V Range
+False
+True
+^Yokogawa WT1600
+1.5
+V
+60
+Hz
+, Elem1
+0
+^Fluke 5520
+1.500000000
+V
+20
+Hz
+
+0
+^Fluke 5520
+1.500000000
+V
+20
+Hz
+;OPER
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+1.500000000
+V
+60.00000000
+Hz
+
+0
+^Monitor
+1.500000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+1.500000000
+V
+1.00000000
+kHz
+
+0
+^Monitor
+1.500000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+1.500000000
+V
+50.00000000
+kHz
+
+0
+^Monitor
+1.500000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+1.500000000
+V
+100.00000000
+kHz
+
+0
+^Monitor
+1.500000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+1.500000000
+V
+500.00000000
+kHz
+
+0
+^Monitor
+1.500000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+&3 V Range
+False
+True
+^Yokogawa WT1600
+3.0000000
+V
+60
+Hz
+, Elem1
+0
+^Fluke 5520
+3.0000000
+V
+20
+Hz
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+3.0000000
+V
+60.00000000
+Hz
+
+0
+^Monitor
+1.500000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+3.0000000
+V
+1.00000000
+kHz
+
+0
+^Monitor
+1.500000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+3.0000000
+V
+50.00000000
+kHz
+
+0
+^Monitor
+1.500000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+3.0000000
+V
+100.00000000
+kHz
+
+0
+^Monitor
+1.500000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+3.0000000
+V
+500.00000000
+kHz
+
+0
+^Monitor
+1.500000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+&6 V Range
+False
+True
+^Yokogawa WT1600
+6.00000000
+V
+60
+Hz
+, Elem1
+0
+^Fluke 5520
+6.00000000
+V
+20
+Hz
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+6.00000000
+V
+60.00000000
+Hz
+
+0
+^Monitor
+1.500000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+6.00000000
+V
+1.00000000
+kHz
+
+0
+^Monitor
+1.500000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+6.00000000
+V
+50.00000000
+kHz
+
+0
+^Monitor
+1.500000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+6.00000000
+V
+100.00000000
+kHz
+
+0
+^Monitor
+1.500000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+3.0000000
+V
+500.00000000
+kHz
+
+0
+^Monitor
+1.500000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+&10 V Range
+False
+True
+^Yokogawa WT1600
+10.00000000
+V
+60
+Hz
+, Elem1
+0
+^Fluke 5520
+10.00000000
+V
+20
+Hz
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+10.00000000
+V
+60.00000000
+Hz
+
+0
+^Monitor
+1.500000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+10.00000000
+V
+1.00000000
+kHz
+
+0
+^Monitor
+1.500000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+10.00000000
+V
+50.00000000
+kHz
+
+0
+^Monitor
+1.500000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+10.00000000
+V
+100.00000000
+kHz
+
+0
+^Monitor
+1.500000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+3.0000000
+V
+500.00000000
+kHz
+
+0
+^Monitor
+1.500000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+&15 V Range
+False
+True
+^Yokogawa WT1600
+15.00000000
+V
+60
+Hz
+, Elem1
+0
+^Fluke 5520
+15.00000000
+V
+20
+Hz
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+15.00000000
+V
+60.00000000
+Hz
+
+0
+^Monitor
+1.500000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+15.00000000
+V
+1.00000000
+kHz
+
+0
+^Monitor
+1.500000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+15.00000000
+V
+50.00000000
+kHz
+
+0
+^Monitor
+1.500000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+15.00000000
+V
+100.00000000
+kHz
+
+0
+^Monitor
+1.500000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+3.0000000
+V
+500.00000000
+kHz
+
+0
+^Monitor
+1.500000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+&30 V Range
+False
+True
+^Yokogawa WT1600
+30.00000000
+V
+60
+Hz
+, Elem1
+0
+^Fluke 5520
+30.00000000
+V
+20
+Hz
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+30.00000000
+V
+60.00000000
+Hz
+
+0
+^Monitor
+1.500000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+30.00000000
+V
+1.00000000
+kHz
+
+0
+^Monitor
+1.500000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+30.00000000
+V
+50.00000000
+kHz
+
+0
+^Monitor
+1.500000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+30.00000000
+V
+100.00000000
+kHz
+
+0
+^Monitor
+1.500000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+3.0000000
+V
+500.00000000
+kHz
+
+0
+^Monitor
+1.500000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+&60 V Range
+False
+True
+^Yokogawa WT1600
+60.00000000
+V
+60
+Hz
+, Elem1
+0
+^Fluke 5520
+30.00000000
+V
+20
+Hz
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+60.00000000
+V
+60
+Hz
+
+0
+^Fluke 5520
+0
+
+0
+
+;OPER
+0
+^Monitor
+1.500000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+60.00000000
+V
+1.00000000
+kHz
+
+0
+^Monitor
+1.500000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+60.00000000
+V
+50.00000000
+kHz
+
+0
+^Monitor
+1.500000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+60.00000000
+V
+100.00000000
+kHz
+
+0
+^Monitor
+1.500000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+&100 V Range
+False
+True
+^Yokogawa WT1600
+100.00000000
+V
+60
+Hz
+, Elem1
+0
+^Fluke 5520
+30.00000000
+V
+20
+Hz
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+100.00000000
+V
+60
+Hz
+
+0
+^Fluke 5520
+100.00000000
+V
+60
+Hz
+;OPER
+0
+^Monitor
+1.500000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+100.00000000
+V
+1.00000000
+kHz
+
+0
+^Monitor
+1.500000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+100.00000000
+V
+50.00000000
+kHz
+
+0
+^Monitor
+1.500000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+100.00000000
+V
+100.00000000
+kHz
+
+0
+^Monitor
+1.500000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+&150 V Range
+False
+True
+^Yokogawa WT1600
+150.00000000
+V
+60
+Hz
+, Elem1
+0
+^Fluke 5520
+30.00000000
+V
+20
+Hz
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+150.00000000
+V
+60
+Hz
+
+0
+^Fluke 5520
+100.00000000
+V
+60
+Hz
+;OPER
+0
+^Monitor
+1.500000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+150.00000000
+V
+1.00000000
+kHz
+
+0
+^Monitor
+1.500000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+150.00000000
+V
+50.00000000
+kHz
+
+0
+^Monitor
+1.500000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+150.00000000
+V
+100.00000000
+kHz
+
+0
+^Monitor
+1.500000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+&300 V Range
+False
+True
+^Yokogawa WT1600
+300.00000000
+V
+60
+Hz
+, Elem1
+0
+^Fluke 5520
+30.00000000
+V
+20
+Hz
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+300.00000000
+V
+60
+Hz
+
+0
+^Fluke 5520
+100.00000000
+V
+60
+Hz
+;OPER
+0
+^Monitor
+1.500000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+300.00000000
+V
+1.00000000
+kHz
+
+0
+^Monitor
+1.500000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+300.00000000
+V
+50.00000000
+kHz
+
+0
+^Monitor
+1.500000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+&1000 V Range
+False
+True
+^Yokogawa WT1600
+1000.00000000
+V
+60
+Hz
+, Elem1
+0
+^Fluke 5520
+30.00000000
+V
+20
+Hz
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+900.00000000
+V
+60
+Hz
+
+0
+^Fluke 5520
+100.00000000
+V
+60
+Hz
+;OPER
+0
+^Monitor
+1.500000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+900.00000000
+V
+1.00000000
+kHz
+
+0
+^Monitor
+1.500000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+30.00000000
+V
+20
+Hz
+;STBY
+0
+*Yokogawa WT1600_3E_50A,,,DC Current - Low
+&Skip 5A Module Testpoints
+False
+True
+^Add Blank Data
+0
+
+0
+
+16
+0
+&1 A Range
+False
+True
+^Yokogawa WT1600
+2.000000
+A
+60
+
+, Elem1
+0
+^Fluke 5520
+2.00000000
+A
+20
+
+
+0
+^Fluke 5520
+0.01
+
+20
+
+;OPER
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+-1.00000000
+A
+60
+
+
+0
+^Monitor
+1.500000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+&2 A Range
+False
+True
+^Yokogawa WT1600
+2.000000
+A
+60
+
+, Elem1
+0
+^Fluke 5520
+2.00000000
+A
+20
+
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+-2.00000000
+A
+60
+
+
+0
+^Monitor
+1.500000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+0
+
+0
+
+;STBY
+0
+*Yokogawa WT1600_3E_50A,,,AC Current - Low
+&Skip 5A Module Testpoints
+False
+True
+^Add Blank Data
+5.00000000
+
+20
+
+12
+0
+&1 A Range
+False
+True
+^Yokogawa WT1600
+1.00000000
+A
+60
+Hz
+, Elem1
+0
+^Fluke 5520
+1.00000000
+A
+20
+Hz
+
+0
+^Fluke 5520
+0
+
+0
+
+;OPER
+0
+^Monitor
+1.5
+
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+1.00000000
+A
+60.00000000
+Hz
+
+0
+^Monitor
+1.5
+
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+1.00000000
+A
+1.00000000
+kHz
+
+0
+^Monitor
+1.5
+
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+1.00000000
+A
+30.00000000
+kHz
+
+0
+^Monitor
+1.5
+
+0
+
+Yokogawa WT1600*0;
+0
+&2 A Range
+False
+True
+^Yokogawa WT1600
+2.00000000
+A
+60
+Hz
+, Elem1
+0
+^Fluke 5520
+2.00000000
+A
+20
+Hz
+
+0
+^Monitor
+1.5
+
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+2.00000000
+A
+60.00000000
+Hz
+
+0
+^Monitor
+1.5
+
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+2.00000000
+A
+1.00000000
+kHz
+
+0
+^Monitor
+1.5
+
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+2.00000000
+A
+30.00000000
+kHz
+
+0
+^Monitor
+1.5
+
+0
+
+Yokogawa WT1600*0;
+0
+&5 A Range
+False
+True
+^Yokogawa WT1600
+5.00000000
+A
+60
+Hz
+, Elem1
+0
+^Fluke 5520
+2.00000000
+A
+20
+Hz
+
+0
+^Monitor
+1.5
+
+0
+
+Yokogawa WT1600*0;
+0
+&10 A Range
+False
+True
+^Yokogawa WT1600
+10.00000000
+A
+60
+Hz
+, Elem1
+0
+^Fluke 5520
+2.00000000
+A
+20
+Hz
+
+0
+^Monitor
+1.5
+
+0
+
+Yokogawa WT1600*0;
+0
+&20 A Range
+False
+True
+^Yokogawa WT1600
+20.00000000
+A
+60
+Hz
+, Elem1
+0
+^Fluke 5520
+2.00000000
+A
+20
+Hz
+
+0
+^Monitor
+1.5
+
+0
+
+Yokogawa WT1600*0;
+0
+&50 A Range
+False
+True
+^Yokogawa WT1600
+50.00000000
+A
+60
+Hz
+, Elem1
+0
+^Fluke 5520
+2.00000000
+A
+20
+Hz
+
+0
+^Monitor
+1.5
+
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+0
+
+0
+
+;STBY
+0
+*Yokogawa WT1600_3E_50A,,,DC Power - Low
+&Skip 5A Module Testpoints
+False
+True
+^Add Blank Data
+0
+
+0
+
+36
+0
+&1.5 V / 1 A Range
+False
+True
+^Yokogawa WT1600
+1.5
+V
+1
+A
+, Elem1
+0
+^Fluke 5520
+1.5
+V
+1
+A
+
+0
+^Fluke 5520
+1.5
+V
+0
+
+;OPER
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+-1.50000000
+V
+1
+A
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+&3 V / 1 A Range
+False
+True
+^Yokogawa WT1600
+3
+V
+1
+A
+, Elem1
+0
+^Fluke 5520
+3
+V
+1
+A
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+-3.0000000
+V
+1
+A
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+&6 V / 1 A Range
+False
+True
+^Yokogawa WT1600
+6
+V
+1
+A
+, Elem1
+0
+^Fluke 5520
+6.00000000
+V
+1
+A
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+-6.00000000
+V
+1
+A
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+&10 V / 1 A Range
+False
+True
+^Yokogawa WT1600
+10.00000000
+V
+1
+A
+, Elem1
+0
+^Fluke 5520
+10.00000000
+V
+1
+A
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+-10.00000000
+V
+1
+A
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+&15 V / 1 A Range
+False
+True
+^Yokogawa WT1600
+15.00000000
+V
+1
+A
+, Elem1
+0
+^Fluke 5520
+15.00000000
+V
+1
+A
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+-15.00000000
+V
+1
+A
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+&30 V / 1 A Range
+False
+True
+^Yokogawa WT1600
+30.00000000
+V
+1
+A
+, Elem1
+0
+^Fluke 5520
+30.00000000
+V
+1
+A
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+-30.00000000
+V
+1
+A
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+&60 V / 1 A Range
+False
+True
+^Yokogawa WT1600
+60.00000000
+V
+1
+A
+, Elem1
+0
+^Fluke 5520
+60.00000000
+V
+1
+A
+
+0
+^Fluke 5520
+60.00000000
+
+1
+
+;OPER
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+-60.00000000
+V
+1
+A
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+&100 V / X A Range
+False
+True
+^Yokogawa WT1600
+100.00000000
+V
+0.01
+A
+, Elem1
+0
+^Fluke 5520
+100.00000000
+V
+0.01
+A
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+-100.00000000
+V
+0.01
+A
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Yokogawa WT1600
+100.00000000
+V
+0.02000000
+A
+, Elem1
+0
+^Fluke 5520
+100.00000000
+V
+0.02000000
+A
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+-100.00000000
+V
+0.02000000
+A
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Yokogawa WT1600
+100.00000000
+V
+0.05000000
+A
+, Elem1
+0
+^Fluke 5520
+100.00000000
+V
+0.05000000
+A
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+-100.00000000
+V
+0.05000000
+A
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Yokogawa WT1600
+100.00000000
+V
+0.1000000
+A
+, Elem1
+0
+^Fluke 5520
+100.00000000
+V
+0.1000000
+A
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+-100.00000000
+V
+0.1000000
+A
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Yokogawa WT1600
+100.00000000
+V
+0.20000000
+A
+, Elem1
+0
+^Fluke 5520
+100.00000000
+V
+0.20000000
+A
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+-100.00000000
+V
+0.20000000
+A
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Yokogawa WT1600
+100.00000000
+V
+0.50000000
+A
+, Elem1
+0
+^Fluke 5520
+100.00000000
+V
+0.50000000
+A
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+-100.00000000
+V
+0.50000000
+A
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Yokogawa WT1600
+100.00000000
+V
+1.0000000
+A
+, Elem1
+0
+^Fluke 5520
+100.00000000
+V
+1.0000000
+A
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+-100.00000000
+V
+1
+A
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Yokogawa WT1600
+100.00000000
+V
+2.00000000
+A
+, Elem1
+0
+^Fluke 5520
+100.00000000
+V
+2.00000000
+A
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+-100.00000000
+V
+2
+A
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+&150 V / 1 A Range
+False
+True
+^Yokogawa WT1600
+150
+V
+1
+A
+, Elem1
+0
+^Fluke 5520
+150.00000000
+V
+1
+A
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+-150.00000000
+V
+1
+A
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+&300 V / 1 A Range
+False
+True
+^Yokogawa WT1600
+300.00000000
+V
+1
+A
+, Elem1
+0
+^Fluke 5520
+300.00000000
+V
+1
+A
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+-300.00000000
+V
+1
+A
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+&1000 V / 1 A Range
+False
+True
+^Yokogawa WT1600
+1000.00000000
+V
+1
+A
+, Elem1
+0
+^Fluke 5520
+1000.00000000
+V
+1
+A
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+-1000.00000000
+V
+1
+A
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+-1000.00000000
+
+1
+
+;STBY
+0
+*Yokogawa WT1600_3E_50A,,,AC Power - Low
+&Skip 5A Module Testpoints
+False
+True
+^Add Blank Data
+300.00000000
+
+1.00000000
+
+53
+0
+&1.5 V / 1 A Range
+False
+True
+^Yokogawa WT1600
+1.5
+V
+1
+A
+, Elem1, 60 Hz
+0
+^Fluke 5520
+1.5
+V
+1
+A
+, 20 Hz
+0
+^Fluke 5520
+1.5
+V
+0
+
+;OPER
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+1.50000000
+V
+1
+A
+, 60 Hz
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+1.50000000
+V
+1
+A
+, 1000 Hz
+0
+^Monitor
+1.50000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+1.50000000
+V
+1
+A
+, 10000 Hz
+0
+^Monitor
+1.50000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+&3 V / 1 A Range
+False
+True
+^Yokogawa WT1600
+3
+V
+1
+A
+, Elem1, 60 Hz
+0
+^Fluke 5520
+3.0000000
+V
+1
+A
+, 20 Hz
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+3.0000000
+V
+1
+A
+, 60 Hz
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+3.0000000
+V
+1
+A
+, 1000 Hz
+0
+^Monitor
+1.50000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+3.0000000
+V
+1
+A
+, 10000 Hz
+0
+^Monitor
+1.50000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+&6 V / 1 A Range
+False
+True
+^Yokogawa WT1600
+6.00000000
+V
+1
+A
+, Elem1, 60 Hz
+0
+^Fluke 5520
+6.00000000
+V
+1
+A
+, 20 Hz
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+6.00000000
+V
+1
+A
+, 60 Hz
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+6.00000000
+V
+1
+A
+, 1000 Hz
+0
+^Monitor
+1.50000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+6.00000000
+V
+1
+A
+, 10000 Hz
+0
+^Monitor
+1.50000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+&10 V / 1 A Range
+False
+True
+^Yokogawa WT1600
+10
+V
+1
+A
+, Elem1, 60 Hz
+0
+^Fluke 5520
+10.00000000
+V
+1
+A
+, 20 Hz
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+10.00000000
+V
+1
+A
+, 60 Hz
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+10.00000000
+V
+1
+A
+, 1000 Hz
+0
+^Monitor
+1.50000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+10.00000000
+V
+1
+A
+, 10000 Hz
+0
+^Monitor
+1.50000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+&15 V / 1 A Range
+False
+True
+^Yokogawa WT1600
+15.00000000
+V
+1
+A
+, Elem1, 60 Hz
+0
+^Fluke 5520
+15.00000000
+V
+1
+A
+, 60 Hz;PHASE 90 DEG
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+15.00000000
+V
+1
+A
+, 20 Hz;PHASE 0 DEG
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+15.00000000
+V
+1
+A
+, 60 Hz
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+15.00000000
+V
+1
+A
+, 1000 Hz
+0
+^Monitor
+1.50000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+15.00000000
+V
+1
+A
+, 10000 Hz
+0
+^Monitor
+1.50000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+&30 V / 1 A Range
+False
+True
+^Yokogawa WT1600
+30.00000000
+V
+1
+A
+, Elem1, 60 Hz
+0
+^Fluke 5520
+30.00000000
+V
+1
+A
+, 20 Hz
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+30.00000000
+V
+1
+A
+, 60 Hz
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+30.00000000
+V
+1
+A
+, 1000 Hz
+0
+^Monitor
+1.50000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+30.00000000
+V
+1
+A
+, 10000 Hz
+0
+^Monitor
+1.50000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+&60 V / 1 A Range
+False
+True
+^Yokogawa WT1600
+60.00000000
+V
+1
+A
+, Elem1, 60 Hz
+0
+^Fluke 5520
+30.00000000
+V
+1
+A
+, 20 Hz
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+60.00000000
+V
+1
+A
+, 60 Hz
+0
+^Fluke 5520
+60.00000000
+V
+1
+A
+;OPER
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+60.00000000
+V
+1
+A
+, 1000 Hz
+0
+^Monitor
+1.50000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+60.00000000
+V
+1
+A
+, 10000 Hz
+0
+^Monitor
+1.50000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+&100 V / X A Range
+False
+True
+^Yokogawa WT1600
+100.00000000
+V
+1
+A
+, Elem1, 60 Hz
+0
+^Fluke 5520
+100.00000000
+V
+1.000000
+A
+, 60 Hz;PHASE 90 DEG
+0
+^Fluke 5520
+100.00000000
+
+1.00000000
+
+;OPER
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+30.00000000
+V
+1.000000
+A
+, 20 Hz;PHASE 0 DEG
+0
+^Fluke 5520
+100.00000000
+
+1.000000
+
+;OPER
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+100.00000000
+V
+1.0000000
+A
+, 60 Hz
+0
+^Fluke 5520
+100.00000000
+
+1.000000
+
+;OPER
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Yokogawa WT1600
+100.00000000
+V
+2.00000000
+A
+, Elem1, 60 Hz
+0
+^Fluke 5520
+100.00000000
+V
+2.00000000
+A
+, 60 Hz
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Yokogawa WT1600
+100.00000000
+V
+1.00000000
+A
+, Elem1, 60 Hz
+0
+^Fluke 5520
+100.00000000
+V
+1.00000000
+A
+, 1000 Hz
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+100.00000000
+V
+1.00000000
+A
+, 10000 Hz
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+&150 V / 1 A Range
+False
+True
+^Yokogawa WT1600
+150.00000000
+V
+1.00000000
+A
+, Elem1, 60 Hz
+0
+^Fluke 5520
+30.00000000
+V
+1
+A
+, 20 Hz
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+150.00000000
+V
+1.00000000
+A
+, 60 Hz
+0
+^Fluke 5520
+60.00000000
+V
+1
+A
+;OPER
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+150.00000000
+V
+1.00000000
+A
+, 1000 Hz
+0
+^Monitor
+1.50000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+150.00000000
+V
+1.00000000
+A
+, 10000 Hz
+0
+^Monitor
+1.50000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+&300 V / 1 A Range
+False
+True
+^Yokogawa WT1600
+300.00000000
+V
+1.00000000
+A
+, Elem1, 60 Hz
+0
+^Fluke 5520
+30.00000000
+V
+1
+A
+, 20 Hz
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+300.00000000
+V
+1.00000000
+A
+, 60 Hz
+0
+^Fluke 5520
+60.00000000
+V
+1
+A
+;OPER
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+300.00000000
+V
+1.00000000
+A
+, 1000 Hz
+0
+^Monitor
+1.50000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+300.00000000
+V
+1.00000000
+A
+, 10000 Hz
+0
+^Monitor
+1.50000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+&1000 V / 1 A Range
+False
+True
+^Yokogawa WT1600
+1000.00000000
+V
+1.00000000
+A
+, Elem1, 60 Hz
+0
+^Fluke 5520
+30.00000000
+V
+1
+A
+, 20 Hz
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+1000.00000000
+V
+1.00000000
+A
+, 60 Hz
+0
+^Fluke 5520
+60.00000000
+V
+1
+A
+;OPER
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+1000.00000000
+V
+1.00000000
+A
+, 1000 Hz
+0
+^Monitor
+1.50000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+300.00000000
+V
+1.00000000
+A
+, 10000 Hz
+0
+^Monitor
+1.50000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+300.00000000
+
+1.00000000
+
+;STBY
+0
+*Yokogawa WT1600_3E_50A,,,DC Current - High
+&Setup
+False
+True
+^Yokogawa WT1600
+-5
+
+60
+
+*RST
+0
+^Fluke 5520
+-5
+
+60
+
+*RST
+0
+^Message
+-5
+A
+60
+
+Element 1 - Connect the Voltage input of the Yokogawa to the Normal output of the calibrator. Connect the Current input of the Yokogawa to the 20A output of the calibrator.
+0
+&Skip 5A Module Testpoints
+False
+True
+^Add Blank Data
+-5
+
+60
+
+2
+0
+&5 A Range
+False
+True
+^Yokogawa WT1600
+5
+A
+60
+
+, Elem1
+0
+^Fluke 5520
+5
+A
+20
+
+
+0
+^Fluke 5520
+0.01
+
+20
+
+;OPER
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+-5
+A
+60
+
+
+0
+^Monitor
+1.500000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+&10 A Range
+False
+True
+^Yokogawa WT1600
+10.00000000
+A
+60
+
+, Elem1
+0
+^Fluke 5520
+10.00000000
+A
+20
+
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+-10.00000000
+A
+60
+
+
+0
+^Monitor
+1.500000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+&20 A Range
+False
+True
+^Yokogawa WT1600
+20.00000000
+A
+60
+
+, Elem1
+0
+^Fluke 5520
+20.00000000
+A
+20
+
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+-20.00000000
+A
+60
+
+
+0
+^Monitor
+1.500000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+&50 A Range
+False
+True
+^Yokogawa WT1600
+50.00000000
+A
+60
+
+, Elem1
+0
+^Fluke 5520
+20.00000000
+A
+20
+
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+-20.00000000
+A
+60
+
+
+0
+^Monitor
+1.500000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+0
+
+60
+
+;STBY
+0
+*Yokogawa WT1600_3E_50A,,,AC Current - High
+&Skip 5A Module Testpoints
+False
+True
+^Add Blank Data
+10.00000000
+
+60
+
+3
+0
+&5 A Range
+False
+True
+^Yokogawa WT1600
+5
+A
+60
+
+, Elem1, 60 Hz
+0
+^Fluke 5520
+5
+A
+60
+Hz
+
+0
+^Fluke 5520
+0.01
+
+20
+
+;OPER
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+5.00000000
+A
+1.00000000
+kHz
+
+0
+^Monitor
+1.500000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+5.00000000
+A
+5.00000000
+kHz
+
+0
+^Monitor
+1.500000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+&10 A Range
+False
+True
+^Yokogawa WT1600
+10.00000000
+A
+60
+
+, Elem1, 60 Hz
+0
+^Fluke 5520
+10.00000000
+A
+60
+Hz
+
+0
+^Fluke 5520
+0.01
+
+20
+
+;OPER
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+10.00000000
+A
+1.00000000
+kHz
+
+0
+^Monitor
+1.500000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+10.00000000
+A
+5.00000000
+kHz
+
+0
+^Monitor
+1.500000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+&20 A Range
+False
+True
+^Yokogawa WT1600
+20.00000000
+A
+60
+
+, Elem1, 60 Hz
+0
+^Fluke 5520
+20.00000000
+A
+60
+Hz
+
+0
+^Fluke 5520
+0.01
+
+20
+
+;OPER
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+20.00000000
+A
+1.00000000
+kHz
+
+0
+^Monitor
+1.500000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+20.00000000
+A
+5.00000000
+kHz
+
+0
+^Monitor
+1.500000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+&50 A Range
+False
+True
+^Yokogawa WT1600
+50.00000000
+A
+60
+
+, Elem1, 60 Hz
+0
+^Fluke 5520
+20.00000000
+A
+60
+Hz
+
+0
+^Fluke 5520
+0.01
+
+20
+
+;OPER
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+20.00000000
+A
+1.00000000
+kHz
+
+0
+^Monitor
+1.500000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+20.00000000
+A
+5.00000000
+kHz
+
+0
+^Monitor
+1.500000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+0
+
+0
+
+;STBY
+0
+*Yokogawa WT1600_3E_50A,,,DC Power - High
+&Skip 50A Module Testpoints
+False
+True
+^Add Blank Data
+-100.0000000
+
+5.00000000
+
+2
+0
+&100 V / 5 A Range
+False
+True
+^Yokogawa WT1600
+100.0000000
+V
+5.00000000
+A
+, Elem1
+0
+^Fluke 5520
+100.0000000
+V
+5.00000000
+A
+
+0
+^Fluke 5520
+1.5
+V
+0
+
+;OPER
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+-100.0000000
+V
+5.00000000
+A
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+&100 V / 10 A Range
+False
+True
+^Yokogawa WT1600
+100.0000000
+V
+10.00000000
+A
+, Elem1
+0
+^Fluke 5520
+100.0000000
+V
+10.00000000
+A
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+-100.0000000
+V
+10.00000000
+A
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+&100 V / 20 A Range
+False
+True
+^Yokogawa WT1600
+100.0000000
+V
+20.00000000
+A
+, Elem1
+0
+^Fluke 5520
+100.0000000
+V
+20.00000000
+A
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+-100.0000000
+V
+20.00000000
+A
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+&100 V / 50 A Range
+False
+True
+^Yokogawa WT1600
+100.0000000
+V
+50.00000000
+A
+, Elem1
+0
+^Fluke 5520
+100.0000000
+V
+20.00000000
+A
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+-100.0000000
+V
+20.00000000
+A
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+&1000 V / 50 A Range
+False
+True
+^Yokogawa WT1600
+1000.00000000
+V
+50.00000000
+A
+, Elem1
+0
+^Fluke 5520
+1000.00000000
+V
+20.00000000
+A
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+-1000.00000000
+V
+20.00000000
+A
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+0
+
+0
+
+;STBY
+0
+*Yokogawa WT1600_3E_50A,,,AC Power - High
+&Skip 5A Module Testpoints
+False
+True
+^Add Blank Data
+60.00000000
+
+1
+
+1
+0
+&100 V / 5 A Range
+False
+True
+^Yokogawa WT1600
+100.00000000
+V
+5.00000000
+A
+, Elem1, 60 Hz
+0
+^Fluke 5520
+100.00000000
+V
+5.00000000
+A
+, 60 Hz
+0
+^Fluke 5520
+60.00000000
+V
+1
+A
+;OPER
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+&100 V / 10 A Range
+False
+True
+^Yokogawa WT1600
+100.00000000
+V
+10.00000000
+A
+, Elem1, 60 Hz
+0
+^Fluke 5520
+100.00000000
+V
+10.00000000
+A
+, 60 Hz
+0
+^Fluke 5520
+60.00000000
+V
+1
+A
+;OPER
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+&100 V / 20 A Range
+False
+True
+^Yokogawa WT1600
+100.00000000
+V
+20.00000000
+A
+, Elem1, 60 Hz
+0
+^Fluke 5520
+100.00000000
+V
+20.00000000
+A
+, 60 Hz
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+&100 V / 50 A Range
+False
+True
+^Yokogawa WT1600
+100.00000000
+V
+50.00000000
+A
+, Elem1, 60 Hz
+0
+^Fluke 5520
+100.00000000
+V
+20.00000000
+A
+, 60 Hz
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+&1000 V / 50 A Range
+False
+True
+^Yokogawa WT1600
+1000.00000000
+V
+50.00000000
+A
+, Elem1, 60 Hz
+0
+^Fluke 5520
+1000.00000000
+V
+20.00000000
+A
+, 60 Hz
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+0
+
+0
+
+;STBY
+0
+*Yokogawa WT1600_3E_50A,,,DC Power - External
+&Setup
+False
+True
+^Yokogawa WT1600
+0
+
+0
+
+*RST
+0
+^Fluke 5520
+0
+
+0
+
+*RST
+0
+^Message
+0
+
+0
+
+Element 1 - Connect the Voltage input of the Yokogawa to the Normal output of the calibrator. Connect the External Sensor of the Yokogawa to the Aux output of the calibrator.
+0
+&1.5 V / 1 V Range
+False
+True
+^Yokogawa WT1600
+1.5
+V
+1.00000000
+V
+, Elem1, Ext. Sensor
+0
+^Fluke 5520
+1.5
+V
+1.00000000
+V
+
+0
+^Fluke 5520
+1.5
+
+1.00000000
+
+;OPER
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+-1.50000000
+V
+1.00000000
+V
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+&3 V / 1 V Range
+False
+True
+^Yokogawa WT1600
+3.0000000
+V
+1.00000000
+V
+, Elem1, Ext. Sensor
+0
+^Fluke 5520
+3.0000000
+V
+1.00000000
+V
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+-3.0000000
+V
+1.00000000
+V
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+&6 V / 1 V Range
+False
+True
+^Yokogawa WT1600
+6.00000000
+V
+1.00000000
+V
+, Elem1, Ext. Sensor
+0
+^Fluke 5520
+6.00000000
+V
+1.00000000
+V
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+-6.00000000
+V
+1.00000000
+V
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+&10 V / 1 V Range
+False
+True
+^Yokogawa WT1600
+10.00000000
+V
+1.00000000
+V
+, Elem1, Ext. Sensor
+0
+^Fluke 5520
+10.00000000
+V
+1.00000000
+V
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+-10.00000000
+V
+1.00000000
+V
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+&15 V / 1 V Range
+False
+True
+^Yokogawa WT1600
+15.00000000
+V
+1.00000000
+V
+, Elem1, Ext. Sensor
+0
+^Fluke 5520
+15.00000000
+V
+1.00000000
+V
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+-15.00000000
+V
+1.00000000
+V
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+&30 V / 1 V Range
+False
+True
+^Yokogawa WT1600
+30.00000000
+V
+1.00000000
+V
+, Elem1, Ext. Sensor
+0
+^Fluke 5520
+30.00000000
+V
+1.00000000
+V
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+-30.00000000
+V
+1.00000000
+V
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+&60 V / 1 V Range
+False
+True
+^Yokogawa WT1600
+60.00000000
+V
+1.00000000
+V
+, Elem1, Ext. Sensor
+0
+^Fluke 5520
+60.00000000
+V
+1.00000000
+V
+
+0
+^Fluke 5520
+60.00000000
+
+1.00000000
+
+;OPER
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+-60.00000000
+V
+1.00000000
+V
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+&100 V / X V Range
+False
+True
+^Yokogawa WT1600
+100.00000000
+V
+0.05
+V
+, Elem1, Ext. Sensor
+0
+^Fluke 5520
+100.00000000
+V
+0.050000000
+V
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+-100.00000000
+V
+0.0500000000
+V
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Yokogawa WT1600
+100.00000000
+V
+0.1000000
+V
+, Elem1, Ext. Sensor
+0
+^Fluke 5520
+100.00000000
+V
+0.1000000
+V
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+-100.00000000
+V
+0.1000000
+V
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Yokogawa WT1600
+100.00000000
+V
+0.250000000
+V
+, Elem1, Ext. Sensor
+0
+^Fluke 5520
+100.00000000
+V
+0.250000000
+V
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+-100.00000000
+V
+0.250000000
+V
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Yokogawa WT1600
+100.00000000
+V
+0.5000000
+V
+, Elem1, Ext. Sensor
+0
+^Fluke 5520
+100.00000000
+V
+0.5000000
+V
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+-100.00000000
+V
+0.5000000
+V
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Yokogawa WT1600
+100.00000000
+V
+1.0000000
+V
+, Elem1, Ext. Sensor
+0
+^Fluke 5520
+100.00000000
+V
+1.0000000
+V
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+-100.00000000
+V
+1.0000000
+V
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Yokogawa WT1600
+100.00000000
+V
+2.50000000
+V
+, Elem1, Ext. Sensor
+0
+^Fluke 5520
+100.00000000
+V
+2.500000000
+V
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+-100.00000000
+V
+2.500000000
+V
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Yokogawa WT1600
+100.00000000
+V
+5.0000000
+V
+, Elem1, Ext. Sensor
+0
+^Fluke 5520
+100.00000000
+V
+5.0000000
+V
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+-100.00000000
+V
+5.0000000
+V
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Yokogawa WT1600
+100.00000000
+V
+10.00000000
+V
+, Elem1, Ext. Sensor
+0
+^Fluke 5520
+100.00000000
+V
+10.00000000
+V
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+-100.00000000
+V
+10.00000000
+V
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+&150 V / 1 V Range
+False
+True
+^Yokogawa WT1600
+150.00000000
+V
+1.00000000
+V
+, Elem1, Ext. Sensor
+0
+^Fluke 5520
+150.00000000
+V
+1.00000000
+V
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+-150.00000000
+V
+1.00000000
+V
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+&300 V / 1 V Range
+False
+True
+^Yokogawa WT1600
+300.00000000
+V
+1.00000000
+V
+, Elem1, Ext. Sensor
+0
+^Fluke 5520
+300.00000000
+V
+1.00000000
+V
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+-300.00000000
+V
+1.00000000
+V
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+&1000 V / 1 V Range
+False
+True
+^Yokogawa WT1600
+1000.00000000
+V
+1.00000000
+V
+, Elem1, Ext. Sensor
+0
+^Fluke 5520
+1000.00000000
+V
+1.00000000
+V
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+-1000.00000000
+V
+1.00000000
+V
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+-1000.00000000
+
+1.00000000
+
+;STBY
+0
+*Yokogawa WT1600_3E_50A,,,AC Power - External
+&30 V / 0.05 V Range
+False
+True
+^Yokogawa WT1600
+30.00000000
+V
+0.05
+V
+, Elem1, Ext. Sensor, 60 Hz
+0
+^Fluke 5520
+30.00000000
+V
+0.05
+V
+, 20 Hz
+0
+^Fluke 5520
+30.00000000
+
+0.05
+
+;OPER
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+30.00000000
+V
+0.05
+V
+, 60 Hz
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+30.00000000
+V
+0.05
+V
+, 1000 Hz
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+&30 V / 0.1 V Range
+False
+True
+^Yokogawa WT1600
+30.00000000
+V
+0.1000000
+V
+, Elem1, Ext. Sensor, 60 Hz
+0
+^Fluke 5520
+30.00000000
+V
+0.1000000
+V
+, 20 Hz
+0
+^Fluke 5520
+30.00000000
+
+0.05
+
+;OPER
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+30.00000000
+V
+0.1000000
+V
+, 60 Hz
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+30.00000000
+V
+0.1000000
+V
+, 1000 Hz
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+&30 V / 0.25 V Range
+False
+True
+^Yokogawa WT1600
+30.00000000
+V
+0.250000000
+V
+, Elem1, Ext. Sensor, 60 Hz
+0
+^Fluke 5520
+30.00000000
+V
+0.250000000
+V
+, 20 Hz
+0
+^Fluke 5520
+30.00000000
+
+0.05
+
+;OPER
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+30.00000000
+V
+0.250000000
+V
+, 60 Hz
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+30.00000000
+V
+0.250000000
+V
+, 1000 Hz
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+&30 V / 0.5 V Range
+False
+True
+^Yokogawa WT1600
+30.00000000
+V
+0.5000000
+V
+, Elem1, Ext. Sensor, 60 Hz
+0
+^Fluke 5520
+30.00000000
+V
+0.5000000
+V
+, 20 Hz
+0
+^Fluke 5520
+30.00000000
+
+0.05
+
+;OPER
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+30.00000000
+V
+0.5000000
+V
+, 60 Hz
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+30.00000000
+V
+0.5000000
+V
+, 1000 Hz
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+&30 V / 1 V Range
+False
+True
+^Yokogawa WT1600
+30.00000000
+V
+1.0000000
+V
+, Elem1, Ext. Sensor, 60 Hz
+0
+^Fluke 5520
+30.00000000
+V
+1.0000000
+V
+, 20 Hz;PHASE 90 DEG
+0
+^Fluke 5520
+30.00000000
+
+0.05
+
+;OPER
+0
+^Monitor
+1.5
+
+1.0000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+30.00000000
+V
+1.0000000
+V
+, 20 Hz;PHASE 0 DEG
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+30.00000000
+V
+1.0000000
+V
+, 60 Hz
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+30.00000000
+V
+1.0000000
+V
+, 1000 Hz
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+30.00000000
+V
+1.00000000
+V
+, 10000 Hz
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+&30 V / 2.5 V Range
+False
+True
+^Yokogawa WT1600
+30.00000000
+V
+2.5
+V
+, Elem1, Ext. Sensor, 60 Hz
+0
+^Fluke 5520
+30.00000000
+V
+2.5
+V
+, 20 Hz
+0
+^Fluke 5520
+30.00000000
+
+0.05
+
+;OPER
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+30.00000000
+V
+2.5
+V
+, 60 Hz
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+30.00000000
+V
+2.5
+V
+, 1000 Hz
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+30.00000000
+V
+2.5
+V
+, 10000 Hz
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+&30 V / 5 V Range
+False
+True
+^Yokogawa WT1600
+30.00000000
+V
+5.0000000
+V
+, Elem1, Ext. Sensor, 60 Hz
+0
+^Fluke 5520
+30.00000000
+V
+5.0000000
+V
+, 20 Hz
+0
+^Fluke 5520
+30.00000000
+
+0.05
+
+;OPER
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+30.00000000
+V
+5.0000000
+V
+, 60 Hz
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+30.00000000
+V
+5.0000000
+V
+, 1000 Hz
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+30.00000000
+V
+5.0000000
+V
+, 10000 Hz
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+&30 V / 10 V Range
+False
+True
+^Yokogawa WT1600
+30.00000000
+V
+10.00000000
+V
+, Elem1, Ext. Sensor, 60 Hz
+0
+^Fluke 5520
+30.00000000
+V
+10.00000000
+V
+, 20 Hz
+0
+^Fluke 5520
+30.00000000
+
+0.05
+
+;OPER
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+30.00000000
+V
+10.00000000
+V
+, 60 Hz
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+30.00000000
+V
+10.00000000
+V
+, 1000 Hz
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+30.00000000
+V
+10.00000000
+V
+, 10000 Hz
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+1.5
+
+1.00000000
+
+;STBY
+0
+*Yokogawa WT1600_3E_50A,,,DC Current - External
+&Setup
+False
+True
+^Yokogawa WT1600
+1.5
+
+1.00000000
+
+*RST
+0
+^Fluke 5520
+1.5
+
+1.00000000
+
+*RST
+0
+^Message
+1.5
+
+1.00000000
+
+Element 1 - Connect the External Sensor of the Yokogawa to the Normal output of the calibrator.
+0
+&0.05 V Range
+False
+True
+^Yokogawa WT1600
+0.05
+V
+1.00000000
+
+, Elem1, Ext. Sensor
+0
+^Fluke 5520
+0.05
+V
+1.00000000
+
+
+0
+^Fluke 5520
+30.00000000
+
+0.05
+
+;OPER
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+-0.05000000
+V
+1.00000000
+
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+&0.1 V Range
+False
+True
+^Yokogawa WT1600
+0.1000000
+V
+1.00000000
+
+, Elem1, Ext. Sensor
+0
+^Fluke 5520
+0.1000000
+V
+1.00000000
+
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+-0.1000000
+V
+1.00000000
+
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+&0.25 V Range
+False
+True
+^Yokogawa WT1600
+0.250000000
+V
+1.00000000
+
+, Elem1, Ext. Sensor
+0
+^Fluke 5520
+0.250000000
+V
+1.00000000
+
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+-0.250000000
+V
+1.00000000
+
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+&0.5 V Range
+False
+True
+^Yokogawa WT1600
+0.5000000
+V
+1.00000000
+
+, Elem1, Ext. Sensor
+0
+^Fluke 5520
+0.5000000
+V
+1.00000000
+
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+-0.5000000
+V
+1.00000000
+
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+&1 V Range
+False
+True
+^Yokogawa WT1600
+1.0000000
+V
+1.00000000
+
+, Elem1, Ext. Sensor
+0
+^Fluke 5520
+1.0000000
+V
+1.00000000
+
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+0.50000000
+V
+1.00000000
+
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+0.10000000
+V
+1.00000000
+
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+0.010000000
+V
+1.00000000
+
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+-0.01000000
+V
+1.00000000
+
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+-0.1000000
+V
+1.00000000
+
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+-0.50000000
+V
+1.00000000
+
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+-1.0000000
+V
+1.00000000
+
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+&2.5 V Range
+False
+True
+^Yokogawa WT1600
+2.50000000
+V
+1.00000000
+
+, Elem1, Ext. Sensor
+0
+^Fluke 5520
+2.50000000
+V
+1.00000000
+
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+-2.50000000
+V
+1.00000000
+
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+&5 V Range
+False
+True
+^Yokogawa WT1600
+5.0000000
+V
+1.00000000
+
+, Elem1, Ext. Sensor
+0
+^Fluke 5520
+5.0000000
+V
+1.00000000
+
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+-5.0000000
+V
+1.00000000
+
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+&10 V Range
+False
+True
+^Yokogawa WT1600
+10.00000000
+V
+1.00000000
+
+, Elem1, Ext. Sensor
+0
+^Fluke 5520
+10.00000000
+V
+1.00000000
+
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+-10.00000000
+V
+1.00000000
+
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+0
+
+0
+
+;STBY
+0
+*Yokogawa WT1600_3E_50A,,,AC Current - External
+&0.05 V Range
+False
+True
+^Yokogawa WT1600
+0.050000000
+V
+1.00000000
+
+, Elem1, Ext. Sensor, 60 Hz
+0
+^Fluke 5520
+0.050000000
+V
+20
+Hz
+
+0
+^Fluke 5520
+0
+
+0
+
+;OPER
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+0.050000000
+V
+60.00000000
+Hz
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+0.050000000
+V
+1000.00000000
+Hz
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+0.050000000
+V
+50.00000000
+kHz
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+0.050000000
+V
+100.00000000
+kHz
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+0.050000000
+V
+500.00000000
+kHz
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+&0.1 V Range
+False
+True
+^Yokogawa WT1600
+0.1000000
+V
+1.00000000
+
+, Elem1, Ext. Sensor, 60 Hz
+0
+^Fluke 5520
+0.1000000
+V
+20
+Hz
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+0.1000000
+V
+60.00000000
+Hz
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+0.1000000
+V
+1000.00000000
+Hz
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+0.1000000
+V
+50.00000000
+kHz
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+0.1000000
+V
+100.00000000
+kHz
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+0.1000000
+V
+500.00000000
+kHz
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+&0.25 V Range
+False
+True
+^Yokogawa WT1600
+0.250000000
+V
+1.00000000
+
+, Elem1, Ext. Sensor, 60 Hz
+0
+^Fluke 5520
+0.250000000
+V
+20
+Hz
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+0.250000000
+V
+60.00000000
+Hz
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+0.250000000
+V
+1000.00000000
+Hz
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+0.250000000
+V
+50.00000000
+kHz
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+0.250000000
+V
+100.00000000
+kHz
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+0.250000000
+V
+500.00000000
+kHz
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+&0.5 V Range
+False
+True
+^Yokogawa WT1600
+0.5000000
+V
+1.00000000
+
+, Elem1, Ext. Sensor, 60 Hz
+0
+^Fluke 5520
+0.5000000
+V
+20
+Hz
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+0.5000000
+V
+60.00000000
+Hz
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+0.5000000
+V
+1000.00000000
+Hz
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+0.5000000
+V
+50.00000000
+kHz
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+0.5000000
+V
+100.00000000
+kHz
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+0.5000000
+V
+500.00000000
+kHz
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+&1 V Range
+False
+True
+^Yokogawa WT1600
+1.0000000
+V
+1.00000000
+
+, Elem1, Ext. Sensor, 60 Hz
+0
+^Fluke 5520
+1.0000000
+V
+20
+Hz
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+1.0000000
+V
+60.00000000
+Hz
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+1.0000000
+V
+1000.00000000
+Hz
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+1.0000000
+V
+50.00000000
+kHz
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+1.0000000
+V
+100.00000000
+kHz
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+1.0000000
+V
+500.00000000
+kHz
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+&2.5 V Range
+False
+True
+^Yokogawa WT1600
+2.500000000
+V
+1.00000000
+
+, Elem1, Ext. Sensor, 60 Hz
+0
+^Fluke 5520
+2.50000000
+V
+20
+Hz
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+2.50000000
+V
+60.00000000
+Hz
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+2.50000000
+V
+1000.00000000
+Hz
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+2.50000000
+V
+50.00000000
+kHz
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+2.50000000
+V
+100.00000000
+kHz
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+2.50000000
+V
+500.00000000
+kHz
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+&5 V Range
+False
+True
+^Yokogawa WT1600
+5.0000000
+V
+1.00000000
+
+, Elem1, Ext. Sensor, 60 Hz
+0
+^Fluke 5520
+5.0000000
+V
+20
+Hz
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+5.0000000
+V
+60.00000000
+Hz
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+5.0000000
+V
+1000.00000000
+Hz
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+5.0000000
+V
+50.00000000
+kHz
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+5.0000000
+V
+100.00000000
+kHz
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+5.0000000
+V
+500.00000000
+kHz
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+&10 V Range
+False
+True
+^Yokogawa WT1600
+10.00000000
+V
+1.00000000
+
+, Elem1, Ext. Sensor, 60 Hz
+0
+^Fluke 5520
+10.00000000
+V
+20
+Hz
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+10.00000000
+V
+60.00000000
+Hz
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+10.00000000
+V
+1000.00000000
+Hz
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+10.00000000
+V
+50.00000000
+kHz
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+10.00000000
+V
+100.00000000
+kHz
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+10.00000000
+V
+500.00000000
+kHz
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+0
+
+0
+
+;STBY
+0
+*Yokogawa WT1600_3E_50A,,,Element 2 - Setup
+&Setup
+False
+True
+^Yokogawa WT1600
+0
+
+0
+
+*RST
+0
+^Fluke 5520
+0
+
+0
+
+*RST
+0
+^Message
+0
+
+0
+
+Element 2 - Connect the Voltage input of the Yokogawa to the Normal output of the calibrator. Connect the Current input of the Yokogawa to the Aux output of the calibrator.
+0
+*Yokogawa WT1600_3E_50A,,,DC Volts
+&1.5 V Range
+False
+True
+^Yokogawa WT1600
+1.5
+V
+0
+
+, Elem2
+0
+^Fluke 5520
+1.5
+V
+0
+
+
+0
+^Fluke 5520
+1.5
+V
+0
+
+;OPER
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+&1.5 V Range
+False
+True
+^Fluke 5520
+-1.50000000
+V
+0
+
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+&3 V Range
+False
+True
+^Yokogawa WT1600
+3.0000000
+V
+0
+
+, Elem2
+0
+^Fluke 5520
+3.0000000
+V
+0
+
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+&3 V Range
+False
+True
+^Fluke 5520
+-3.0000000
+V
+0
+
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+&6 V Range
+False
+True
+^Yokogawa WT1600
+6.00000000
+V
+0
+
+, Elem2
+0
+^Fluke 5520
+6.00000000
+V
+0
+
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+&6 V Range
+False
+True
+^Fluke 5520
+-6.00000000
+V
+0
+
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+&10 V Range
+False
+True
+^Yokogawa WT1600
+10.00000000
+V
+0
+
+, Elem2
+0
+^Fluke 5520
+10.00000000
+V
+0
+
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+&10 V Range
+False
+True
+^Fluke 5520
+-10.00000000
+V
+0
+
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+&15 V Range
+False
+True
+^Yokogawa WT1600
+15.00000000
+V
+0
+
+, Elem2
+0
+^Fluke 5520
+15.00000000
+V
+0
+
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+&15 V Range
+False
+True
+^Fluke 5520
+-15.00000000
+V
+0
+
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+&30 V Range
+False
+True
+^Yokogawa WT1600
+30.00000000
+V
+0
+
+, Elem2
+0
+^Fluke 5520
+30.00000000
+V
+0
+
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+&30 V Range
+False
+True
+^Fluke 5520
+-30.00000000
+V
+0
+
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+&60 V Range
+False
+True
+^Yokogawa WT1600
+60.00000000
+V
+0
+
+, Elem2
+0
+^Fluke 5520
+60.00000000
+V
+0
+
+
+0
+^Fluke 5520
+50.00000000
+V
+0
+
+;OPER
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+&60 V Range
+False
+True
+^Fluke 5520
+-60.00000000
+V
+0
+
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+&100 V Range
+False
+True
+^Yokogawa WT1600
+100.00000000
+V
+0
+
+, Elem2
+0
+^Fluke 5520
+100.00000000
+V
+0
+
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+&100 V Range
+False
+True
+^Fluke 5520
+-100.00000000
+V
+0
+
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+&100 V Range: Linearity
+False
+True
+^Fluke 5520
+50.00000000
+V
+0
+
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+&100 V Range: Linearity
+False
+True
+^Fluke 5520
+-50.00000000
+V
+0
+
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+&100 V Range: Linearity
+False
+True
+^Fluke 5520
+10.00000000
+V
+0
+
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+&100 V Range: Linearity
+False
+True
+^Fluke 5520
+-10.00000000
+V
+0
+
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+&100 V Range: Linearity
+False
+True
+^Fluke 5520
+1.00000000
+V
+0
+
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+&100 V Range: Linearity
+False
+True
+^Fluke 5520
+-1.00000000
+V
+0
+
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+&150 V Range
+False
+True
+^Yokogawa WT1600
+150.00000000
+V
+0
+
+, Elem2
+0
+^Fluke 5520
+150.00000000
+V
+0
+
+
+0
+^Fluke 5520
+50.00000000
+V
+0
+
+;OPER
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+&150 V Range
+False
+True
+^Fluke 5520
+-150.00000000
+V
+0
+
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+&300 V Range
+False
+True
+^Yokogawa WT1600
+300.00000000
+V
+0
+
+, Elem2
+0
+^Fluke 5520
+300.00000000
+V
+0
+
+
+0
+^Fluke 5520
+50.00000000
+V
+0
+
+;OPER
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+&300 V Range
+False
+True
+^Fluke 5520
+-300.00000000
+V
+0
+
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+&1000 V Range
+False
+True
+^Yokogawa WT1600
+1000.00000000
+V
+0
+
+, Elem2
+0
+^Fluke 5520
+900.00000000
+V
+0
+
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+&1000 V Range
+False
+True
+^Fluke 5520
+-900.00000000
+V
+0
+
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+1.5
+V
+60
+Hz
+;STBY
+0
+*Yokogawa WT1600_3E_50A,,,AC Volts
+&1.5 V Range
+False
+True
+^Yokogawa WT1600
+1.5
+V
+60
+Hz
+, Elem2
+0
+^Fluke 5520
+1.500000000
+V
+20
+Hz
+
+0
+^Fluke 5520
+1.500000000
+V
+20
+Hz
+;OPER
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+1.500000000
+V
+60.00000000
+Hz
+
+0
+^Monitor
+1.500000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+1.500000000
+V
+1.00000000
+kHz
+
+0
+^Monitor
+1.500000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+1.500000000
+V
+50.00000000
+kHz
+
+0
+^Monitor
+1.500000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+1.500000000
+V
+100.00000000
+kHz
+
+0
+^Monitor
+1.500000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+1.500000000
+V
+500.00000000
+kHz
+
+0
+^Monitor
+1.500000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+&3 V Range
+False
+True
+^Yokogawa WT1600
+3.0000000
+V
+60
+Hz
+, Elem2
+0
+^Fluke 5520
+3.0000000
+V
+20
+Hz
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+3.0000000
+V
+60.00000000
+Hz
+
+0
+^Monitor
+1.500000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+3.0000000
+V
+1.00000000
+kHz
+
+0
+^Monitor
+1.500000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+3.0000000
+V
+50.00000000
+kHz
+
+0
+^Monitor
+1.500000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+3.0000000
+V
+100.00000000
+kHz
+
+0
+^Monitor
+1.500000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+3.0000000
+V
+500.00000000
+kHz
+
+0
+^Monitor
+1.500000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+&6 V Range
+False
+True
+^Yokogawa WT1600
+6.00000000
+V
+60
+Hz
+, Elem2
+0
+^Fluke 5520
+6.00000000
+V
+20
+Hz
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+6.00000000
+V
+60.00000000
+Hz
+
+0
+^Monitor
+1.500000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+6.00000000
+V
+1.00000000
+kHz
+
+0
+^Monitor
+1.500000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+6.00000000
+V
+50.00000000
+kHz
+
+0
+^Monitor
+1.500000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+6.00000000
+V
+100.00000000
+kHz
+
+0
+^Monitor
+1.500000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+3.0000000
+V
+500.00000000
+kHz
+
+0
+^Monitor
+1.500000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+&10 V Range
+False
+True
+^Yokogawa WT1600
+10.00000000
+V
+60
+Hz
+, Elem2
+0
+^Fluke 5520
+10.00000000
+V
+20
+Hz
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+10.00000000
+V
+60.00000000
+Hz
+
+0
+^Monitor
+1.500000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+10.00000000
+V
+1.00000000
+kHz
+
+0
+^Monitor
+1.500000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+10.00000000
+V
+50.00000000
+kHz
+
+0
+^Monitor
+1.500000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+10.00000000
+V
+100.00000000
+kHz
+
+0
+^Monitor
+1.500000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+3.0000000
+V
+500.00000000
+kHz
+
+0
+^Monitor
+1.500000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+&15 V Range
+False
+True
+^Yokogawa WT1600
+15.00000000
+V
+60
+Hz
+, Elem2
+0
+^Fluke 5520
+15.00000000
+V
+20
+Hz
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+15.00000000
+V
+60.00000000
+Hz
+
+0
+^Monitor
+1.500000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+15.00000000
+V
+1.00000000
+kHz
+
+0
+^Monitor
+1.500000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+15.00000000
+V
+50.00000000
+kHz
+
+0
+^Monitor
+1.500000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+15.00000000
+V
+100.00000000
+kHz
+
+0
+^Monitor
+1.500000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+3.0000000
+V
+500.00000000
+kHz
+
+0
+^Monitor
+1.500000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+&30 V Range
+False
+True
+^Yokogawa WT1600
+30.00000000
+V
+60
+Hz
+, Elem2
+0
+^Fluke 5520
+30.00000000
+V
+20
+Hz
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+30.00000000
+V
+60.00000000
+Hz
+
+0
+^Monitor
+1.500000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+30.00000000
+V
+1.00000000
+kHz
+
+0
+^Monitor
+1.500000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+30.00000000
+V
+50.00000000
+kHz
+
+0
+^Monitor
+1.500000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+30.00000000
+V
+100.00000000
+kHz
+
+0
+^Monitor
+1.500000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+3.0000000
+V
+500.00000000
+kHz
+
+0
+^Monitor
+1.500000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+&60 V Range
+False
+True
+^Yokogawa WT1600
+60.00000000
+V
+60
+Hz
+, Elem2
+0
+^Fluke 5520
+30.00000000
+V
+20
+Hz
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+60.00000000
+V
+60
+Hz
+
+0
+^Fluke 5520
+0
+
+0
+
+;OPER
+0
+^Monitor
+1.500000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+60.00000000
+V
+1.00000000
+kHz
+
+0
+^Monitor
+1.500000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+60.00000000
+V
+50.00000000
+kHz
+
+0
+^Monitor
+1.500000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+60.00000000
+V
+100.00000000
+kHz
+
+0
+^Monitor
+1.500000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+&100 V Range
+False
+True
+^Yokogawa WT1600
+100.00000000
+V
+60
+Hz
+, Elem2
+0
+^Fluke 5520
+30.00000000
+V
+20
+Hz
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+100.00000000
+V
+60
+Hz
+
+0
+^Fluke 5520
+100.00000000
+V
+60
+Hz
+;OPER
+0
+^Monitor
+1.500000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+100.00000000
+V
+1.00000000
+kHz
+
+0
+^Monitor
+1.500000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+100.00000000
+V
+50.00000000
+kHz
+
+0
+^Monitor
+1.500000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+100.00000000
+V
+100.00000000
+kHz
+
+0
+^Monitor
+1.500000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+&150 V Range
+False
+True
+^Yokogawa WT1600
+150.00000000
+V
+60
+Hz
+, Elem2
+0
+^Fluke 5520
+30.00000000
+V
+20
+Hz
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+150.00000000
+V
+60
+Hz
+
+0
+^Fluke 5520
+100.00000000
+V
+60
+Hz
+;OPER
+0
+^Monitor
+1.500000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+150.00000000
+V
+1.00000000
+kHz
+
+0
+^Monitor
+1.500000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+150.00000000
+V
+50.00000000
+kHz
+
+0
+^Monitor
+1.500000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+150.00000000
+V
+100.00000000
+kHz
+
+0
+^Monitor
+1.500000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+&300 V Range
+False
+True
+^Yokogawa WT1600
+300.00000000
+V
+60
+Hz
+, Elem2
+0
+^Fluke 5520
+30.00000000
+V
+20
+Hz
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+300.00000000
+V
+60
+Hz
+
+0
+^Fluke 5520
+100.00000000
+V
+60
+Hz
+;OPER
+0
+^Monitor
+1.500000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+300.00000000
+V
+1.00000000
+kHz
+
+0
+^Monitor
+1.500000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+300.00000000
+V
+50.00000000
+kHz
+
+0
+^Monitor
+1.500000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+&1000 V Range
+False
+True
+^Yokogawa WT1600
+1000.00000000
+V
+60
+Hz
+, Elem2
+0
+^Fluke 5520
+30.00000000
+V
+20
+Hz
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+900.00000000
+V
+60
+Hz
+
+0
+^Fluke 5520
+100.00000000
+V
+60
+Hz
+;OPER
+0
+^Monitor
+1.500000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+900.00000000
+V
+1.00000000
+kHz
+
+0
+^Monitor
+1.500000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+30.00000000
+V
+20
+Hz
+;STBY
+0
+*Yokogawa WT1600_3E_50A,,,DC Current - Low
+&Skip 5A Module Testpoints
+False
+True
+^Add Blank Data
+0
+
+0
+
+16
+0
+&1 A Range
+False
+True
+^Yokogawa WT1600
+2.000000
+A
+60
+
+, Elem2
+0
+^Fluke 5520
+2.00000000
+A
+20
+
+
+0
+^Fluke 5520
+0.01
+
+20
+
+;OPER
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+-1.00000000
+A
+60
+
+
+0
+^Monitor
+1.500000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+&2 A Range
+False
+True
+^Yokogawa WT1600
+2.000000
+A
+60
+
+, Elem2
+0
+^Fluke 5520
+2.00000000
+A
+20
+
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+-2.00000000
+A
+60
+
+
+0
+^Monitor
+1.500000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+0
+
+0
+
+;STBY
+0
+*Yokogawa WT1600_3E_50A,,,AC Current - Low
+&Skip 5A Module Testpoints
+False
+True
+^Add Blank Data
+5.00000000
+
+20
+
+12
+0
+&1 A Range
+False
+True
+^Yokogawa WT1600
+1.00000000
+A
+60
+Hz
+, Elem2
+0
+^Fluke 5520
+1.00000000
+A
+20
+Hz
+
+0
+^Fluke 5520
+0
+
+0
+
+;OPER
+0
+^Monitor
+1.5
+
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+1.00000000
+A
+60.00000000
+Hz
+
+0
+^Monitor
+1.5
+
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+1.00000000
+A
+1.00000000
+kHz
+
+0
+^Monitor
+1.5
+
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+1.00000000
+A
+30.00000000
+kHz
+
+0
+^Monitor
+1.5
+
+0
+
+Yokogawa WT1600*0;
+0
+&2 A Range
+False
+True
+^Yokogawa WT1600
+2.00000000
+A
+60
+Hz
+, Elem2
+0
+^Fluke 5520
+2.00000000
+A
+20
+Hz
+
+0
+^Monitor
+1.5
+
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+2.00000000
+A
+60.00000000
+Hz
+
+0
+^Monitor
+1.5
+
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+2.00000000
+A
+1.00000000
+kHz
+
+0
+^Monitor
+1.5
+
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+2.00000000
+A
+30.00000000
+kHz
+
+0
+^Monitor
+1.5
+
+0
+
+Yokogawa WT1600*0;
+0
+&5 A Range
+False
+True
+^Yokogawa WT1600
+5.00000000
+A
+60
+Hz
+, Elem2
+0
+^Fluke 5520
+2.00000000
+A
+20
+Hz
+
+0
+^Monitor
+1.5
+
+0
+
+Yokogawa WT1600*0;
+0
+&10 A Range
+False
+True
+^Yokogawa WT1600
+10.00000000
+A
+60
+Hz
+, Elem2
+0
+^Fluke 5520
+2.00000000
+A
+20
+Hz
+
+0
+^Monitor
+1.5
+
+0
+
+Yokogawa WT1600*0;
+0
+&20 A Range
+False
+True
+^Yokogawa WT1600
+20.00000000
+A
+60
+Hz
+, Elem2
+0
+^Fluke 5520
+2.00000000
+A
+20
+Hz
+
+0
+^Monitor
+1.5
+
+0
+
+Yokogawa WT1600*0;
+0
+&50 A Range
+False
+True
+^Yokogawa WT1600
+50.00000000
+A
+60
+Hz
+, Elem2
+0
+^Fluke 5520
+2.00000000
+A
+20
+Hz
+
+0
+^Monitor
+1.5
+
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+0
+
+0
+
+;STBY
+0
+*Yokogawa WT1600_3E_50A,,,DC Power - Low
+&Skip 5A Module Testpoints
+False
+True
+^Add Blank Data
+0
+
+0
+
+36
+0
+&1.5 V / 1 A Range
+False
+True
+^Yokogawa WT1600
+1.5
+V
+1
+A
+, Elem2
+0
+^Fluke 5520
+1.5
+V
+1
+A
+
+0
+^Fluke 5520
+1.5
+V
+0
+
+;OPER
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+-1.50000000
+V
+1
+A
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+&3 V / 1 A Range
+False
+True
+^Yokogawa WT1600
+3
+V
+1
+A
+, Elem2
+0
+^Fluke 5520
+3
+V
+1
+A
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+-3.0000000
+V
+1
+A
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+&6 V / 1 A Range
+False
+True
+^Yokogawa WT1600
+6
+V
+1
+A
+, Elem2
+0
+^Fluke 5520
+6.00000000
+V
+1
+A
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+-6.00000000
+V
+1
+A
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+&10 V / 1 A Range
+False
+True
+^Yokogawa WT1600
+10.00000000
+V
+1
+A
+, Elem2
+0
+^Fluke 5520
+10.00000000
+V
+1
+A
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+-10.00000000
+V
+1
+A
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+&15 V / 1 A Range
+False
+True
+^Yokogawa WT1600
+15.00000000
+V
+1
+A
+, Elem2
+0
+^Fluke 5520
+15.00000000
+V
+1
+A
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+-15.00000000
+V
+1
+A
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+&30 V / 1 A Range
+False
+True
+^Yokogawa WT1600
+30.00000000
+V
+1
+A
+, Elem2
+0
+^Fluke 5520
+30.00000000
+V
+1
+A
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+-30.00000000
+V
+1
+A
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+&60 V / 1 A Range
+False
+True
+^Yokogawa WT1600
+60.00000000
+V
+1
+A
+, Elem2
+0
+^Fluke 5520
+60.00000000
+V
+1
+A
+
+0
+^Fluke 5520
+60.00000000
+
+1
+
+;OPER
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+-60.00000000
+V
+1
+A
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+&100 V / X A Range
+False
+True
+^Yokogawa WT1600
+100.00000000
+V
+0.01
+A
+, Elem2
+0
+^Fluke 5520
+100.00000000
+V
+0.01
+A
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+-100.00000000
+V
+0.01
+A
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Yokogawa WT1600
+100.00000000
+V
+0.02000000
+A
+, Elem2
+0
+^Fluke 5520
+100.00000000
+V
+0.02000000
+A
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+-100.00000000
+V
+0.02000000
+A
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Yokogawa WT1600
+100.00000000
+V
+0.05000000
+A
+, Elem2
+0
+^Fluke 5520
+100.00000000
+V
+0.05000000
+A
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+-100.00000000
+V
+0.05000000
+A
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Yokogawa WT1600
+100.00000000
+V
+0.1000000
+A
+, Elem2
+0
+^Fluke 5520
+100.00000000
+V
+0.1000000
+A
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+-100.00000000
+V
+0.1000000
+A
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Yokogawa WT1600
+100.00000000
+V
+0.20000000
+A
+, Elem2
+0
+^Fluke 5520
+100.00000000
+V
+0.20000000
+A
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+-100.00000000
+V
+0.20000000
+A
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Yokogawa WT1600
+100.00000000
+V
+0.50000000
+A
+, Elem2
+0
+^Fluke 5520
+100.00000000
+V
+0.50000000
+A
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+-100.00000000
+V
+0.50000000
+A
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Yokogawa WT1600
+100.00000000
+V
+1.0000000
+A
+, Elem2
+0
+^Fluke 5520
+100.00000000
+V
+1.0000000
+A
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+-100.00000000
+V
+1
+A
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Yokogawa WT1600
+100.00000000
+V
+2.00000000
+A
+, Elem2
+0
+^Fluke 5520
+100.00000000
+V
+2.00000000
+A
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+-100.00000000
+V
+2
+A
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+&150 V / 1 A Range
+False
+True
+^Yokogawa WT1600
+150
+V
+1
+A
+, Elem2
+0
+^Fluke 5520
+150.00000000
+V
+1
+A
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+-150.00000000
+V
+1
+A
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+&300 V / 1 A Range
+False
+True
+^Yokogawa WT1600
+300.00000000
+V
+1
+A
+, Elem2
+0
+^Fluke 5520
+300.00000000
+V
+1
+A
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+-300.00000000
+V
+1
+A
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+&1000 V / 1 A Range
+False
+True
+^Yokogawa WT1600
+1000.00000000
+V
+1
+A
+, Elem2
+0
+^Fluke 5520
+1000.00000000
+V
+1
+A
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+-1000.00000000
+V
+1
+A
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+-1000.00000000
+
+1
+
+;STBY
+0
+*Yokogawa WT1600_3E_50A,,,AC Power - Low
+&Skip 5A Module Testpoints
+False
+True
+^Add Blank Data
+300.00000000
+
+1.00000000
+
+53
+0
+&1.5 V / 1 A Range
+False
+True
+^Yokogawa WT1600
+1.5
+V
+1
+A
+, Elem2, 60 Hz
+0
+^Fluke 5520
+1.5
+V
+1
+A
+, 20 Hz
+0
+^Fluke 5520
+1.5
+V
+0
+
+;OPER
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+1.50000000
+V
+1
+A
+, 60 Hz
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+1.50000000
+V
+1
+A
+, 1000 Hz
+0
+^Monitor
+1.50000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+1.50000000
+V
+1
+A
+, 10000 Hz
+0
+^Monitor
+1.50000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+&3 V / 1 A Range
+False
+True
+^Yokogawa WT1600
+3
+V
+1
+A
+, Elem2, 60 Hz
+0
+^Fluke 5520
+3.0000000
+V
+1
+A
+, 20 Hz
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+3.0000000
+V
+1
+A
+, 60 Hz
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+3.0000000
+V
+1
+A
+, 1000 Hz
+0
+^Monitor
+1.50000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+3.0000000
+V
+1
+A
+, 10000 Hz
+0
+^Monitor
+1.50000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+&6 V / 1 A Range
+False
+True
+^Yokogawa WT1600
+6.00000000
+V
+1
+A
+, Elem2, 60 Hz
+0
+^Fluke 5520
+6.00000000
+V
+1
+A
+, 20 Hz
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+6.00000000
+V
+1
+A
+, 60 Hz
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+6.00000000
+V
+1
+A
+, 1000 Hz
+0
+^Monitor
+1.50000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+6.00000000
+V
+1
+A
+, 10000 Hz
+0
+^Monitor
+1.50000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+&10 V / 1 A Range
+False
+True
+^Yokogawa WT1600
+10
+V
+1
+A
+, Elem2, 60 Hz
+0
+^Fluke 5520
+10.00000000
+V
+1
+A
+, 20 Hz
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+10.00000000
+V
+1
+A
+, 60 Hz
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+10.00000000
+V
+1
+A
+, 1000 Hz
+0
+^Monitor
+1.50000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+10.00000000
+V
+1
+A
+, 10000 Hz
+0
+^Monitor
+1.50000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+&15 V / 1 A Range
+False
+True
+^Yokogawa WT1600
+15.00000000
+V
+1
+A
+, Elem2, 60 Hz
+0
+^Fluke 5520
+15.00000000
+V
+1
+A
+, 60 Hz;PHASE 90 DEG
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+15.00000000
+V
+1
+A
+, 20 Hz;PHASE 0 DEG
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+15.00000000
+V
+1
+A
+, 60 Hz
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+15.00000000
+V
+1
+A
+, 1000 Hz
+0
+^Monitor
+1.50000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+15.00000000
+V
+1
+A
+, 10000 Hz
+0
+^Monitor
+1.50000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+&30 V / 1 A Range
+False
+True
+^Yokogawa WT1600
+30.00000000
+V
+1
+A
+, Elem2, 60 Hz
+0
+^Fluke 5520
+30.00000000
+V
+1
+A
+, 20 Hz
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+30.00000000
+V
+1
+A
+, 60 Hz
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+30.00000000
+V
+1
+A
+, 1000 Hz
+0
+^Monitor
+1.50000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+30.00000000
+V
+1
+A
+, 10000 Hz
+0
+^Monitor
+1.50000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+&60 V / 1 A Range
+False
+True
+^Yokogawa WT1600
+60.00000000
+V
+1
+A
+, Elem2, 60 Hz
+0
+^Fluke 5520
+30.00000000
+V
+1
+A
+, 20 Hz
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+60.00000000
+V
+1
+A
+, 60 Hz
+0
+^Fluke 5520
+60.00000000
+V
+1
+A
+;OPER
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+60.00000000
+V
+1
+A
+, 1000 Hz
+0
+^Monitor
+1.50000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+60.00000000
+V
+1
+A
+, 10000 Hz
+0
+^Monitor
+1.50000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+&100 V / X A Range
+False
+True
+^Yokogawa WT1600
+100.00000000
+V
+1
+A
+, Elem2, 60 Hz
+0
+^Fluke 5520
+100.00000000
+V
+1.000000
+A
+, 60 Hz;PHASE 90 DEG
+0
+^Fluke 5520
+100.00000000
+
+1.00000000
+
+;OPER
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+30.00000000
+V
+1.000000
+A
+, 20 Hz;PHASE 0 DEG
+0
+^Fluke 5520
+100.00000000
+
+1.000000
+
+;OPER
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+100.00000000
+V
+1.0000000
+A
+, 60 Hz
+0
+^Fluke 5520
+100.00000000
+
+1.000000
+
+;OPER
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Yokogawa WT1600
+100.00000000
+V
+2.00000000
+A
+, Elem2, 60 Hz
+0
+^Fluke 5520
+100.00000000
+V
+2.00000000
+A
+, 60 Hz
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Yokogawa WT1600
+100.00000000
+V
+1.00000000
+A
+, Elem2, 60 Hz
+0
+^Fluke 5520
+100.00000000
+V
+1.00000000
+A
+, 1000 Hz
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+100.00000000
+V
+1.00000000
+A
+, 10000 Hz
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+&150 V / 1 A Range
+False
+True
+^Yokogawa WT1600
+150.00000000
+V
+1.00000000
+A
+, Elem2, 60 Hz
+0
+^Fluke 5520
+30.00000000
+V
+1
+A
+, 20 Hz
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+150.00000000
+V
+1.00000000
+A
+, 60 Hz
+0
+^Fluke 5520
+60.00000000
+V
+1
+A
+;OPER
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+150.00000000
+V
+1.00000000
+A
+, 1000 Hz
+0
+^Monitor
+1.50000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+150.00000000
+V
+1.00000000
+A
+, 10000 Hz
+0
+^Monitor
+1.50000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+&300 V / 1 A Range
+False
+True
+^Yokogawa WT1600
+300.00000000
+V
+1.00000000
+A
+, Elem2, 60 Hz
+0
+^Fluke 5520
+30.00000000
+V
+1
+A
+, 20 Hz
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+300.00000000
+V
+1.00000000
+A
+, 60 Hz
+0
+^Fluke 5520
+60.00000000
+V
+1
+A
+;OPER
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+300.00000000
+V
+1.00000000
+A
+, 1000 Hz
+0
+^Monitor
+1.50000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+300.00000000
+V
+1.00000000
+A
+, 10000 Hz
+0
+^Monitor
+1.50000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+&1000 V / 1 A Range
+False
+True
+^Yokogawa WT1600
+1000.00000000
+V
+1.00000000
+A
+, Elem2, 60 Hz
+0
+^Fluke 5520
+30.00000000
+V
+1
+A
+, 20 Hz
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+1000.00000000
+V
+1.00000000
+A
+, 60 Hz
+0
+^Fluke 5520
+60.00000000
+V
+1
+A
+;OPER
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+1000.00000000
+V
+1.00000000
+A
+, 1000 Hz
+0
+^Monitor
+1.50000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+300.00000000
+V
+1.00000000
+A
+, 10000 Hz
+0
+^Monitor
+1.50000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+300.00000000
+
+1.00000000
+
+;STBY
+0
+*Yokogawa WT1600_3E_50A,,,DC Current - High
+&Setup
+False
+True
+^Yokogawa WT1600
+-5
+
+60
+
+*RST
+0
+^Fluke 5520
+-5
+
+60
+
+*RST
+0
+^Message
+-5
+A
+60
+
+Element 2 - Connect the Voltage input of the Yokogawa to the Normal output of the calibrator. Connect the Current input of the Yokogawa to the 20A output of the calibrator.
+0
+&Skip 5A Module Testpoints
+False
+True
+^Add Blank Data
+-5
+
+60
+
+2
+0
+&5 A Range
+False
+True
+^Yokogawa WT1600
+5
+A
+60
+
+, Elem2
+0
+^Fluke 5520
+5
+A
+20
+
+
+0
+^Fluke 5520
+0.01
+
+20
+
+;OPER
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+-5
+A
+60
+
+
+0
+^Monitor
+1.500000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+&10 A Range
+False
+True
+^Yokogawa WT1600
+10.00000000
+A
+60
+
+, Elem2
+0
+^Fluke 5520
+10.00000000
+A
+20
+
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+-10.00000000
+A
+60
+
+
+0
+^Monitor
+1.500000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+&20 A Range
+False
+True
+^Yokogawa WT1600
+20.00000000
+A
+60
+
+, Elem2
+0
+^Fluke 5520
+20.00000000
+A
+20
+
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+-20.00000000
+A
+60
+
+
+0
+^Monitor
+1.500000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+&50 A Range
+False
+True
+^Yokogawa WT1600
+50.00000000
+A
+60
+
+, Elem2
+0
+^Fluke 5520
+20.00000000
+A
+20
+
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+-20.00000000
+A
+60
+
+
+0
+^Monitor
+1.500000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+0
+
+60
+
+;STBY
+0
+*Yokogawa WT1600_3E_50A,,,AC Current - High
+&Skip 5A Module Testpoints
+False
+True
+^Add Blank Data
+10.00000000
+
+60
+
+3
+0
+&5 A Range
+False
+True
+^Yokogawa WT1600
+5
+A
+60
+
+, Elem2, 60 Hz
+0
+^Fluke 5520
+5
+A
+60
+Hz
+
+0
+^Fluke 5520
+0.01
+
+20
+
+;OPER
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+5.00000000
+A
+1.00000000
+kHz
+
+0
+^Monitor
+1.500000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+5.00000000
+A
+5.00000000
+kHz
+
+0
+^Monitor
+1.500000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+&10 A Range
+False
+True
+^Yokogawa WT1600
+10.00000000
+A
+60
+
+, Elem2, 60 Hz
+0
+^Fluke 5520
+10.00000000
+A
+60
+Hz
+
+0
+^Fluke 5520
+0.01
+
+20
+
+;OPER
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+10.00000000
+A
+1.00000000
+kHz
+
+0
+^Monitor
+1.500000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+10.00000000
+A
+5.00000000
+kHz
+
+0
+^Monitor
+1.500000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+&20 A Range
+False
+True
+^Yokogawa WT1600
+20.00000000
+A
+60
+
+, Elem2, 60 Hz
+0
+^Fluke 5520
+20.00000000
+A
+60
+Hz
+
+0
+^Fluke 5520
+0.01
+
+20
+
+;OPER
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+20.00000000
+A
+1.00000000
+kHz
+
+0
+^Monitor
+1.500000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+20.00000000
+A
+5.00000000
+kHz
+
+0
+^Monitor
+1.500000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+&50 A Range
+False
+True
+^Yokogawa WT1600
+50.00000000
+A
+60
+
+, Elem2, 60 Hz
+0
+^Fluke 5520
+20.00000000
+A
+60
+Hz
+
+0
+^Fluke 5520
+0.01
+
+20
+
+;OPER
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+20.00000000
+A
+1.00000000
+kHz
+
+0
+^Monitor
+1.500000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+20.00000000
+A
+5.00000000
+kHz
+
+0
+^Monitor
+1.500000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+0
+
+0
+
+;STBY
+0
+*Yokogawa WT1600_3E_50A,,,DC Power - High
+&Skip 50A Module Testpoints
+False
+True
+^Add Blank Data
+-100.0000000
+
+5.00000000
+
+2
+0
+&100 V / 5 A Range
+False
+True
+^Yokogawa WT1600
+100.0000000
+V
+5.00000000
+A
+, Elem2
+0
+^Fluke 5520
+100.0000000
+V
+5.00000000
+A
+
+0
+^Fluke 5520
+1.5
+V
+0
+
+;OPER
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+-100.0000000
+V
+5.00000000
+A
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+&100 V / 10 A Range
+False
+True
+^Yokogawa WT1600
+100.0000000
+V
+10.00000000
+A
+, Elem2
+0
+^Fluke 5520
+100.0000000
+V
+10.00000000
+A
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+-100.0000000
+V
+10.00000000
+A
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+&100 V / 20 A Range
+False
+True
+^Yokogawa WT1600
+100.0000000
+V
+20.00000000
+A
+, Elem2
+0
+^Fluke 5520
+100.0000000
+V
+20.00000000
+A
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+-100.0000000
+V
+20.00000000
+A
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+&100 V / 50 A Range
+False
+True
+^Yokogawa WT1600
+100.0000000
+V
+50.00000000
+A
+, Elem2
+0
+^Fluke 5520
+100.0000000
+V
+20.00000000
+A
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+-100.0000000
+V
+20.00000000
+A
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+&1000 V / 50 A Range
+False
+True
+^Yokogawa WT1600
+1000.00000000
+V
+50.00000000
+A
+, Elem2
+0
+^Fluke 5520
+1000.00000000
+V
+20.00000000
+A
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+-1000.00000000
+V
+20.00000000
+A
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+0
+
+0
+
+;STBY
+0
+*Yokogawa WT1600_3E_50A,,,AC Power - High
+&Skip 5A Module Testpoints
+False
+True
+^Add Blank Data
+60.00000000
+
+1
+
+1
+0
+&100 V / 5 A Range
+False
+True
+^Yokogawa WT1600
+100.00000000
+V
+5.00000000
+A
+, Elem2, 60 Hz
+0
+^Fluke 5520
+100.00000000
+V
+5.00000000
+A
+, 60 Hz
+0
+^Fluke 5520
+60.00000000
+V
+1
+A
+;OPER
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+&100 V / 10 A Range
+False
+True
+^Yokogawa WT1600
+100.00000000
+V
+10.00000000
+A
+, Elem2, 60 Hz
+0
+^Fluke 5520
+100.00000000
+V
+10.00000000
+A
+, 60 Hz
+0
+^Fluke 5520
+60.00000000
+V
+1
+A
+;OPER
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+&100 V / 20 A Range
+False
+True
+^Yokogawa WT1600
+100.00000000
+V
+20.00000000
+A
+, Elem2, 60 Hz
+0
+^Fluke 5520
+100.00000000
+V
+20.00000000
+A
+, 60 Hz
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+&100 V / 50 A Range
+False
+True
+^Yokogawa WT1600
+100.00000000
+V
+50.00000000
+A
+, Elem2, 60 Hz
+0
+^Fluke 5520
+100.00000000
+V
+20.00000000
+A
+, 60 Hz
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+&1000 V / 50 A Range
+False
+True
+^Yokogawa WT1600
+1000.00000000
+V
+50.00000000
+A
+, Elem2, 60 Hz
+0
+^Fluke 5520
+1000.00000000
+V
+20.00000000
+A
+, 60 Hz
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+0
+
+0
+
+;STBY
+0
+*Yokogawa WT1600_3E_50A,,,DC Power - External
+&Setup
+False
+True
+^Yokogawa WT1600
+0
+
+0
+
+*RST
+0
+^Fluke 5520
+0
+
+0
+
+*RST
+0
+^Message
+0
+
+0
+
+Element 2 - Connect the Voltage input of the Yokogawa to the Normal output of the calibrator. Connect the External Sensor of the Yokogawa to the Aux output of the calibrator.
+0
+&1.5 V / 1 V Range
+False
+True
+^Yokogawa WT1600
+1.5
+V
+1.00000000
+V
+, Elem2, Ext. Sensor
+0
+^Fluke 5520
+1.5
+V
+1.00000000
+V
+
+0
+^Fluke 5520
+1.5
+
+1.00000000
+
+;OPER
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+-1.50000000
+V
+1.00000000
+V
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+&3 V / 1 V Range
+False
+True
+^Yokogawa WT1600
+3.0000000
+V
+1.00000000
+V
+, Elem2, Ext. Sensor
+0
+^Fluke 5520
+3.0000000
+V
+1.00000000
+V
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+-3.0000000
+V
+1.00000000
+V
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+&6 V / 1 V Range
+False
+True
+^Yokogawa WT1600
+6.00000000
+V
+1.00000000
+V
+, Elem2, Ext. Sensor
+0
+^Fluke 5520
+6.00000000
+V
+1.00000000
+V
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+-6.00000000
+V
+1.00000000
+V
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+&10 V / 1 V Range
+False
+True
+^Yokogawa WT1600
+10.00000000
+V
+1.00000000
+V
+, Elem2, Ext. Sensor
+0
+^Fluke 5520
+10.00000000
+V
+1.00000000
+V
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+-10.00000000
+V
+1.00000000
+V
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+&15 V / 1 V Range
+False
+True
+^Yokogawa WT1600
+15.00000000
+V
+1.00000000
+V
+, Elem2, Ext. Sensor
+0
+^Fluke 5520
+15.00000000
+V
+1.00000000
+V
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+-15.00000000
+V
+1.00000000
+V
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+&30 V / 1 V Range
+False
+True
+^Yokogawa WT1600
+30.00000000
+V
+1.00000000
+V
+, Elem2, Ext. Sensor
+0
+^Fluke 5520
+30.00000000
+V
+1.00000000
+V
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+-30.00000000
+V
+1.00000000
+V
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+&60 V / 1 V Range
+False
+True
+^Yokogawa WT1600
+60.00000000
+V
+1.00000000
+V
+, Elem2, Ext. Sensor
+0
+^Fluke 5520
+60.00000000
+V
+1.00000000
+V
+
+0
+^Fluke 5520
+60.00000000
+
+1.00000000
+
+;OPER
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+-60.00000000
+V
+1.00000000
+V
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+&100 V / X V Range
+False
+True
+^Yokogawa WT1600
+100.00000000
+V
+0.05
+V
+, Elem2, Ext. Sensor
+0
+^Fluke 5520
+100.00000000
+V
+0.050000000
+V
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+-100.00000000
+V
+0.0500000000
+V
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Yokogawa WT1600
+100.00000000
+V
+0.1000000
+V
+, Elem2, Ext. Sensor
+0
+^Fluke 5520
+100.00000000
+V
+0.1000000
+V
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+-100.00000000
+V
+0.1000000
+V
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Yokogawa WT1600
+100.00000000
+V
+0.250000000
+V
+, Elem2, Ext. Sensor
+0
+^Fluke 5520
+100.00000000
+V
+0.250000000
+V
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+-100.00000000
+V
+0.250000000
+V
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Yokogawa WT1600
+100.00000000
+V
+0.5000000
+V
+, Elem2, Ext. Sensor
+0
+^Fluke 5520
+100.00000000
+V
+0.5000000
+V
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+-100.00000000
+V
+0.5000000
+V
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Yokogawa WT1600
+100.00000000
+V
+1.0000000
+V
+, Elem2, Ext. Sensor
+0
+^Fluke 5520
+100.00000000
+V
+1.0000000
+V
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+-100.00000000
+V
+1.0000000
+V
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Yokogawa WT1600
+100.00000000
+V
+2.50000000
+V
+, Elem2, Ext. Sensor
+0
+^Fluke 5520
+100.00000000
+V
+2.500000000
+V
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+-100.00000000
+V
+2.500000000
+V
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Yokogawa WT1600
+100.00000000
+V
+5.0000000
+V
+, Elem2, Ext. Sensor
+0
+^Fluke 5520
+100.00000000
+V
+5.0000000
+V
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+-100.00000000
+V
+5.0000000
+V
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Yokogawa WT1600
+100.00000000
+V
+10.00000000
+V
+, Elem2, Ext. Sensor
+0
+^Fluke 5520
+100.00000000
+V
+10.00000000
+V
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+-100.00000000
+V
+10.00000000
+V
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+&150 V / 1 V Range
+False
+True
+^Yokogawa WT1600
+150.00000000
+V
+1.00000000
+V
+, Elem2, Ext. Sensor
+0
+^Fluke 5520
+150.00000000
+V
+1.00000000
+V
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+-150.00000000
+V
+1.00000000
+V
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+&300 V / 1 V Range
+False
+True
+^Yokogawa WT1600
+300.00000000
+V
+1.00000000
+V
+, Elem2, Ext. Sensor
+0
+^Fluke 5520
+300.00000000
+V
+1.00000000
+V
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+-300.00000000
+V
+1.00000000
+V
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+&1000 V / 1 V Range
+False
+True
+^Yokogawa WT1600
+1000.00000000
+V
+1.00000000
+V
+, Elem2, Ext. Sensor
+0
+^Fluke 5520
+1000.00000000
+V
+1.00000000
+V
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+-1000.00000000
+V
+1.00000000
+V
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+-1000.00000000
+
+1.00000000
+
+;STBY
+0
+*Yokogawa WT1600_3E_50A,,,AC Power - External
+&30 V / 0.05 V Range
+False
+True
+^Yokogawa WT1600
+30.00000000
+V
+0.05
+V
+, Elem2, Ext. Sensor, 60 Hz
+0
+^Fluke 5520
+30.00000000
+V
+0.05
+V
+, 20 Hz
+0
+^Fluke 5520
+30.00000000
+
+0.05
+
+;OPER
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+30.00000000
+V
+0.05
+V
+, 60 Hz
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+30.00000000
+V
+0.05
+V
+, 1000 Hz
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+&30 V / 0.1 V Range
+False
+True
+^Yokogawa WT1600
+30.00000000
+V
+0.1000000
+V
+, Elem2, Ext. Sensor, 60 Hz
+0
+^Fluke 5520
+30.00000000
+V
+0.1000000
+V
+, 20 Hz
+0
+^Fluke 5520
+30.00000000
+
+0.05
+
+;OPER
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+30.00000000
+V
+0.1000000
+V
+, 60 Hz
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+30.00000000
+V
+0.1000000
+V
+, 1000 Hz
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+&30 V / 0.25 V Range
+False
+True
+^Yokogawa WT1600
+30.00000000
+V
+0.250000000
+V
+, Elem2, Ext. Sensor, 60 Hz
+0
+^Fluke 5520
+30.00000000
+V
+0.250000000
+V
+, 20 Hz
+0
+^Fluke 5520
+30.00000000
+
+0.05
+
+;OPER
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+30.00000000
+V
+0.250000000
+V
+, 60 Hz
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+30.00000000
+V
+0.250000000
+V
+, 1000 Hz
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+&30 V / 0.5 V Range
+False
+True
+^Yokogawa WT1600
+30.00000000
+V
+0.5000000
+V
+, Elem2, Ext. Sensor, 60 Hz
+0
+^Fluke 5520
+30.00000000
+V
+0.5000000
+V
+, 20 Hz
+0
+^Fluke 5520
+30.00000000
+
+0.05
+
+;OPER
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+30.00000000
+V
+0.5000000
+V
+, 60 Hz
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+30.00000000
+V
+0.5000000
+V
+, 1000 Hz
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+&30 V / 1 V Range
+False
+True
+^Yokogawa WT1600
+30.00000000
+V
+1.0000000
+V
+, Elem2, Ext. Sensor, 60 Hz
+0
+^Fluke 5520
+30.00000000
+V
+1.0000000
+V
+, 20 Hz;PHASE 90 DEG
+0
+^Fluke 5520
+30.00000000
+
+0.05
+
+;OPER
+0
+^Monitor
+1.5
+
+1.0000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+30.00000000
+V
+1.0000000
+V
+, 20 Hz;PHASE 0 DEG
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+30.00000000
+V
+1.0000000
+V
+, 60 Hz
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+30.00000000
+V
+1.0000000
+V
+, 1000 Hz
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+30.00000000
+V
+1.00000000
+V
+, 10000 Hz
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+&30 V / 2.5 V Range
+False
+True
+^Yokogawa WT1600
+30.00000000
+V
+2.5
+V
+, Elem2, Ext. Sensor, 60 Hz
+0
+^Fluke 5520
+30.00000000
+V
+2.5
+V
+, 20 Hz
+0
+^Fluke 5520
+30.00000000
+
+0.05
+
+;OPER
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+30.00000000
+V
+2.5
+V
+, 60 Hz
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+30.00000000
+V
+2.5
+V
+, 1000 Hz
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+30.00000000
+V
+2.5
+V
+, 10000 Hz
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+&30 V / 5 V Range
+False
+True
+^Yokogawa WT1600
+30.00000000
+V
+5.0000000
+V
+, Elem2, Ext. Sensor, 60 Hz
+0
+^Fluke 5520
+30.00000000
+V
+5.0000000
+V
+, 20 Hz
+0
+^Fluke 5520
+30.00000000
+
+0.05
+
+;OPER
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+30.00000000
+V
+5.0000000
+V
+, 60 Hz
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+30.00000000
+V
+5.0000000
+V
+, 1000 Hz
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+30.00000000
+V
+5.0000000
+V
+, 10000 Hz
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+&30 V / 10 V Range
+False
+True
+^Yokogawa WT1600
+30.00000000
+V
+10.00000000
+V
+, Elem2, Ext. Sensor, 60 Hz
+0
+^Fluke 5520
+30.00000000
+V
+10.00000000
+V
+, 20 Hz
+0
+^Fluke 5520
+30.00000000
+
+0.05
+
+;OPER
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+30.00000000
+V
+10.00000000
+V
+, 60 Hz
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+30.00000000
+V
+10.00000000
+V
+, 1000 Hz
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+30.00000000
+V
+10.00000000
+V
+, 10000 Hz
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+1.5
+
+1.00000000
+
+;STBY
+0
+*Yokogawa WT1600_3E_50A,,,DC Current - External
+&Setup
+False
+True
+^Yokogawa WT1600
+1.5
+
+1.00000000
+
+*RST
+0
+^Fluke 5520
+1.5
+
+1.00000000
+
+*RST
+0
+^Message
+1.5
+
+1.00000000
+
+Element 2 - Connect the External Sensor of the Yokogawa to the Normal output of the calibrator.
+0
+&0.05 V Range
+False
+True
+^Yokogawa WT1600
+0.05
+V
+1.00000000
+
+, Elem2, Ext. Sensor
+0
+^Fluke 5520
+0.05
+V
+1.00000000
+
+
+0
+^Fluke 5520
+30.00000000
+
+0.05
+
+;OPER
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+-0.05000000
+V
+1.00000000
+
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+&0.1 V Range
+False
+True
+^Yokogawa WT1600
+0.1000000
+V
+1.00000000
+
+, Elem2, Ext. Sensor
+0
+^Fluke 5520
+0.1000000
+V
+1.00000000
+
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+-0.1000000
+V
+1.00000000
+
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+&0.25 V Range
+False
+True
+^Yokogawa WT1600
+0.250000000
+V
+1.00000000
+
+, Elem2, Ext. Sensor
+0
+^Fluke 5520
+0.250000000
+V
+1.00000000
+
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+-0.250000000
+V
+1.00000000
+
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+&0.5 V Range
+False
+True
+^Yokogawa WT1600
+0.5000000
+V
+1.00000000
+
+, Elem2, Ext. Sensor
+0
+^Fluke 5520
+0.5000000
+V
+1.00000000
+
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+-0.5000000
+V
+1.00000000
+
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+&1 V Range
+False
+True
+^Yokogawa WT1600
+1.0000000
+V
+1.00000000
+
+, Elem2, Ext. Sensor
+0
+^Fluke 5520
+1.0000000
+V
+1.00000000
+
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+0.50000000
+V
+1.00000000
+
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+0.10000000
+V
+1.00000000
+
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+0.010000000
+V
+1.00000000
+
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+-0.01000000
+V
+1.00000000
+
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+-0.1000000
+V
+1.00000000
+
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+-0.50000000
+V
+1.00000000
+
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+-1.0000000
+V
+1.00000000
+
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+&2.5 V Range
+False
+True
+^Yokogawa WT1600
+2.50000000
+V
+1.00000000
+
+, Elem2, Ext. Sensor
+0
+^Fluke 5520
+2.50000000
+V
+1.00000000
+
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+-2.50000000
+V
+1.00000000
+
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+&5 V Range
+False
+True
+^Yokogawa WT1600
+5.0000000
+V
+1.00000000
+
+, Elem2, Ext. Sensor
+0
+^Fluke 5520
+5.0000000
+V
+1.00000000
+
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+-5.0000000
+V
+1.00000000
+
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+&10 V Range
+False
+True
+^Yokogawa WT1600
+10.00000000
+V
+1.00000000
+
+, Elem2, Ext. Sensor
+0
+^Fluke 5520
+10.00000000
+V
+1.00000000
+
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+-10.00000000
+V
+1.00000000
+
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+0
+
+0
+
+;STBY
+0
+*Yokogawa WT1600_3E_50A,,,AC Current - External
+&0.05 V Range
+False
+True
+^Yokogawa WT1600
+0.050000000
+V
+1.00000000
+
+, Elem2, Ext. Sensor, 60 Hz
+0
+^Fluke 5520
+0.050000000
+V
+20
+Hz
+
+0
+^Fluke 5520
+0
+
+0
+
+;OPER
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+0.050000000
+V
+60.00000000
+Hz
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+0.050000000
+V
+1000.00000000
+Hz
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+0.050000000
+V
+50.00000000
+kHz
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+0.050000000
+V
+100.00000000
+kHz
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+0.050000000
+V
+500.00000000
+kHz
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+&0.1 V Range
+False
+True
+^Yokogawa WT1600
+0.1000000
+V
+1.00000000
+
+, Elem2, Ext. Sensor, 60 Hz
+0
+^Fluke 5520
+0.1000000
+V
+20
+Hz
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+0.1000000
+V
+60.00000000
+Hz
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+0.1000000
+V
+1000.00000000
+Hz
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+0.1000000
+V
+50.00000000
+kHz
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+0.1000000
+V
+100.00000000
+kHz
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+0.1000000
+V
+500.00000000
+kHz
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+&0.25 V Range
+False
+True
+^Yokogawa WT1600
+0.250000000
+V
+1.00000000
+
+, Elem2, Ext. Sensor, 60 Hz
+0
+^Fluke 5520
+0.250000000
+V
+20
+Hz
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+0.250000000
+V
+60.00000000
+Hz
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+0.250000000
+V
+1000.00000000
+Hz
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+0.250000000
+V
+50.00000000
+kHz
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+0.250000000
+V
+100.00000000
+kHz
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+0.250000000
+V
+500.00000000
+kHz
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+&0.5 V Range
+False
+True
+^Yokogawa WT1600
+0.5000000
+V
+1.00000000
+
+, Elem2, Ext. Sensor, 60 Hz
+0
+^Fluke 5520
+0.5000000
+V
+20
+Hz
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+0.5000000
+V
+60.00000000
+Hz
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+0.5000000
+V
+1000.00000000
+Hz
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+0.5000000
+V
+50.00000000
+kHz
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+0.5000000
+V
+100.00000000
+kHz
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+0.5000000
+V
+500.00000000
+kHz
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+&1 V Range
+False
+True
+^Yokogawa WT1600
+1.0000000
+V
+1.00000000
+
+, Elem2, Ext. Sensor, 60 Hz
+0
+^Fluke 5520
+1.0000000
+V
+20
+Hz
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+1.0000000
+V
+60.00000000
+Hz
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+1.0000000
+V
+1000.00000000
+Hz
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+1.0000000
+V
+50.00000000
+kHz
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+1.0000000
+V
+100.00000000
+kHz
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+1.0000000
+V
+500.00000000
+kHz
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+&2.5 V Range
+False
+True
+^Yokogawa WT1600
+2.500000000
+V
+1.00000000
+
+, Elem2, Ext. Sensor, 60 Hz
+0
+^Fluke 5520
+2.50000000
+V
+20
+Hz
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+2.50000000
+V
+60.00000000
+Hz
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+2.50000000
+V
+1000.00000000
+Hz
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+2.50000000
+V
+50.00000000
+kHz
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+2.50000000
+V
+100.00000000
+kHz
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+2.50000000
+V
+500.00000000
+kHz
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+&5 V Range
+False
+True
+^Yokogawa WT1600
+5.0000000
+V
+1.00000000
+
+, Elem2, Ext. Sensor, 60 Hz
+0
+^Fluke 5520
+5.0000000
+V
+20
+Hz
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+5.0000000
+V
+60.00000000
+Hz
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+5.0000000
+V
+1000.00000000
+Hz
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+5.0000000
+V
+50.00000000
+kHz
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+5.0000000
+V
+100.00000000
+kHz
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+5.0000000
+V
+500.00000000
+kHz
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+&10 V Range
+False
+True
+^Yokogawa WT1600
+10.00000000
+V
+1.00000000
+
+, Elem2, Ext. Sensor, 60 Hz
+0
+^Fluke 5520
+10.00000000
+V
+20
+Hz
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+10.00000000
+V
+60.00000000
+Hz
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+10.00000000
+V
+1000.00000000
+Hz
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+10.00000000
+V
+50.00000000
+kHz
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+10.00000000
+V
+100.00000000
+kHz
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+10.00000000
+V
+500.00000000
+kHz
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+0
+
+0
+
+;STBY
+0
+*Yokogawa WT1600_3E_50A,,,Element 3 - Setup
+&Setup
+False
+True
+^Yokogawa WT1600
+0
+
+0
+
+*RST
+0
+^Fluke 5520
+0
+
+0
+
+*RST
+0
+^Message
+0
+
+0
+
+Element 3 - Connect the Voltage input of the Yokogawa to the Normal output of the calibrator. Connect the Current input of the Yokogawa to the Aux output of the calibrator.
+0
+*Yokogawa WT1600_3E_50A,,,DC Volts
+&1.5 V Range
+False
+True
+^Yokogawa WT1600
+1.5
+V
+0
+
+, Elem3
+0
+^Fluke 5520
+1.5
+V
+0
+
+
+0
+^Fluke 5520
+1.5
+V
+0
+
+;OPER
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+&1.5 V Range
+False
+True
+^Fluke 5520
+-1.50000000
+V
+0
+
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+&3 V Range
+False
+True
+^Yokogawa WT1600
+3.0000000
+V
+0
+
+, Elem3
+0
+^Fluke 5520
+3.0000000
+V
+0
+
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+&3 V Range
+False
+True
+^Fluke 5520
+-3.0000000
+V
+0
+
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+&6 V Range
+False
+True
+^Yokogawa WT1600
+6.00000000
+V
+0
+
+, Elem3
+0
+^Fluke 5520
+6.00000000
+V
+0
+
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+&6 V Range
+False
+True
+^Fluke 5520
+-6.00000000
+V
+0
+
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+&10 V Range
+False
+True
+^Yokogawa WT1600
+10.00000000
+V
+0
+
+, Elem3
+0
+^Fluke 5520
+10.00000000
+V
+0
+
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+&10 V Range
+False
+True
+^Fluke 5520
+-10.00000000
+V
+0
+
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+&15 V Range
+False
+True
+^Yokogawa WT1600
+15.00000000
+V
+0
+
+, Elem3
+0
+^Fluke 5520
+15.00000000
+V
+0
+
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+&15 V Range
+False
+True
+^Fluke 5520
+-15.00000000
+V
+0
+
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+&30 V Range
+False
+True
+^Yokogawa WT1600
+30.00000000
+V
+0
+
+, Elem3
+0
+^Fluke 5520
+30.00000000
+V
+0
+
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+&30 V Range
+False
+True
+^Fluke 5520
+-30.00000000
+V
+0
+
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+&60 V Range
+False
+True
+^Yokogawa WT1600
+60.00000000
+V
+0
+
+, Elem3
+0
+^Fluke 5520
+60.00000000
+V
+0
+
+
+0
+^Fluke 5520
+50.00000000
+V
+0
+
+;OPER
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+&60 V Range
+False
+True
+^Fluke 5520
+-60.00000000
+V
+0
+
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+&100 V Range
+False
+True
+^Yokogawa WT1600
+100.00000000
+V
+0
+
+, Elem3
+0
+^Fluke 5520
+100.00000000
+V
+0
+
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+&100 V Range
+False
+True
+^Fluke 5520
+-100.00000000
+V
+0
+
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+&100 V Range: Linearity
+False
+True
+^Fluke 5520
+50.00000000
+V
+0
+
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+&100 V Range: Linearity
+False
+True
+^Fluke 5520
+-50.00000000
+V
+0
+
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+&100 V Range: Linearity
+False
+True
+^Fluke 5520
+10.00000000
+V
+0
+
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+&100 V Range: Linearity
+False
+True
+^Fluke 5520
+-10.00000000
+V
+0
+
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+&100 V Range: Linearity
+False
+True
+^Fluke 5520
+1.00000000
+V
+0
+
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+&100 V Range: Linearity
+False
+True
+^Fluke 5520
+-1.00000000
+V
+0
+
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+&150 V Range
+False
+True
+^Yokogawa WT1600
+150.00000000
+V
+0
+
+, Elem3
+0
+^Fluke 5520
+150.00000000
+V
+0
+
+
+0
+^Fluke 5520
+50.00000000
+V
+0
+
+;OPER
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+&150 V Range
+False
+True
+^Fluke 5520
+-150.00000000
+V
+0
+
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+&300 V Range
+False
+True
+^Yokogawa WT1600
+300.00000000
+V
+0
+
+, Elem3
+0
+^Fluke 5520
+300.00000000
+V
+0
+
+
+0
+^Fluke 5520
+50.00000000
+V
+0
+
+;OPER
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+&300 V Range
+False
+True
+^Fluke 5520
+-300.00000000
+V
+0
+
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+&1000 V Range
+False
+True
+^Yokogawa WT1600
+1000.00000000
+V
+0
+
+, Elem3
+0
+^Fluke 5520
+900.00000000
+V
+0
+
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+&1000 V Range
+False
+True
+^Fluke 5520
+-900.00000000
+V
+0
+
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+1.5
+V
+60
+Hz
+;STBY
+0
+*Yokogawa WT1600_3E_50A,,,AC Volts
+&1.5 V Range
+False
+True
+^Yokogawa WT1600
+1.5
+V
+60
+Hz
+, Elem3
+0
+^Fluke 5520
+1.500000000
+V
+20
+Hz
+
+0
+^Fluke 5520
+1.500000000
+V
+20
+Hz
+;OPER
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+1.500000000
+V
+60.00000000
+Hz
+
+0
+^Monitor
+1.500000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+1.500000000
+V
+1.00000000
+kHz
+
+0
+^Monitor
+1.500000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+1.500000000
+V
+50.00000000
+kHz
+
+0
+^Monitor
+1.500000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+1.500000000
+V
+100.00000000
+kHz
+
+0
+^Monitor
+1.500000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+1.500000000
+V
+500.00000000
+kHz
+
+0
+^Monitor
+1.500000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+&3 V Range
+False
+True
+^Yokogawa WT1600
+3.0000000
+V
+60
+Hz
+, Elem3
+0
+^Fluke 5520
+3.0000000
+V
+20
+Hz
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+3.0000000
+V
+60.00000000
+Hz
+
+0
+^Monitor
+1.500000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+3.0000000
+V
+1.00000000
+kHz
+
+0
+^Monitor
+1.500000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+3.0000000
+V
+50.00000000
+kHz
+
+0
+^Monitor
+1.500000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+3.0000000
+V
+100.00000000
+kHz
+
+0
+^Monitor
+1.500000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+3.0000000
+V
+500.00000000
+kHz
+
+0
+^Monitor
+1.500000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+&6 V Range
+False
+True
+^Yokogawa WT1600
+6.00000000
+V
+60
+Hz
+, Elem3
+0
+^Fluke 5520
+6.00000000
+V
+20
+Hz
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+6.00000000
+V
+60.00000000
+Hz
+
+0
+^Monitor
+1.500000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+6.00000000
+V
+1.00000000
+kHz
+
+0
+^Monitor
+1.500000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+6.00000000
+V
+50.00000000
+kHz
+
+0
+^Monitor
+1.500000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+6.00000000
+V
+100.00000000
+kHz
+
+0
+^Monitor
+1.500000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+3.0000000
+V
+500.00000000
+kHz
+
+0
+^Monitor
+1.500000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+&10 V Range
+False
+True
+^Yokogawa WT1600
+10.00000000
+V
+60
+Hz
+, Elem3
+0
+^Fluke 5520
+10.00000000
+V
+20
+Hz
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+10.00000000
+V
+60.00000000
+Hz
+
+0
+^Monitor
+1.500000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+10.00000000
+V
+1.00000000
+kHz
+
+0
+^Monitor
+1.500000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+10.00000000
+V
+50.00000000
+kHz
+
+0
+^Monitor
+1.500000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+10.00000000
+V
+100.00000000
+kHz
+
+0
+^Monitor
+1.500000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+3.0000000
+V
+500.00000000
+kHz
+
+0
+^Monitor
+1.500000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+&15 V Range
+False
+True
+^Yokogawa WT1600
+15.00000000
+V
+60
+Hz
+, Elem3
+0
+^Fluke 5520
+15.00000000
+V
+20
+Hz
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+15.00000000
+V
+60.00000000
+Hz
+
+0
+^Monitor
+1.500000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+15.00000000
+V
+1.00000000
+kHz
+
+0
+^Monitor
+1.500000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+15.00000000
+V
+50.00000000
+kHz
+
+0
+^Monitor
+1.500000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+15.00000000
+V
+100.00000000
+kHz
+
+0
+^Monitor
+1.500000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+3.0000000
+V
+500.00000000
+kHz
+
+0
+^Monitor
+1.500000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+&30 V Range
+False
+True
+^Yokogawa WT1600
+30.00000000
+V
+60
+Hz
+, Elem3
+0
+^Fluke 5520
+30.00000000
+V
+20
+Hz
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+30.00000000
+V
+60.00000000
+Hz
+
+0
+^Monitor
+1.500000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+30.00000000
+V
+1.00000000
+kHz
+
+0
+^Monitor
+1.500000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+30.00000000
+V
+50.00000000
+kHz
+
+0
+^Monitor
+1.500000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+30.00000000
+V
+100.00000000
+kHz
+
+0
+^Monitor
+1.500000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+3.0000000
+V
+500.00000000
+kHz
+
+0
+^Monitor
+1.500000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+&60 V Range
+False
+True
+^Yokogawa WT1600
+60.00000000
+V
+60
+Hz
+, Elem3
+0
+^Fluke 5520
+30.00000000
+V
+20
+Hz
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+60.00000000
+V
+60
+Hz
+
+0
+^Fluke 5520
+0
+
+0
+
+;OPER
+0
+^Monitor
+1.500000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+60.00000000
+V
+1.00000000
+kHz
+
+0
+^Monitor
+1.500000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+60.00000000
+V
+50.00000000
+kHz
+
+0
+^Monitor
+1.500000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+60.00000000
+V
+100.00000000
+kHz
+
+0
+^Monitor
+1.500000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+&100 V Range
+False
+True
+^Yokogawa WT1600
+100.00000000
+V
+60
+Hz
+, Elem3
+0
+^Fluke 5520
+30.00000000
+V
+20
+Hz
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+100.00000000
+V
+60
+Hz
+
+0
+^Fluke 5520
+100.00000000
+V
+60
+Hz
+;OPER
+0
+^Monitor
+1.500000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+100.00000000
+V
+1.00000000
+kHz
+
+0
+^Monitor
+1.500000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+100.00000000
+V
+50.00000000
+kHz
+
+0
+^Monitor
+1.500000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+100.00000000
+V
+100.00000000
+kHz
+
+0
+^Monitor
+1.500000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+&150 V Range
+False
+True
+^Yokogawa WT1600
+150.00000000
+V
+60
+Hz
+, Elem3
+0
+^Fluke 5520
+30.00000000
+V
+20
+Hz
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+150.00000000
+V
+60
+Hz
+
+0
+^Fluke 5520
+100.00000000
+V
+60
+Hz
+;OPER
+0
+^Monitor
+1.500000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+150.00000000
+V
+1.00000000
+kHz
+
+0
+^Monitor
+1.500000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+150.00000000
+V
+50.00000000
+kHz
+
+0
+^Monitor
+1.500000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+150.00000000
+V
+100.00000000
+kHz
+
+0
+^Monitor
+1.500000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+&300 V Range
+False
+True
+^Yokogawa WT1600
+300.00000000
+V
+60
+Hz
+, Elem3
+0
+^Fluke 5520
+30.00000000
+V
+20
+Hz
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+300.00000000
+V
+60
+Hz
+
+0
+^Fluke 5520
+100.00000000
+V
+60
+Hz
+;OPER
+0
+^Monitor
+1.500000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+300.00000000
+V
+1.00000000
+kHz
+
+0
+^Monitor
+1.500000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+300.00000000
+V
+50.00000000
+kHz
+
+0
+^Monitor
+1.500000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+&1000 V Range
+False
+True
+^Yokogawa WT1600
+1000.00000000
+V
+60
+Hz
+, Elem3
+0
+^Fluke 5520
+30.00000000
+V
+20
+Hz
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+900.00000000
+V
+60
+Hz
+
+0
+^Fluke 5520
+100.00000000
+V
+60
+Hz
+;OPER
+0
+^Monitor
+1.500000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+900.00000000
+V
+1.00000000
+kHz
+
+0
+^Monitor
+1.500000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+30.00000000
+V
+20
+Hz
+;STBY
+0
+*Yokogawa WT1600_3E_50A,,,DC Current - Low
+&Skip 5A Module Testpoints
+False
+True
+^Add Blank Data
+0
+
+0
+
+16
+0
+&1 A Range
+False
+True
+^Yokogawa WT1600
+2.000000
+A
+60
+
+, Elem3
+0
+^Fluke 5520
+2.00000000
+A
+20
+
+
+0
+^Fluke 5520
+0.01
+
+20
+
+;OPER
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+-1.00000000
+A
+60
+
+
+0
+^Monitor
+1.500000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+&2 A Range
+False
+True
+^Yokogawa WT1600
+2.000000
+A
+60
+
+, Elem3
+0
+^Fluke 5520
+2.00000000
+A
+20
+
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+-2.00000000
+A
+60
+
+
+0
+^Monitor
+1.500000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+0
+
+0
+
+;STBY
+0
+*Yokogawa WT1600_3E_50A,,,AC Current - Low
+&Skip 5A Module Testpoints
+False
+True
+^Add Blank Data
+5.00000000
+
+20
+
+12
+0
+&1 A Range
+False
+True
+^Yokogawa WT1600
+1.00000000
+A
+60
+Hz
+, Elem3
+0
+^Fluke 5520
+1.00000000
+A
+20
+Hz
+
+0
+^Fluke 5520
+0
+
+0
+
+;OPER
+0
+^Monitor
+1.5
+
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+1.00000000
+A
+60.00000000
+Hz
+
+0
+^Monitor
+1.5
+
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+1.00000000
+A
+1.00000000
+kHz
+
+0
+^Monitor
+1.5
+
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+1.00000000
+A
+30.00000000
+kHz
+
+0
+^Monitor
+1.5
+
+0
+
+Yokogawa WT1600*0;
+0
+&2 A Range
+False
+True
+^Yokogawa WT1600
+2.00000000
+A
+60
+Hz
+, Elem3
+0
+^Fluke 5520
+2.00000000
+A
+20
+Hz
+
+0
+^Monitor
+1.5
+
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+2.00000000
+A
+60.00000000
+Hz
+
+0
+^Monitor
+1.5
+
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+2.00000000
+A
+1.00000000
+kHz
+
+0
+^Monitor
+1.5
+
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+2.00000000
+A
+30.00000000
+kHz
+
+0
+^Monitor
+1.5
+
+0
+
+Yokogawa WT1600*0;
+0
+&5 A Range
+False
+True
+^Yokogawa WT1600
+5.00000000
+A
+60
+Hz
+, Elem3
+0
+^Fluke 5520
+2.00000000
+A
+20
+Hz
+
+0
+^Monitor
+1.5
+
+0
+
+Yokogawa WT1600*0;
+0
+&10 A Range
+False
+True
+^Yokogawa WT1600
+10.00000000
+A
+60
+Hz
+, Elem3
+0
+^Fluke 5520
+2.00000000
+A
+20
+Hz
+
+0
+^Monitor
+1.5
+
+0
+
+Yokogawa WT1600*0;
+0
+&20 A Range
+False
+True
+^Yokogawa WT1600
+20.00000000
+A
+60
+Hz
+, Elem3
+0
+^Fluke 5520
+2.00000000
+A
+20
+Hz
+
+0
+^Monitor
+1.5
+
+0
+
+Yokogawa WT1600*0;
+0
+&50 A Range
+False
+True
+^Yokogawa WT1600
+50.00000000
+A
+60
+Hz
+, Elem3
+0
+^Fluke 5520
+2.00000000
+A
+20
+Hz
+
+0
+^Monitor
+1.5
+
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+0
+
+0
+
+;STBY
+0
+*Yokogawa WT1600_3E_50A,,,DC Power - Low
+&Skip 5A Module Testpoints
+False
+True
+^Add Blank Data
+0
+
+0
+
+36
+0
+&1.5 V / 1 A Range
+False
+True
+^Yokogawa WT1600
+1.5
+V
+1
+A
+, Elem3
+0
+^Fluke 5520
+1.5
+V
+1
+A
+
+0
+^Fluke 5520
+1.5
+V
+0
+
+;OPER
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+-1.50000000
+V
+1
+A
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+&3 V / 1 A Range
+False
+True
+^Yokogawa WT1600
+3
+V
+1
+A
+, Elem3
+0
+^Fluke 5520
+3
+V
+1
+A
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+-3.0000000
+V
+1
+A
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+&6 V / 1 A Range
+False
+True
+^Yokogawa WT1600
+6
+V
+1
+A
+, Elem3
+0
+^Fluke 5520
+6.00000000
+V
+1
+A
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+-6.00000000
+V
+1
+A
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+&10 V / 1 A Range
+False
+True
+^Yokogawa WT1600
+10.00000000
+V
+1
+A
+, Elem3
+0
+^Fluke 5520
+10.00000000
+V
+1
+A
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+-10.00000000
+V
+1
+A
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+&15 V / 1 A Range
+False
+True
+^Yokogawa WT1600
+15.00000000
+V
+1
+A
+, Elem3
+0
+^Fluke 5520
+15.00000000
+V
+1
+A
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+-15.00000000
+V
+1
+A
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+&30 V / 1 A Range
+False
+True
+^Yokogawa WT1600
+30.00000000
+V
+1
+A
+, Elem3
+0
+^Fluke 5520
+30.00000000
+V
+1
+A
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+-30.00000000
+V
+1
+A
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+&60 V / 1 A Range
+False
+True
+^Yokogawa WT1600
+60.00000000
+V
+1
+A
+, Elem3
+0
+^Fluke 5520
+60.00000000
+V
+1
+A
+
+0
+^Fluke 5520
+60.00000000
+
+1
+
+;OPER
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+-60.00000000
+V
+1
+A
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+&100 V / X A Range
+False
+True
+^Yokogawa WT1600
+100.00000000
+V
+0.01
+A
+, Elem3
+0
+^Fluke 5520
+100.00000000
+V
+0.01
+A
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+-100.00000000
+V
+0.01
+A
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Yokogawa WT1600
+100.00000000
+V
+0.02000000
+A
+, Elem3
+0
+^Fluke 5520
+100.00000000
+V
+0.02000000
+A
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+-100.00000000
+V
+0.02000000
+A
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Yokogawa WT1600
+100.00000000
+V
+0.05000000
+A
+, Elem3
+0
+^Fluke 5520
+100.00000000
+V
+0.05000000
+A
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+-100.00000000
+V
+0.05000000
+A
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Yokogawa WT1600
+100.00000000
+V
+0.1000000
+A
+, Elem3
+0
+^Fluke 5520
+100.00000000
+V
+0.1000000
+A
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+-100.00000000
+V
+0.1000000
+A
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Yokogawa WT1600
+100.00000000
+V
+0.20000000
+A
+, Elem3
+0
+^Fluke 5520
+100.00000000
+V
+0.20000000
+A
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+-100.00000000
+V
+0.20000000
+A
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Yokogawa WT1600
+100.00000000
+V
+0.50000000
+A
+, Elem3
+0
+^Fluke 5520
+100.00000000
+V
+0.50000000
+A
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+-100.00000000
+V
+0.50000000
+A
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Yokogawa WT1600
+100.00000000
+V
+1.0000000
+A
+, Elem3
+0
+^Fluke 5520
+100.00000000
+V
+1.0000000
+A
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+-100.00000000
+V
+1
+A
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Yokogawa WT1600
+100.00000000
+V
+2.00000000
+A
+, Elem3
+0
+^Fluke 5520
+100.00000000
+V
+2.00000000
+A
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+-100.00000000
+V
+2
+A
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+&150 V / 1 A Range
+False
+True
+^Yokogawa WT1600
+150
+V
+1
+A
+, Elem3
+0
+^Fluke 5520
+150.00000000
+V
+1
+A
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+-150.00000000
+V
+1
+A
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+&300 V / 1 A Range
+False
+True
+^Yokogawa WT1600
+300.00000000
+V
+1
+A
+, Elem3
+0
+^Fluke 5520
+300.00000000
+V
+1
+A
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+-300.00000000
+V
+1
+A
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+&1000 V / 1 A Range
+False
+True
+^Yokogawa WT1600
+1000.00000000
+V
+1
+A
+, Elem3
+0
+^Fluke 5520
+1000.00000000
+V
+1
+A
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+-1000.00000000
+V
+1
+A
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+-1000.00000000
+
+1
+
+;STBY
+0
+*Yokogawa WT1600_3E_50A,,,AC Power - Low
+&Skip 5A Module Testpoints
+False
+True
+^Add Blank Data
+300.00000000
+
+1.00000000
+
+53
+0
+&1.5 V / 1 A Range
+False
+True
+^Yokogawa WT1600
+1.5
+V
+1
+A
+, Elem3, 60 Hz
+0
+^Fluke 5520
+1.5
+V
+1
+A
+, 20 Hz
+0
+^Fluke 5520
+1.5
+V
+0
+
+;OPER
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+1.50000000
+V
+1
+A
+, 60 Hz
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+1.50000000
+V
+1
+A
+, 1000 Hz
+0
+^Monitor
+1.50000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+1.50000000
+V
+1
+A
+, 10000 Hz
+0
+^Monitor
+1.50000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+&3 V / 1 A Range
+False
+True
+^Yokogawa WT1600
+3
+V
+1
+A
+, Elem3, 60 Hz
+0
+^Fluke 5520
+3.0000000
+V
+1
+A
+, 20 Hz
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+3.0000000
+V
+1
+A
+, 60 Hz
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+3.0000000
+V
+1
+A
+, 1000 Hz
+0
+^Monitor
+1.50000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+3.0000000
+V
+1
+A
+, 10000 Hz
+0
+^Monitor
+1.50000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+&6 V / 1 A Range
+False
+True
+^Yokogawa WT1600
+6.00000000
+V
+1
+A
+, Elem3, 60 Hz
+0
+^Fluke 5520
+6.00000000
+V
+1
+A
+, 20 Hz
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+6.00000000
+V
+1
+A
+, 60 Hz
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+6.00000000
+V
+1
+A
+, 1000 Hz
+0
+^Monitor
+1.50000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+6.00000000
+V
+1
+A
+, 10000 Hz
+0
+^Monitor
+1.50000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+&10 V / 1 A Range
+False
+True
+^Yokogawa WT1600
+10
+V
+1
+A
+, Elem3, 60 Hz
+0
+^Fluke 5520
+10.00000000
+V
+1
+A
+, 20 Hz
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+10.00000000
+V
+1
+A
+, 60 Hz
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+10.00000000
+V
+1
+A
+, 1000 Hz
+0
+^Monitor
+1.50000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+10.00000000
+V
+1
+A
+, 10000 Hz
+0
+^Monitor
+1.50000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+&15 V / 1 A Range
+False
+True
+^Yokogawa WT1600
+15.00000000
+V
+1
+A
+, Elem3, 60 Hz
+0
+^Fluke 5520
+15.00000000
+V
+1
+A
+, 60 Hz;PHASE 90 DEG
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+15.00000000
+V
+1
+A
+, 20 Hz;PHASE 0 DEG
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+15.00000000
+V
+1
+A
+, 60 Hz
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+15.00000000
+V
+1
+A
+, 1000 Hz
+0
+^Monitor
+1.50000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+15.00000000
+V
+1
+A
+, 10000 Hz
+0
+^Monitor
+1.50000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+&30 V / 1 A Range
+False
+True
+^Yokogawa WT1600
+30.00000000
+V
+1
+A
+, Elem3, 60 Hz
+0
+^Fluke 5520
+30.00000000
+V
+1
+A
+, 20 Hz
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+30.00000000
+V
+1
+A
+, 60 Hz
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+30.00000000
+V
+1
+A
+, 1000 Hz
+0
+^Monitor
+1.50000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+30.00000000
+V
+1
+A
+, 10000 Hz
+0
+^Monitor
+1.50000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+&60 V / 1 A Range
+False
+True
+^Yokogawa WT1600
+60.00000000
+V
+1
+A
+, Elem3, 60 Hz
+0
+^Fluke 5520
+30.00000000
+V
+1
+A
+, 20 Hz
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+60.00000000
+V
+1
+A
+, 60 Hz
+0
+^Fluke 5520
+60.00000000
+V
+1
+A
+;OPER
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+60.00000000
+V
+1
+A
+, 1000 Hz
+0
+^Monitor
+1.50000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+60.00000000
+V
+1
+A
+, 10000 Hz
+0
+^Monitor
+1.50000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+&100 V / X A Range
+False
+True
+^Yokogawa WT1600
+100.00000000
+V
+1
+A
+, Elem3, 60 Hz
+0
+^Fluke 5520
+100.00000000
+V
+1.000000
+A
+, 60 Hz;PHASE 90 DEG
+0
+^Fluke 5520
+100.00000000
+
+1.00000000
+
+;OPER
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+30.00000000
+V
+1.000000
+A
+, 20 Hz;PHASE 0 DEG
+0
+^Fluke 5520
+100.00000000
+
+1.000000
+
+;OPER
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+100.00000000
+V
+1.0000000
+A
+, 60 Hz
+0
+^Fluke 5520
+100.00000000
+
+1.000000
+
+;OPER
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Yokogawa WT1600
+100.00000000
+V
+2.00000000
+A
+, Elem3, 60 Hz
+0
+^Fluke 5520
+100.00000000
+V
+2.00000000
+A
+, 60 Hz
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Yokogawa WT1600
+100.00000000
+V
+1.00000000
+A
+, Elem3, 60 Hz
+0
+^Fluke 5520
+100.00000000
+V
+1.00000000
+A
+, 1000 Hz
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+100.00000000
+V
+1.00000000
+A
+, 10000 Hz
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+&150 V / 1 A Range
+False
+True
+^Yokogawa WT1600
+150.00000000
+V
+1.00000000
+A
+, Elem3, 60 Hz
+0
+^Fluke 5520
+30.00000000
+V
+1
+A
+, 20 Hz
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+150.00000000
+V
+1.00000000
+A
+, 60 Hz
+0
+^Fluke 5520
+60.00000000
+V
+1
+A
+;OPER
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+150.00000000
+V
+1.00000000
+A
+, 1000 Hz
+0
+^Monitor
+1.50000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+150.00000000
+V
+1.00000000
+A
+, 10000 Hz
+0
+^Monitor
+1.50000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+&300 V / 1 A Range
+False
+True
+^Yokogawa WT1600
+300.00000000
+V
+1.00000000
+A
+, Elem3, 60 Hz
+0
+^Fluke 5520
+30.00000000
+V
+1
+A
+, 20 Hz
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+300.00000000
+V
+1.00000000
+A
+, 60 Hz
+0
+^Fluke 5520
+60.00000000
+V
+1
+A
+;OPER
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+300.00000000
+V
+1.00000000
+A
+, 1000 Hz
+0
+^Monitor
+1.50000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+300.00000000
+V
+1.00000000
+A
+, 10000 Hz
+0
+^Monitor
+1.50000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+&1000 V / 1 A Range
+False
+True
+^Yokogawa WT1600
+1000.00000000
+V
+1.00000000
+A
+, Elem3, 60 Hz
+0
+^Fluke 5520
+30.00000000
+V
+1
+A
+, 20 Hz
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+1000.00000000
+V
+1.00000000
+A
+, 60 Hz
+0
+^Fluke 5520
+60.00000000
+V
+1
+A
+;OPER
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+1000.00000000
+V
+1.00000000
+A
+, 1000 Hz
+0
+^Monitor
+1.50000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+300.00000000
+V
+1.00000000
+A
+, 10000 Hz
+0
+^Monitor
+1.50000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+300.00000000
+
+1.00000000
+
+;STBY
+0
+*Yokogawa WT1600_3E_50A,,,DC Current - High
+&Setup
+False
+True
+^Yokogawa WT1600
+-5
+
+60
+
+*RST
+0
+^Fluke 5520
+-5
+
+60
+
+*RST
+0
+^Message
+-5
+A
+60
+
+Element 3 - Connect the Voltage input of the Yokogawa to the Normal output of the calibrator. Connect the Current input of the Yokogawa to the 20A output of the calibrator.
+0
+&Skip 5A Module Testpoints
+False
+True
+^Add Blank Data
+-5
+
+60
+
+2
+0
+&5 A Range
+False
+True
+^Yokogawa WT1600
+5
+A
+60
+
+, Elem3
+0
+^Fluke 5520
+5
+A
+20
+
+
+0
+^Fluke 5520
+0.01
+
+20
+
+;OPER
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+-5
+A
+60
+
+
+0
+^Monitor
+1.500000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+&10 A Range
+False
+True
+^Yokogawa WT1600
+10.00000000
+A
+60
+
+, Elem3
+0
+^Fluke 5520
+10.00000000
+A
+20
+
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+-10.00000000
+A
+60
+
+
+0
+^Monitor
+1.500000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+&20 A Range
+False
+True
+^Yokogawa WT1600
+20.00000000
+A
+60
+
+, Elem3
+0
+^Fluke 5520
+20.00000000
+A
+20
+
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+-20.00000000
+A
+60
+
+
+0
+^Monitor
+1.500000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+&50 A Range
+False
+True
+^Yokogawa WT1600
+50.00000000
+A
+60
+
+, Elem3
+0
+^Fluke 5520
+20.00000000
+A
+20
+
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+-20.00000000
+A
+60
+
+
+0
+^Monitor
+1.500000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+0
+
+60
+
+;STBY
+0
+*Yokogawa WT1600_3E_50A,,,AC Current - High
+&Skip 5A Module Testpoints
+False
+True
+^Add Blank Data
+10.00000000
+
+60
+
+3
+0
+&5 A Range
+False
+True
+^Yokogawa WT1600
+5
+A
+60
+
+, Elem3, 60 Hz
+0
+^Fluke 5520
+5
+A
+60
+Hz
+
+0
+^Fluke 5520
+0.01
+
+20
+
+;OPER
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+5.00000000
+A
+1.00000000
+kHz
+
+0
+^Monitor
+1.500000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+5.00000000
+A
+5.00000000
+kHz
+
+0
+^Monitor
+1.500000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+&10 A Range
+False
+True
+^Yokogawa WT1600
+10.00000000
+A
+60
+
+, Elem3, 60 Hz
+0
+^Fluke 5520
+10.00000000
+A
+60
+Hz
+
+0
+^Fluke 5520
+0.01
+
+20
+
+;OPER
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+10.00000000
+A
+1.00000000
+kHz
+
+0
+^Monitor
+1.500000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+10.00000000
+A
+5.00000000
+kHz
+
+0
+^Monitor
+1.500000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+&20 A Range
+False
+True
+^Yokogawa WT1600
+20.00000000
+A
+60
+
+, Elem3, 60 Hz
+0
+^Fluke 5520
+20.00000000
+A
+60
+Hz
+
+0
+^Fluke 5520
+0.01
+
+20
+
+;OPER
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+20.00000000
+A
+1.00000000
+kHz
+
+0
+^Monitor
+1.500000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+20.00000000
+A
+5.00000000
+kHz
+
+0
+^Monitor
+1.500000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+&50 A Range
+False
+True
+^Yokogawa WT1600
+50.00000000
+A
+60
+
+, Elem3, 60 Hz
+0
+^Fluke 5520
+20.00000000
+A
+60
+Hz
+
+0
+^Fluke 5520
+0.01
+
+20
+
+;OPER
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+20.00000000
+A
+1.00000000
+kHz
+
+0
+^Monitor
+1.500000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+20.00000000
+A
+5.00000000
+kHz
+
+0
+^Monitor
+1.500000000
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+0
+
+0
+
+;STBY
+0
+*Yokogawa WT1600_3E_50A,,,DC Power - High
+&Skip 50A Module Testpoints
+False
+True
+^Add Blank Data
+-100.0000000
+
+5.00000000
+
+2
+0
+&100 V / 5 A Range
+False
+True
+^Yokogawa WT1600
+100.0000000
+V
+5.00000000
+A
+, Elem3
+0
+^Fluke 5520
+100.0000000
+V
+5.00000000
+A
+
+0
+^Fluke 5520
+1.5
+V
+0
+
+;OPER
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+-100.0000000
+V
+5.00000000
+A
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+&100 V / 10 A Range
+False
+True
+^Yokogawa WT1600
+100.0000000
+V
+10.00000000
+A
+, Elem3
+0
+^Fluke 5520
+100.0000000
+V
+10.00000000
+A
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+-100.0000000
+V
+10.00000000
+A
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+&100 V / 20 A Range
+False
+True
+^Yokogawa WT1600
+100.0000000
+V
+20.00000000
+A
+, Elem3
+0
+^Fluke 5520
+100.0000000
+V
+20.00000000
+A
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+-100.0000000
+V
+20.00000000
+A
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+&100 V / 50 A Range
+False
+True
+^Yokogawa WT1600
+100.0000000
+V
+50.00000000
+A
+, Elem3
+0
+^Fluke 5520
+100.0000000
+V
+20.00000000
+A
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+-100.0000000
+V
+20.00000000
+A
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+&1000 V / 50 A Range
+False
+True
+^Yokogawa WT1600
+1000.00000000
+V
+50.00000000
+A
+, Elem3
+0
+^Fluke 5520
+1000.00000000
+V
+20.00000000
+A
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+-1000.00000000
+V
+20.00000000
+A
+
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+0
+
+0
+
+;STBY
+0
+*Yokogawa WT1600_3E_50A,,,AC Power - High
+&Skip 5A Module Testpoints
+False
+True
+^Add Blank Data
+60.00000000
+
+1
+
+1
+0
+&100 V / 5 A Range
+False
+True
+^Yokogawa WT1600
+100.00000000
+V
+5.00000000
+A
+, Elem3, 60 Hz
+0
+^Fluke 5520
+100.00000000
+V
+5.00000000
+A
+, 60 Hz
+0
+^Fluke 5520
+60.00000000
+V
+1
+A
+;OPER
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+&100 V / 10 A Range
+False
+True
+^Yokogawa WT1600
+100.00000000
+V
+10.00000000
+A
+, Elem3, 60 Hz
+0
+^Fluke 5520
+100.00000000
+V
+10.00000000
+A
+, 60 Hz
+0
+^Fluke 5520
+60.00000000
+V
+1
+A
+;OPER
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+&100 V / 20 A Range
+False
+True
+^Yokogawa WT1600
+100.00000000
+V
+20.00000000
+A
+, Elem3, 60 Hz
+0
+^Fluke 5520
+100.00000000
+V
+20.00000000
+A
+, 60 Hz
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+&100 V / 50 A Range
+False
+True
+^Yokogawa WT1600
+100.00000000
+V
+50.00000000
+A
+, Elem3, 60 Hz
+0
+^Fluke 5520
+100.00000000
+V
+20.00000000
+A
+, 60 Hz
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+&1000 V / 50 A Range
+False
+True
+^Yokogawa WT1600
+1000.00000000
+V
+50.00000000
+A
+, Elem3, 60 Hz
+0
+^Fluke 5520
+1000.00000000
+V
+20.00000000
+A
+, 60 Hz
+0
+^Monitor
+1.5
+V
+0
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+0
+
+0
+
+;STBY
+0
+*Yokogawa WT1600_3E_50A,,,DC Power - External
+&Setup
+False
+True
+^Yokogawa WT1600
+0
+
+0
+
+*RST
+0
+^Fluke 5520
+0
+
+0
+
+*RST
+0
+^Message
+0
+
+0
+
+Element 3 - Connect the Voltage input of the Yokogawa to the Normal output of the calibrator. Connect the External Sensor of the Yokogawa to the Aux output of the calibrator.
+0
+&1.5 V / 1 V Range
+False
+True
+^Yokogawa WT1600
+1.5
+V
+1.00000000
+V
+, Elem3, Ext. Sensor
+0
+^Fluke 5520
+1.5
+V
+1.00000000
+V
+
+0
+^Fluke 5520
+1.5
+
+1.00000000
+
+;OPER
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+-1.50000000
+V
+1.00000000
+V
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+&3 V / 1 V Range
+False
+True
+^Yokogawa WT1600
+3.0000000
+V
+1.00000000
+V
+, Elem3, Ext. Sensor
+0
+^Fluke 5520
+3.0000000
+V
+1.00000000
+V
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+-3.0000000
+V
+1.00000000
+V
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+&6 V / 1 V Range
+False
+True
+^Yokogawa WT1600
+6.00000000
+V
+1.00000000
+V
+, Elem3, Ext. Sensor
+0
+^Fluke 5520
+6.00000000
+V
+1.00000000
+V
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+-6.00000000
+V
+1.00000000
+V
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+&10 V / 1 V Range
+False
+True
+^Yokogawa WT1600
+10.00000000
+V
+1.00000000
+V
+, Elem3, Ext. Sensor
+0
+^Fluke 5520
+10.00000000
+V
+1.00000000
+V
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+-10.00000000
+V
+1.00000000
+V
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+&15 V / 1 V Range
+False
+True
+^Yokogawa WT1600
+15.00000000
+V
+1.00000000
+V
+, Elem3, Ext. Sensor
+0
+^Fluke 5520
+15.00000000
+V
+1.00000000
+V
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+-15.00000000
+V
+1.00000000
+V
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+&30 V / 1 V Range
+False
+True
+^Yokogawa WT1600
+30.00000000
+V
+1.00000000
+V
+, Elem3, Ext. Sensor
+0
+^Fluke 5520
+30.00000000
+V
+1.00000000
+V
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+-30.00000000
+V
+1.00000000
+V
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+&60 V / 1 V Range
+False
+True
+^Yokogawa WT1600
+60.00000000
+V
+1.00000000
+V
+, Elem3, Ext. Sensor
+0
+^Fluke 5520
+60.00000000
+V
+1.00000000
+V
+
+0
+^Fluke 5520
+60.00000000
+
+1.00000000
+
+;OPER
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+-60.00000000
+V
+1.00000000
+V
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+&100 V / X V Range
+False
+True
+^Yokogawa WT1600
+100.00000000
+V
+0.05
+V
+, Elem3, Ext. Sensor
+0
+^Fluke 5520
+100.00000000
+V
+0.050000000
+V
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+-100.00000000
+V
+0.0500000000
+V
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Yokogawa WT1600
+100.00000000
+V
+0.1000000
+V
+, Elem3, Ext. Sensor
+0
+^Fluke 5520
+100.00000000
+V
+0.1000000
+V
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+-100.00000000
+V
+0.1000000
+V
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Yokogawa WT1600
+100.00000000
+V
+0.250000000
+V
+, Elem3, Ext. Sensor
+0
+^Fluke 5520
+100.00000000
+V
+0.250000000
+V
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+-100.00000000
+V
+0.250000000
+V
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Yokogawa WT1600
+100.00000000
+V
+0.5000000
+V
+, Elem3, Ext. Sensor
+0
+^Fluke 5520
+100.00000000
+V
+0.5000000
+V
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+-100.00000000
+V
+0.5000000
+V
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Yokogawa WT1600
+100.00000000
+V
+1.0000000
+V
+, Elem3, Ext. Sensor
+0
+^Fluke 5520
+100.00000000
+V
+1.0000000
+V
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+-100.00000000
+V
+1.0000000
+V
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Yokogawa WT1600
+100.00000000
+V
+2.50000000
+V
+, Elem3, Ext. Sensor
+0
+^Fluke 5520
+100.00000000
+V
+2.500000000
+V
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+-100.00000000
+V
+2.500000000
+V
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Yokogawa WT1600
+100.00000000
+V
+5.0000000
+V
+, Elem3, Ext. Sensor
+0
+^Fluke 5520
+100.00000000
+V
+5.0000000
+V
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+-100.00000000
+V
+5.0000000
+V
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Yokogawa WT1600
+100.00000000
+V
+10.00000000
+V
+, Elem3, Ext. Sensor
+0
+^Fluke 5520
+100.00000000
+V
+10.00000000
+V
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+-100.00000000
+V
+10.00000000
+V
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+&150 V / 1 V Range
+False
+True
+^Yokogawa WT1600
+150.00000000
+V
+1.00000000
+V
+, Elem3, Ext. Sensor
+0
+^Fluke 5520
+150.00000000
+V
+1.00000000
+V
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+-150.00000000
+V
+1.00000000
+V
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+&300 V / 1 V Range
+False
+True
+^Yokogawa WT1600
+300.00000000
+V
+1.00000000
+V
+, Elem3, Ext. Sensor
+0
+^Fluke 5520
+300.00000000
+V
+1.00000000
+V
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+-300.00000000
+V
+1.00000000
+V
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+&1000 V / 1 V Range
+False
+True
+^Yokogawa WT1600
+1000.00000000
+V
+1.00000000
+V
+, Elem3, Ext. Sensor
+0
+^Fluke 5520
+1000.00000000
+V
+1.00000000
+V
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+-1000.00000000
+V
+1.00000000
+V
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+-1000.00000000
+
+1.00000000
+
+;STBY
+0
+*Yokogawa WT1600_3E_50A,,,AC Power - External
+&30 V / 0.05 V Range
+False
+True
+^Yokogawa WT1600
+30.00000000
+V
+0.05
+V
+, Elem3, Ext. Sensor, 60 Hz
+0
+^Fluke 5520
+30.00000000
+V
+0.05
+V
+, 20 Hz
+0
+^Fluke 5520
+30.00000000
+
+0.05
+
+;OPER
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+30.00000000
+V
+0.05
+V
+, 60 Hz
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+30.00000000
+V
+0.05
+V
+, 1000 Hz
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+&30 V / 0.1 V Range
+False
+True
+^Yokogawa WT1600
+30.00000000
+V
+0.1000000
+V
+, Elem3, Ext. Sensor, 60 Hz
+0
+^Fluke 5520
+30.00000000
+V
+0.1000000
+V
+, 20 Hz
+0
+^Fluke 5520
+30.00000000
+
+0.05
+
+;OPER
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+30.00000000
+V
+0.1000000
+V
+, 60 Hz
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+30.00000000
+V
+0.1000000
+V
+, 1000 Hz
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+&30 V / 0.25 V Range
+False
+True
+^Yokogawa WT1600
+30.00000000
+V
+0.250000000
+V
+, Elem3, Ext. Sensor, 60 Hz
+0
+^Fluke 5520
+30.00000000
+V
+0.250000000
+V
+, 20 Hz
+0
+^Fluke 5520
+30.00000000
+
+0.05
+
+;OPER
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+30.00000000
+V
+0.250000000
+V
+, 60 Hz
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+30.00000000
+V
+0.250000000
+V
+, 1000 Hz
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+&30 V / 0.5 V Range
+False
+True
+^Yokogawa WT1600
+30.00000000
+V
+0.5000000
+V
+, Elem3, Ext. Sensor, 60 Hz
+0
+^Fluke 5520
+30.00000000
+V
+0.5000000
+V
+, 20 Hz
+0
+^Fluke 5520
+30.00000000
+
+0.05
+
+;OPER
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+30.00000000
+V
+0.5000000
+V
+, 60 Hz
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+30.00000000
+V
+0.5000000
+V
+, 1000 Hz
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+&30 V / 1 V Range
+False
+True
+^Yokogawa WT1600
+30.00000000
+V
+1.0000000
+V
+, Elem3, Ext. Sensor, 60 Hz
+0
+^Fluke 5520
+30.00000000
+V
+1.0000000
+V
+, 20 Hz;PHASE 90 DEG
+0
+^Fluke 5520
+30.00000000
+
+0.05
+
+;OPER
+0
+^Monitor
+1.5
+
+1.0000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+30.00000000
+V
+1.0000000
+V
+, 20 Hz;PHASE 0 DEG
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+30.00000000
+V
+1.0000000
+V
+, 60 Hz
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+30.00000000
+V
+1.0000000
+V
+, 1000 Hz
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+30.00000000
+V
+1.00000000
+V
+, 10000 Hz
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+&30 V / 2.5 V Range
+False
+True
+^Yokogawa WT1600
+30.00000000
+V
+2.5
+V
+, Elem3, Ext. Sensor, 60 Hz
+0
+^Fluke 5520
+30.00000000
+V
+2.5
+V
+, 20 Hz
+0
+^Fluke 5520
+30.00000000
+
+0.05
+
+;OPER
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+30.00000000
+V
+2.5
+V
+, 60 Hz
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+30.00000000
+V
+2.5
+V
+, 1000 Hz
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+30.00000000
+V
+2.5
+V
+, 10000 Hz
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+&30 V / 5 V Range
+False
+True
+^Yokogawa WT1600
+30.00000000
+V
+5.0000000
+V
+, Elem3, Ext. Sensor, 60 Hz
+0
+^Fluke 5520
+30.00000000
+V
+5.0000000
+V
+, 20 Hz
+0
+^Fluke 5520
+30.00000000
+
+0.05
+
+;OPER
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+30.00000000
+V
+5.0000000
+V
+, 60 Hz
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+30.00000000
+V
+5.0000000
+V
+, 1000 Hz
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+30.00000000
+V
+5.0000000
+V
+, 10000 Hz
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+&30 V / 10 V Range
+False
+True
+^Yokogawa WT1600
+30.00000000
+V
+10.00000000
+V
+, Elem3, Ext. Sensor, 60 Hz
+0
+^Fluke 5520
+30.00000000
+V
+10.00000000
+V
+, 20 Hz
+0
+^Fluke 5520
+30.00000000
+
+0.05
+
+;OPER
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+30.00000000
+V
+10.00000000
+V
+, 60 Hz
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+30.00000000
+V
+10.00000000
+V
+, 1000 Hz
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+30.00000000
+V
+10.00000000
+V
+, 10000 Hz
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+1.5
+
+1.00000000
+
+;STBY
+0
+*Yokogawa WT1600_3E_50A,,,DC Current - External
+&Setup
+False
+True
+^Yokogawa WT1600
+1.5
+
+1.00000000
+
+*RST
+0
+^Fluke 5520
+1.5
+
+1.00000000
+
+*RST
+0
+^Message
+1.5
+
+1.00000000
+
+Element 3 - Connect the External Sensor of the Yokogawa to the Normal output of the calibrator.
+0
+&0.05 V Range
+False
+True
+^Yokogawa WT1600
+0.05
+V
+1.00000000
+
+, Elem3, Ext. Sensor
+0
+^Fluke 5520
+0.05
+V
+1.00000000
+
+
+0
+^Fluke 5520
+30.00000000
+
+0.05
+
+;OPER
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+-0.05000000
+V
+1.00000000
+
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+&0.1 V Range
+False
+True
+^Yokogawa WT1600
+0.1000000
+V
+1.00000000
+
+, Elem3, Ext. Sensor
+0
+^Fluke 5520
+0.1000000
+V
+1.00000000
+
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+-0.1000000
+V
+1.00000000
+
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+&0.25 V Range
+False
+True
+^Yokogawa WT1600
+0.250000000
+V
+1.00000000
+
+, Elem3, Ext. Sensor
+0
+^Fluke 5520
+0.250000000
+V
+1.00000000
+
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+-0.250000000
+V
+1.00000000
+
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+&0.5 V Range
+False
+True
+^Yokogawa WT1600
+0.5000000
+V
+1.00000000
+
+, Elem3, Ext. Sensor
+0
+^Fluke 5520
+0.5000000
+V
+1.00000000
+
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+-0.5000000
+V
+1.00000000
+
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+&1 V Range
+False
+True
+^Yokogawa WT1600
+1.0000000
+V
+1.00000000
+
+, Elem3, Ext. Sensor
+0
+^Fluke 5520
+1.0000000
+V
+1.00000000
+
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+0.50000000
+V
+1.00000000
+
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+0.10000000
+V
+1.00000000
+
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+0.010000000
+V
+1.00000000
+
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+-0.01000000
+V
+1.00000000
+
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+-0.1000000
+V
+1.00000000
+
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+-0.50000000
+V
+1.00000000
+
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+-1.0000000
+V
+1.00000000
+
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+&2.5 V Range
+False
+True
+^Yokogawa WT1600
+2.50000000
+V
+1.00000000
+
+, Elem3, Ext. Sensor
+0
+^Fluke 5520
+2.50000000
+V
+1.00000000
+
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+-2.50000000
+V
+1.00000000
+
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+&5 V Range
+False
+True
+^Yokogawa WT1600
+5.0000000
+V
+1.00000000
+
+, Elem3, Ext. Sensor
+0
+^Fluke 5520
+5.0000000
+V
+1.00000000
+
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+-5.0000000
+V
+1.00000000
+
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+&10 V Range
+False
+True
+^Yokogawa WT1600
+10.00000000
+V
+1.00000000
+
+, Elem3, Ext. Sensor
+0
+^Fluke 5520
+10.00000000
+V
+1.00000000
+
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+-10.00000000
+V
+1.00000000
+
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+0
+
+0
+
+;STBY
+0
+*Yokogawa WT1600_3E_50A,,,AC Current - External
+&0.05 V Range
+False
+True
+^Yokogawa WT1600
+0.050000000
+V
+1.00000000
+
+, Elem3, Ext. Sensor, 60 Hz
+0
+^Fluke 5520
+0.050000000
+V
+20
+Hz
+
+0
+^Fluke 5520
+0
+
+0
+
+;OPER
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+0.050000000
+V
+60.00000000
+Hz
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+0.050000000
+V
+1000.00000000
+Hz
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+0.050000000
+V
+50.00000000
+kHz
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+0.050000000
+V
+100.00000000
+kHz
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+0.050000000
+V
+500.00000000
+kHz
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+&0.1 V Range
+False
+True
+^Yokogawa WT1600
+0.1000000
+V
+1.00000000
+
+, Elem3, Ext. Sensor, 60 Hz
+0
+^Fluke 5520
+0.1000000
+V
+20
+Hz
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+0.1000000
+V
+60.00000000
+Hz
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+0.1000000
+V
+1000.00000000
+Hz
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+0.1000000
+V
+50.00000000
+kHz
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+0.1000000
+V
+100.00000000
+kHz
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+0.1000000
+V
+500.00000000
+kHz
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+&0.25 V Range
+False
+True
+^Yokogawa WT1600
+0.250000000
+V
+1.00000000
+
+, Elem3, Ext. Sensor, 60 Hz
+0
+^Fluke 5520
+0.250000000
+V
+20
+Hz
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+0.250000000
+V
+60.00000000
+Hz
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+0.250000000
+V
+1000.00000000
+Hz
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+0.250000000
+V
+50.00000000
+kHz
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+0.250000000
+V
+100.00000000
+kHz
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+0.250000000
+V
+500.00000000
+kHz
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+&0.5 V Range
+False
+True
+^Yokogawa WT1600
+0.5000000
+V
+1.00000000
+
+, Elem3, Ext. Sensor, 60 Hz
+0
+^Fluke 5520
+0.5000000
+V
+20
+Hz
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+0.5000000
+V
+60.00000000
+Hz
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+0.5000000
+V
+1000.00000000
+Hz
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+0.5000000
+V
+50.00000000
+kHz
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+0.5000000
+V
+100.00000000
+kHz
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+0.5000000
+V
+500.00000000
+kHz
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+&1 V Range
+False
+True
+^Yokogawa WT1600
+1.0000000
+V
+1.00000000
+
+, Elem3, Ext. Sensor, 60 Hz
+0
+^Fluke 5520
+1.0000000
+V
+20
+Hz
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+1.0000000
+V
+60.00000000
+Hz
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+1.0000000
+V
+1000.00000000
+Hz
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+1.0000000
+V
+50.00000000
+kHz
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+1.0000000
+V
+100.00000000
+kHz
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+1.0000000
+V
+500.00000000
+kHz
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+&2.5 V Range
+False
+True
+^Yokogawa WT1600
+2.500000000
+V
+1.00000000
+
+, Elem3, Ext. Sensor, 60 Hz
+0
+^Fluke 5520
+2.50000000
+V
+20
+Hz
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+2.50000000
+V
+60.00000000
+Hz
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+2.50000000
+V
+1000.00000000
+Hz
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+2.50000000
+V
+50.00000000
+kHz
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+2.50000000
+V
+100.00000000
+kHz
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+2.50000000
+V
+500.00000000
+kHz
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+&5 V Range
+False
+True
+^Yokogawa WT1600
+5.0000000
+V
+1.00000000
+
+, Elem3, Ext. Sensor, 60 Hz
+0
+^Fluke 5520
+5.0000000
+V
+20
+Hz
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+5.0000000
+V
+60.00000000
+Hz
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+5.0000000
+V
+1000.00000000
+Hz
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+5.0000000
+V
+50.00000000
+kHz
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+5.0000000
+V
+100.00000000
+kHz
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+5.0000000
+V
+500.00000000
+kHz
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+&10 V Range
+False
+True
+^Yokogawa WT1600
+10.00000000
+V
+1.00000000
+
+, Elem3, Ext. Sensor, 60 Hz
+0
+^Fluke 5520
+10.00000000
+V
+20
+Hz
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+10.00000000
+V
+60.00000000
+Hz
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+10.00000000
+V
+1000.00000000
+Hz
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+10.00000000
+V
+50.00000000
+kHz
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+10.00000000
+V
+100.00000000
+kHz
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+10.00000000
+V
+500.00000000
+kHz
+
+0
+^Monitor
+1.5
+
+1.00000000
+
+Yokogawa WT1600*0;
+0
+^Fluke 5520
+0
+
+0
+
+;STBY
+0

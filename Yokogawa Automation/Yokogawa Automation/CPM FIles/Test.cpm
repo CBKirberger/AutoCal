@@ -1,0 +1,18 @@
+*732A_Monitor,,,Infinite Monitor
+&Monitor 10 V
+False
+True
+^Message
+10
+V
+0
+
+Connect the 10 V Zener Reference to the 4-Wire Volts input of the 8508.
+0
+^Monitor
+0
+
+0
+
+Fluke 8508*0;
+-1

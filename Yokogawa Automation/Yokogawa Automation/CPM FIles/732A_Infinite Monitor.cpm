@@ -1,0 +1,50 @@
+*732A_Monitor,,,Setup
+&Setup
+False
+True
+^Message
+0
+
+0
+
+Disconnect everything from the 8508 and apply the 4-way shorting card.
+0
+^Fluke 8508
+10
+V
+0
+
+*RST
+0
+^Fluke 8508
+10
+V
+0
+
+,RESL8,FAST_OFF,FOUR_WR,FILT_ON
+0
+^Fluke 8508
+10
+V
+0
+
+ZERO?
+0
+*732A_Monitor,,,Monitor
+&Monitor 10 V
+False
+True
+^Message
+10
+V
+0
+
+Connect the 732A to the 4-wire input of the 8508.
+0
+^Monitor
+10
+V
+0
+
+Fluke 8508*0;
+-1

@@ -1,0 +1,644 @@
+*Yokogawa WT3000E - 4 Elem,,,Element 2: Ext. Sensor Power
+&Setup
+False
+True
+^Yokogawa WT3000E
+0
+
+0
+
+*RST
+3
+^Fluke 5500
+0
+
+0
+
+*RST
+3
+^Message
+0
+
+0
+
+Connect the Ext. Sensor's BNC input to the calibrator's auxillary output. Make sure the calibrator's Normal output is still connected to the Volts input.
+0
+&100 V / 1 V Range: 10 kW
+False
+True
+^Yokogawa WT3000E
+100.00000000
+V
+1.00000000
+V
+, Elem2, Ext. Sensor
+0
+^Fluke 5500
+100
+V
+1
+V
+, 0 Hz
+0
+^Fluke 5500
+1
+
+45
+
+; OPER
+0
+^Wait
+10
+
+50
+
+
+3
+^Monitor
+10
+
+50
+
+Yokogawa WT3000E*0;
+2
+&100 V / 1 V Range: -10 kW
+False
+True
+^Yokogawa WT3000E
+100.00000000
+V
+1.00000000
+V
+, Elem2, Ext. Sensor
+0
+^Fluke 5500
+-100.00000000
+V
+1
+V
+, 0 Hz
+0
+^Fluke 5500
+1
+
+45
+
+; OPER
+0
+^Wait
+10
+
+50
+
+
+3
+^Monitor
+10
+
+50
+
+Yokogawa WT3000E*0;
+2
+&100 V / 50 mV Range: 500 W @ 60 Hz
+False
+True
+^Yokogawa WT3000E
+100.00000000
+V
+50.00000000
+mV
+, Elem2, Ext. Sensor, 60 Hz
+0
+^Fluke 5500
+100.00000000
+V
+50.00000000
+mV
+, 60 Hz
+0
+^Fluke 5500
+1
+
+45
+
+; OPER
+0
+^Wait
+10
+
+50
+
+
+3
+^Monitor
+10
+
+50
+
+Yokogawa WT3000E*0;
+2
+&100 V / 100 mV Range: 1 kW @ 60 Hz
+False
+True
+^Yokogawa WT3000E
+100.00000000
+V
+100.00000000
+mV
+, Elem2, Ext. Sensor, 60 Hz
+0
+^Fluke 5500
+100.00000000
+V
+100.00000000
+mV
+, 60 Hz
+0
+^Fluke 5500
+1
+
+45
+
+; OPER
+0
+^Wait
+10
+
+50
+
+
+3
+^Monitor
+10
+
+50
+
+Yokogawa WT3000E*0;
+2
+&100 V / 100 mV Range: 1 kW @ 1 kHz
+False
+True
+^Yokogawa WT3000E
+100.00000000
+V
+100.00000000
+mV
+, Elem2, Ext. Sensor, 60 Hz
+0
+^Fluke 5500
+100.00000000
+V
+100.00000000
+mV
+, 1 kHz
+0
+^Fluke 5500
+1
+
+45
+
+; OPER
+0
+^Wait
+10
+
+50
+
+
+3
+^Monitor
+10
+
+50
+
+Yokogawa WT3000E*0;
+2
+&100 V / 200 mV Range: 0 kW @ 60 Hz
+False
+True
+^Yokogawa WT3000E
+100.00000000
+V
+200.00000000
+mV
+, Elem2, Ext. Sensor, 60 Hz
+0
+^Fluke 5500
+100.00000000
+V
+200.00000000
+mV
+, 60 Hz; PHASE 90
+0
+^Fluke 5500
+1
+
+45
+
+; OPER
+0
+^Wait
+10
+
+50
+
+
+3
+^Monitor
+10
+
+50
+
+Yokogawa WT3000E*0;
+2
+&100 V / 200 mV Range: 2 kW @ 60 Hz
+False
+True
+^Yokogawa WT3000E
+100.00000000
+V
+200.00000000
+mV
+, Elem2, Ext. Sensor, 60 Hz
+0
+^Fluke 5500
+100.00000000
+V
+200.00000000
+mV
+, 60 Hz; PHASE 0
+0
+^Fluke 5500
+1
+
+45
+
+; OPER
+0
+^Wait
+10
+
+50
+
+
+3
+^Monitor
+10
+
+50
+
+Yokogawa WT3000E*0;
+2
+&100 V / 200 mV Range: 2 kW @ 1 kHz
+False
+True
+^Yokogawa WT3000E
+100.00000000
+V
+200.00000000
+mV
+, Elem2, Ext. Sensor, 60 Hz
+0
+^Fluke 5500
+100.00000000
+V
+200.00000000
+mV
+, 1 kHz; PHASE 0
+0
+^Fluke 5500
+1
+
+45
+
+; OPER
+0
+^Wait
+10
+
+50
+
+
+3
+^Monitor
+10
+
+50
+
+Yokogawa WT3000E*0;
+2
+&50 V / 200 mV Range: 1 kW @ 5 kHz
+False
+True
+^Yokogawa WT3000E
+100.00000000
+V
+200.00000000
+mV
+, Elem2, Ext. Sensor, 60 Hz
+0
+^Fluke 5500
+50.00000000
+V
+200.00000000
+mV
+, 5 kHz; PHASE 0
+0
+^Fluke 5500
+1
+
+45
+
+; OPER
+0
+^Wait
+10
+
+50
+
+
+3
+^Monitor
+10
+
+50
+
+Yokogawa WT3000E*0;
+2
+&100 V / 1 V Range: 3 kW @ 10 Hz
+False
+True
+^Yokogawa WT3000E
+100.00000000
+V
+1.00000000
+V
+, Elem2, Ext. Sensor, 60 Hz
+0
+^Fluke 5500
+30.00000000
+V
+1.00000000
+V
+, 10 Hz
+0
+^Fluke 5500
+1
+
+45
+
+; OPER
+0
+^Wait
+10
+
+50
+
+
+3
+^Monitor
+10
+
+50
+
+Yokogawa WT3000E*0;
+2
+&100 V / 1 V Range: 10 kW @ 60 Hz
+False
+True
+^Yokogawa WT3000E
+100.00000000
+V
+1.00000000
+V
+, Elem2, Ext. Sensor, 60 Hz
+0
+^Fluke 5500
+100.00000000
+V
+1.00000000
+V
+, 60 Hz
+0
+^Fluke 5500
+1
+
+45
+
+; OPER
+0
+^Wait
+10
+
+50
+
+
+3
+^Monitor
+10
+
+50
+
+Yokogawa WT3000E*0;
+2
+&100 V / 1 V Range: 10 kW @ 1 kHz
+False
+True
+^Yokogawa WT3000E
+100.00000000
+V
+1.00000000
+V
+, Elem2, Ext. Sensor, 60 Hz
+0
+^Fluke 5500
+100.00000000
+V
+1.00000000
+V
+, 1 kHz
+0
+^Fluke 5500
+1
+
+45
+
+; OPER
+0
+^Wait
+10
+
+50
+
+
+3
+^Monitor
+10
+
+50
+
+Yokogawa WT3000E*0;
+2
+&100 V / 1 V Range: 10 kW @ 10 kHz
+False
+True
+^Yokogawa WT3000E
+100.00000000
+V
+1.00000000
+V
+, Elem2, Ext. Sensor, 60 Hz
+0
+^Fluke 5500
+100.00000000
+V
+1.00000000
+V
+, 10 kHz
+0
+^Fluke 5500
+1
+
+45
+
+; OPER
+0
+^Wait
+10
+
+50
+
+
+3
+^Monitor
+10
+
+50
+
+Yokogawa WT3000E*0;
+2
+&100 V / 2 V Range: 20 kW @ 10 kHz
+False
+True
+^Yokogawa WT3000E
+100.00000000
+V
+2.00000000
+V
+, Elem2, Ext. Sensor, 60 Hz
+0
+^Fluke 5500
+100.00000000
+V
+2.00000000
+V
+, 10 kHz
+0
+^Fluke 5500
+1
+
+45
+
+; OPER
+0
+^Wait
+10
+
+50
+
+
+3
+^Monitor
+10
+
+50
+
+Yokogawa WT3000E*0;
+2
+&100 V / 5 V Range: 50 kW @ 60 Hz
+False
+True
+^Yokogawa WT3000E
+100.00000000
+V
+5.00000000
+V
+, Elem2, Ext. Sensor, 60 Hz
+0
+^Fluke 5500
+100.00000000
+V
+5.00000000
+V
+, 60 Hz
+0
+^Fluke 5500
+1
+
+45
+
+; OPER
+0
+^Wait
+10
+
+50
+
+
+3
+^Monitor
+10
+
+50
+
+Yokogawa WT3000E*0;
+2
+&100 V / 5 V Range: 50 kW @ 10 kHz
+False
+True
+^Yokogawa WT3000E
+100.00000000
+V
+5.00000000
+V
+, Elem2, Ext. Sensor, 60 Hz
+0
+^Fluke 5500
+100.00000000
+V
+5.00000000
+V
+, 10 kHz
+0
+^Fluke 5500
+1
+
+45
+
+; OPER
+0
+^Wait
+10
+
+50
+
+
+3
+^Monitor
+10
+
+50
+
+Yokogawa WT3000E*0;
+2
+*Yokogawa WT3000E - 4 Elem,,,Shutdown
+&100 V / 5 V Range: 50 kW @ 10 kHz
+False
+True
+^Fluke 5500
+0
+
+0
+
+;STBY
+0

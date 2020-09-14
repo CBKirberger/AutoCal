@@ -1,0 +1,720 @@
+Element 1: DC Volts:15 V Range: 14 V:Yokogawa WT3000E*0,14.0006,11/22/2017 10:04
+Element 1: DC Volts:15 V Range: -14 V:Yokogawa WT3000E*0,-13.9979,11/22/2017 10:04
+Element 1: DC Volts:100 V Range: 100 V:Yokogawa WT3000E*0,100.008,11/22/2017 10:04
+Element 1: DC Volts:100 V Range: -100 V:Yokogawa WT3000E*0,-99.99,11/22/2017 10:04
+Element 1: DC Volts:100 V Range: 50 V:Yokogawa WT3000E*0,50.003,11/22/2017 10:05
+Element 1: DC Volts:100 V Range: -50 V:Yokogawa WT3000E*0,-49.988,11/22/2017 10:05
+Element 1: DC Volts:100 V Range: 10 V:Yokogawa WT3000E*0,10.004,11/22/2017 10:05
+Element 1: DC Volts:100 V Range: -10 V:Yokogawa WT3000E*0,-9.986,11/22/2017 10:05
+Element 1: DC Volts:100 V Range: 1 V:Yokogawa WT3000E*0,1,11/22/2017 10:05
+Element 1: DC Volts:100 V Range: -1 V:Yokogawa WT3000E*0,-0.984,11/22/2017 10:05
+Element 1: DC Volts:150 V Range: 135 V:Yokogawa WT3000E*0,135.017,11/22/2017 10:05
+Element 1: DC Volts:150 V Range: -135 V:Yokogawa WT3000E*0,-134.992,11/22/2017 10:05
+Element 1: DC Volts:1000 V Range: 0.9 kV:Yokogawa WT3000E*0,900.1,11/22/2017 10:05
+Element 1: DC Volts:1000 V Range: -0.9 kV:Yokogawa WT3000E*0,-899.94,11/22/2017 10:06
+Element 1: AC Volts:15 V Range: 14 V @ 60 Hz:Yokogawa WT3000E*0,13.9999,11/22/2017 10:06
+Element 1: AC Volts:15 V Range: 14 V @ 1 kHz:Yokogawa WT3000E*0,13.9997,11/22/2017 10:06
+Element 1: AC Volts:15 V Range: 14 V @ 100 kHz:Yokogawa WT3000E*0,14.0643,11/22/2017 10:06
+Element 1: AC Volts:15 V Range: 3 V @ 500 kHz:Yokogawa WT3000E*0,2.9939,11/22/2017 10:06
+Element 1: AC Volts:30 V Range: 27 V @ 60 Hz:Yokogawa WT3000E*0,26.9996,11/22/2017 10:06
+Element 1: AC Volts:30 V Range: 27 V @ 1 kHz:Yokogawa WT3000E*0,26.9994,11/22/2017 10:06
+Element 1: AC Volts:60 V Range: 54 V @ 60 Hz:Yokogawa WT3000E*0,54.0007,11/22/2017 10:06
+Element 1: AC Volts:60 V Range: 54 V @ 1 kHz:Yokogawa WT3000E*0,54.0006,11/22/2017 10:07
+Element 1: AC Volts:100 V Range: 30 V @ 10 Hz:Yokogawa WT3000E*0,29.995,11/22/2017 10:07
+Element 1: AC Volts:100 V Range: 100 V @ 60 Hz:Yokogawa WT3000E*0,100.002,11/22/2017 10:07
+Element 1: AC Volts:100 V Range: 50 V @ 60 Hz:Yokogawa WT3000E*0,50,11/22/2017 10:07
+Element 1: AC Volts:100 V Range: 10 V @ 60 Hz:Yokogawa WT3000E*0,9.996,11/22/2017 10:07
+Element 1: AC Volts:100 V Range: 1 V @ 60 Hz:Yokogawa WT3000E*0,0.993,11/22/2017 10:07
+Element 1: AC Volts:100 V Range: 90 V @ 1 kHz:Yokogawa WT3000E*0,89.999,11/22/2017 10:07
+Element 1: AC Volts:100 V Range: 90 V @ 10 kHz:Yokogawa WT3000E*0,90.073,11/22/2017 10:08
+Element 1: AC Volts:100 V Range: 90 V @ 50 kHz:Yokogawa WT3000E*0,90.337,11/22/2017 10:08
+Element 1: AC Volts:100 V Range: 90 V @ 100 kHz:Yokogawa WT3000E*0,90.496,11/22/2017 10:08
+Element 1: AC Volts:100 V Range: 3 V @ 500 kHz:Yokogawa WT3000E*0,2.981,11/22/2017 10:08
+Element 1: AC Volts:150 V Range: 30 V @ 10 Hz:Yokogawa WT3000E*0,29.993,11/22/2017 10:08
+Element 1: AC Volts:150 V Range: 135 V @ 60 Hz:Yokogawa WT3000E*0,135.003,11/22/2017 10:08
+Element 1: AC Volts:150 V Range: 135 V @ 1 kHz:Yokogawa WT3000E*0,135.001,11/22/2017 10:08
+Element 1: AC Volts:150 V Range: 135 V @ 10 kHz:Yokogawa WT3000E*0,135.08,11/22/2017 10:09
+Element 1: AC Volts:150 V Range: 135 V @ 50 kHz:Yokogawa WT3000E*0,135.16,11/22/2017 10:09
+Element 1: AC Volts:150 V Range: 135 V @ 100 kHz:Yokogawa WT3000E*0,135.219,11/22/2017 10:09
+Element 1: AC Volts:150 V Range: 3 V @ 500 kHz:Yokogawa WT3000E*0,2.986,11/22/2017 10:09
+Element 1: AC Volts:300 V Range: 270 V @ 60 Hz:Yokogawa WT3000E*0,269.998,11/22/2017 10:09
+Element 1: AC Volts:300 V Range: 270 V @ 1 kHz:Yokogawa WT3000E*0,269.998,11/22/2017 10:09
+Element 1: AC Volts:600 V Range: 540 V @ 60 Hz:Yokogawa WT3000E*0,540.01,11/22/2017 10:10
+Element 1: AC Volts:600 V Range: 540 V @ 1 kHz:Yokogawa WT3000E*0,540.038,11/22/2017 10:10
+Element 1: AC Volts:1000 V Range: 0.9 kV @ 60 Hz:Yokogawa WT3000E*0,900.01,11/22/2017 10:10
+Element 1: AC Volts:1000 V Range: 0.9 kV @ 1 kHz:Yokogawa WT3000E*0,900.05,11/22/2017 10:10
+Element 1: DC Current:5 A Range: 5 A:Yokogawa WT3000E*0,5.00053,11/22/2017 10:20
+Element 1: DC Current:5 A Range: -5 A:Yokogawa WT3000E*0,-5.00039,11/22/2017 10:20
+Element 1: DC Current:5 A Range: 2.5 A:Yokogawa WT3000E*0,2.50044,11/22/2017 10:24
+Element 1: DC Current:5 A Range: -2.5 A:Yokogawa WT3000E*0,-2.5002,11/22/2017 10:24
+Element 1: DC Current:5 A Range: 0.5 A:Yokogawa WT3000E*0,0.50019,11/22/2017 10:24
+Element 1: DC Current:5 A Range: -0.5 A:Yokogawa WT3000E*0,-0.50011,11/22/2017 10:24
+Element 1: DC Current:5 A Range: 0.05 A:Yokogawa WT3000E*0,0.04993,11/22/2017 10:24
+Element 1: DC Current:5 A Range: -0.05 A:Yokogawa WT3000E*0,-0.04973,11/22/2017 10:24
+Element 1: DC Current:20 A Range: 18 A:Yokogawa WT3000E*0,17.9998,11/22/2017 10:24
+Element 1: DC Current:20 A Range: -18 A:Yokogawa WT3000E*0,-18.0006,11/22/2017 10:24
+Element 1: AC Current:500 mA Range: 450 mA @ 60 Hz:Yokogawa WT3000E*0,0.450042,11/22/2017 10:28
+Element 1: AC Current:500 mA Range: 450 mA @ 1 kHz:Yokogawa WT3000E*0,0.45008,11/22/2017 10:28
+Element 1: AC Current:500 mA Range: 450 mA @ 10 kHz:Yokogawa WT3000E*0,0.452147,11/22/2017 10:28
+Element 1: AC Current:1 A Range: 0.9 A @ 60 Hz:Yokogawa WT3000E*0,0.90009,11/22/2017 10:28
+Element 1: AC Current:1 A Range: 0.9 A @ 1 kHz:Yokogawa WT3000E*0,0.90014,11/22/2017 10:28
+Element 1: AC Current:1 A Range: 0.9 A @ 10 kHz:Yokogawa WT3000E*0,0.90357,11/22/2017 10:29
+Element 1: AC Current:2 A Range: 1.8 A @ 60 Hz:Yokogawa WT3000E*0,1.80016,11/22/2017 10:29
+Element 1: AC Current:2 A Range: 1.8 A @ 1 kHz:Yokogawa WT3000E*0,1.80023,11/22/2017 10:29
+Element 1: AC Current:2 A Range: 1 A @ 10 kHz:Yokogawa WT3000E*0,1.00368,11/22/2017 10:29
+Element 1: AC Current:5 A Range: 2 A @ 10 Hz:Yokogawa WT3000E*0,1.99984,11/22/2017 10:29
+Element 1: AC Current:5 A Range: 5 A @ 60 Hz:Yokogawa WT3000E*0,5.00011,11/22/2017 10:30
+Element 1: AC Current:5 A Range: 2.5 A @ 60 Hz:Yokogawa WT3000E*0,2.50032,11/22/2017 10:30
+Element 1: AC Current:5 A Range: 0.5 A @ 60 Hz:Yokogawa WT3000E*0,0.50003,11/22/2017 10:31
+Element 1: AC Current:5 A Range: 0.05 A @ 60 Hz:Yokogawa WT3000E*0,0.04993,11/22/2017 10:31
+Element 1: AC Current:5 A Range: 4.5 A @ 1 kHz:Yokogawa WT3000E*0,4.50026,11/22/2017 10:31
+Element 1: AC Current:5 A Range: 2 A @ 10 kHz:Yokogawa WT3000E*0,2.00361,11/22/2017 10:32
+Element 1: AC Current:5 A Range: 0.3 A @ 30 kHz:Yokogawa WT3000E*0,0.30011,11/22/2017 10:32
+Element 1: AC Current:10 A Range: 2 A @ 10 Hz:Yokogawa WT3000E*0,1.9998,11/22/2017 10:32
+Element 1: AC Current:10 A Range: 9 A @ 60 Hz:Yokogawa WT3000E*0,9,11/22/2017 10:37
+Element 1: AC Current:10 A Range: 9 A @ 1 kHz:Yokogawa WT3000E*0,8.9997,11/22/2017 10:37
+Element 1: AC Current:10 A Range: 2 A @ 10 kHz:Yokogawa WT3000E*0,2.0036,11/22/2017 10:37
+Element 1: AC Current:10 A Range: 0.3 A @ 30 kHz:Yokogawa WT3000E*0,0.3001,11/22/2017 10:37
+Element 1: AC Current:20 A Range: 18 A @ 60 Hz:Yokogawa WT3000E*0,17.9986,11/22/2017 10:38
+Element 1: AC Current:20 A Range: 18 A @ 1 kHz:Yokogawa WT3000E*0,17.9989,11/22/2017 10:38
+Element 1: AC Current:20 A Range: 2 A @ 10 kHz:Yokogawa WT3000E*0,2.0036,11/22/2017 10:38
+Element 1: AC Current:20 A Range: 0.3 A @ 30 kHz:Yokogawa WT3000E*0,0.3,11/22/2017 10:38
+Element 1: AC Current:30 A Range: 20 A @ 60 Hz:Yokogawa WT3000E*0,19.9998,11/22/2017 10:39
+Element 1: AC Current:30 A Range: 20 A @ 1 kHz:Yokogawa WT3000E*0,20.0007,11/22/2017 10:39
+Element 1: Ext. Sensor Current:50 mV Range: 4.5 A @ 60 Hz:Yokogawa WT3000E*0,4.49984,11/22/2017 10:39
+Element 1: Ext. Sensor Current:50 mV Range: 4.5 A @ 1 kHz:Yokogawa WT3000E*0,4.50171,11/22/2017 10:39
+Element 1: Ext. Sensor Current:50 mV Range: 4.5 A @ 100 kHz:Yokogawa WT3000E*0,4.50535,11/22/2017 10:39
+Element 1: Ext. Sensor Current:100 mV Range: 9 A @ 60 Hz:Yokogawa WT3000E*0,8.9998,11/22/2017 10:39
+Element 1: Ext. Sensor Current:100 mV Range: 9 A @ 1 kHz:Yokogawa WT3000E*0,9.0012,11/22/2017 10:39
+Element 1: Ext. Sensor Current:200 mV Range: 18 A @ 60 Hz:Yokogawa WT3000E*0,18.0007,11/22/2017 10:40
+Element 1: Ext. Sensor Current:200 mV Range: 18 A @ 1 kHz:Yokogawa WT3000E*0,18.0022,11/22/2017 10:40
+Element 1: Ext. Sensor Current:200 mV Range: 18 A @ 100 kHz:Yokogawa WT3000E*0,18.0307,11/22/2017 10:40
+Element 1: Ext. Sensor Current:200 mV Range: 18 A @ 500 kHz:Yokogawa WT3000E*0,17.7834,11/22/2017 10:40
+Element 1: Ext. Sensor Current:1 V Range: 90 A:Yokogawa WT3000E*0,89.998,11/22/2017 10:40
+Element 1: Ext. Sensor Current:1 V Range: -90 A:Yokogawa WT3000E*0,-90.002,11/22/2017 10:40
+Element 1: Ext. Sensor Current:1 V Range: 90 A @ 10 Hz:Yokogawa WT3000E*0,89.996,11/22/2017 10:40
+Element 1: Ext. Sensor Current:1 V Range: 90 A @ 60 Hz:Yokogawa WT3000E*0,90.005,11/22/2017 10:40
+Element 1: Ext. Sensor Current:1 V Range: 90 A @ 1 kHz:Yokogawa WT3000E*0,90.006,11/22/2017 10:40
+Element 1: Ext. Sensor Current:1 V Range: 90 A @ 10 kHz:Yokogawa WT3000E*0,90.086,11/22/2017 10:41
+Element 1: Ext. Sensor Current:1 V Range: 90 A @ 50 kHz:Yokogawa WT3000E*0,90.2,11/22/2017 10:41
+Element 1: Ext. Sensor Current:1 V Range: 90 A @ 100 kHz:Yokogawa WT3000E*0,90.197,11/22/2017 10:41
+Element 1: Ext. Sensor Current:1 V Range: 90 A @ 500 kHz:Yokogawa WT3000E*0,89.716,11/22/2017 10:41
+Element 1: Ext. Sensor Current:2 V Range: 180 A @ 500 kHz:Yokogawa WT3000E*0,179.406,11/22/2017 10:41
+Element 1: Ext. Sensor Current:5 V Range: 300 A @ 500 kHz:Yokogawa WT3000E*0,297.542,11/22/2017 10:41
+Element 1: Ext. Sensor Current:10 V Range: 0.9 kA @ 60 Hz:Yokogawa WT3000E*0,900.02,11/22/2017 10:56
+Element 1: Power DC:15 V / 5 A Range: 75 W:Yokogawa WT3000E*0,75.016,11/22/2017 11:03
+Element 1: Power DC:15 V / 5 A Range: -75 W:Yokogawa WT3000E*0,-75.001,11/22/2017 11:03
+Element 1: Power DC:100 V / 5 A Range: 500 W:Yokogawa WT3000E*0,500.095,11/22/2017 11:03
+Element 1: Power DC:100 V / 5 A Range: -500 W:Yokogawa WT3000E*0,-500.013,11/22/2017 11:03
+Element 1: Power DC:100 V / 5 A Range: 250 W:Yokogawa WT3000E*0,250.049,11/22/2017 11:03
+Element 1: Power DC:100 V / 5 A Range: -250 W:Yokogawa WT3000E*0,-249.97,11/22/2017 11:03
+Element 1: Power DC:100 V / 5 A Range: 50 W:Yokogawa WT3000E*0,50.024,11/22/2017 11:03
+Element 1: Power DC:100 V / 5 A Range: -50 W:Yokogawa WT3000E*0,-49.944,11/22/2017 11:03
+Element 1: Power DC:100 V / 5 A Range: 5 W:Yokogawa WT3000E*0,5,11/22/2017 11:03
+Element 1: Power DC:100 V / 5 A Range: -5 W:Yokogawa WT3000E*0,-4.921,11/22/2017 11:04
+Element 1: Power DC:150 V / 5 A Range: 0.75 kW:Yokogawa WT3000E*0,750.18,11/22/2017 11:04
+Element 1: Power DC:150 V / 5 A Range: -0.75 kW:Yokogawa WT3000E*0,-750.05,11/22/2017 11:04
+Element 1: Power DC:1000 V / 5 A Range: 5 kW:Yokogawa WT3000E*0,5001.19,11/22/2017 11:04
+Element 1: Power DC:1000 V / 5 A Range: -5 kW:Yokogawa WT3000E*0,-5000.4,11/22/2017 11:04
+Element 1: Power DC:100 V / 20 A Range: 2 kW:Yokogawa WT3000E*0,2000.04,11/22/2017 11:04
+Element 1: Power DC:100 V / 20 A Range: -2 kW:Yokogawa WT3000E*0,-1999.85,11/22/2017 11:04
+Element 1: Power AC:15 V / 5 A Range: 0 W @ 60 Hz:Yokogawa WT3000E*0,0,11/22/2017 11:05
+Element 1: Power AC:15 V / 5 A Range: 75 W @ 60 Hz:Yokogawa WT3000E*0,75.009,11/22/2017 11:05
+Element 1: Power AC:15 V / 5 A Range: 75 W @ 1 kHz:Yokogawa WT3000E*0,75.007,11/22/2017 11:05
+Element 1: Power AC:15 V / 5 A Range: 30 W @ 5 kHz:Yokogawa WT3000E*0,30.007,11/22/2017 11:05
+Element 1: Power AC:30 V / 5 A Range: 150 W @ 60 Hz:Yokogawa WT3000E*0,150.014,11/22/2017 11:06
+Element 1: Power AC:30 V / 5 A Range: 150 W @ 1 kHz:Yokogawa WT3000E*0,150.008,11/22/2017 11:06
+Element 1: Power AC:60 V / 5 A Range: 300 W @ 60 Hz:Yokogawa WT3000E*0,300.047,11/22/2017 11:06
+Element 1: Power AC:60 V / 5 A Range: 300 W @ 1 kHz:Yokogawa WT3000E*0,300.034,11/22/2017 11:06
+Element 1: Power AC:100 V / 5 A Range: 500 W @ 10 Hz:Yokogawa WT3000E*0,300.03,11/22/2017 11:06
+Element 1: Power AC:100 V / 5 A Range: 500 W @ 60 Hz:Yokogawa WT3000E*0,500.07,11/22/2017 11:07
+Element 1: Power AC:100 V / 5 A Range: 250 W @ 60 Hz:Yokogawa WT3000E*0,250.028,11/22/2017 11:07
+Element 1: Power AC:100 V / 5 A Range: 50 W @ 60 Hz:Yokogawa WT3000E*0,49.984,11/22/2017 11:07
+Element 1: Power AC:100 V / 5 A Range: 5 W @ 60 Hz:Yokogawa WT3000E*0,4.968,11/22/2017 11:07
+Element 1: Power AC:100 V / 5 A Range: 0 W @ 60 Hz:Yokogawa WT3000E*0,0,11/22/2017 11:07
+Element 1: Power AC:100 V / 5 A Range: 500 W @ 1 kHz:Yokogawa WT3000E*0,500.037,11/22/2017 11:07
+Element 1: Power AC:100 V / 5 A Range: 200 W @ 5 kHz:Yokogawa WT3000E*0,200.057,11/22/2017 11:08
+Element 1: Power AC:150 V / 5 A Range: 0.75 kW @ 10 Hz:Yokogawa WT3000E*0,0,11/22/2017 11:10
+Element 1: Power AC:150 V / 5 A Range: 0.75 kW @ 60 Hz:Yokogawa WT3000E*0,750.09,11/22/2017 11:10
+Element 1: Power AC:150 V / 5 A Range: 0.75 kW @ 1 kHz:Yokogawa WT3000E*0,750.04,11/22/2017 11:10
+Element 1: Power AC:150 V / 5 A Range: 0.3 kW @ 5 kHz:Yokogawa WT3000E*0,300.08,11/22/2017 11:12
+Element 1: Power AC:150 V / 5 A Range: 0 kW @ 60 Hz:Yokogawa WT3000E*0,0,11/22/2017 11:13
+Element 1: Power AC:300 V / 5 A Range: 1.5 kW @ 60 Hz:Yokogawa WT3000E*0,1500.03,11/22/2017 11:13
+Element 1: Power AC:300 V / 5 A Range: 1.5 kW @ 1 kHz:Yokogawa WT3000E*0,1499.99,11/22/2017 11:14
+Element 1: Power AC:600 V / 5 A Range: 3 kW @ 60 Hz:Yokogawa WT3000E*0,3000.34,11/22/2017 11:14
+Element 1: Power AC:600 V / 5 A Range: 3 kW @ 1 kHz:Yokogawa WT3000E*0,3000.33,11/22/2017 11:14
+Element 1: Power AC:1000 V / 5 A Range: 5 kW @ 60 Hz:Yokogawa WT3000E*0,5000.61,11/22/2017 11:14
+Element 1: Power AC:1000 V / 5 A Range: 5 kW @ 1 kHz:Yokogawa WT3000E*0,5000.36,11/22/2017 11:14
+Element 1: Power AC:100 V / 500 mA Range: 50 W @ 60 Hz:Yokogawa WT3000E*0,50.0076,11/22/2017 11:15
+Element 1: Power AC:100 V / 500 mA Range: 50 W @ 1 kHz:Yokogawa WT3000E*0,50.0092,11/22/2017 11:15
+Element 1: Power AC:100 V / 500 mA Range: 50 W @ 5 kHz:Yokogawa WT3000E*0,50.0676,11/22/2017 11:15
+Element 1: Power AC:100 V / 1 A Range: 100 W @ 60 Hz:Yokogawa WT3000E*0,100.013,11/22/2017 11:15
+Element 1: Power AC:100 V / 1 A Range: 100 W @ 1 kHz:Yokogawa WT3000E*0,100.015,11/22/2017 11:15
+Element 1: Power AC:100 V / 1 A Range: 100 W @ 5 kHz:Yokogawa WT3000E*0,100.098,11/22/2017 11:15
+Element 1: Power AC:100 V / 2 A Range: 200 W @ 60 Hz:Yokogawa WT3000E*0,200.019,11/22/2017 11:16
+Element 1: Power AC:100 V / 2 A Range: 200 W @ 1 kHz:Yokogawa WT3000E*0,200.023,11/22/2017 11:16
+Element 1: Power AC:100 V / 2 A Range: 200 W @ 5 kHz:Yokogawa WT3000E*0,200.087,11/22/2017 11:16
+Element 1: Power AC:100 V / 10 A Range: 1 kW @ 60 Hz:Yokogawa WT3000E*0,1000.04,11/22/2017 11:20
+Element 1: Power AC:100 V / 10 A Range: 1 kW @ 1 kHz:Yokogawa WT3000E*0,999.99,11/22/2017 11:20
+Element 1: Power AC:100 V / 10 A Range: 0.2 kW @ 5 kHz:Yokogawa WT3000E*0,200.06,11/22/2017 11:21
+Element 1: Power AC:100 V / 20 A Range: 2 kW @ 60 Hz:Yokogawa WT3000E*0,1999.95,11/22/2017 11:22
+Element 1: Power AC:100 V / 20 A Range: 2 kW @ 1 kHz:Yokogawa WT3000E*0,2000.02,11/22/2017 11:22
+Element 1: Power AC:100 V / 20 A Range: 0.2 kW @ 5 kHz:Yokogawa WT3000E*0,200.05,11/22/2017 11:23
+Element 1: Power AC:100 V / 30 A Range: 2 kW @ 60 Hz:Yokogawa WT3000E*0,2000.13,11/22/2017 11:23
+Element 1: Power AC:100 V / 30 A Range: 2 kW @ 1 kHz:Yokogawa WT3000E*0,2000.17,11/22/2017 11:23
+Element 1: Ext. Sensor Power:100 V / 1 V Range: 10 kW:Yokogawa WT3000E*0,202.6,11/22/2017 11:24
+Element 1: Ext. Sensor Power:100 V / 1 V Range: -10 kW:Yokogawa WT3000E*0,-191.6,11/22/2017 11:24
+Element 1: Ext. Sensor Power:100 V / 50 mV Range: 500 W @ 60 Hz:Yokogawa WT3000E*0,538.734,11/22/2017 11:24
+Element 1: Ext. Sensor Power:100 V / 100 mV Range: 1 kW @ 60 Hz:Yokogawa WT3000E*0,492.74,11/22/2017 11:25
+Element 1: Ext. Sensor Power:100 V / 100 mV Range: 1 kW @ 1 kHz:Yokogawa WT3000E*0,633.22,11/22/2017 11:25
+Element 1: Ext. Sensor Power:100 V / 200 mV Range: 0 kW @ 60 Hz:Yokogawa WT3000E*0,540.77,11/22/2017 11:25
+Element 1: Ext. Sensor Power:100 V / 200 mV Range: 2 kW @ 60 Hz:Yokogawa WT3000E*0,518.11,11/22/2017 11:25
+Element 1: Ext. Sensor Power:100 V / 200 mV Range: 2 kW @ 1 kHz:Yokogawa WT3000E*0,629.07,11/22/2017 11:25
+Element 1: Ext. Sensor Power:50 V / 200 mV Range: 1 kW @ 5 kHz:Yokogawa WT3000E*0,158.14,11/22/2017 11:25
+Element 1: Ext. Sensor Power:100 V / 1 V Range: 3 kW @ 10 Hz:Yokogawa WT3000E*0,4,11/22/2017 11:26
+Element 1: Ext. Sensor Power:100 V / 1 V Range: 10 kW @ 60 Hz:Yokogawa WT3000E*0,318.5,11/22/2017 11:26
+Element 1: Ext. Sensor Power:100 V / 1 V Range: 10 kW @ 1 kHz:Yokogawa WT3000E*0,627.3,11/22/2017 11:26
+Element 1: Ext. Sensor Power:100 V / 1 V Range: 10 kW @ 10 kHz:Yokogawa WT3000E*0,621.9,11/22/2017 11:26
+Element 1: Ext. Sensor Power:100 V / 2 V Range: 20 kW @ 10 kHz:Yokogawa WT3000E*0,645.6,11/22/2017 11:26
+Element 1: Ext. Sensor Power:100 V / 5 V Range: 50 kW @ 60 Hz:Yokogawa WT3000E*0,-111.7,11/22/2017 11:27
+Element 1: Ext. Sensor Power:100 V / 5 V Range: 50 kW @ 10 kHz:Yokogawa WT3000E*0,-364.4,11/22/2017 11:27
+Element 2: DC Volts:15 V Range: 14 V:Yokogawa WT3000E*0,14.0001,11/22/2017 12:20
+Element 2: DC Volts:15 V Range: -14 V:Yokogawa WT3000E*0,-13.9998,11/22/2017 12:20
+Element 2: DC Volts:100 V Range: 100 V:Yokogawa WT3000E*0,100.003,11/22/2017 12:20
+Element 2: DC Volts:100 V Range: -100 V:Yokogawa WT3000E*0,-99.997,11/22/2017 12:20
+Element 2: DC Volts:100 V Range: 50 V:Yokogawa WT3000E*0,50.007,11/22/2017 12:20
+Element 2: DC Volts:100 V Range: -50 V:Yokogawa WT3000E*0,-49.997,11/22/2017 12:20
+Element 2: DC Volts:100 V Range: 10 V:Yokogawa WT3000E*0,10.001,11/22/2017 12:20
+Element 2: DC Volts:100 V Range: -10 V:Yokogawa WT3000E*0,-9.991,11/22/2017 12:20
+Element 2: DC Volts:100 V Range: 1 V:Yokogawa WT3000E*0,1,11/22/2017 12:20
+Element 2: DC Volts:100 V Range: -1 V:Yokogawa WT3000E*0,-0.99,11/22/2017 12:21
+Element 2: DC Volts:150 V Range: 135 V:Yokogawa WT3000E*0,135.016,11/22/2017 12:21
+Element 2: DC Volts:150 V Range: -135 V:Yokogawa WT3000E*0,-135.008,11/22/2017 12:21
+Element 2: DC Volts:1000 V Range: 0.9 kV:Yokogawa WT3000E*0,900.12,11/22/2017 12:21
+Element 2: DC Volts:1000 V Range: -0.9 kV:Yokogawa WT3000E*0,-900.04,11/22/2017 12:21
+Element 2: AC Volts:15 V Range: 14 V @ 60 Hz:Yokogawa WT3000E*0,14.0006,11/22/2017 12:21
+Element 2: AC Volts:15 V Range: 14 V @ 1 kHz:Yokogawa WT3000E*0,14.0002,11/22/2017 12:21
+Element 2: AC Volts:15 V Range: 14 V @ 100 kHz:Yokogawa WT3000E*0,13.9898,11/22/2017 12:21
+Element 2: AC Volts:15 V Range: 3 V @ 500 kHz:Yokogawa WT3000E*0,2.9715,11/22/2017 12:22
+Element 2: AC Volts:30 V Range: 27 V @ 60 Hz:Yokogawa WT3000E*0,27.0008,11/22/2017 12:22
+Element 2: AC Volts:30 V Range: 27 V @ 1 kHz:Yokogawa WT3000E*0,27.0001,11/22/2017 12:22
+Element 2: AC Volts:60 V Range: 54 V @ 60 Hz:Yokogawa WT3000E*0,54.0034,11/22/2017 12:22
+Element 2: AC Volts:60 V Range: 54 V @ 1 kHz:Yokogawa WT3000E*0,54.0012,11/22/2017 12:22
+Element 2: AC Volts:100 V Range: 30 V @ 10 Hz:Yokogawa WT3000E*0,29.997,11/22/2017 12:22
+Element 2: AC Volts:100 V Range: 100 V @ 60 Hz:Yokogawa WT3000E*0,100.007,11/22/2017 12:22
+Element 2: AC Volts:100 V Range: 50 V @ 60 Hz:Yokogawa WT3000E*0,50.006,11/22/2017 12:22
+Element 2: AC Volts:100 V Range: 10 V @ 60 Hz:Yokogawa WT3000E*0,9.998,11/22/2017 12:23
+Element 2: AC Volts:100 V Range: 1 V @ 60 Hz:Yokogawa WT3000E*0,0.996,11/22/2017 12:23
+Element 2: AC Volts:100 V Range: 90 V @ 1 kHz:Yokogawa WT3000E*0,90.001,11/22/2017 12:23
+Element 2: AC Volts:100 V Range: 90 V @ 10 kHz:Yokogawa WT3000E*0,89.962,11/22/2017 12:23
+Element 2: AC Volts:100 V Range: 90 V @ 50 kHz:Yokogawa WT3000E*0,89.954,11/22/2017 12:23
+Element 2: AC Volts:100 V Range: 90 V @ 100 kHz:Yokogawa WT3000E*0,90.02,11/22/2017 12:23
+Element 2: AC Volts:100 V Range: 3 V @ 500 kHz:Yokogawa WT3000E*0,2.961,11/22/2017 12:23
+Element 2: AC Volts:150 V Range: 30 V @ 10 Hz:Yokogawa WT3000E*0,29.996,11/22/2017 12:24
+Element 2: AC Volts:150 V Range: 135 V @ 60 Hz:Yokogawa WT3000E*0,135.008,11/22/2017 12:24
+Element 2: AC Volts:150 V Range: 135 V @ 1 kHz:Yokogawa WT3000E*0,135.005,11/22/2017 12:24
+Element 2: AC Volts:150 V Range: 135 V @ 10 kHz:Yokogawa WT3000E*0,135.009,11/22/2017 12:24
+Element 2: AC Volts:150 V Range: 135 V @ 50 kHz:Yokogawa WT3000E*0,134.898,11/22/2017 12:24
+Element 2: AC Volts:150 V Range: 135 V @ 100 kHz:Yokogawa WT3000E*0,134.82,11/22/2017 12:24
+Element 2: AC Volts:150 V Range: 3 V @ 500 kHz:Yokogawa WT3000E*0,2.972,11/22/2017 12:24
+Element 2: AC Volts:300 V Range: 270 V @ 60 Hz:Yokogawa WT3000E*0,270.011,11/22/2017 12:25
+Element 2: AC Volts:300 V Range: 270 V @ 1 kHz:Yokogawa WT3000E*0,270.006,11/22/2017 12:25
+Element 2: AC Volts:600 V Range: 540 V @ 60 Hz:Yokogawa WT3000E*0,540.045,11/22/2017 12:25
+Element 2: AC Volts:600 V Range: 540 V @ 1 kHz:Yokogawa WT3000E*0,540.047,11/22/2017 12:25
+Element 2: AC Volts:1000 V Range: 0.9 kV @ 60 Hz:Yokogawa WT3000E*0,900.04,11/22/2017 12:25
+Element 2: AC Volts:1000 V Range: 0.9 kV @ 1 kHz:Yokogawa WT3000E*0,900.08,11/22/2017 12:25
+Element 2: DC Current:5 A Range: 5 A:Yokogawa WT3000E*0,5.00047,11/22/2017 12:32
+Element 2: DC Current:5 A Range: -5 A:Yokogawa WT3000E*0,-5.00111,11/22/2017 12:33
+Element 2: DC Current:5 A Range: 2.5 A:Yokogawa WT3000E*0,2.50004,11/22/2017 12:33
+Element 2: DC Current:5 A Range: -2.5 A:Yokogawa WT3000E*0,-2.50054,11/22/2017 12:33
+Element 2: DC Current:5 A Range: 0.5 A:Yokogawa WT3000E*0,0.49952,11/22/2017 12:33
+Element 2: DC Current:5 A Range: -0.5 A:Yokogawa WT3000E*0,-0.50024,11/22/2017 12:33
+Element 2: DC Current:5 A Range: 0.05 A:Yokogawa WT3000E*0,0.04936,11/22/2017 12:34
+Element 2: DC Current:5 A Range: -0.05 A:Yokogawa WT3000E*0,-0.04996,11/22/2017 12:34
+Element 2: DC Current:20 A Range: 18 A:Yokogawa WT3000E*0,17.999,11/22/2017 12:34
+Element 2: DC Current:20 A Range: -18 A:Yokogawa WT3000E*0,-18.0024,11/22/2017 12:34
+Element 2: AC Current:500 mA Range: 450 mA @ 60 Hz:Yokogawa WT3000E*0,0.450088,11/22/2017 12:36
+Element 2: AC Current:500 mA Range: 450 mA @ 1 kHz:Yokogawa WT3000E*0,0.450009,11/22/2017 12:36
+Element 2: AC Current:500 mA Range: 450 mA @ 10 kHz:Yokogawa WT3000E*0,0.45192,11/22/2017 12:36
+Element 2: AC Current:1 A Range: 0.9 A @ 60 Hz:Yokogawa WT3000E*0,0.90012,11/22/2017 12:36
+Element 2: AC Current:1 A Range: 0.9 A @ 1 kHz:Yokogawa WT3000E*0,0.89998,11/22/2017 12:37
+Element 2: AC Current:1 A Range: 0.9 A @ 10 kHz:Yokogawa WT3000E*0,0.90314,11/22/2017 12:37
+Element 2: AC Current:2 A Range: 1.8 A @ 60 Hz:Yokogawa WT3000E*0,1.80029,11/22/2017 12:37
+Element 2: AC Current:2 A Range: 1.8 A @ 1 kHz:Yokogawa WT3000E*0,1.79992,11/22/2017 12:37
+Element 2: AC Current:2 A Range: 1 A @ 10 kHz:Yokogawa WT3000E*0,1.00312,11/22/2017 12:37
+Element 2: AC Current:5 A Range: 2 A @ 10 Hz:Yokogawa WT3000E*0,1.99976,11/22/2017 12:37
+Element 2: AC Current:5 A Range: 5 A @ 60 Hz:Yokogawa WT3000E*0,5.00065,11/22/2017 12:38
+Element 2: AC Current:5 A Range: 2.5 A @ 60 Hz:Yokogawa WT3000E*0,2.50029,11/22/2017 12:39
+Element 2: AC Current:5 A Range: 0.5 A @ 60 Hz:Yokogawa WT3000E*0,0.49985,11/22/2017 12:39
+Element 2: AC Current:5 A Range: 0.05 A @ 60 Hz:Yokogawa WT3000E*0,0.04978,11/22/2017 12:39
+Element 2: AC Current:5 A Range: 4.5 A @ 1 kHz:Yokogawa WT3000E*0,4.49929,11/22/2017 12:41
+Element 2: AC Current:5 A Range: 2 A @ 10 kHz:Yokogawa WT3000E*0,2.00232,11/22/2017 12:42
+Element 2: AC Current:5 A Range: 0.3 A @ 30 kHz:Yokogawa WT3000E*0,0.29961,11/22/2017 12:42
+Element 2: AC Current:10 A Range: 2 A @ 10 Hz:Yokogawa WT3000E*0,1.9996,11/22/2017 12:42
+Element 2: AC Current:10 A Range: 9 A @ 60 Hz:Yokogawa WT3000E*0,9.0009,11/22/2017 12:43
+Element 2: AC Current:10 A Range: 9 A @ 1 kHz:Yokogawa WT3000E*0,8.9986,11/22/2017 12:43
+Element 2: AC Current:10 A Range: 2 A @ 10 kHz:Yokogawa WT3000E*0,2.0022,11/22/2017 12:44
+Element 2: AC Current:10 A Range: 0.3 A @ 30 kHz:Yokogawa WT3000E*0,0.2995,11/22/2017 12:44
+Element 2: AC Current:20 A Range: 18 A @ 60 Hz:Yokogawa WT3000E*0,17.9997,11/22/2017 12:45
+Element 2: AC Current:20 A Range: 18 A @ 1 kHz:Yokogawa WT3000E*0,17.996,11/22/2017 12:45
+Element 2: AC Current:20 A Range: 2 A @ 10 kHz:Yokogawa WT3000E*0,2.0017,11/22/2017 12:48
+Element 2: AC Current:20 A Range: 0.3 A @ 30 kHz:Yokogawa WT3000E*0,0.299,11/22/2017 12:49
+Element 2: AC Current:30 A Range: 20 A @ 60 Hz:Yokogawa WT3000E*0,19.9996,11/22/2017 12:50
+Element 2: AC Current:30 A Range: 20 A @ 1 kHz:Yokogawa WT3000E*0,19.996,11/22/2017 12:50
+Element 2: Ext. Sensor Current:50 mV Range: 4.5 A @ 60 Hz:Yokogawa WT3000E*0,4.50047,11/22/2017 12:51
+Element 2: Ext. Sensor Current:50 mV Range: 4.5 A @ 1 kHz:Yokogawa WT3000E*0,4.49977,11/22/2017 12:51
+Element 2: Ext. Sensor Current:50 mV Range: 4.5 A @ 100 kHz:Yokogawa WT3000E*0,4.50719,11/22/2017 12:51
+Element 2: Ext. Sensor Current:100 mV Range: 9 A @ 60 Hz:Yokogawa WT3000E*0,9.0003,11/22/2017 12:51
+Element 2: Ext. Sensor Current:100 mV Range: 9 A @ 1 kHz:Yokogawa WT3000E*0,9.0004,11/22/2017 12:51
+Element 2: Ext. Sensor Current:200 mV Range: 18 A @ 60 Hz:Yokogawa WT3000E*0,17.9998,11/22/2017 12:51
+Element 2: Ext. Sensor Current:200 mV Range: 18 A @ 1 kHz:Yokogawa WT3000E*0,17.999,11/22/2017 12:51
+Element 2: Ext. Sensor Current:200 mV Range: 18 A @ 100 kHz:Yokogawa WT3000E*0,18.0362,11/22/2017 12:52
+Element 2: Ext. Sensor Current:200 mV Range: 18 A @ 500 kHz:Yokogawa WT3000E*0,17.8087,11/22/2017 12:52
+Element 2: Ext. Sensor Current:1 V Range: 90 A:Yokogawa WT3000E*0,90.011,11/22/2017 12:52
+Element 2: Ext. Sensor Current:1 V Range: -90 A:Yokogawa WT3000E*0,-89.992,11/22/2017 12:52
+Element 2: Ext. Sensor Current:1 V Range: 90 A @ 10 Hz:Yokogawa WT3000E*0,89.998,11/22/2017 12:52
+Element 2: Ext. Sensor Current:1 V Range: 90 A @ 60 Hz:Yokogawa WT3000E*0,90.01,11/22/2017 12:52
+Element 2: Ext. Sensor Current:1 V Range: 90 A @ 1 kHz:Yokogawa WT3000E*0,89.994,11/22/2017 12:52
+Element 2: Ext. Sensor Current:1 V Range: 90 A @ 10 kHz:Yokogawa WT3000E*0,90.091,11/22/2017 12:52
+Element 2: Ext. Sensor Current:1 V Range: 90 A @ 50 kHz:Yokogawa WT3000E*0,90.232,11/22/2017 12:52
+Element 2: Ext. Sensor Current:1 V Range: 90 A @ 100 kHz:Yokogawa WT3000E*0,90.231,11/22/2017 12:52
+Element 2: Ext. Sensor Current:1 V Range: 90 A @ 500 kHz:Yokogawa WT3000E*0,89.831,11/22/2017 12:53
+Element 2: Ext. Sensor Current:2 V Range: 180 A @ 500 kHz:Yokogawa WT3000E*0,179.638,11/22/2017 12:53
+Element 2: Ext. Sensor Current:5 V Range: 300 A @ 500 kHz:Yokogawa WT3000E*0,297.791,11/22/2017 12:53
+Element 2: Ext. Sensor Current:10 V Range: 0.9 kA @ 60 Hz:Yokogawa WT3000E*0,900.04,11/22/2017 12:53
+Element 2: Power DC:15 V / 5 A Range: 75 W:Yokogawa WT3000E*0,75.01,11/22/2017 12:54
+Element 2: Power DC:15 V / 5 A Range: -75 W:Yokogawa WT3000E*0,-75.006,11/22/2017 12:54
+Element 2: Power DC:100 V / 5 A Range: 500 W:Yokogawa WT3000E*0,500.088,11/22/2017 12:54
+Element 2: Power DC:100 V / 5 A Range: -500 W:Yokogawa WT3000E*0,-500.037,11/22/2017 12:54
+Element 2: Power DC:100 V / 5 A Range: 250 W:Yokogawa WT3000E*0,250.064,11/22/2017 12:54
+Element 2: Power DC:100 V / 5 A Range: -250 W:Yokogawa WT3000E*0,-250.011,11/22/2017 12:54
+Element 2: Power DC:100 V / 5 A Range: 50 W:Yokogawa WT3000E*0,50.016,11/22/2017 12:54
+Element 2: Power DC:100 V / 5 A Range: -50 W:Yokogawa WT3000E*0,-49.958,11/22/2017 12:54
+Element 2: Power DC:100 V / 5 A Range: 5 W:Yokogawa WT3000E*0,5.002,11/22/2017 12:55
+Element 2: Power DC:100 V / 5 A Range: -5 W:Yokogawa WT3000E*0,-4.949,11/22/2017 12:55
+Element 2: Power DC:150 V / 5 A Range: 0.75 kW:Yokogawa WT3000E*0,750.14,11/22/2017 12:55
+Element 2: Power DC:150 V / 5 A Range: -0.75 kW:Yokogawa WT3000E*0,-750.1,11/22/2017 12:55
+Element 2: Power DC:1000 V / 5 A Range: 5 kW:Yokogawa WT3000E*0,5000.91,11/22/2017 12:55
+Element 2: Power DC:1000 V / 5 A Range: -5 kW:Yokogawa WT3000E*0,-5000.48,11/22/2017 12:55
+Element 2: Power DC:100 V / 20 A Range: 2 kW:Yokogawa WT3000E*0,2000.01,11/22/2017 12:55
+Element 2: Power DC:100 V / 20 A Range: -2 kW:Yokogawa WT3000E*0,-2000.02,11/22/2017 12:56
+Element 2: Power AC:15 V / 5 A Range: 0 W @ 60 Hz:Yokogawa WT3000E*0,0,11/22/2017 12:56
+Element 2: Power AC:15 V / 5 A Range: 75 W @ 60 Hz:Yokogawa WT3000E*0,75.018,11/22/2017 12:56
+Element 2: Power AC:15 V / 5 A Range: 75 W @ 1 kHz:Yokogawa WT3000E*0,74.997,11/22/2017 12:57
+Element 2: Power AC:15 V / 5 A Range: 30 W @ 5 kHz:Yokogawa WT3000E*0,29.98,11/22/2017 12:57
+Element 2: Power AC:30 V / 5 A Range: 150 W @ 60 Hz:Yokogawa WT3000E*0,150.026,11/22/2017 12:57
+Element 2: Power AC:30 V / 5 A Range: 150 W @ 1 kHz:Yokogawa WT3000E*0,149.987,11/22/2017 12:57
+Element 2: Power AC:60 V / 5 A Range: 300 W @ 60 Hz:Yokogawa WT3000E*0,300.073,11/22/2017 12:57
+Element 2: Power AC:60 V / 5 A Range: 300 W @ 1 kHz:Yokogawa WT3000E*0,299.988,11/22/2017 12:57
+Element 2: Power AC:100 V / 5 A Range: 500 W @ 10 Hz:Yokogawa WT3000E*0,300.001,11/22/2017 12:58
+Element 2: Power AC:100 V / 5 A Range: 500 W @ 60 Hz:Yokogawa WT3000E*0,500.111,11/22/2017 12:58
+Element 2: Power AC:100 V / 5 A Range: 250 W @ 60 Hz:Yokogawa WT3000E*0,250.066,11/22/2017 12:58
+Element 2: Power AC:100 V / 5 A Range: 50 W @ 60 Hz:Yokogawa WT3000E*0,49.999,11/22/2017 12:58
+Element 2: Power AC:100 V / 5 A Range: 5 W @ 60 Hz:Yokogawa WT3000E*0,4.98,11/22/2017 12:58
+Element 2: Power AC:100 V / 5 A Range: 0 W @ 60 Hz:Yokogawa WT3000E*0,0,11/22/2017 12:58
+Element 2: Power AC:100 V / 5 A Range: 500 W @ 1 kHz:Yokogawa WT3000E*0,499.965,11/22/2017 12:59
+Element 2: Power AC:100 V / 5 A Range: 200 W @ 5 kHz:Yokogawa WT3000E*0,199.895,11/22/2017 12:59
+Element 2: Power AC:150 V / 5 A Range: 0.75 kW @ 10 Hz:Yokogawa WT3000E*0,0,11/22/2017 12:59
+Element 2: Power AC:150 V / 5 A Range: 0.75 kW @ 60 Hz:Yokogawa WT3000E*0,750.18,11/22/2017 12:59
+Element 2: Power AC:150 V / 5 A Range: 0.75 kW @ 1 kHz:Yokogawa WT3000E*0,749.96,11/22/2017 13:00
+Element 2: Power AC:150 V / 5 A Range: 0.3 kW @ 5 kHz:Yokogawa WT3000E*0,299.89,11/22/2017 13:00
+Element 2: Power AC:150 V / 5 A Range: 0 kW @ 60 Hz:Yokogawa WT3000E*0,0,11/22/2017 13:00
+Element 2: Power AC:300 V / 5 A Range: 1.5 kW @ 60 Hz:Yokogawa WT3000E*0,1500.32,11/22/2017 13:01
+Element 2: Power AC:300 V / 5 A Range: 1.5 kW @ 1 kHz:Yokogawa WT3000E*0,1499.87,11/22/2017 13:01
+Element 2: Power AC:600 V / 5 A Range: 3 kW @ 60 Hz:Yokogawa WT3000E*0,3000.66,11/22/2017 13:01
+Element 2: Power AC:600 V / 5 A Range: 3 kW @ 1 kHz:Yokogawa WT3000E*0,2999.94,11/22/2017 13:01
+Element 2: Power AC:1000 V / 5 A Range: 5 kW @ 60 Hz:Yokogawa WT3000E*0,5001.03,11/22/2017 13:01
+Element 2: Power AC:1000 V / 5 A Range: 5 kW @ 1 kHz:Yokogawa WT3000E*0,4999.8,11/22/2017 13:01
+Element 2: Power AC:100 V / 500 mA Range: 50 W @ 60 Hz:Yokogawa WT3000E*0,50.0077,11/22/2017 13:02
+Element 2: Power AC:100 V / 500 mA Range: 50 W @ 1 kHz:Yokogawa WT3000E*0,49.9993,11/22/2017 13:02
+Element 2: Power AC:100 V / 500 mA Range: 50 W @ 5 kHz:Yokogawa WT3000E*0,50.0229,11/22/2017 13:02
+Element 2: Power AC:100 V / 1 A Range: 100 W @ 60 Hz:Yokogawa WT3000E*0,100.02,11/22/2017 13:02
+Element 2: Power AC:100 V / 1 A Range: 100 W @ 1 kHz:Yokogawa WT3000E*0,99.998,11/22/2017 13:02
+Element 2: Power AC:100 V / 1 A Range: 100 W @ 5 kHz:Yokogawa WT3000E*0,100.016,11/22/2017 13:03
+Element 2: Power AC:100 V / 2 A Range: 200 W @ 60 Hz:Yokogawa WT3000E*0,200.044,11/22/2017 13:03
+Element 2: Power AC:100 V / 2 A Range: 200 W @ 1 kHz:Yokogawa WT3000E*0,199.993,11/22/2017 13:03
+Element 2: Power AC:100 V / 2 A Range: 200 W @ 5 kHz:Yokogawa WT3000E*0,199.932,11/22/2017 13:03
+Element 2: Power AC:100 V / 10 A Range: 1 kW @ 60 Hz:Yokogawa WT3000E*0,1000.2,11/22/2017 13:04
+Element 2: Power AC:100 V / 10 A Range: 1 kW @ 1 kHz:Yokogawa WT3000E*0,999.9,11/22/2017 13:04
+Element 2: Power AC:100 V / 10 A Range: 0.2 kW @ 5 kHz:Yokogawa WT3000E*0,199.87,11/22/2017 13:06
+Element 2: Power AC:100 V / 20 A Range: 2 kW @ 60 Hz:Yokogawa WT3000E*0,2000.18,11/22/2017 13:06
+Element 2: Power AC:100 V / 20 A Range: 2 kW @ 1 kHz:Yokogawa WT3000E*0,1999.77,11/22/2017 13:07
+Element 2: Power AC:100 V / 20 A Range: 0.2 kW @ 5 kHz:Yokogawa WT3000E*0,199.83,11/22/2017 13:07
+Element 2: Power AC:100 V / 30 A Range: 2 kW @ 60 Hz:Yokogawa WT3000E*0,2000.3,11/22/2017 13:07
+Element 2: Power AC:100 V / 30 A Range: 2 kW @ 1 kHz:Yokogawa WT3000E*0,1999.89,11/22/2017 13:07
+Element 2: Ext. Sensor Power:100 V / 1 V Range: 10 kW:Yokogawa WT3000E*0,10002.3,11/22/2017 13:10
+Element 2: Ext. Sensor Power:100 V / 1 V Range: -10 kW:Yokogawa WT3000E*0,-10001.3,11/22/2017 13:10
+Element 2: Ext. Sensor Power:100 V / 50 mV Range: 500 W @ 60 Hz:Yokogawa WT3000E*0,500.114,11/22/2017 13:10
+Element 2: Ext. Sensor Power:100 V / 100 mV Range: 1 kW @ 60 Hz:Yokogawa WT3000E*0,1000.23,11/22/2017 13:10
+Element 2: Ext. Sensor Power:100 V / 100 mV Range: 1 kW @ 1 kHz:Yokogawa WT3000E*0,999.84,11/22/2017 13:11
+Element 2: Ext. Sensor Power:100 V / 200 mV Range: 0 kW @ 60 Hz:Yokogawa WT3000E*0,2000.05,11/22/2017 13:11
+Element 2: Ext. Sensor Power:100 V / 200 mV Range: 2 kW @ 60 Hz:Yokogawa WT3000E*0,2000.14,11/22/2017 13:11
+Element 2: Ext. Sensor Power:100 V / 200 mV Range: 2 kW @ 1 kHz:Yokogawa WT3000E*0,1999.71,11/22/2017 13:11
+Element 2: Ext. Sensor Power:50 V / 200 mV Range: 1 kW @ 5 kHz:Yokogawa WT3000E*0,997.19,11/22/2017 13:11
+Element 2: Ext. Sensor Power:100 V / 1 V Range: 3 kW @ 10 Hz:Yokogawa WT3000E*0,2999.1,11/22/2017 13:11
+Element 2: Ext. Sensor Power:100 V / 1 V Range: 10 kW @ 60 Hz:Yokogawa WT3000E*0,10000.9,11/22/2017 13:12
+Element 2: Ext. Sensor Power:100 V / 1 V Range: 10 kW @ 1 kHz:Yokogawa WT3000E*0,9998.7,11/22/2017 13:12
+Element 2: Ext. Sensor Power:100 V / 1 V Range: 10 kW @ 10 kHz:Yokogawa WT3000E*0,10004.2,11/22/2017 13:12
+Element 2: Ext. Sensor Power:100 V / 2 V Range: 20 kW @ 10 kHz:Yokogawa WT3000E*0,20007.7,11/22/2017 13:12
+Element 2: Ext. Sensor Power:100 V / 5 V Range: 50 kW @ 60 Hz:Yokogawa WT3000E*0,50001.8,11/22/2017 13:12
+Element 2: Ext. Sensor Power:100 V / 5 V Range: 50 kW @ 10 kHz:Yokogawa WT3000E*0,49974.8,11/22/2017 13:13
+Element 3: DC Volts:15 V Range: 14 V:Yokogawa WT3000E*0,14.001,11/22/2017 13:15
+Element 3: DC Volts:15 V Range: -14 V:Yokogawa WT3000E*0,-14.0007,11/22/2017 13:15
+Element 3: DC Volts:100 V Range: 100 V:Yokogawa WT3000E*0,100.013,11/22/2017 13:15
+Element 3: DC Volts:100 V Range: -100 V:Yokogawa WT3000E*0,-100.007,11/22/2017 13:16
+Element 3: DC Volts:100 V Range: 50 V:Yokogawa WT3000E*0,50.004,11/22/2017 13:16
+Element 3: DC Volts:100 V Range: -50 V:Yokogawa WT3000E*0,-49.999,11/22/2017 13:16
+Element 3: DC Volts:100 V Range: 10 V:Yokogawa WT3000E*0,10.005,11/22/2017 13:16
+Element 3: DC Volts:100 V Range: -10 V:Yokogawa WT3000E*0,-10.001,11/22/2017 13:16
+Element 3: DC Volts:100 V Range: 1 V:Yokogawa WT3000E*0,1.001,11/22/2017 13:16
+Element 3: DC Volts:100 V Range: -1 V:Yokogawa WT3000E*0,-0.997,11/22/2017 13:16
+Element 3: DC Volts:150 V Range: 135 V:Yokogawa WT3000E*0,135.018,11/22/2017 13:16
+Element 3: DC Volts:150 V Range: -135 V:Yokogawa WT3000E*0,-135.016,11/22/2017 13:16
+Element 3: DC Volts:1000 V Range: 0.9 kV:Yokogawa WT3000E*0,900.14,11/22/2017 13:16
+Element 3: DC Volts:1000 V Range: -0.9 kV:Yokogawa WT3000E*0,-900.07,11/22/2017 13:17
+Element 3: AC Volts:15 V Range: 14 V @ 60 Hz:Yokogawa WT3000E*0,14.0012,11/22/2017 13:17
+Element 3: AC Volts:15 V Range: 14 V @ 1 kHz:Yokogawa WT3000E*0,14.0008,11/22/2017 13:17
+Element 3: AC Volts:15 V Range: 14 V @ 100 kHz:Yokogawa WT3000E*0,14.0183,11/22/2017 13:17
+Element 3: AC Volts:15 V Range: 3 V @ 500 kHz:Yokogawa WT3000E*0,2.9855,11/22/2017 13:17
+Element 3: AC Volts:30 V Range: 27 V @ 60 Hz:Yokogawa WT3000E*0,27.002,11/22/2017 13:17
+Element 3: AC Volts:30 V Range: 27 V @ 1 kHz:Yokogawa WT3000E*0,27.0014,11/22/2017 13:17
+Element 3: AC Volts:60 V Range: 54 V @ 60 Hz:Yokogawa WT3000E*0,54.0068,11/22/2017 13:18
+Element 3: AC Volts:60 V Range: 54 V @ 1 kHz:Yokogawa WT3000E*0,54.0047,11/22/2017 13:18
+Element 3: AC Volts:100 V Range: 30 V @ 10 Hz:Yokogawa WT3000E*0,30,11/22/2017 13:18
+Element 3: AC Volts:100 V Range: 100 V @ 60 Hz:Yokogawa WT3000E*0,100.01,11/22/2017 13:18
+Element 3: AC Volts:100 V Range: 50 V @ 60 Hz:Yokogawa WT3000E*0,50.007,11/22/2017 13:18
+Element 3: AC Volts:100 V Range: 10 V @ 60 Hz:Yokogawa WT3000E*0,10.002,11/22/2017 13:18
+Element 3: AC Volts:100 V Range: 1 V @ 60 Hz:Yokogawa WT3000E*0,0.999,11/22/2017 13:18
+Element 3: AC Volts:100 V Range: 90 V @ 1 kHz:Yokogawa WT3000E*0,90.007,11/22/2017 13:18
+Element 3: AC Volts:100 V Range: 90 V @ 10 kHz:Yokogawa WT3000E*0,89.984,11/22/2017 13:19
+Element 3: AC Volts:100 V Range: 90 V @ 50 kHz:Yokogawa WT3000E*0,90.056,11/22/2017 13:19
+Element 3: AC Volts:100 V Range: 90 V @ 100 kHz:Yokogawa WT3000E*0,90.203,11/22/2017 13:19
+Element 3: AC Volts:100 V Range: 3 V @ 500 kHz:Yokogawa WT3000E*0,2.979,11/22/2017 13:19
+Element 3: AC Volts:150 V Range: 30 V @ 10 Hz:Yokogawa WT3000E*0,30.001,11/22/2017 13:19
+Element 3: AC Volts:150 V Range: 135 V @ 60 Hz:Yokogawa WT3000E*0,135.02,11/22/2017 13:19
+Element 3: AC Volts:150 V Range: 135 V @ 1 kHz:Yokogawa WT3000E*0,135.017,11/22/2017 13:19
+Element 3: AC Volts:150 V Range: 135 V @ 10 kHz:Yokogawa WT3000E*0,135.015,11/22/2017 13:20
+Element 3: AC Volts:150 V Range: 135 V @ 50 kHz:Yokogawa WT3000E*0,134.958,11/22/2017 13:20
+Element 3: AC Volts:150 V Range: 135 V @ 100 kHz:Yokogawa WT3000E*0,135.018,11/22/2017 13:20
+Element 3: AC Volts:150 V Range: 3 V @ 500 kHz:Yokogawa WT3000E*0,2.992,11/22/2017 13:20
+Element 3: AC Volts:300 V Range: 270 V @ 60 Hz:Yokogawa WT3000E*0,270.029,11/22/2017 13:20
+Element 3: AC Volts:300 V Range: 270 V @ 1 kHz:Yokogawa WT3000E*0,270.026,11/22/2017 13:20
+Element 3: AC Volts:600 V Range: 540 V @ 60 Hz:Yokogawa WT3000E*0,540.074,11/22/2017 13:20
+Element 3: AC Volts:600 V Range: 540 V @ 1 kHz:Yokogawa WT3000E*0,540.092,11/22/2017 13:21
+Element 3: AC Volts:1000 V Range: 0.9 kV @ 60 Hz:Yokogawa WT3000E*0,900.1,11/22/2017 13:21
+Element 3: AC Volts:1000 V Range: 0.9 kV @ 1 kHz:Yokogawa WT3000E*0,900.16,11/22/2017 13:21
+Element 3: DC Current:5 A Range: 5 A:Yokogawa WT3000E*0,5.00002,11/22/2017 13:21
+Element 3: DC Current:5 A Range: -5 A:Yokogawa WT3000E*0,-5.00076,11/22/2017 13:21
+Element 3: DC Current:5 A Range: 2.5 A:Yokogawa WT3000E*0,2.49934,11/22/2017 13:21
+Element 3: DC Current:5 A Range: -2.5 A:Yokogawa WT3000E*0,-2.49997,11/22/2017 13:22
+Element 3: DC Current:5 A Range: 0.5 A:Yokogawa WT3000E*0,0.49936,11/22/2017 13:22
+Element 3: DC Current:5 A Range: -0.5 A:Yokogawa WT3000E*0,-0.50019,11/22/2017 13:22
+Element 3: DC Current:5 A Range: 0.05 A:Yokogawa WT3000E*0,0.04934,11/22/2017 13:22
+Element 3: DC Current:5 A Range: -0.05 A:Yokogawa WT3000E*0,-0.04997,11/22/2017 13:22
+Element 3: DC Current:20 A Range: 18 A:Yokogawa WT3000E*0,17.9951,11/22/2017 13:22
+Element 3: DC Current:20 A Range: -18 A:Yokogawa WT3000E*0,-17.9996,11/22/2017 13:22
+Element 3: AC Current:500 mA Range: 450 mA @ 60 Hz:Yokogawa WT3000E*0,0.450002,11/22/2017 13:23
+Element 3: AC Current:500 mA Range: 450 mA @ 1 kHz:Yokogawa WT3000E*0,0.450054,11/22/2017 13:23
+Element 3: AC Current:500 mA Range: 450 mA @ 10 kHz:Yokogawa WT3000E*0,0.45197,11/22/2017 13:23
+Element 3: AC Current:1 A Range: 0.9 A @ 60 Hz:Yokogawa WT3000E*0,0.90002,11/22/2017 13:23
+Element 3: AC Current:1 A Range: 0.9 A @ 1 kHz:Yokogawa WT3000E*0,0.90009,11/22/2017 13:23
+Element 3: AC Current:1 A Range: 0.9 A @ 10 kHz:Yokogawa WT3000E*0,0.90322,11/22/2017 13:23
+Element 3: AC Current:2 A Range: 1.8 A @ 60 Hz:Yokogawa WT3000E*0,1.80002,11/22/2017 13:23
+Element 3: AC Current:2 A Range: 1.8 A @ 1 kHz:Yokogawa WT3000E*0,1.80012,11/22/2017 13:23
+Element 3: AC Current:2 A Range: 1 A @ 10 kHz:Yokogawa WT3000E*0,1.00344,11/22/2017 13:24
+Element 3: AC Current:5 A Range: 2 A @ 10 Hz:Yokogawa WT3000E*0,1.99947,11/22/2017 13:24
+Element 3: AC Current:5 A Range: 5 A @ 60 Hz:Yokogawa WT3000E*0,4.99991,11/22/2017 13:24
+Element 3: AC Current:5 A Range: 2.5 A @ 60 Hz:Yokogawa WT3000E*0,2.4999,11/22/2017 13:28
+Element 3: AC Current:5 A Range: 0.5 A @ 60 Hz:Yokogawa WT3000E*0,0.49988,11/22/2017 13:28
+Element 3: AC Current:5 A Range: 0.05 A @ 60 Hz:Yokogawa WT3000E*0,0.04974,11/22/2017 13:28
+Element 3: AC Current:5 A Range: 4.5 A @ 1 kHz:Yokogawa WT3000E*0,4.49953,11/22/2017 13:29
+Element 3: AC Current:5 A Range: 2 A @ 10 kHz:Yokogawa WT3000E*0,2.00264,11/22/2017 13:29
+Element 3: AC Current:5 A Range: 0.3 A @ 30 kHz:Yokogawa WT3000E*0,0.29977,11/22/2017 13:29
+Element 3: AC Current:10 A Range: 2 A @ 10 Hz:Yokogawa WT3000E*0,1.9992,11/22/2017 13:30
+Element 3: AC Current:10 A Range: 9 A @ 60 Hz:Yokogawa WT3000E*0,8.9998,11/22/2017 13:30
+Element 3: AC Current:10 A Range: 9 A @ 1 kHz:Yokogawa WT3000E*0,8.9993,11/22/2017 13:30
+Element 3: AC Current:10 A Range: 2 A @ 10 kHz:Yokogawa WT3000E*0,2.0025,11/22/2017 13:30
+Element 3: AC Current:10 A Range: 0.3 A @ 30 kHz:Yokogawa WT3000E*0,0.2994,11/22/2017 13:30
+Element 3: AC Current:20 A Range: 18 A @ 60 Hz:Yokogawa WT3000E*0,17.9976,11/22/2017 13:32
+Element 3: AC Current:20 A Range: 18 A @ 1 kHz:Yokogawa WT3000E*0,17.9976,11/22/2017 13:32
+Element 3: AC Current:20 A Range: 2 A @ 10 kHz:Yokogawa WT3000E*0,2.0023,11/22/2017 13:32
+Element 3: AC Current:20 A Range: 0.3 A @ 30 kHz:Yokogawa WT3000E*0,0.2993,11/22/2017 13:32
+Element 3: AC Current:30 A Range: 20 A @ 60 Hz:Yokogawa WT3000E*0,19.9981,11/22/2017 13:32
+Element 3: AC Current:30 A Range: 20 A @ 1 kHz:Yokogawa WT3000E*0,19.9984,11/22/2017 13:33
+Element 3: Ext. Sensor Current:50 mV Range: 4.5 A @ 60 Hz:Yokogawa WT3000E*0,0.76347,11/22/2017 13:39
+Element 3: Ext. Sensor Current:50 mV Range: 4.5 A @ 1 kHz:Yokogawa WT3000E*0,5.63655,11/22/2017 13:40
+Element 3: Ext. Sensor Current:50 mV Range: 4.5 A @ 100 kHz:Yokogawa WT3000E*0,5.65998,11/22/2017 13:40
+Element 3: Ext. Sensor Current:100 mV Range: 9 A @ 60 Hz:Yokogawa WT3000E*0,8.5327,11/22/2017 13:40
+Element 3: Ext. Sensor Current:100 mV Range: 9 A @ 1 kHz:Yokogawa WT3000E*0,9.5698,11/22/2017 13:40
+Element 3: Ext. Sensor Current:200 mV Range: 18 A @ 60 Hz:Yokogawa WT3000E*0,14.3957,11/22/2017 13:40
+Element 3: Ext. Sensor Current:200 mV Range: 18 A @ 1 kHz:Yokogawa WT3000E*0,18.2022,11/22/2017 13:40
+Element 3: Ext. Sensor Current:200 mV Range: 18 A @ 100 kHz:Yokogawa WT3000E*0,18.3431,11/22/2017 13:40
+Element 3: Ext. Sensor Current:200 mV Range: 18 A @ 500 kHz:Yokogawa WT3000E*0,19.8546,11/22/2017 13:40
+Element 3: Ext. Sensor Current:1 V Range: 90 A:Yokogawa WT3000E*0,27.735,11/22/2017 13:40
+Element 3: Ext. Sensor Current:1 V Range: -90 A:Yokogawa WT3000E*0,-28.571,11/22/2017 13:40
+Element 3: Ext. Sensor Current:1 V Range: 90 A @ 10 Hz:Yokogawa WT3000E*0,43.315,11/22/2017 13:41
+Element 3: Ext. Sensor Current:1 V Range: 90 A @ 60 Hz:Yokogawa WT3000E*0,79.7,11/22/2017 13:41
+Element 3: Ext. Sensor Current:1 V Range: 90 A @ 1 kHz:Yokogawa WT3000E*0,89.424,11/22/2017 13:41
+Element 3: Ext. Sensor Current:1 V Range: 90 A @ 10 kHz:Yokogawa WT3000E*0,89.566,11/22/2017 13:41
+Element 3: Ext. Sensor Current:1 V Range: 90 A @ 50 kHz:Yokogawa WT3000E*0,89.804,11/22/2017 13:41
+Element 3: Ext. Sensor Current:1 V Range: 90 A @ 100 kHz:Yokogawa WT3000E*0,90.184,11/22/2017 13:41
+Element 3: Ext. Sensor Current:1 V Range: 90 A @ 500 kHz:Yokogawa WT3000E*0,98.593,11/22/2017 13:41
+Element 3: Ext. Sensor Current:2 V Range: 180 A @ 500 kHz:Yokogawa WT3000E*0,197.003,11/22/2017 13:41
+Element 3: Ext. Sensor Current:5 V Range: 300 A @ 500 kHz:Yokogawa WT3000E*0,326.388,11/22/2017 13:41
+Element 3: Ext. Sensor Current:10 V Range: 0.9 kA @ 60 Hz:Yokogawa WT3000E*0,794.02,11/22/2017 13:41
+Element 3: Power DC:15 V / 5 A Range: 75 W:Yokogawa WT3000E*0,75.01,11/22/2017 13:43
+Element 3: Power DC:15 V / 5 A Range: -75 W:Yokogawa WT3000E*0,-75.006,11/22/2017 13:43
+Element 3: Power DC:100 V / 5 A Range: 500 W:Yokogawa WT3000E*0,500.06,11/22/2017 13:43
+Element 3: Power DC:100 V / 5 A Range: -500 W:Yokogawa WT3000E*0,-500.033,11/22/2017 13:43
+Element 3: Power DC:100 V / 5 A Range: 250 W:Yokogawa WT3000E*0,250.025,11/22/2017 13:43
+Element 3: Power DC:100 V / 5 A Range: -250 W:Yokogawa WT3000E*0,-249.993,11/22/2017 13:43
+Element 3: Power DC:100 V / 5 A Range: 50 W:Yokogawa WT3000E*0,50.032,11/22/2017 13:43
+Element 3: Power DC:100 V / 5 A Range: -50 W:Yokogawa WT3000E*0,-50.003,11/22/2017 13:43
+Element 3: Power DC:100 V / 5 A Range: 5 W:Yokogawa WT3000E*0,5.005,11/22/2017 13:44
+Element 3: Power DC:100 V / 5 A Range: -5 W:Yokogawa WT3000E*0,-4.982,11/22/2017 13:44
+Element 3: Power DC:150 V / 5 A Range: 0.75 kW:Yokogawa WT3000E*0,750.14,11/22/2017 13:44
+Element 3: Power DC:150 V / 5 A Range: -0.75 kW:Yokogawa WT3000E*0,-750.09,11/22/2017 13:44
+Element 3: Power DC:1000 V / 5 A Range: 5 kW:Yokogawa WT3000E*0,5000.9,11/22/2017 13:44
+Element 3: Power DC:1000 V / 5 A Range: -5 kW:Yokogawa WT3000E*0,-5000.66,11/22/2017 13:44
+Element 3: Power DC:100 V / 20 A Range: 2 kW:Yokogawa WT3000E*0,1999.94,11/22/2017 13:44
+Element 3: Power DC:100 V / 20 A Range: -2 kW:Yokogawa WT3000E*0,-1999.99,11/22/2017 13:45
+Element 3: Power AC:15 V / 5 A Range: 0 W @ 60 Hz:Yokogawa WT3000E*0,0,11/22/2017 13:45
+Element 3: Power AC:15 V / 5 A Range: 75 W @ 60 Hz:Yokogawa WT3000E*0,75.008,11/22/2017 13:45
+Element 3: Power AC:15 V / 5 A Range: 75 W @ 1 kHz:Yokogawa WT3000E*0,75.003,11/22/2017 13:45
+Element 3: Power AC:15 V / 5 A Range: 30 W @ 5 kHz:Yokogawa WT3000E*0,29.989,11/22/2017 13:46
+Element 3: Power AC:30 V / 5 A Range: 150 W @ 60 Hz:Yokogawa WT3000E*0,150.01,11/22/2017 13:46
+Element 3: Power AC:30 V / 5 A Range: 150 W @ 1 kHz:Yokogawa WT3000E*0,150.002,11/22/2017 13:46
+Element 3: Power AC:60 V / 5 A Range: 300 W @ 60 Hz:Yokogawa WT3000E*0,300.053,11/22/2017 13:47
+Element 3: Power AC:60 V / 5 A Range: 300 W @ 1 kHz:Yokogawa WT3000E*0,300.029,11/22/2017 13:47
+Element 3: Power AC:100 V / 5 A Range: 500 W @ 10 Hz:Yokogawa WT3000E*0,300.028,11/22/2017 13:47
+Element 3: Power AC:100 V / 5 A Range: 500 W @ 60 Hz:Yokogawa WT3000E*0,500.063,11/22/2017 13:47
+Element 3: Power AC:100 V / 5 A Range: 250 W @ 60 Hz:Yokogawa WT3000E*0,250.047,11/22/2017 13:47
+Element 3: Power AC:100 V / 5 A Range: 50 W @ 60 Hz:Yokogawa WT3000E*0,50.015,11/22/2017 13:47
+Element 3: Power AC:100 V / 5 A Range: 5 W @ 60 Hz:Yokogawa WT3000E*0,4.996,11/22/2017 13:48
+Element 3: Power AC:100 V / 5 A Range: 0 W @ 60 Hz:Yokogawa WT3000E*0,0,11/22/2017 13:48
+Element 3: Power AC:100 V / 5 A Range: 500 W @ 1 kHz:Yokogawa WT3000E*0,500.028,11/22/2017 13:48
+Element 3: Power AC:100 V / 5 A Range: 200 W @ 5 kHz:Yokogawa WT3000E*0,199.936,11/22/2017 13:49
+Element 3: Power AC:150 V / 5 A Range: 0.75 kW @ 10 Hz:Yokogawa WT3000E*0,0,11/22/2017 13:50
+Element 3: Power AC:150 V / 5 A Range: 0.75 kW @ 60 Hz:Yokogawa WT3000E*0,750.1,11/22/2017 13:50
+Element 3: Power AC:150 V / 5 A Range: 0.75 kW @ 1 kHz:Yokogawa WT3000E*0,750.04,11/22/2017 13:50
+Element 3: Power AC:150 V / 5 A Range: 0.3 kW @ 5 kHz:Yokogawa WT3000E*0,299.95,11/22/2017 13:51
+Element 3: Power AC:150 V / 5 A Range: 0 kW @ 60 Hz:Yokogawa WT3000E*0,0,11/22/2017 13:51
+Element 3: Power AC:300 V / 5 A Range: 1.5 kW @ 60 Hz:Yokogawa WT3000E*0,1500.17,11/22/2017 13:51
+Element 3: Power AC:300 V / 5 A Range: 1.5 kW @ 1 kHz:Yokogawa WT3000E*0,1500.08,11/22/2017 13:51
+Element 3: Power AC:600 V / 5 A Range: 3 kW @ 60 Hz:Yokogawa WT3000E*0,3000.56,11/22/2017 13:52
+Element 3: Power AC:600 V / 5 A Range: 3 kW @ 1 kHz:Yokogawa WT3000E*0,3000.39,11/22/2017 13:52
+Element 3: Power AC:1000 V / 5 A Range: 5 kW @ 60 Hz:Yokogawa WT3000E*0,5000.61,11/22/2017 13:52
+Element 3: Power AC:1000 V / 5 A Range: 5 kW @ 1 kHz:Yokogawa WT3000E*0,5000.48,11/22/2017 13:52
+Element 3: Power AC:100 V / 500 mA Range: 50 W @ 60 Hz:Yokogawa WT3000E*0,50.0067,11/22/2017 13:52
+Element 3: Power AC:100 V / 500 mA Range: 50 W @ 1 kHz:Yokogawa WT3000E*0,50.0102,11/22/2017 13:53
+Element 3: Power AC:100 V / 500 mA Range: 50 W @ 5 kHz:Yokogawa WT3000E*0,50.045,11/22/2017 13:53
+Element 3: Power AC:100 V / 1 A Range: 100 W @ 60 Hz:Yokogawa WT3000E*0,100.014,11/22/2017 13:53
+Element 3: Power AC:100 V / 1 A Range: 100 W @ 1 kHz:Yokogawa WT3000E*0,100.015,11/22/2017 13:53
+Element 3: Power AC:100 V / 1 A Range: 100 W @ 5 kHz:Yokogawa WT3000E*0,100.05,11/22/2017 13:53
+Element 3: Power AC:100 V / 2 A Range: 200 W @ 60 Hz:Yokogawa WT3000E*0,200.026,11/22/2017 13:54
+Element 3: Power AC:100 V / 2 A Range: 200 W @ 1 kHz:Yokogawa WT3000E*0,200.023,11/22/2017 13:54
+Element 3: Power AC:100 V / 2 A Range: 200 W @ 5 kHz:Yokogawa WT3000E*0,199.997,11/22/2017 13:54
+Element 3: Power AC:100 V / 10 A Range: 1 kW @ 60 Hz:Yokogawa WT3000E*0,1000.1,11/22/2017 13:54
+Element 3: Power AC:100 V / 10 A Range: 1 kW @ 1 kHz:Yokogawa WT3000E*0,1000,11/22/2017 13:55
+Element 3: Power AC:100 V / 10 A Range: 0.2 kW @ 5 kHz:Yokogawa WT3000E*0,199.92,11/22/2017 13:55
+Element 3: Power AC:100 V / 20 A Range: 2 kW @ 60 Hz:Yokogawa WT3000E*0,2000.06,11/22/2017 13:55
+Element 3: Power AC:100 V / 20 A Range: 2 kW @ 1 kHz:Yokogawa WT3000E*0,2000.04,11/22/2017 13:55
+Element 3: Power AC:100 V / 20 A Range: 0.2 kW @ 5 kHz:Yokogawa WT3000E*0,199.89,11/22/2017 13:58
+Element 3: Power AC:100 V / 30 A Range: 2 kW @ 60 Hz:Yokogawa WT3000E*0,1999.99,11/22/2017 13:58
+Element 3: Power AC:100 V / 30 A Range: 2 kW @ 1 kHz:Yokogawa WT3000E*0,2000.01,11/22/2017 13:58
+Element 3: Ext. Sensor Power:100 V / 1 V Range: 10 kW:Yokogawa WT3000E*0,198.9,11/22/2017 13:59
+Element 3: Ext. Sensor Power:100 V / 1 V Range: -10 kW:Yokogawa WT3000E*0,-189,11/22/2017 13:59
+Element 3: Ext. Sensor Power:100 V / 50 mV Range: 500 W @ 60 Hz:Yokogawa WT3000E*0,563.501,11/22/2017 13:59
+Element 3: Ext. Sensor Power:100 V / 100 mV Range: 1 kW @ 60 Hz:Yokogawa WT3000E*0,357.19,11/22/2017 13:59
+Element 3: Ext. Sensor Power:100 V / 100 mV Range: 1 kW @ 1 kHz:Yokogawa WT3000E*0,485.88,11/22/2017 13:59
+Element 3: Ext. Sensor Power:100 V / 200 mV Range: 0 kW @ 60 Hz:Yokogawa WT3000E*0,250.99,11/22/2017 14:00
+Element 3: Ext. Sensor Power:100 V / 200 mV Range: 2 kW @ 60 Hz:Yokogawa WT3000E*0,340.96,11/22/2017 14:00
+Element 3: Ext. Sensor Power:100 V / 200 mV Range: 2 kW @ 1 kHz:Yokogawa WT3000E*0,482.53,11/22/2017 14:00
+Element 3: Ext. Sensor Power:50 V / 200 mV Range: 1 kW @ 5 kHz:Yokogawa WT3000E*0,121.86,11/22/2017 14:00
+Element 3: Ext. Sensor Power:100 V / 1 V Range: 3 kW @ 10 Hz:Yokogawa WT3000E*0,2.1,11/22/2017 14:00
+Element 3: Ext. Sensor Power:100 V / 1 V Range: 10 kW @ 60 Hz:Yokogawa WT3000E*0,493.6,11/22/2017 14:01
+Element 3: Ext. Sensor Power:100 V / 1 V Range: 10 kW @ 1 kHz:Yokogawa WT3000E*0,482.9,11/22/2017 14:01
+Element 3: Ext. Sensor Power:100 V / 1 V Range: 10 kW @ 10 kHz:Yokogawa WT3000E*0,478.8,11/22/2017 14:01
+Element 3: Ext. Sensor Power:100 V / 2 V Range: 20 kW @ 10 kHz:Yokogawa WT3000E*0,499.4,11/22/2017 14:01
+Element 3: Ext. Sensor Power:100 V / 5 V Range: 50 kW @ 60 Hz:Yokogawa WT3000E*0,-140.9,11/22/2017 14:01
+Element 3: Ext. Sensor Power:100 V / 5 V Range: 50 kW @ 10 kHz:Yokogawa WT3000E*0,-514.1,11/22/2017 14:02
+Element 4: DC Volts:15 V Range: 14 V:Yokogawa WT3000E*0,13.9996,11/22/2017 14:06
+Element 4: DC Volts:15 V Range: -14 V:Yokogawa WT3000E*0,-14.0005,11/22/2017 14:06
+Element 4: DC Volts:100 V Range: 100 V:Yokogawa WT3000E*0,100.006,11/22/2017 14:06
+Element 4: DC Volts:100 V Range: -100 V:Yokogawa WT3000E*0,-100.002,11/22/2017 14:06
+Element 4: DC Volts:100 V Range: 50 V:Yokogawa WT3000E*0,50.005,11/22/2017 14:07
+Element 4: DC Volts:100 V Range: -50 V:Yokogawa WT3000E*0,-49.997,11/22/2017 14:07
+Element 4: DC Volts:100 V Range: 10 V:Yokogawa WT3000E*0,10.004,11/22/2017 14:07
+Element 4: DC Volts:100 V Range: -10 V:Yokogawa WT3000E*0,-9.996,11/22/2017 14:07
+Element 4: DC Volts:100 V Range: 1 V:Yokogawa WT3000E*0,1.001,11/22/2017 14:07
+Element 4: DC Volts:100 V Range: -1 V:Yokogawa WT3000E*0,-0.992,11/22/2017 14:07
+Element 4: DC Volts:150 V Range: 135 V:Yokogawa WT3000E*0,135.005,11/22/2017 14:07
+Element 4: DC Volts:150 V Range: -135 V:Yokogawa WT3000E*0,-135.017,11/22/2017 14:07
+Element 4: DC Volts:1000 V Range: 0.9 kV:Yokogawa WT3000E*0,900.1,11/22/2017 14:07
+Element 4: DC Volts:1000 V Range: -0.9 kV:Yokogawa WT3000E*0,-900.05,11/22/2017 14:08
+Element 4: AC Volts:15 V Range: 14 V @ 60 Hz:Yokogawa WT3000E*0,14.0007,11/22/2017 14:08
+Element 4: AC Volts:15 V Range: 14 V @ 1 kHz:Yokogawa WT3000E*0,14.0005,11/22/2017 14:08
+Element 4: AC Volts:15 V Range: 14 V @ 100 kHz:Yokogawa WT3000E*0,14.0694,11/22/2017 14:08
+Element 4: AC Volts:15 V Range: 3 V @ 500 kHz:Yokogawa WT3000E*0,3.0032,11/22/2017 14:08
+Element 4: AC Volts:30 V Range: 27 V @ 60 Hz:Yokogawa WT3000E*0,27.0012,11/22/2017 14:08
+Element 4: AC Volts:30 V Range: 27 V @ 1 kHz:Yokogawa WT3000E*0,27.0009,11/22/2017 14:08
+Element 4: AC Volts:60 V Range: 54 V @ 60 Hz:Yokogawa WT3000E*0,54.0043,11/22/2017 14:08
+Element 4: AC Volts:60 V Range: 54 V @ 1 kHz:Yokogawa WT3000E*0,54.0035,11/22/2017 14:09
+Element 4: AC Volts:100 V Range: 30 V @ 10 Hz:Yokogawa WT3000E*0,29.998,11/22/2017 14:09
+Element 4: AC Volts:100 V Range: 100 V @ 60 Hz:Yokogawa WT3000E*0,100.007,11/22/2017 14:09
+Element 4: AC Volts:100 V Range: 50 V @ 60 Hz:Yokogawa WT3000E*0,50.005,11/22/2017 14:09
+Element 4: AC Volts:100 V Range: 10 V @ 60 Hz:Yokogawa WT3000E*0,10,11/22/2017 14:09
+Element 4: AC Volts:100 V Range: 1 V @ 60 Hz:Yokogawa WT3000E*0,0.997,11/22/2017 14:09
+Element 4: AC Volts:100 V Range: 90 V @ 1 kHz:Yokogawa WT3000E*0,90.003,11/22/2017 14:09
+Element 4: AC Volts:100 V Range: 90 V @ 10 kHz:Yokogawa WT3000E*0,90.055,11/22/2017 14:10
+Element 4: AC Volts:100 V Range: 90 V @ 50 kHz:Yokogawa WT3000E*0,90.299,11/22/2017 14:10
+Element 4: AC Volts:100 V Range: 90 V @ 100 kHz:Yokogawa WT3000E*0,90.532,11/22/2017 14:10
+Element 4: AC Volts:100 V Range: 3 V @ 500 kHz:Yokogawa WT3000E*0,2.995,11/22/2017 14:10
+Element 4: AC Volts:150 V Range: 30 V @ 10 Hz:Yokogawa WT3000E*0,29.998,11/22/2017 14:10
+Element 4: AC Volts:150 V Range: 135 V @ 60 Hz:Yokogawa WT3000E*0,135.011,11/22/2017 14:10
+Element 4: AC Volts:150 V Range: 135 V @ 1 kHz:Yokogawa WT3000E*0,135.01,11/22/2017 14:10
+Element 4: AC Volts:150 V Range: 135 V @ 10 kHz:Yokogawa WT3000E*0,135.126,11/22/2017 14:11
+Element 4: AC Volts:150 V Range: 135 V @ 50 kHz:Yokogawa WT3000E*0,135.324,11/22/2017 14:11
+Element 4: AC Volts:150 V Range: 135 V @ 100 kHz:Yokogawa WT3000E*0,135.498,11/22/2017 14:11
+Element 4: AC Volts:150 V Range: 3 V @ 500 kHz:Yokogawa WT3000E*0,3.006,11/22/2017 14:11
+Element 4: AC Volts:300 V Range: 270 V @ 60 Hz:Yokogawa WT3000E*0,270.017,11/22/2017 14:11
+Element 4: AC Volts:300 V Range: 270 V @ 1 kHz:Yokogawa WT3000E*0,270.016,11/22/2017 14:11
+Element 4: AC Volts:600 V Range: 540 V @ 60 Hz:Yokogawa WT3000E*0,540.051,11/22/2017 14:11
+Element 4: AC Volts:600 V Range: 540 V @ 1 kHz:Yokogawa WT3000E*0,540.076,11/22/2017 14:11
+Element 4: AC Volts:1000 V Range: 0.9 kV @ 60 Hz:Yokogawa WT3000E*0,900.07,11/22/2017 14:12
+Element 4: AC Volts:1000 V Range: 0.9 kV @ 1 kHz:Yokogawa WT3000E*0,900.11,11/22/2017 14:12
+Element 4: DC Current:5 A Range: 5 A:Yokogawa WT3000E*0,5.0014,11/22/2017 14:14
+Element 4: DC Current:5 A Range: -5 A:Yokogawa WT3000E*0,-5.00064,11/22/2017 14:15
+Element 4: DC Current:5 A Range: 2.5 A:Yokogawa WT3000E*0,2.50115,11/22/2017 14:17
+Element 4: DC Current:5 A Range: -2.5 A:Yokogawa WT3000E*0,-2.50011,11/22/2017 14:17
+Element 4: DC Current:5 A Range: 0.5 A:Yokogawa WT3000E*0,0.50041,11/22/2017 14:17
+Element 4: DC Current:5 A Range: -0.5 A:Yokogawa WT3000E*0,-0.49961,11/22/2017 14:17
+Element 4: DC Current:5 A Range: 0.05 A:Yokogawa WT3000E*0,0.05024,11/22/2017 14:17
+Element 4: DC Current:5 A Range: -0.05 A:Yokogawa WT3000E*0,-0.04924,11/22/2017 14:17
+Element 4: DC Current:20 A Range: 18 A:Yokogawa WT3000E*0,18.0042,11/22/2017 14:18
+Element 4: DC Current:20 A Range: -18 A:Yokogawa WT3000E*0,-18.002,11/22/2017 14:18
+Element 4: AC Current:500 mA Range: 450 mA @ 60 Hz:Yokogawa WT3000E*0,0.45009,11/22/2017 14:18
+Element 4: AC Current:500 mA Range: 450 mA @ 1 kHz:Yokogawa WT3000E*0,0.450133,11/22/2017 14:18
+Element 4: AC Current:500 mA Range: 450 mA @ 10 kHz:Yokogawa WT3000E*0,0.451959,11/22/2017 14:18
+Element 4: AC Current:1 A Range: 0.9 A @ 60 Hz:Yokogawa WT3000E*0,0.90022,11/22/2017 14:18
+Element 4: AC Current:1 A Range: 0.9 A @ 1 kHz:Yokogawa WT3000E*0,0.90025,11/22/2017 14:19
+Element 4: AC Current:1 A Range: 0.9 A @ 10 kHz:Yokogawa WT3000E*0,0.90321,11/22/2017 14:19
+Element 4: AC Current:2 A Range: 1.8 A @ 60 Hz:Yokogawa WT3000E*0,1.8004,11/22/2017 14:19
+Element 4: AC Current:2 A Range: 1.8 A @ 1 kHz:Yokogawa WT3000E*0,1.80039,11/22/2017 14:19
+Element 4: AC Current:2 A Range: 1 A @ 10 kHz:Yokogawa WT3000E*0,1.00349,11/22/2017 14:19
+Element 4: AC Current:5 A Range: 2 A @ 10 Hz:Yokogawa WT3000E*0,2.00004,11/22/2017 14:19
+Element 4: AC Current:5 A Range: 5 A @ 60 Hz:Yokogawa WT3000E*0,5.00091,11/22/2017 14:21
+Element 4: AC Current:5 A Range: 2.5 A @ 60 Hz:Yokogawa WT3000E*0,2.50068,11/22/2017 14:21
+Element 4: AC Current:5 A Range: 0.5 A @ 60 Hz:Yokogawa WT3000E*0,0.5,11/22/2017 14:21
+Element 4: AC Current:5 A Range: 0.05 A @ 60 Hz:Yokogawa WT3000E*0,0.04981,11/22/2017 14:22
+Element 4: AC Current:5 A Range: 4.5 A @ 1 kHz:Yokogawa WT3000E*0,4.50046,11/22/2017 14:24
+Element 4: AC Current:5 A Range: 2 A @ 10 kHz:Yokogawa WT3000E*0,2.00283,11/22/2017 14:24
+Element 4: AC Current:5 A Range: 0.3 A @ 30 kHz:Yokogawa WT3000E*0,0.29973,11/22/2017 14:25
+Element 4: AC Current:10 A Range: 2 A @ 10 Hz:Yokogawa WT3000E*0,1.9998,11/22/2017 14:25
+Element 4: AC Current:10 A Range: 9 A @ 60 Hz:Yokogawa WT3000E*0,9.0017,11/22/2017 14:25
+Element 4: AC Current:10 A Range: 9 A @ 1 kHz:Yokogawa WT3000E*0,9.0012,11/22/2017 14:25
+Element 4: AC Current:10 A Range: 2 A @ 10 kHz:Yokogawa WT3000E*0,2.0027,11/22/2017 14:25
+Element 4: AC Current:10 A Range: 0.3 A @ 30 kHz:Yokogawa WT3000E*0,0.2996,11/22/2017 14:25
+Element 4: AC Current:20 A Range: 18 A @ 60 Hz:Yokogawa WT3000E*0,18.0016,11/22/2017 14:26
+Element 4: AC Current:20 A Range: 18 A @ 1 kHz:Yokogawa WT3000E*0,18.0015,11/22/2017 14:26
+Element 4: AC Current:20 A Range: 2 A @ 10 kHz:Yokogawa WT3000E*0,2.0024,11/22/2017 14:27
+Element 4: AC Current:20 A Range: 0.3 A @ 30 kHz:Yokogawa WT3000E*0,0.2992,11/22/2017 14:27
+Element 4: AC Current:30 A Range: 20 A @ 60 Hz:Yokogawa WT3000E*0,20.0029,11/22/2017 14:27
+Element 4: AC Current:30 A Range: 20 A @ 1 kHz:Yokogawa WT3000E*0,20.0035,11/22/2017 14:27
+Element 4: Ext. Sensor Current:50 mV Range: 4.5 A @ 60 Hz:Yokogawa WT3000E*0,4.49999,11/22/2017 14:27
+Element 4: Ext. Sensor Current:50 mV Range: 4.5 A @ 1 kHz:Yokogawa WT3000E*0,4.50027,11/22/2017 14:27
+Element 4: Ext. Sensor Current:50 mV Range: 4.5 A @ 100 kHz:Yokogawa WT3000E*0,4.50798,11/22/2017 14:28
+Element 4: Ext. Sensor Current:100 mV Range: 9 A @ 60 Hz:Yokogawa WT3000E*0,9.0005,11/22/2017 14:28
+Element 4: Ext. Sensor Current:100 mV Range: 9 A @ 1 kHz:Yokogawa WT3000E*0,9.0008,11/22/2017 14:28
+Element 4: Ext. Sensor Current:200 mV Range: 18 A @ 60 Hz:Yokogawa WT3000E*0,18.0006,11/22/2017 14:28
+Element 4: Ext. Sensor Current:200 mV Range: 18 A @ 1 kHz:Yokogawa WT3000E*0,18.0025,11/22/2017 14:28
+Element 4: Ext. Sensor Current:200 mV Range: 18 A @ 100 kHz:Yokogawa WT3000E*0,18.0393,11/22/2017 14:28
+Element 4: Ext. Sensor Current:200 mV Range: 18 A @ 500 kHz:Yokogawa WT3000E*0,17.7939,11/22/2017 14:28
+Element 4: Ext. Sensor Current:1 V Range: 90 A:Yokogawa WT3000E*0,89.992,11/22/2017 14:28
+Element 4: Ext. Sensor Current:1 V Range: -90 A:Yokogawa WT3000E*0,-90.009,11/22/2017 14:28
+Element 4: Ext. Sensor Current:1 V Range: 90 A @ 10 Hz:Yokogawa WT3000E*0,89.999,11/22/2017 14:28
+Element 4: Ext. Sensor Current:1 V Range: 90 A @ 60 Hz:Yokogawa WT3000E*0,90.009,11/22/2017 14:29
+Element 4: Ext. Sensor Current:1 V Range: 90 A @ 1 kHz:Yokogawa WT3000E*0,90.01,11/22/2017 14:29
+Element 4: Ext. Sensor Current:1 V Range: 90 A @ 10 kHz:Yokogawa WT3000E*0,90.108,11/22/2017 14:29
+Element 4: Ext. Sensor Current:1 V Range: 90 A @ 50 kHz:Yokogawa WT3000E*0,90.248,11/22/2017 14:29
+Element 4: Ext. Sensor Current:1 V Range: 90 A @ 100 kHz:Yokogawa WT3000E*0,90.245,11/22/2017 14:29
+Element 4: Ext. Sensor Current:1 V Range: 90 A @ 500 kHz:Yokogawa WT3000E*0,89.738,11/22/2017 14:29
+Element 4: Ext. Sensor Current:2 V Range: 180 A @ 500 kHz:Yokogawa WT3000E*0,179.455,11/22/2017 14:29
+Element 4: Ext. Sensor Current:5 V Range: 300 A @ 500 kHz:Yokogawa WT3000E*0,297.508,11/22/2017 14:29
+Element 4: Ext. Sensor Current:10 V Range: 0.9 kA @ 60 Hz:Yokogawa WT3000E*0,900.06,11/22/2017 14:29
+Element 4: Power DC:15 V / 5 A Range: 75 W:Yokogawa WT3000E*0,75.023,11/22/2017 14:30
+Element 4: Power DC:15 V / 5 A Range: -75 W:Yokogawa WT3000E*0,-75.029,11/22/2017 14:30
+Element 4: Power DC:100 V / 5 A Range: 500 W:Yokogawa WT3000E*0,500.18,11/22/2017 14:30
+Element 4: Power DC:100 V / 5 A Range: -500 W:Yokogawa WT3000E*0,-500.166,11/22/2017 14:30
+Element 4: Power DC:100 V / 5 A Range: 250 W:Yokogawa WT3000E*0,250.107,11/22/2017 14:31
+Element 4: Power DC:100 V / 5 A Range: -250 W:Yokogawa WT3000E*0,-250.063,11/22/2017 14:31
+Element 4: Power DC:100 V / 5 A Range: 50 W:Yokogawa WT3000E*0,50.037,11/22/2017 14:31
+Element 4: Power DC:100 V / 5 A Range: -50 W:Yokogawa WT3000E*0,-49.994,11/22/2017 14:31
+Element 4: Power DC:100 V / 5 A Range: 5 W:Yokogawa WT3000E*0,5.008,11/22/2017 14:31
+Element 4: Power DC:100 V / 5 A Range: -5 W:Yokogawa WT3000E*0,-4.962,11/22/2017 14:31
+Element 4: Power DC:150 V / 5 A Range: 0.75 kW:Yokogawa WT3000E*0,750.25,11/22/2017 14:31
+Element 4: Power DC:150 V / 5 A Range: -0.75 kW:Yokogawa WT3000E*0,-750.32,11/22/2017 14:31
+Element 4: Power DC:1000 V / 5 A Range: 5 kW:Yokogawa WT3000E*0,5001.93,11/22/2017 14:32
+Element 4: Power DC:1000 V / 5 A Range: -5 kW:Yokogawa WT3000E*0,-5001.71,11/22/2017 14:32
+Element 4: Power DC:100 V / 20 A Range: 2 kW:Yokogawa WT3000E*0,2000.53,11/22/2017 14:32
+Element 4: Power DC:100 V / 20 A Range: -2 kW:Yokogawa WT3000E*0,-2000.53,11/22/2017 14:32
+Element 4: Power AC:15 V / 5 A Range: 0 W @ 60 Hz:Yokogawa WT3000E*0,0,11/22/2017 14:32
+Element 4: Power AC:15 V / 5 A Range: 75 W @ 60 Hz:Yokogawa WT3000E*0,75.022,11/22/2017 14:33
+Element 4: Power AC:15 V / 5 A Range: 75 W @ 1 kHz:Yokogawa WT3000E*0,75.019,11/22/2017 14:33
+Element 4: Power AC:15 V / 5 A Range: 30 W @ 5 kHz:Yokogawa WT3000E*0,30.003,11/22/2017 14:33
+Element 4: Power AC:30 V / 5 A Range: 150 W @ 60 Hz:Yokogawa WT3000E*0,150.039,11/22/2017 14:34
+Element 4: Power AC:30 V / 5 A Range: 150 W @ 1 kHz:Yokogawa WT3000E*0,150.031,11/22/2017 14:34
+Element 4: Power AC:60 V / 5 A Range: 300 W @ 60 Hz:Yokogawa WT3000E*0,300.092,11/22/2017 14:34
+Element 4: Power AC:60 V / 5 A Range: 300 W @ 1 kHz:Yokogawa WT3000E*0,300.08,11/22/2017 14:34
+Element 4: Power AC:100 V / 5 A Range: 500 W @ 10 Hz:Yokogawa WT3000E*0,300.088,11/22/2017 14:35
+Element 4: Power AC:100 V / 5 A Range: 500 W @ 60 Hz:Yokogawa WT3000E*0,500.147,11/22/2017 14:35
+Element 4: Power AC:100 V / 5 A Range: 250 W @ 60 Hz:Yokogawa WT3000E*0,250.092,11/22/2017 14:35
+Element 4: Power AC:100 V / 5 A Range: 50 W @ 60 Hz:Yokogawa WT3000E*0,50.012,11/22/2017 14:35
+Element 4: Power AC:100 V / 5 A Range: 5 W @ 60 Hz:Yokogawa WT3000E*0,4.988,11/22/2017 14:35
+Element 4: Power AC:100 V / 5 A Range: 0 W @ 60 Hz:Yokogawa WT3000E*0,0,11/22/2017 14:35
+Element 4: Power AC:100 V / 5 A Range: 500 W @ 1 kHz:Yokogawa WT3000E*0,500.126,11/22/2017 14:35
+Element 4: Power AC:100 V / 5 A Range: 200 W @ 5 kHz:Yokogawa WT3000E*0,200.033,11/22/2017 14:36
+Element 4: Power AC:150 V / 5 A Range: 0.75 kW @ 10 Hz:Yokogawa WT3000E*0,0,11/22/2017 14:36
+Element 4: Power AC:150 V / 5 A Range: 0.75 kW @ 60 Hz:Yokogawa WT3000E*0,750.23,11/22/2017 14:36
+Element 4: Power AC:150 V / 5 A Range: 0.75 kW @ 1 kHz:Yokogawa WT3000E*0,750.19,11/22/2017 14:36
+Element 4: Power AC:150 V / 5 A Range: 0.3 kW @ 5 kHz:Yokogawa WT3000E*0,300.08,11/22/2017 14:38
+Element 4: Power AC:150 V / 5 A Range: 0 kW @ 60 Hz:Yokogawa WT3000E*0,0,11/22/2017 14:39
+Element 4: Power AC:300 V / 5 A Range: 1.5 kW @ 60 Hz:Yokogawa WT3000E*0,1500.33,11/22/2017 14:40
+Element 4: Power AC:300 V / 5 A Range: 1.5 kW @ 1 kHz:Yokogawa WT3000E*0,1500.27,11/22/2017 14:40
+Element 4: Power AC:600 V / 5 A Range: 3 kW @ 60 Hz:Yokogawa WT3000E*0,3000.91,11/22/2017 14:40
+Element 4: Power AC:600 V / 5 A Range: 3 kW @ 1 kHz:Yokogawa WT3000E*0,3000.87,11/22/2017 14:40
+Element 4: Power AC:1000 V / 5 A Range: 5 kW @ 60 Hz:Yokogawa WT3000E*0,5001.56,11/22/2017 14:40
+Element 4: Power AC:1000 V / 5 A Range: 5 kW @ 1 kHz:Yokogawa WT3000E*0,5001.29,11/22/2017 14:40
+Element 4: Power AC:100 V / 500 mA Range: 50 W @ 60 Hz:Yokogawa WT3000E*0,50.014,11/22/2017 14:41
+Element 4: Power AC:100 V / 500 mA Range: 50 W @ 1 kHz:Yokogawa WT3000E*0,50.0171,11/22/2017 14:41
+Element 4: Power AC:100 V / 500 mA Range: 50 W @ 5 kHz:Yokogawa WT3000E*0,50.06,11/22/2017 14:41
+Element 4: Power AC:100 V / 1 A Range: 100 W @ 60 Hz:Yokogawa WT3000E*0,100.037,11/22/2017 14:41
+Element 4: Power AC:100 V / 1 A Range: 100 W @ 1 kHz:Yokogawa WT3000E*0,100.03,11/22/2017 14:42
+Element 4: Power AC:100 V / 1 A Range: 100 W @ 5 kHz:Yokogawa WT3000E*0,100.084,11/22/2017 14:42
+Element 4: Power AC:100 V / 2 A Range: 200 W @ 60 Hz:Yokogawa WT3000E*0,200.061,11/22/2017 14:42
+Element 4: Power AC:100 V / 2 A Range: 200 W @ 1 kHz:Yokogawa WT3000E*0,200.049,11/22/2017 14:42
+Element 4: Power AC:100 V / 2 A Range: 200 W @ 5 kHz:Yokogawa WT3000E*0,200.057,11/22/2017 14:42
+Element 4: Power AC:100 V / 10 A Range: 1 kW @ 60 Hz:Yokogawa WT3000E*0,1000.24,11/22/2017 14:43
+Element 4: Power AC:100 V / 10 A Range: 1 kW @ 1 kHz:Yokogawa WT3000E*0,1000.17,11/22/2017 14:44
+Element 4: Power AC:100 V / 10 A Range: 0.2 kW @ 5 kHz:Yokogawa WT3000E*0,200.01,11/22/2017 14:44
+Element 4: Power AC:100 V / 20 A Range: 2 kW @ 60 Hz:Yokogawa WT3000E*0,2000.39,11/22/2017 14:45
+Element 4: Power AC:100 V / 20 A Range: 2 kW @ 1 kHz:Yokogawa WT3000E*0,2000.4,11/22/2017 14:45
+Element 4: Power AC:100 V / 20 A Range: 0.2 kW @ 5 kHz:Yokogawa WT3000E*0,199.98,11/22/2017 14:46
+Element 4: Power AC:100 V / 30 A Range: 2 kW @ 60 Hz:Yokogawa WT3000E*0,2000.61,11/22/2017 14:46
+Element 4: Power AC:100 V / 30 A Range: 2 kW @ 1 kHz:Yokogawa WT3000E*0,2000.62,11/22/2017 14:46
+Element 4: Ext. Sensor Power:100 V / 1 V Range: 10 kW:Yokogawa WT3000E*0,194,11/22/2017 14:47
+Element 4: Ext. Sensor Power:100 V / 1 V Range: -10 kW:Yokogawa WT3000E*0,-184.2,11/22/2017 14:47
+Element 4: Ext. Sensor Power:100 V / 50 mV Range: 500 W @ 60 Hz:Yokogawa WT3000E*0,195.051,11/22/2017 14:48
+Element 4: Ext. Sensor Power:100 V / 100 mV Range: 1 kW @ 60 Hz:Yokogawa WT3000E*0,223.88,11/22/2017 14:48
+Element 4: Ext. Sensor Power:100 V / 100 mV Range: 1 kW @ 1 kHz:Yokogawa WT3000E*0,537.93,11/22/2017 14:48
+Element 4: Ext. Sensor Power:100 V / 200 mV Range: 0 kW @ 60 Hz:Yokogawa WT3000E*0,525.95,11/22/2017 14:48
+Element 4: Ext. Sensor Power:100 V / 200 mV Range: 2 kW @ 60 Hz:Yokogawa WT3000E*0,546.73,11/22/2017 14:48
+Element 4: Ext. Sensor Power:100 V / 200 mV Range: 2 kW @ 1 kHz:Yokogawa WT3000E*0,534.19,11/22/2017 14:48
+Element 4: Ext. Sensor Power:50 V / 200 mV Range: 1 kW @ 5 kHz:Yokogawa WT3000E*0,133.15,11/22/2017 14:49
+Element 4: Ext. Sensor Power:100 V / 1 V Range: 3 kW @ 10 Hz:Yokogawa WT3000E*0,1.6,11/22/2017 14:49
+Element 4: Ext. Sensor Power:100 V / 1 V Range: 10 kW @ 60 Hz:Yokogawa WT3000E*0,504.4,11/22/2017 14:49
+Element 4: Ext. Sensor Power:100 V / 1 V Range: 10 kW @ 1 kHz:Yokogawa WT3000E*0,532.2,11/22/2017 14:49
+Element 4: Ext. Sensor Power:100 V / 1 V Range: 10 kW @ 10 kHz:Yokogawa WT3000E*0,520.2,11/22/2017 14:49
+Element 4: Ext. Sensor Power:100 V / 2 V Range: 20 kW @ 10 kHz:Yokogawa WT3000E*0,542.5,11/22/2017 14:50
+Element 4: Ext. Sensor Power:100 V / 5 V Range: 50 kW @ 60 Hz:Yokogawa WT3000E*0,-328.2,11/22/2017 14:50
+Element 4: Ext. Sensor Power:100 V / 5 V Range: 50 kW @ 10 kHz:Yokogawa WT3000E*0,-471.1,11/22/2017 14:50

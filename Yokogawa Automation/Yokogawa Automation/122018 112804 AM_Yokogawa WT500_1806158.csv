@@ -1,0 +1,398 @@
+Element 1: DC Volts:15 V Range: 14 V:Yokogawa WT500*0,13.995,1/2/2018 11:30:52 AM
+Element 1: DC Volts:15 V Range: -14 V:Yokogawa WT500*0,-13.994,1/2/2018 11:30:57 AM
+Element 1: DC Volts:30 V Range: 27 V:Yokogawa WT500*0,26.989,1/2/2018 11:31:02 AM
+Element 1: DC Volts:30 V Range: -27 V:Yokogawa WT500*0,-26.99,1/2/2018 11:31:08 AM
+Element 1: DC Volts:60 V Range: 60 V:Yokogawa WT500*0,59.979,1/2/2018 11:31:14 AM
+Element 1: DC Volts:60 V Range: -60 V:Yokogawa WT500*0,-59.978,1/2/2018 11:31:20 AM
+Element 1: DC Volts:60 V Range: 40 V:Yokogawa WT500*0,39.986,1/2/2018 11:31:27 AM
+Element 1: DC Volts:60 V Range: -40 V:Yokogawa WT500*0,-39.986,1/2/2018 11:31:33 AM
+Element 1: DC Volts:60 V Range: 20 V:Yokogawa WT500*0,19.994,1/2/2018 11:31:39 AM
+Element 1: DC Volts:60 V Range: -20 V:Yokogawa WT500*0,-19.992,1/2/2018 11:31:44 AM
+Element 1: DC Volts:60 V Range: 5 V:Yokogawa WT500*0,4.999,1/2/2018 11:31:50 AM
+Element 1: DC Volts:60 V Range: -5 V:Yokogawa WT500*0,-4.998,1/2/2018 11:31:54 AM
+Element 1: DC Volts:100 V Range: 90 V:Yokogawa WT500*0,89.97,1/2/2018 11:32:01 AM
+Element 1: DC Volts:100 V Range: -90 V:Yokogawa WT500*0,-89.97,1/2/2018 11:32:08 AM
+Element 1: DC Volts:150 V Range: 135 V:Yokogawa WT500*0,134.96,1/2/2018 11:32:14 AM
+Element 1: DC Volts:150 V Range: -135 V:Yokogawa WT500*0,-134.96,1/2/2018 11:32:21 AM
+Element 1: DC Volts:300 V Range: 270 V:Yokogawa WT500*0,269.92,1/2/2018 11:32:27 AM
+Element 1: DC Volts:300 V Range: -270 V:Yokogawa WT500*0,-269.92,1/2/2018 11:32:34 AM
+Element 1: DC Volts:600 V Range: 540 V:Yokogawa WT500*0,539.86,1/2/2018 11:32:42 AM
+Element 1: DC Volts:600 V Range: -540 V:Yokogawa WT500*0,-539.86,1/2/2018 11:32:50 AM
+Element 1: DC Volts:1 kV Range: 0.9 kV:Yokogawa WT500*0,0.8998,1/2/2018 11:32:59 AM
+Element 1: DC Volts:1 kV Range: -0.9 kV:Yokogawa WT500*0,-0.8998,1/2/2018 11:33:08 AM
+Element 1: AC Volts:15 V Range: 14 V @ 60 Hz:Yokogawa WT500*0,13.995,1/2/2018 11:33:20 AM
+Element 1: AC Volts:15 V Range: 14 V @ 1 kHz:Yokogawa WT500*0,13.998,1/2/2018 11:33:26 AM
+Element 1: AC Volts:15 V Range: 14 V @ 10 kHz:Yokogawa WT500*0,13.997,1/2/2018 11:33:32 AM
+Element 1: AC Volts:15 V Range: 14 V @ 100 kHz:Yokogawa WT500*0,13.973,1/2/2018 11:33:38 AM
+Element 1: AC Volts:30 V Range: 27 V @ 10 Hz:Yokogawa WT500*0,26.988,1/2/2018 11:33:46 AM
+Element 1: AC Volts:30 V Range: 27 V @ 60 Hz:Yokogawa WT500*0,26.994,1/2/2018 11:33:52 AM
+Element 1: AC Volts:30 V Range: 27 V @ 1 kHz:Yokogawa WT500*0,26.991,1/2/2018 11:33:58 AM
+Element 1: AC Volts:30 V Range: 27 V @ 1 kHz:Yokogawa WT500*0,26.993,1/2/2018 11:34:04 AM
+Element 1: AC Volts:60 V Range: 54 V @ 60 Hz:Yokogawa WT500*0,53.984,1/2/2018 11:34:13 AM
+Element 1: AC Volts:60 V Range: 54 V @ 1 kHz:Yokogawa WT500*0,53.982,1/2/2018 11:34:19 AM
+Element 1: AC Volts:100 V Range: 30 V @ 10 Hz:Yokogawa WT500*0,29.99,1/2/2018 11:34:27 AM
+Element 1: AC Volts:100 V Range: 100 V @ 60 Hz:Yokogawa WT500*0,99.98,1/2/2018 11:34:37 AM
+Element 1: AC Volts:100 V Range: 50 V @ 60 Hz:Yokogawa WT500*0,49.99,1/2/2018 11:34:43 AM
+Element 1: AC Volts:100 V Range: 10 V @ 60 Hz:Yokogawa WT500*0,10,1/2/2018 11:34:51 AM
+Element 1: AC Volts:100 V Range: 1 V @ 60 Hz:Yokogawa WT500*0,1,1/2/2018 11:34:59 AM
+Element 1: AC Volts:100 V Range: 90 V @ 1 kHz:Yokogawa WT500*0,89.97,1/2/2018 11:35:08 AM
+Element 1: AC Volts:100 V Range: 90 V @ 10 kHz:Yokogawa WT500*0,89.97,1/2/2018 11:35:18 AM
+Element 1: AC Volts:100 V Range: 90 V @ 100 kHz:Yokogawa WT500*0,89.79,1/2/2018 11:35:28 AM
+Element 1: AC Volts:150 V Range: 30 V @ 10 Hz:Yokogawa WT500*0,29.99,1/2/2018 11:35:36 AM
+Element 1: AC Volts:150 V Range: 135 V @ 60 Hz:Yokogawa WT500*0,134.98,1/2/2018 11:35:46 AM
+Element 1: AC Volts:150 V Range: 135 V @ 1 kHz:Yokogawa WT500*0,134.96,1/2/2018 11:35:52 AM
+Element 1: AC Volts:150 V Range: 135 V @ 10 kHz:Yokogawa WT500*0,134.97,1/2/2018 11:36:01 AM
+Element 1: AC Volts:150 V Range: 135 V @ 100 kHz:Yokogawa WT500*0,134.73,1/2/2018 11:36:11 AM
+Element 1: AC Volts:300 V Range: 270 V @ 60 Hz:Yokogawa WT500*0,269.92,1/2/2018 11:36:21 AM
+Element 1: AC Volts:300 V Range: 270 V @ 1 kHz:Yokogawa WT500*0,269.93,1/2/2018 11:36:26 AM
+Element 1: AC Volts:600 V Range: 540 V @ 60 Hz:Yokogawa WT500*0,539.85,1/2/2018 11:36:37 AM
+Element 1: AC Volts:600 V Range: 540 V @ 1 kHz:Yokogawa WT500*0,539.9,1/2/2018 11:36:43 AM
+Element 1: AC Volts:1 kV Range: 0.9 kV @ 60 Hz:Yokogawa WT500*0,0.8999,1/2/2018 11:36:50 AM
+Element 1: AC Volts:1 kV Range: 0.9 kV @ 1 kHz:Yokogawa WT500*0,0.8999,1/2/2018 11:36:56 AM
+Element 1: DC Current:500 mA Range: 450 mA:Yokogawa WT500*0,0,1/2/2018 11:39:10 AM
+Element 1: DC Current:500 mA Range: -450 mA:Yokogawa WT500*0,0,1/2/2018 11:39:17 AM
+Element 1: DC Current:1 A Range: 0.9 A:Yokogawa WT500*0,0,1/2/2018 11:39:23 AM
+Element 1: DC Current:1 A Range: -0.9 A:Yokogawa WT500*0,0,1/2/2018 11:39:30 AM
+Element 1: DC Current:2 A Range: 1.8 A:Yokogawa WT500*0,-0.0001,1/2/2018 11:39:36 AM
+Element 1: DC Current:2 A Range: -1.8 A:Yokogawa WT500*0,0,1/2/2018 11:39:43 AM
+Element 1: DC Current:5 A Range: 5 A:Yokogawa WT500*0,4.9975,1/2/2018 11:41:16 AM
+Element 1: DC Current:5 A Range: -5 A:Yokogawa WT500*0,-4.9976,1/2/2018 11:41:21 AM
+Element 1: DC Current:5 A Range: 2.5 A:Yokogawa WT500*0,2.4987,1/2/2018 11:41:53 AM
+Element 1: DC Current:5 A Range: -2.5 A:Yokogawa WT500*0,-2.4987,1/2/2018 11:41:58 AM
+Element 1: DC Current:5 A Range: 0.5 A:Yokogawa WT500*0,0.4997,1/2/2018 11:42:03 AM
+Element 1: DC Current:5 A Range: -0.5 A:Yokogawa WT500*0,-0.4998,1/2/2018 11:42:08 AM
+Element 1: DC Current:10 A Range: 9 A:Yokogawa WT500*0,8.995,1/2/2018 11:42:22 AM
+Element 1: DC Current:10 A Range: -9 A:Yokogawa WT500*0,-8.994,1/2/2018 11:42:27 AM
+Element 1: DC Current:20 A Range: 18 A:Yokogawa WT500*0,17.987,1/2/2018 11:42:32 AM
+Element 1: DC Current:20 A Range: -18 A:Yokogawa WT500*0,-17.988,1/2/2018 11:42:37 AM
+Element 1: DC Current:40 A Range: 18 A:Yokogawa WT500*0,17.993,1/2/2018 11:42:42 AM
+Element 1: DC Current:40 A Range: -18 A:Yokogawa WT500*0,-17.99,1/2/2018 11:42:47 AM
+Element 1: AC Current:500 mA Range: 450 mA @ 60 Hz:Yokogawa WT500*0,0.4499,1/2/2018 11:43:10 AM
+Element 1: AC Current:500 mA Range: 450 mA @ 1 kHz:Yokogawa WT500*0,0.4501,1/2/2018 11:43:17 AM
+Element 1: AC Current:500 mA Range: 450 mA @ 10 kHz:Yokogawa WT500*0,0.452,1/2/2018 11:43:25 AM
+Element 1: AC Current:1 A Range: 0.9 A @ 60 Hz:Yokogawa WT500*0,0.8999,1/2/2018 11:43:33 AM
+Element 1: AC Current:1 A Range: 0.9 A @ 1 kHz:Yokogawa WT500*0,0.9001,1/2/2018 11:43:40 AM
+Element 1: AC Current:1 A Range: 0.9 A @ 10 kHz:Yokogawa WT500*0,0.9032,1/2/2018 11:43:48 AM
+Element 1: AC Current:2 A Range: 1.8 A @ 60 Hz:Yokogawa WT500*0,1.7998,1/2/2018 11:43:56 AM
+Element 1: AC Current:2 A Range: 1.8 A @ 1 kHz:Yokogawa WT500*0,1.7999,1/2/2018 11:44:03 AM
+Element 1: AC Current:2 A Range: 1 A @ 10 kHz:Yokogawa WT500*0,1.0032,1/2/2018 11:44:11 AM
+Element 1: AC Current:5 A Range: 2 A @ 10 Hz:Yokogawa WT500*0,1.9991,1/2/2018 11:44:19 AM
+Element 1: AC Current:5 A Range: 5 A @ 60 Hz:Yokogawa WT500*0,4.9993,1/2/2018 11:44:35 AM
+Element 1: AC Current:5 A Range: 2.5 A @ 60 Hz:Yokogawa WT500*0,2.4996,1/2/2018 11:44:55 AM
+Element 1: AC Current:5 A Range: 0.5 A @ 60 Hz:Yokogawa WT500*0,0.5,1/2/2018 11:45:03 AM
+Element 1: AC Current:5 A Range: 0.05 A @ 60 Hz:Yokogawa WT500*0,0.05,1/2/2018 11:45:12 AM
+Element 1: AC Current:5 A Range: 4.5 A @ 1 kHz:Yokogawa WT500*0,4.4996,1/2/2018 11:50:04 AM
+Element 1: AC Current:5 A Range: 2 A @ 10 kHz:Yokogawa WT500*0,2.002,1/2/2018 11:50:40 AM
+Element 1: AC Current:5 A Range: 0.3 A @ 30 kHz:Yokogawa WT500*0,0.2994,1/2/2018 11:50:49 AM
+Element 1: AC Current:10 A Range: 2 A @ 10 Hz:Yokogawa WT500*0,1.999,1/2/2018 11:50:57 AM
+Element 1: AC Current:10 A Range: 9 A @ 60 Hz:Yokogawa WT500*0,8.998,1/2/2018 11:51:18 AM
+Element 1: AC Current:10 A Range: 9 A @ 1 kHz:Yokogawa WT500*0,8.998,1/2/2018 11:51:26 AM
+Element 1: AC Current:10 A Range: 2 A @ 10 kHz:Yokogawa WT500*0,2.002,1/2/2018 11:51:54 AM
+Element 1: AC Current:10 A Range: 0.3 A @ 30 kHz:Yokogawa WT500*0,0.299,1/2/2018 11:52:02 AM
+Element 1: AC Current:20 A Range: 18 A @ 60 Hz:Yokogawa WT500*0,17.994,1/2/2018 11:52:21 AM
+Element 1: AC Current:20 A Range: 18 A @ 1 kHz:Yokogawa WT500*0,17.994,1/2/2018 11:52:28 AM
+Element 1: AC Current:20 A Range: 2 A @ 10 kHz:Yokogawa WT500*0,2.002,1/2/2018 11:52:46 AM
+Element 1: AC Current:20 A Range: 0.3 A @ 30 kHz:Yokogawa WT500*0,0.299,1/2/2018 11:52:55 AM
+Element 1: AC Current:40 A Range: 20 A @ 60 Hz:Yokogawa WT500*0,19.992,1/2/2018 11:53:13 AM
+Element 1: AC Current:40 A Range: 20 A @ 1 kHz:Yokogawa WT500*0,19.996,1/2/2018 11:53:20 AM
+Element 1: Ext. Sensor Current:50 mV Range: 4.5 A @ 60 Hz:Yokogawa WT500*0,0.8451,1/2/2018 12:03:37 PM
+Element 1: Ext. Sensor Current:50 mV Range: 4.5 A @ 1 kHz:Yokogawa WT500*0,4.4288,1/2/2018 12:03:43 PM
+Element 1: Ext. Sensor Current:50 mV Range: 4.5 A @ 100 kHz:Yokogawa WT500*0,4.5583,1/2/2018 12:03:50 PM
+Element 1: Ext. Sensor Current:100 mV Range: 9 A @ 60 Hz:Yokogawa WT500*0,3.032,1/2/2018 12:03:56 PM
+Element 1: Ext. Sensor Current:100 mV Range: 9 A @ 1 kHz:Yokogawa WT500*0,8.777,1/2/2018 12:04:02 PM
+Element 1: Ext. Sensor Current:200 mV Range: 18 A @ 60 Hz:Yokogawa WT500*0,5.662,1/2/2018 12:04:08 PM
+Element 1: Ext. Sensor Current:200 mV Range: 18 A @ 1 kHz:Yokogawa WT500*0,17.507,1/2/2018 12:04:14 PM
+Element 1: Ext. Sensor Current:200 mV Range: 18 A @ 100 kHz:Yokogawa WT500*0,18.041,1/2/2018 12:04:20 PM
+Element 1: Ext. Sensor Current:1 V Range: 90 A:Yokogawa WT500*0,3.92,1/2/2018 12:04:27 PM
+Element 1: Ext. Sensor Current:1 V Range: -90 A:Yokogawa WT500*0,-4.02,1/2/2018 12:04:32 PM
+Element 1: Ext. Sensor Current:1 V Range: 90 A @ 10 Hz:Yokogawa WT500*0,6.8,1/2/2018 12:04:39 PM
+Element 1: Ext. Sensor Current:1 V Range: 90 A @ 60 Hz:Yokogawa WT500*0,24.35,1/2/2018 12:04:45 PM
+Element 1: Ext. Sensor Current:1 V Range: 90 A @ 1 kHz:Yokogawa WT500*0,87.45,1/2/2018 12:04:50 PM
+Element 1: Ext. Sensor Current:1 V Range: 90 A @ 10 kHz:Yokogawa WT500*0,89.61,1/2/2018 12:04:56 PM
+Element 1: Ext. Sensor Current:1 V Range: 90 A @ 20 kHz:Yokogawa WT500*0,89.64,1/2/2018 12:05:02 PM
+Element 1: Ext. Sensor Current:1 V Range: 90 A @ 100 kHz:Yokogawa WT500*0,89.48,1/2/2018 12:05:08 PM
+Element 1: Ext. Sensor Current:5 V Range: 300 A @ 100 kHz:Yokogawa WT500*0,298.38,1/2/2018 12:05:15 PM
+Element 1: Ext. Sensor Current:10 V Range: 0.9 kA @ 60 Hz:Yokogawa WT500*0,262.1,1/2/2018 12:05:22 PM
+Element 1: Power DC:15 V / 5 A Range: 75 W:Yokogawa WT500*0,74.96,1/2/2018 12:06:07 PM
+Element 1: Power DC:15 V / 5 A Range: -75 W:Yokogawa WT500*0,-74.96,1/2/2018 12:06:13 PM
+Element 1: Power DC:30 V / 5 A Range: 150 W:Yokogawa WT500*0,149.92,1/2/2018 12:06:19 PM
+Element 1: Power DC:30 V / 5 A Range: -150 W:Yokogawa WT500*0,-149.91,1/2/2018 12:06:25 PM
+Element 1: Power DC:60 V / 5 A Range: 300 W:Yokogawa WT500*0,299.84,1/2/2018 12:06:34 PM
+Element 1: Power DC:60 V / 5 A Range: -300 W:Yokogawa WT500*0,-299.84,1/2/2018 12:06:41 PM
+Element 1: Power DC:100 V / 5 A Range: 500 W:Yokogawa WT500*0,499.74,1/2/2018 12:06:48 PM
+Element 1: Power DC:100 V / 5 A Range: -500 W:Yokogawa WT500*0,-499.73,1/2/2018 12:06:55 PM
+Element 1: Power DC:100 V / 5 A Range: 250 W:Yokogawa WT500*0,249.87,1/2/2018 12:07:02 PM
+Element 1: Power DC:100 V / 5 A Range: -250 W:Yokogawa WT500*0,-249.86,1/2/2018 12:07:10 PM
+Element 1: Power DC:100 V / 5 A Range: 50 W:Yokogawa WT500*0,49.98,1/2/2018 12:07:17 PM
+Element 1: Power DC:100 V / 5 A Range: -50 W:Yokogawa WT500*0,-49.96,1/2/2018 12:07:23 PM
+Element 1: Power DC:100 V / 5 A Range: 5 W:Yokogawa WT500*0,5.01,1/2/2018 12:07:30 PM
+Element 1: Power DC:100 V / 5 A Range: -5 W:Yokogawa WT500*0,-4.99,1/2/2018 12:07:37 PM
+Element 1: Power DC:150 V / 5 A Range: 750 W:Yokogawa WT500*0,0.7496,1/2/2018 12:07:46 PM
+Element 1: Power DC:150 V / 5 A Range: -750 W:Yokogawa WT500*0,-0.7496,1/2/2018 12:07:53 PM
+Element 1: Power DC:300 V / 5 A Range: 1.5 kW:Yokogawa WT500*0,1.4993,1/2/2018 12:08:01 PM
+Element 1: Power DC:300 V / 5 A Range: -1.5 kW:Yokogawa WT500*0,-1.4993,1/2/2018 12:08:08 PM
+Element 1: Power DC:600 V / 5 A Range: 3 kW:Yokogawa WT500*0,2.9986,1/2/2018 12:08:18 PM
+Element 1: Power DC:600 V / 5 A Range: -3 kW:Yokogawa WT500*0,-2.9986,1/2/2018 12:08:27 PM
+Element 1: Power DC:1 kV / 5 A Range: 5 kW:Yokogawa WT500*0,4.9983,1/2/2018 12:08:36 PM
+Element 1: Power DC:1 kV / 5 A Range: -5 kW:Yokogawa WT500*0,-4.9982,1/2/2018 12:08:47 PM
+Element 1: Power AC:15 V / 5 A Range: 0 W @ 60 Hz:Yokogawa WT500*0,0,1/2/2018 12:08:56 PM
+Element 1: Power AC:15 V / 5 A Range: 75 W @ 60 Hz:Yokogawa WT500*0,74.98,1/2/2018 12:09:06 PM
+Element 1: Power AC:15 V / 5 A Range: 75 W @ 1 kHz:Yokogawa WT500*0,74.98,1/2/2018 12:09:14 PM
+Element 1: Power AC:15 V / 5 A Range: 30 W @ 5 kHz:Yokogawa WT500*0,29.98,1/2/2018 12:10:19 PM
+Element 1: Power AC:30 V / 5 A Range: 150 W @ 60 Hz:Yokogawa WT500*0,149.94,1/2/2018 12:10:39 PM
+Element 1: Power AC:30 V / 5 A Range: 150 W @ 1 kHz:Yokogawa WT500*0,149.94,1/2/2018 12:10:48 PM
+Element 1: Power AC:60 V / 5 A Range: 300 W @ 60 Hz:Yokogawa WT500*0,299.91,1/2/2018 12:11:01 PM
+Element 1: Power AC:60 V / 5 A Range: 300 W @ 1 kHz:Yokogawa WT500*0,299.92,1/2/2018 12:11:09 PM
+Element 1: Power AC:100 V / 5 A Range: 500 W @ 45 Hz:Yokogawa WT500*0,499.85,1/2/2018 12:11:20 PM
+Element 1: Power AC:100 V / 5 A Range: 500 W @ 60 Hz:Yokogawa WT500*0,499.84,1/2/2018 12:11:28 PM
+Element 1: Power AC:100 V / 5 A Range: 250 W @ 60 Hz:Yokogawa WT500*0,249.94,1/2/2018 12:11:37 PM
+Element 1: Power AC:100 V / 5 A Range: 50 W @ 60 Hz:Yokogawa WT500*0,49.99,1/2/2018 12:11:49 PM
+Element 1: Power AC:100 V / 5 A Range: 5 W @ 60 Hz:Yokogawa WT500*0,5,1/2/2018 12:11:59 PM
+Element 1: Power AC:100 V / 5 A Range: 0 W @ 60 Hz:Yokogawa WT500*0,0,1/2/2018 12:12:04 PM
+Element 1: Power AC:100 V / 5 A Range: 500 W @ 1 kHz:Yokogawa WT500*0,499.86,1/2/2018 12:12:16 PM
+Element 1: Power AC:100 V / 5 A Range: 200 W @ 5 kHz:Yokogawa WT500*0,199.85,1/2/2018 12:13:50 PM
+Element 1: Power AC:150 V / 5 A Range: 0.75 kW @ 45 Hz:Yokogawa WT500*0,0.7498,1/2/2018 12:14:12 PM
+Element 1: Power AC:150 V / 5 A Range: 0.75 kW @ 60 Hz:Yokogawa WT500*0,0.7497,1/2/2018 12:14:21 PM
+Element 1: Power AC:150 V / 5 A Range: 0.75 kW @ 1 kHz:Yokogawa WT500*0,0.7498,1/2/2018 12:14:30 PM
+Element 1: Power AC:150 V / 5 A Range: 0.3 kW @ 5 kHz:Yokogawa WT500*0,299.8,1/2/2018 12:14:51 PM
+Element 1: Power AC:150 V / 5 A Range: 0 kW @ 60 Hz:Yokogawa WT500*0,0,1/2/2018 12:15:06 PM
+Element 1: Power AC:300 V / 5 A Range: 1.5 kW @ 60 Hz:Yokogawa WT500*0,1.4995,1/2/2018 12:15:18 PM
+Element 1: Power AC:300 V / 5 A Range: 1.5 kW @ 1 kHz:Yokogawa WT500*0,1.4995,1/2/2018 12:15:26 PM
+Element 1: Power AC:600 V / 5 A Range: 3 kW @ 60 Hz:Yokogawa WT500*0,2.9993,1/2/2018 12:15:41 PM
+Element 1: Power AC:600 V / 5 A Range: 3 kW @ 1 kHz:Yokogawa WT500*0,2.9995,1/2/2018 12:15:49 PM
+Element 1: Power AC:1000 V / 5 A Range: 5 kW @ 60 Hz:Yokogawa WT500*0,4.9991,1/2/2018 12:15:59 PM
+Element 1: Power AC:1000 V / 5 A Range: 5 kW @ 1 kHz:Yokogawa WT500*0,4.9993,1/2/2018 12:16:08 PM
+Element 1: Power AC:100 V / 500 mA Range: 50 W @ 60 Hz:Yokogawa WT500*0,49.992,1/2/2018 12:16:29 PM
+Element 1: Power AC:100 V / 500 mA Range: 50 W @ 1 kHz:Yokogawa WT500*0,50.009,1/2/2018 12:16:38 PM
+Element 1: Power AC:100 V / 500 mA Range: 50 W @ 5 kHz:Yokogawa WT500*0,50.044,1/2/2018 12:16:50 PM
+Element 1: Power AC:100 V / 1 A Range: 100 W @ 60 Hz:Yokogawa WT500*0,99.97,1/2/2018 12:17:02 PM
+Element 1: Power AC:100 V / 1 A Range: 100 W @ 1 kHz:Yokogawa WT500*0,99.99,1/2/2018 12:17:11 PM
+Element 1: Power AC:100 V / 1 A Range: 100 W @ 5 kHz:Yokogawa WT500*0,100.02,1/2/2018 12:17:23 PM
+Element 1: Power AC:100 V / 2 A Range: 200 W @ 60 Hz:Yokogawa WT500*0,199.95,1/2/2018 12:17:36 PM
+Element 1: Power AC:100 V / 2 A Range: 200 W @ 1 kHz:Yokogawa WT500*0,199.95,1/2/2018 12:17:44 PM
+Element 1: Power AC:100 V / 2 A Range: 200 W @ 5 kHz:Yokogawa WT500*0,199.9,1/2/2018 12:17:56 PM
+Element 1: Power AC:100 V / 5 A Range: 500 W @ 60 Hz:Yokogawa WT500*0,499.86,1/2/2018 12:18:17 PM
+Element 1: Power AC:100 V / 5 A Range: 500 W @ 1 kHz:Yokogawa WT500*0,499.85,1/2/2018 12:18:26 PM
+Element 1: Power AC:100 V / 10 A Range: 1 kW @ 60 Hz:Yokogawa WT500*0,0.9996,1/2/2018 12:18:35 PM
+Element 1: Power AC:100 V / 10 A Range: 1 kW @ 1 kHz:Yokogawa WT500*0,0.9996,1/2/2018 12:18:43 PM
+Element 1: Power AC:100 V / 10 A Range: 0.2 kW @ 5 kHz:Yokogawa WT500*0,199.8,1/2/2018 12:19:04 PM
+Element 1: Power AC:100 V / 20 A Range: 2 kW @ 60 Hz:Yokogawa WT500*0,1.9991,1/2/2018 12:19:25 PM
+Element 1: Power AC:100 V / 20 A Range: 2 kW @ 1 kHz:Yokogawa WT500*0,1.9992,1/2/2018 12:19:34 PM
+Element 1: Power AC:100 V / 20 A Range: 0.2 kW @ 5 kHz:Yokogawa WT500*0,199.8,1/2/2018 12:19:53 PM
+Element 1: Power AC:100 V / 40 A Range: 2 kW @ 60 Hz:Yokogawa WT500*0,1.9991,1/2/2018 12:20:14 PM
+Element 1: Power AC:100 V / 40 A Range: 2 kW @ 1 kHz:Yokogawa WT500*0,1.9994,1/2/2018 12:20:23 PM
+Element 1: Ext. Sensor Power:100 V / 1 V Range: 10 kW:Yokogawa WT500*0,-4,1/2/2018 12:23:07 PM
+Element 1: Ext. Sensor Power:100 V / 1 V Range: -10 kW:Yokogawa WT500*0,4,1/2/2018 12:23:14 PM
+Element 1: Ext. Sensor Power:100 V / 50 mV Range: 500 W @ 60 Hz:Yokogawa WT500*0,-1.18,1/2/2018 12:23:28 PM
+Element 1: Ext. Sensor Power:100 V / 100 mV Range: 1 kW @ 60 Hz:Yokogawa WT500*0,-3,1/2/2018 12:23:38 PM
+Element 1: Ext. Sensor Power:100 V / 100 mV Range: 1 kW @ 1 kHz:Yokogawa WT500*0,0,1/2/2018 12:23:46 PM
+Element 1: Ext. Sensor Power:100 V / 200 mV Range: 0 kW @ 60 Hz:Yokogawa WT500*0,-3.2,1/2/2018 12:23:56 PM
+Element 1: Ext. Sensor Power:100 V / 200 mV Range: 2 kW @ 60 Hz:Yokogawa WT500*0,-5,1/2/2018 12:24:00 PM
+Element 1: Ext. Sensor Power:100 V / 200 mV Range: 2 kW @ 1 kHz:Yokogawa WT500*0,-148.8,1/2/2018 12:24:09 PM
+Element 1: Ext. Sensor Power:100 V / 200 mV Range: 1 kW @ 5 kHz:Yokogawa WT500*0,0,1/2/2018 12:24:21 PM
+Element 1: Ext. Sensor Power:100 V / 1 V Range: 3 kW @ 10 Hz:Yokogawa WT500*0,-1,1/2/2018 12:24:33 PM
+Element 1: Ext. Sensor Power:100 V / 1 V Range: 10 kW @ 60 Hz:Yokogawa WT500*0,-17,1/2/2018 12:24:47 PM
+Element 1: Ext. Sensor Power:100 V / 1 V Range: 10 kW @ 1 kHz:Yokogawa WT500*0,-431,1/2/2018 12:24:56 PM
+Element 1: Ext. Sensor Power:100 V / 1 V Range: 10 kW @ 10 kHz:Yokogawa WT500*0,0,1/2/2018 12:25:09 PM
+Element 1: Ext. Sensor Power:100 V / 2 V Range: 20 kW @ 10 kHz:Yokogawa WT500*0,-12.91,1/2/2018 12:25:20 PM
+Element 1: Ext. Sensor Power:100 V / 5 V Range: 50 kW @ 60 Hz:Yokogawa WT500*0,-110,1/2/2018 12:25:36 PM
+Element 1: Ext. Sensor Power:100 V / 5 V Range: 50 kW @ 10 kHz:Yokogawa WT500*0,-21.342,1/2/2018 12:25:49 PM
+Element 2: DC Volts:15 V Range: 14 V:Yokogawa WT500*0,13.994,1/2/2018 12:30:27 PM
+Element 2: DC Volts:15 V Range: -14 V:Yokogawa WT500*0,-13.993,1/2/2018 12:30:32 PM
+Element 2: DC Volts:30 V Range: 27 V:Yokogawa WT500*0,26.989,1/2/2018 12:30:37 PM
+Element 2: DC Volts:30 V Range: -27 V:Yokogawa WT500*0,-26.988,1/2/2018 12:30:42 PM
+Element 2: DC Volts:60 V Range: 60 V:Yokogawa WT500*0,59.973,1/2/2018 12:30:49 PM
+Element 2: DC Volts:60 V Range: -60 V:Yokogawa WT500*0,-59.975,1/2/2018 12:30:55 PM
+Element 2: DC Volts:60 V Range: 40 V:Yokogawa WT500*0,39.982,1/2/2018 12:31:02 PM
+Element 2: DC Volts:60 V Range: -40 V:Yokogawa WT500*0,-39.984,1/2/2018 12:31:08 PM
+Element 2: DC Volts:60 V Range: 20 V:Yokogawa WT500*0,19.991,1/2/2018 12:31:14 PM
+Element 2: DC Volts:60 V Range: -20 V:Yokogawa WT500*0,-19.993,1/2/2018 12:31:19 PM
+Element 2: DC Volts:60 V Range: 5 V:Yokogawa WT500*0,4.996,1/2/2018 12:31:24 PM
+Element 2: DC Volts:60 V Range: -5 V:Yokogawa WT500*0,-5,1/2/2018 12:31:29 PM
+Element 2: DC Volts:100 V Range: 90 V:Yokogawa WT500*0,89.96,1/2/2018 12:31:36 PM
+Element 2: DC Volts:100 V Range: -90 V:Yokogawa WT500*0,-89.96,1/2/2018 12:31:42 PM
+Element 2: DC Volts:150 V Range: 135 V:Yokogawa WT500*0,134.95,1/2/2018 12:31:49 PM
+Element 2: DC Volts:150 V Range: -135 V:Yokogawa WT500*0,-134.94,1/2/2018 12:31:56 PM
+Element 2: DC Volts:300 V Range: 270 V:Yokogawa WT500*0,269.9,1/2/2018 12:32:02 PM
+Element 2: DC Volts:300 V Range: -270 V:Yokogawa WT500*0,-269.9,1/2/2018 12:32:09 PM
+Element 2: DC Volts:600 V Range: 540 V:Yokogawa WT500*0,539.81,1/2/2018 12:32:17 PM
+Element 2: DC Volts:600 V Range: -540 V:Yokogawa WT500*0,-539.82,1/2/2018 12:32:25 PM
+Element 2: DC Volts:1 kV Range: 0.9 kV:Yokogawa WT500*0,0.8997,1/2/2018 12:32:34 PM
+Element 2: DC Volts:1 kV Range: -0.9 kV:Yokogawa WT500*0,-0.8998,1/2/2018 12:32:43 PM
+Element 2: AC Volts:15 V Range: 14 V @ 60 Hz:Yokogawa WT500*0,13.997,1/2/2018 12:32:55 PM
+Element 2: AC Volts:15 V Range: 14 V @ 1 kHz:Yokogawa WT500*0,13.994,1/2/2018 12:33:01 PM
+Element 2: AC Volts:15 V Range: 14 V @ 10 kHz:Yokogawa WT500*0,13.997,1/2/2018 12:33:07 PM
+Element 2: AC Volts:15 V Range: 14 V @ 100 kHz:Yokogawa WT500*0,13.978,1/2/2018 12:33:13 PM
+Element 2: AC Volts:30 V Range: 27 V @ 10 Hz:Yokogawa WT500*0,26.989,1/2/2018 12:33:19 PM
+Element 2: AC Volts:30 V Range: 27 V @ 60 Hz:Yokogawa WT500*0,26.993,1/2/2018 12:33:25 PM
+Element 2: AC Volts:30 V Range: 27 V @ 1 kHz:Yokogawa WT500*0,26.99,1/2/2018 12:33:31 PM
+Element 2: AC Volts:30 V Range: 27 V @ 1 kHz:Yokogawa WT500*0,26.992,1/2/2018 12:33:37 PM
+Element 2: AC Volts:60 V Range: 54 V @ 60 Hz:Yokogawa WT500*0,53.983,1/2/2018 12:33:47 PM
+Element 2: AC Volts:60 V Range: 54 V @ 1 kHz:Yokogawa WT500*0,53.98,1/2/2018 12:33:53 PM
+Element 2: AC Volts:100 V Range: 30 V @ 10 Hz:Yokogawa WT500*0,29.99,1/2/2018 12:34:02 PM
+Element 2: AC Volts:100 V Range: 100 V @ 60 Hz:Yokogawa WT500*0,99.97,1/2/2018 12:34:12 PM
+Element 2: AC Volts:100 V Range: 50 V @ 60 Hz:Yokogawa WT500*0,49.99,1/2/2018 12:34:18 PM
+Element 2: AC Volts:100 V Range: 10 V @ 60 Hz:Yokogawa WT500*0,10,1/2/2018 12:34:26 PM
+Element 2: AC Volts:100 V Range: 1 V @ 60 Hz:Yokogawa WT500*0,1,1/2/2018 12:34:33 PM
+Element 2: AC Volts:100 V Range: 90 V @ 1 kHz:Yokogawa WT500*0,89.97,1/2/2018 12:34:43 PM
+Element 2: AC Volts:100 V Range: 90 V @ 10 kHz:Yokogawa WT500*0,89.97,1/2/2018 12:34:53 PM
+Element 2: AC Volts:100 V Range: 90 V @ 100 kHz:Yokogawa WT500*0,89.74,1/2/2018 12:35:02 PM
+Element 2: AC Volts:150 V Range: 30 V @ 10 Hz:Yokogawa WT500*0,29.98,1/2/2018 12:35:10 PM
+Element 2: AC Volts:150 V Range: 135 V @ 60 Hz:Yokogawa WT500*0,134.96,1/2/2018 12:35:20 PM
+Element 2: AC Volts:150 V Range: 135 V @ 1 kHz:Yokogawa WT500*0,134.97,1/2/2018 12:35:26 PM
+Element 2: AC Volts:150 V Range: 135 V @ 10 kHz:Yokogawa WT500*0,134.96,1/2/2018 12:35:35 PM
+Element 2: AC Volts:150 V Range: 135 V @ 100 kHz:Yokogawa WT500*0,134.77,1/2/2018 12:35:45 PM
+Element 2: AC Volts:300 V Range: 270 V @ 60 Hz:Yokogawa WT500*0,269.93,1/2/2018 12:35:55 PM
+Element 2: AC Volts:300 V Range: 270 V @ 1 kHz:Yokogawa WT500*0,269.93,1/2/2018 12:36:01 PM
+Element 2: AC Volts:600 V Range: 540 V @ 60 Hz:Yokogawa WT500*0,539.85,1/2/2018 12:36:11 PM
+Element 2: AC Volts:600 V Range: 540 V @ 1 kHz:Yokogawa WT500*0,539.87,1/2/2018 12:36:17 PM
+Element 2: AC Volts:1 kV Range: 0.9 kV @ 60 Hz:Yokogawa WT500*0,0.8999,1/2/2018 12:36:24 PM
+Element 2: AC Volts:1 kV Range: 0.9 kV @ 1 kHz:Yokogawa WT500*0,0.8999,1/2/2018 12:36:30 PM
+Element 2: DC Current:500 mA Range: 450 mA:Yokogawa WT500*0,0.45,1/2/2018 12:44:25 PM
+Element 2: DC Current:500 mA Range: -450 mA:Yokogawa WT500*0,-0.4498,1/2/2018 12:44:30 PM
+Element 2: DC Current:1 A Range: 0.9 A:Yokogawa WT500*0,0.8998,1/2/2018 12:44:35 PM
+Element 2: DC Current:1 A Range: -0.9 A:Yokogawa WT500*0,-0.8997,1/2/2018 12:44:39 PM
+Element 2: DC Current:2 A Range: 1.8 A:Yokogawa WT500*0,1.7995,1/2/2018 12:44:44 PM
+Element 2: DC Current:2 A Range: -1.8 A:Yokogawa WT500*0,-1.7995,1/2/2018 12:44:49 PM
+Element 2: DC Current:5 A Range: 5 A:Yokogawa WT500*0,4.9981,1/2/2018 12:45:49 PM
+Element 2: DC Current:5 A Range: -5 A:Yokogawa WT500*0,-4.9981,1/2/2018 12:45:54 PM
+Element 2: DC Current:5 A Range: 2.5 A:Yokogawa WT500*0,2.499,1/2/2018 1:06:28 PM
+Element 2: DC Current:5 A Range: -2.5 A:Yokogawa WT500*0,-2.4989,1/2/2018 1:06:33 PM
+Element 2: DC Current:5 A Range: 0.5 A:Yokogawa WT500*0,0.4997,1/2/2018 1:06:38 PM
+Element 2: DC Current:5 A Range: -0.5 A:Yokogawa WT500*0,-0.4997,1/2/2018 1:06:43 PM
+Element 2: DC Current:10 A Range: 9 A:Yokogawa WT500*0,8.995,1/2/2018 1:07:11 PM
+Element 2: DC Current:10 A Range: -9 A:Yokogawa WT500*0,-8.995,1/2/2018 1:07:16 PM
+Element 2: DC Current:20 A Range: 18 A:Yokogawa WT500*0,17.989,1/2/2018 1:07:21 PM
+Element 2: DC Current:20 A Range: -18 A:Yokogawa WT500*0,-17.989,1/2/2018 1:07:26 PM
+Element 2: DC Current:40 A Range: 18 A:Yokogawa WT500*0,17.996,1/2/2018 1:07:31 PM
+Element 2: DC Current:40 A Range: -18 A:Yokogawa WT500*0,-17.989,1/2/2018 1:07:36 PM
+Element 2: AC Current:500 mA Range: 450 mA @ 60 Hz:Yokogawa WT500*0,0.45,1/2/2018 1:07:59 PM
+Element 2: AC Current:500 mA Range: 450 mA @ 1 kHz:Yokogawa WT500*0,0.4501,1/2/2018 1:08:06 PM
+Element 2: AC Current:500 mA Range: 450 mA @ 10 kHz:Yokogawa WT500*0,0.4518,1/2/2018 1:08:13 PM
+Element 2: AC Current:1 A Range: 0.9 A @ 60 Hz:Yokogawa WT500*0,0.9,1/2/2018 1:08:22 PM
+Element 2: AC Current:1 A Range: 0.9 A @ 1 kHz:Yokogawa WT500*0,0.9002,1/2/2018 1:08:29 PM
+Element 2: AC Current:1 A Range: 0.9 A @ 10 kHz:Yokogawa WT500*0,0.9026,1/2/2018 1:08:37 PM
+Element 2: AC Current:2 A Range: 1.8 A @ 60 Hz:Yokogawa WT500*0,1.7999,1/2/2018 1:08:45 PM
+Element 2: AC Current:2 A Range: 1.8 A @ 1 kHz:Yokogawa WT500*0,1.8001,1/2/2018 1:08:52 PM
+Element 2: AC Current:2 A Range: 1 A @ 10 kHz:Yokogawa WT500*0,1.0025,1/2/2018 1:09:00 PM
+Element 2: AC Current:5 A Range: 2 A @ 10 Hz:Yokogawa WT500*0,1.9993,1/2/2018 1:09:08 PM
+Element 2: AC Current:5 A Range: 5 A @ 60 Hz:Yokogawa WT500*0,4.9993,1/2/2018 1:15:58 PM
+Element 2: AC Current:5 A Range: 2.5 A @ 60 Hz:Yokogawa WT500*0,2.4999,1/2/2018 1:17:15 PM
+Element 2: AC Current:5 A Range: 0.5 A @ 60 Hz:Yokogawa WT500*0,0.5,1/2/2018 1:17:23 PM
+Element 2: AC Current:5 A Range: 0.05 A @ 60 Hz:Yokogawa WT500*0,0.05,1/2/2018 1:17:32 PM
+Element 2: AC Current:5 A Range: 4.5 A @ 1 kHz:Yokogawa WT500*0,4.4999,1/2/2018 1:25:53 PM
+Element 2: AC Current:5 A Range: 2 A @ 10 kHz:Yokogawa WT500*0,2.0004,1/2/2018 1:26:52 PM
+Element 2: AC Current:5 A Range: 0.3 A @ 30 kHz:Yokogawa WT500*0,0.2989,1/2/2018 1:27:00 PM
+Element 2: AC Current:10 A Range: 2 A @ 10 Hz:Yokogawa WT500*0,1.999,1/2/2018 1:27:09 PM
+Element 2: AC Current:10 A Range: 9 A @ 60 Hz:Yokogawa WT500*0,8.998,1/2/2018 1:31:51 PM
+Element 2: AC Current:10 A Range: 9 A @ 1 kHz:Yokogawa WT500*0,8.998,1/2/2018 1:31:59 PM
+Element 2: AC Current:10 A Range: 2 A @ 10 kHz:Yokogawa WT500*0,2,1/2/2018 1:32:48 PM
+Element 2: AC Current:10 A Range: 0.3 A @ 30 kHz:Yokogawa WT500*0,0.299,1/2/2018 1:32:56 PM
+Element 2: AC Current:20 A Range: 18 A @ 60 Hz:Yokogawa WT500*0,17.995,1/2/2018 1:33:31 PM
+Element 2: AC Current:20 A Range: 18 A @ 1 kHz:Yokogawa WT500*0,17.995,1/2/2018 1:33:38 PM
+Element 2: AC Current:20 A Range: 2 A @ 10 kHz:Yokogawa WT500*0,2,1/2/2018 1:38:57 PM
+Element 2: AC Current:20 A Range: 0.3 A @ 30 kHz:Yokogawa WT500*0,0.299,1/2/2018 1:39:06 PM
+Element 2: AC Current:40 A Range: 20 A @ 60 Hz:Yokogawa WT500*0,19.992,1/2/2018 1:43:17 PM
+Element 2: AC Current:40 A Range: 20 A @ 1 kHz:Yokogawa WT500*0,19.994,1/2/2018 1:43:24 PM
+Element 2: Ext. Sensor Current:50 mV Range: 4.5 A @ 60 Hz:Yokogawa WT500*0,1.5965,1/2/2018 1:51:38 PM
+Element 2: Ext. Sensor Current:50 mV Range: 4.5 A @ 1 kHz:Yokogawa WT500*0,4.4426,1/2/2018 1:51:44 PM
+Element 2: Ext. Sensor Current:50 mV Range: 4.5 A @ 100 kHz:Yokogawa WT500*0,4.576,1/2/2018 1:51:50 PM
+Element 2: Ext. Sensor Current:100 mV Range: 9 A @ 60 Hz:Yokogawa WT500*0,2.252,1/2/2018 1:51:56 PM
+Element 2: Ext. Sensor Current:100 mV Range: 9 A @ 1 kHz:Yokogawa WT500*0,8.783,1/2/2018 1:52:02 PM
+Element 2: Ext. Sensor Current:200 mV Range: 18 A @ 60 Hz:Yokogawa WT500*0,4.24,1/2/2018 1:52:08 PM
+Element 2: Ext. Sensor Current:200 mV Range: 18 A @ 1 kHz:Yokogawa WT500*0,17.507,1/2/2018 1:52:14 PM
+Element 2: Ext. Sensor Current:200 mV Range: 18 A @ 100 kHz:Yokogawa WT500*0,18.056,1/2/2018 1:52:21 PM
+Element 2: Ext. Sensor Current:1 V Range: 90 A:Yokogawa WT500*0,3.92,1/2/2018 1:52:27 PM
+Element 2: Ext. Sensor Current:1 V Range: -90 A:Yokogawa WT500*0,-4.02,1/2/2018 1:52:32 PM
+Element 2: Ext. Sensor Current:1 V Range: 90 A @ 10 Hz:Yokogawa WT500*0,6.81,1/2/2018 1:52:39 PM
+Element 2: Ext. Sensor Current:1 V Range: 90 A @ 60 Hz:Yokogawa WT500*0,24.97,1/2/2018 1:52:45 PM
+Element 2: Ext. Sensor Current:1 V Range: 90 A @ 1 kHz:Yokogawa WT500*0,87.43,1/2/2018 1:52:51 PM
+Element 2: Ext. Sensor Current:1 V Range: 90 A @ 10 kHz:Yokogawa WT500*0,89.59,1/2/2018 1:52:57 PM
+Element 2: Ext. Sensor Current:1 V Range: 90 A @ 20 kHz:Yokogawa WT500*0,89.62,1/2/2018 1:53:03 PM
+Element 2: Ext. Sensor Current:1 V Range: 90 A @ 100 kHz:Yokogawa WT500*0,89.5,1/2/2018 1:53:09 PM
+Element 2: Ext. Sensor Current:5 V Range: 300 A @ 100 kHz:Yokogawa WT500*0,298.38,1/2/2018 1:53:15 PM
+Element 2: Ext. Sensor Current:10 V Range: 0.9 kA @ 60 Hz:Yokogawa WT500*0,261.4,1/2/2018 1:53:22 PM
+Element 2: Power DC:15 V / 5 A Range: 75 W:Yokogawa WT500*0,74.96,1/2/2018 1:58:35 PM
+Element 2: Power DC:15 V / 5 A Range: -75 W:Yokogawa WT500*0,-74.96,1/2/2018 1:58:40 PM
+Element 2: Power DC:30 V / 5 A Range: 150 W:Yokogawa WT500*0,149.92,1/2/2018 1:58:47 PM
+Element 2: Power DC:30 V / 5 A Range: -150 W:Yokogawa WT500*0,-149.92,1/2/2018 1:58:54 PM
+Element 2: Power DC:60 V / 5 A Range: 300 W:Yokogawa WT500*0,0,1/2/2018 1:59:02 PM
+Element 2: Power DC:60 V / 5 A Range: -300 W:Yokogawa WT500*0,0,1/2/2018 1:59:09 PM
+Element 2: Power DC:100 V / 5 A Range: 500 W:Yokogawa WT500*0,499.75,1/2/2018 1:59:16 PM
+Element 2: Power DC:100 V / 5 A Range: -500 W:Yokogawa WT500*0,-499.73,1/2/2018 1:59:23 PM
+Element 2: Power DC:100 V / 5 A Range: 250 W:Yokogawa WT500*0,249.89,1/2/2018 1:59:30 PM
+Element 2: Power DC:100 V / 5 A Range: -250 W:Yokogawa WT500*0,-249.87,1/2/2018 1:59:37 PM
+Element 2: Power DC:10 V / 5 A Range: 50 W:Yokogawa WT500*0,49.98,1/2/2018 1:59:45 PM
+Element 2: Power DC:10 V / 5 A Range: -50 W:Yokogawa WT500*0,-49.96,1/2/2018 1:59:50 PM
+Element 2: Power DC:100 V / 5 A Range: 5 W:Yokogawa WT500*0,5.01,1/2/2018 1:59:58 PM
+Element 2: Power DC:100 V / 5 A Range: -5 W:Yokogawa WT500*0,-4.99,1/2/2018 2:00:03 PM
+Element 2: Power DC:150 V / 5 A Range: 750 W:Yokogawa WT500*0,0.7496,1/2/2018 2:00:11 PM
+Element 2: Power DC:150 V / 5 A Range: -750 W:Yokogawa WT500*0,-0.7496,1/2/2018 2:00:18 PM
+Element 2: Power DC:300 V / 5 A Range: 1.5 kW:Yokogawa WT500*0,1.4993,1/2/2018 2:00:26 PM
+Element 2: Power DC:300 V / 5 A Range: -1.5 kW:Yokogawa WT500*0,-1.4993,1/2/2018 2:00:34 PM
+Element 2: Power DC:600 V / 5 A Range: 3 kW:Yokogawa WT500*0,2.9987,1/2/2018 2:00:43 PM
+Element 2: Power DC:600 V / 5 A Range: -3 kW:Yokogawa WT500*0,-2.9987,1/2/2018 2:00:52 PM
+Element 2: Power DC:1 kV / 5 A Range: 5 kW:Yokogawa WT500*0,4.9981,1/2/2018 2:01:01 PM
+Element 2: Power DC:1 kV / 5 A Range: -5 kW:Yokogawa WT500*0,-4.9981,1/2/2018 2:01:12 PM
+Element 2: Power AC:15 V / 5 A Range: 0 W @ 60 Hz:Yokogawa WT500*0,0,1/2/2018 2:01:23 PM
+Element 2: Power AC:15 V / 5 A Range: 75 W @ 60 Hz:Yokogawa WT500*0,74.98,1/2/2018 2:01:32 PM
+Element 2: Power AC:15 V / 5 A Range: 75 W @ 1 kHz:Yokogawa WT500*0,74.98,1/2/2018 2:01:41 PM
+Element 2: Power AC:15 V / 5 A Range: 30 W @ 5 kHz:Yokogawa WT500*0,29.97,1/2/2018 2:03:03 PM
+Element 2: Power AC:30 V / 5 A Range: 150 W @ 60 Hz:Yokogawa WT500*0,149.94,1/2/2018 2:05:49 PM
+Element 2: Power AC:30 V / 5 A Range: 150 W @ 1 kHz:Yokogawa WT500*0,149.94,1/2/2018 2:05:57 PM
+Element 2: Power AC:60 V / 5 A Range: 300 W @ 60 Hz:Yokogawa WT500*0,299.91,1/2/2018 2:06:10 PM
+Element 2: Power AC:60 V / 5 A Range: 300 W @ 1 kHz:Yokogawa WT500*0,299.9,1/2/2018 2:06:19 PM
+Element 2: Power AC:100 V / 5 A Range: 500 W @ 45 Hz:Yokogawa WT500*0,499.84,1/2/2018 2:06:29 PM
+Element 2: Power AC:100 V / 5 A Range: 500 W @ 60 Hz:Yokogawa WT500*0,499.83,1/2/2018 2:06:38 PM
+Element 2: Power AC:100 V / 5 A Range: 250 W @ 60 Hz:Yokogawa WT500*0,249.93,1/2/2018 2:06:46 PM
+Element 2: Power AC:100 V / 5 A Range: 50 W @ 60 Hz:Yokogawa WT500*0,49.98,1/2/2018 2:06:58 PM
+Element 2: Power AC:100 V / 5 A Range: 5 W @ 60 Hz:Yokogawa WT500*0,5,1/2/2018 2:07:08 PM
+Element 2: Power AC:100 V / 5 A Range: 0 W @ 60 Hz:Yokogawa WT500*0,0,1/2/2018 2:07:13 PM
+Element 2: Power AC:100 V / 5 A Range: 500 W @ 1 kHz:Yokogawa WT500*0,499.84,1/2/2018 2:07:25 PM
+Element 2: Power AC:100 V / 5 A Range: 200 W @ 5 kHz:Yokogawa WT500*0,199.79,1/2/2018 2:08:42 PM
+Element 2: Power AC:150 V / 5 A Range: 0.75 kW @ 45 Hz:Yokogawa WT500*0,0.7497,1/2/2018 2:10:50 PM
+Element 2: Power AC:150 V / 5 A Range: 0.75 kW @ 60 Hz:Yokogawa WT500*0,0.7497,1/2/2018 2:10:59 PM
+Element 2: Power AC:150 V / 5 A Range: 0.75 kW @ 1 kHz:Yokogawa WT500*0,0.7497,1/2/2018 2:11:07 PM
+Element 2: Power AC:150 V / 5 A Range: 0.3 kW @ 5 kHz:Yokogawa WT500*0,299.7,1/2/2018 2:12:46 PM
+Element 2: Power AC:150 V / 5 A Range: 0 kW @ 60 Hz:Yokogawa WT500*0,0,1/2/2018 2:13:08 PM
+Element 2: Power AC:300 V / 5 A Range: 1.5 kW @ 60 Hz:Yokogawa WT500*0,1.4995,1/2/2018 2:13:21 PM
+Element 2: Power AC:300 V / 5 A Range: 1.5 kW @ 1 kHz:Yokogawa WT500*0,1.4995,1/2/2018 2:13:29 PM
+Element 2: Power AC:600 V / 5 A Range: 3 kW @ 60 Hz:Yokogawa WT500*0,2.9992,1/2/2018 2:13:44 PM
+Element 2: Power AC:600 V / 5 A Range: 3 kW @ 1 kHz:Yokogawa WT500*0,2.9993,1/2/2018 2:13:52 PM
+Element 2: Power AC:1000 V / 5 A Range: 5 kW @ 60 Hz:Yokogawa WT500*0,4.999,1/2/2018 2:14:02 PM
+Element 2: Power AC:1000 V / 5 A Range: 5 kW @ 1 kHz:Yokogawa WT500*0,4.9992,1/2/2018 2:14:10 PM
+Element 2: Power AC:100 V / 500 mA Range: 50 W @ 60 Hz:Yokogawa WT500*0,49.991,1/2/2018 2:14:51 PM
+Element 2: Power AC:100 V / 500 mA Range: 50 W @ 1 kHz:Yokogawa WT500*0,50.009,1/2/2018 2:15:00 PM
+Element 2: Power AC:100 V / 500 mA Range: 50 W @ 5 kHz:Yokogawa WT500*0,50.031,1/2/2018 2:15:12 PM
+Element 2: Power AC:100 V / 1 A Range: 100 W @ 60 Hz:Yokogawa WT500*0,99.97,1/2/2018 2:15:24 PM
+Element 2: Power AC:100 V / 1 A Range: 100 W @ 1 kHz:Yokogawa WT500*0,99.99,1/2/2018 2:15:33 PM
+Element 2: Power AC:100 V / 1 A Range: 100 W @ 5 kHz:Yokogawa WT500*0,99.99,1/2/2018 2:15:45 PM
+Element 2: Power AC:100 V / 2 A Range: 200 W @ 60 Hz:Yokogawa WT500*0,199.94,1/2/2018 2:15:58 PM
+Element 2: Power AC:100 V / 2 A Range: 200 W @ 1 kHz:Yokogawa WT500*0,199.95,1/2/2018 2:16:06 PM
+Element 2: Power AC:100 V / 2 A Range: 200 W @ 5 kHz:Yokogawa WT500*0,199.83,1/2/2018 2:16:18 PM
+Element 2: Power AC:100 V / 5 A Range: 500 W @ 60 Hz:Yokogawa WT500*0,499.84,1/2/2018 2:17:04 PM
+Element 2: Power AC:100 V / 5 A Range: 500 W @ 1 kHz:Yokogawa WT500*0,499.84,1/2/2018 2:17:12 PM
+Element 2: Power AC:100 V / 10 A Range: 1 kW @ 60 Hz:Yokogawa WT500*0,0.9996,1/2/2018 2:17:21 PM
+Element 2: Power AC:100 V / 10 A Range: 1 kW @ 1 kHz:Yokogawa WT500*0,0.9995,1/2/2018 2:17:30 PM
+Element 2: Power AC:100 V / 10 A Range: 0.2 kW @ 5 kHz:Yokogawa WT500*0,199.8,1/2/2018 2:22:00 PM
+Element 2: Power AC:100 V / 20 A Range: 2 kW @ 60 Hz:Yokogawa WT500*0,1.999,1/2/2018 2:27:54 PM
+Element 2: Power AC:100 V / 20 A Range: 2 kW @ 1 kHz:Yokogawa WT500*0,1.9989,1/2/2018 2:28:03 PM
+Element 2: Power AC:100 V / 20 A Range: 0.2 kW @ 5 kHz:Yokogawa WT500*0,199.8,1/2/2018 2:28:28 PM
+Element 2: Power AC:100 V / 40 A Range: 2 kW @ 60 Hz:Yokogawa WT500*0,1.999,1/2/2018 2:28:57 PM
+Element 2: Power AC:100 V / 40 A Range: 2 kW @ 1 kHz:Yokogawa WT500*0,1.9991,1/2/2018 2:29:05 PM
+Element 2: Ext. Sensor Power:100 V / 1 V Range: 10 kW:Yokogawa WT500*0,0,1/2/2018 2:30:27 PM
+Element 2: Ext. Sensor Power:100 V / 1 V Range: -10 kW:Yokogawa WT500*0,0,1/2/2018 2:30:33 PM
+Element 2: Ext. Sensor Power:100 V / 50 mV Range: 500 W @ 60 Hz:Yokogawa WT500*0,0.67,1/2/2018 2:30:48 PM
+Element 2: Ext. Sensor Power:100 V / 100 mV Range: 1 kW @ 60 Hz:Yokogawa WT500*0,0.7,1/2/2018 2:30:57 PM
+Element 2: Ext. Sensor Power:100 V / 100 mV Range: 1 kW @ 1 kHz:Yokogawa WT500*0,0,1/2/2018 2:31:06 PM
+Element 2: Ext. Sensor Power:100 V / 200 mV Range: 0 kW @ 60 Hz:Yokogawa WT500*0,4.1,1/2/2018 2:31:15 PM
+Element 2: Ext. Sensor Power:100 V / 200 mV Range: 2 kW @ 60 Hz:Yokogawa WT500*0,4.4,1/2/2018 2:31:19 PM
+Element 2: Ext. Sensor Power:100 V / 200 mV Range: 2 kW @ 1 kHz:Yokogawa WT500*0,-56.9,1/2/2018 2:31:28 PM
+Element 2: Ext. Sensor Power:100 V / 200 mV Range: 1 kW @ 5 kHz:Yokogawa WT500*0,0,1/2/2018 2:31:40 PM
+Element 2: Ext. Sensor Power:100 V / 1 V Range: 3 kW @ 10 Hz:Yokogawa WT500*0,0,1/2/2018 2:31:52 PM
+Element 2: Ext. Sensor Power:100 V / 1 V Range: 10 kW @ 60 Hz:Yokogawa WT500*0,-1,1/2/2018 2:32:06 PM
+Element 2: Ext. Sensor Power:100 V / 1 V Range: 10 kW @ 1 kHz:Yokogawa WT500*0,-57,1/2/2018 2:32:16 PM
+Element 2: Ext. Sensor Power:100 V / 1 V Range: 10 kW @ 10 kHz:Yokogawa WT500*0,-5.81,1/2/2018 2:32:29 PM
+Element 2: Ext. Sensor Power:100 V / 2 V Range: 20 kW @ 10 kHz:Yokogawa WT500*0,-5.798,1/2/2018 2:32:39 PM
+Element 2: Ext. Sensor Power:100 V / 5 V Range: 50 kW @ 60 Hz:Yokogawa WT500*0,1,1/2/2018 2:32:55 PM
+Element 2: Ext. Sensor Power:100 V / 5 V Range: 50 kW @ 10 kHz:Yokogawa WT500*0,-5.933,1/2/2018 2:33:09 PM
